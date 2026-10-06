@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-bancario",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "El escándalo bancario que sacude la política brasileña y las elecciones presidenciales pre",
+  "content": "Ahora, a menos de un mes de las elecciones nacionales en Brasil, la denominada “crisis del Banco Master” amenaza con sacudir la democracia del país hasta sus cimientos. A primera vista, se trataba solo de un escándalo financiero. Poco después de la detención de Vorcaro, el Banco Central de Brasil ordenó la liquidación de su banco , el Banco Master, con unas pérdidas sin precedentes estimadas en 47 300 millones de reales (unos 8 000 millones de euros). Alrededor del 90 % de esta suma fue reembolsada a los titulares de cuentas y a los accionistas por el Fondo de Garantía de Créditos (FGC) –el equivalente brasileño de la Corporación Federal de Seguros de Depósitos (FDIC) de Estados Unidos o el Fondo de Garantía de Depósitos (FGD) en España–, lo que supuso el mayor desembolso de la historia de la institución. El sistema financiero brasileño se vio sometido a una gran presión. Desde 2018, el Banco Master había firmado contratos para gestionar y prestar servicios a fondos de pensiones estatales y municipales, así como a entidades bancarias. Aunque Vorcaro, de ser declarado culpable, difícilmente se convertiría en el primer estafador brasileño vestido de banquero, las investigaciones han revelado que sus métodos eran tan creativos como brutales. Tras diez meses de investigaciones, el caso del Banco Master apunta a que Vorcaro logró tomar como rehén al sistema político del país. Al parecer, el banquero se dio cuenta de que Brasil ya no contaba con tres poderes del Estado que se controlaban entre sí, sino con tres puntos de veto que podían adquirirse por separado. Comprar acceso a esos tres poderes permitió a Vorcaro protegerse frente al Estado. Pero solo pudo lograrlo porque la política brasileña se había vuelto cada vez más disfuncional durante la década anterior. En Brasil, el Congreso ejecuta el presupuesto tanto como legisla. El Tribunal Supremo legisla siempre que los legisladores se encuentran en un punto muerto, llegando en ocasiones a revocar decisiones del Congreso. Un presidente debilitado, ahogado por la deuda pública y presionado por los otros poderes, tiene poca influencia para impulsar políticas. Este tira y afloja se ha convertido en un sello distintivo de la política brasileña contemporánea.",
+  "translation": "",
+  "wordCount": 363,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:11:08.592Z",
+  "vocab": {
+    "Banco": {
+      "word": "Banco",
+      "lemma": "banco",
+      "translation": "pequenos fundos",
+      "partOfSpeech": "other",
+      "example": "Ahora, a menos de un mes de las elecciones nacionales en Brasil, la denominada “crisis del Banco Master” amenaza con sacudir la democracia del país hasta sus cimientos.",
+      "pronunciation": ""
+    },
+    "investigaciones": {
+      "word": "investigaciones",
+      "lemma": "investigaciones",
+      "translation": "Pesquisas",
+      "partOfSpeech": "other",
+      "example": "Aunque Vorcaro, de ser declarado culpable, difícilmente se convertiría en el primer estafador brasileño vestido de banquero, las investigaciones han revelado que sus métodos eran tan creativos como brutales.",
+      "pronunciation": ""
+    },
+    "Vorcaro": {
+      "word": "Vorcaro",
+      "lemma": "vorcaro",
+      "translation": "vorcaro",
+      "partOfSpeech": "other",
+      "example": "Poco después de la detención de Vorcaro, el Banco Central de Brasil ordenó la liquidación de su banco , el Banco Master, con unas pérdidas sin precedentes estimadas en 47 300 millones de reales (unos 8 000 millones de euros).",
+      "pronunciation": ""
+    },
+    "brasileño": {
+      "word": "brasileño",
+      "lemma": "brasileño",
+      "translation": "brasileiro",
+      "partOfSpeech": "other",
+      "example": "Alrededor del 90 % de esta suma fue reembolsada a los titulares de cuentas y a los accionistas por el Fondo de Garantía de Créditos (FGC) –el equivalente brasileño de la Corporación Federal de Seguros de Depósitos (FDIC) de Estados Unidos o el Fondo de Garantía de Depósitos (FGD) en España–, lo que supuso el mayor desembolso de la historia de la institución.",
+      "pronunciation": ""
+    },
+    "Brasil": {
+      "word": "Brasil",
+      "lemma": "brasil",
+      "translation": "brasil",
+      "partOfSpeech": "other",
+      "example": "Ahora, a menos de un mes de las elecciones nacionales en Brasil, la denominada “crisis del Banco Master” amenaza con sacudir la democracia del país hasta sus cimientos.",
+      "pronunciation": ""
+    },
+    "Master": {
+      "word": "Master",
+      "lemma": "master",
+      "translation": "master",
+      "partOfSpeech": "other",
+      "example": "Ahora, a menos de un mes de las elecciones nacionales en Brasil, la denominada “crisis del Banco Master” amenaza con sacudir la democracia del país hasta sus cimientos.",
+      "pronunciation": ""
+    },
+    "poderes": {
+      "word": "poderes",
+      "lemma": "poderes",
+      "translation": "Procurações",
+      "partOfSpeech": "other",
+      "example": "Al parecer, el banquero se dio cuenta de que Brasil ya no contaba con tres poderes del Estado que se controlaban entre sí, sino con tres puntos de veto que podían adquirirse por separado.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/el-escandalo-bancario-que-sacude-la-politica-brasilena-y-las-elecciones-presidenciales-previstas-para-octubre-292262",
+  "sourceSite": "The Conversation"
+}

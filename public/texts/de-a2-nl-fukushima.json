@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-fukushima",
+  "language": "de",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Das Land Japan erinnert an Flut-Welle und Atom-Unfall vor 15 Jahren",
+  "content": "Ein Atom-Kraft-Werk stellt Strom her. Dazu braucht man radio-aktives Material. Mit radio-aktivem Material muss man sehr vorsichtig sein. Radio-aktives Material ist schädlich für den Menschen und die Umwelt. Ein Unfall in einem Atom-Kraft-Werk kann deshalb schlimme Folgen haben. Und der Atom-Müll aus Atom-Kraft-Werken muss sehr lange sehr sicher vergraben werden. Deshalb sind viele Menschen gegen Atom-Kraft-Werke. In Deutschland sind seit 2023 alle Atom-Kraft-Werke abgeschaltet. Radio-Aktivität entsteht in ganz winzigen Teilchen. Diese Teilchen nennt man Atom-Kerne. Niemand kann sie sehen. Manche Atom-Kerne senden Strahlen aus. Das nennt man Radio-Aktivität. Die Strahlen sind sehr gefährlich. Sie machen den Menschen krank. Man kann davon Krebs bekommen und sterben. Ein Erd-Beben entsteht, wenn sich Platten der Erd-Kruste verschieben oder aneinander reiben. Wenn es ein Erd-Beben unter dem Meeres-Boden gibt, kann ein Tsunami entstehen.",
+  "translation": "",
+  "wordCount": 129,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:02.944Z",
+  "vocab": {
+    "Atom-Kraft-Werken": {
+      "word": "Atom-Kraft-Werken",
+      "lemma": "atom-kraft-werke",
+      "translation": "atom-kraft-werke",
+      "partOfSpeech": "other",
+      "example": "Und der Atom-Müll aus Atom-Kraft-Werken muss sehr lange sehr sicher vergraben werden.",
+      "pronunciation": ""
+    },
+    "Atom-Kraft-Werk": {
+      "word": "Atom-Kraft-Werk",
+      "lemma": "atom-kraft-werk",
+      "translation": "atom-kraft-werk",
+      "partOfSpeech": "other",
+      "example": "Ein Atom-Kraft-Werk stellt Strom her.",
+      "pronunciation": ""
+    },
+    "Radio-Aktivität": {
+      "word": "Radio-Aktivität",
+      "lemma": "radio-aktivität",
+      "translation": "radio-aktivität",
+      "partOfSpeech": "other",
+      "example": "Radio-Aktivität entsteht in ganz winzigen Teilchen.",
+      "pronunciation": ""
+    },
+    "radio-aktives": {
+      "word": "radio-aktives",
+      "lemma": "radio-aktives",
+      "translation": "radio-aktives",
+      "partOfSpeech": "other",
+      "example": "Dazu braucht man radio-aktives Material.",
+      "pronunciation": ""
+    },
+    "Material": {
+      "word": "Material",
+      "lemma": "material",
+      "translation": "material",
+      "partOfSpeech": "other",
+      "example": "Dazu braucht man radio-aktives Material.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Radio-aktives Material ist schädlich für den Menschen und die Umwelt.",
+      "pronunciation": ""
+    },
+    "Atom-Kerne": {
+      "word": "Atom-Kerne",
+      "lemma": "atom-kerne",
+      "translation": "atom-kerne",
+      "partOfSpeech": "other",
+      "example": "Diese Teilchen nennt man Atom-Kerne.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/gedenken-an-fukushima-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

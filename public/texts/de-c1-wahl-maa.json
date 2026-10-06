@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-wahl-maa",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
+  "content": "Der AfD-Erfolg bei der Landtagspräsidentenwahl sorgt für Ärger - auch in der Bundespolitik. Linke und Grüne vermuten Abweichler in der CDU - die spricht von \"Spekulation\" Es ist ein historischer Moment im Landtag von Sachsen-Anhalt, als Alterspräsidentin Eva von Angern (Linke) das Abstimmungsergebnis verkündet. Der AfD-Kandidat Tobias Rausch hat 48 Ja-Stimmen bekommen, 29 Abgeordnete stimmen mit Nein, fünf enthalten sich. \"Sie sind damit zum Landtagspräsidenten gewählt worden und ich gratuliere Ihnen dazu\", sagt von Angern unter dem Applaus von Abgeordneten von AfD und BSW. Rausch, bisher parlamentarischer Geschäftsführer der AfD-Landtagsfraktion, umarmt Ulrich Siegmund und nimmt die Wahl an. Die Frage, die nach dieser Sitzung bleibt: Steht Schulzes Fraktion noch hinter ihm? mehr 48 Ja-Stimmen, das sind vier Stimmen mehr als die AfD und das BSW, das zuvor seine Zustimmung für Rausch angekündigt hatte, zusammen haben. Woher kommen die Extra-Stimmen für den AfD-Politiker, dessen Landesverband vom Verfassungsschutz in Sachsen-Anhalt als gesichert rechtsextrem eingestuft wird? Für Heidi Reichinnek, die Fraktionsvorsitzende der Linken im Bundestag, steht fest, dass diese Stimmen bei der geheimen Wahl von der CDU stammen - ebenso wie die 5 Enthaltungen. Tillschneider sitzt seit 2016 für die AfD im Landtag und gilt als rechter Vordenker in seiner Partei. mehr \"Das ist der nächste große Schritt zur Machtergreifung einer Partei, die die geistige Erbin derer ist, die dieses Land in seine dunkelste Zeit geführt haben\", sagt die gebürtige Sachsen-Anhalterin Reichinnek mit bebender Stimme. Und schickte eine Breitseite gegen die CDU. \"Wer sich vor diesem Hintergrund enthält, hat keine Haltung. Wer einem Rechtsextremen seine Stimme gibt, hat jedes Recht verloren, sich als Demokrat zu bezeichnen.\" Friedrich Merz müsse als CDU-Vorsitzender dafür sorgen, dass es aus seiner Partei bei der Wahl des Ministerpräsidenten \"keine einzige Stimme für die rechtsextreme AfD gibt, fordert Reichinnek. Die Wahl des Ministerpräsidenten von Sachsen-Anhalt ist im Dezember geplant. Dann will sich AfD-Spitzenkandidat Siegmund zur Abstimmung stellen. Kamen die vier Extra-Stimmen für den AfD-Landtagspräsidenten tatsächlich aus Reihen der CDU? Thorsten Frei, der Unions-Fraktionsvorsitzende im Bundestag, bezeichnet das als \"reine Spekulation\" und verweist darauf, dass die Wahl geheim war. Dass Rausch mehr Stimmen bekommen hat, als AfD und BSW Sitze im Magdeburger Landtag haben, nannte Frei \"im höchsten Maße bedenklich und besorgniserregend\".",
+  "translation": "",
+  "wordCount": 362,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:56:20.625Z",
+  "vocab": {
+    "Sachsen-Anhalt": {
+      "word": "Sachsen-Anhalt",
+      "lemma": "sachsen-anhalt",
+      "translation": "Sachsen- Anhalt",
+      "partOfSpeech": "other",
+      "example": "Linke und Grüne vermuten Abweichler in der CDU - die spricht von \"Spekulation\" Es ist ein historischer Moment im Landtag von Sachsen-Anhalt, als Alterspräsidentin Eva von Angern (Linke) das Abstimmungsergebnis verkündet.",
+      "pronunciation": ""
+    },
+    "Ministerpräsidenten": {
+      "word": "Ministerpräsidenten",
+      "lemma": "ministerpräsidenten",
+      "translation": "Vice‑primeiros‑ministros:",
+      "partOfSpeech": "other",
+      "example": "Wer einem Rechtsextremen seine Stimme gibt, hat jedes Recht verloren, sich als Demokrat zu bezeichnen.\" Friedrich Merz müsse als CDU-Vorsitzender dafür sorgen, dass es aus seiner Partei bei der Wahl des Ministerpräsidenten \"keine einzige Stimme für die rechtsextreme AfD gibt, fordert Reichinnek.",
+      "pronunciation": ""
+    },
+    "Reichinnek": {
+      "word": "Reichinnek",
+      "lemma": "reichinnek",
+      "translation": "reichinnek",
+      "partOfSpeech": "other",
+      "example": "Für Heidi Reichinnek, die Fraktionsvorsitzende der Linken im Bundestag, steht fest, dass diese Stimmen bei der geheimen Wahl von der CDU stammen - ebenso wie die 5 Enthaltungen.",
+      "pronunciation": ""
+    },
+    "Stimmen": {
+      "word": "Stimmen",
+      "lemma": "stimmen",
+      "translation": "Em caso de empate , o Presidente tem voto de qualidade .",
+      "partOfSpeech": "other",
+      "example": "Der AfD-Kandidat Tobias Rausch hat 48 Ja-Stimmen bekommen, 29 Abgeordnete stimmen mit Nein, fünf enthalten sich.",
+      "pronunciation": ""
+    },
+    "Unions-Fraktionsvorsitzende": {
+      "word": "Unions-Fraktionsvorsitzende",
+      "lemma": "unions-fraktionsvorsitzende",
+      "translation": "presidente do grupo parlamentar sindical",
+      "partOfSpeech": "other",
+      "example": "Thorsten Frei, der Unions-Fraktionsvorsitzende im Bundestag, bezeichnet das als \"reine Spekulation\" und verweist darauf, dass die Wahl geheim war.",
+      "pronunciation": ""
+    },
+    "Extra-Stimmen": {
+      "word": "Extra-Stimmen",
+      "lemma": "extra-stimmen",
+      "translation": "vozes extras",
+      "partOfSpeech": "other",
+      "example": "Woher kommen die Extra-Stimmen für den AfD-Politiker, dessen Landesverband vom Verfassungsschutz in Sachsen-Anhalt als gesichert rechtsextrem eingestuft wird?",
+      "pronunciation": ""
+    },
+    "Rausch": {
+      "word": "Rausch",
+      "lemma": "rausch",
+      "translation": "escalada de violência.",
+      "partOfSpeech": "other",
+      "example": "Der AfD-Kandidat Tobias Rausch hat 48 Ja-Stimmen bekommen, 29 Abgeordnete stimmen mit Nein, fünf enthalten sich.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
+  "sourceSite": "tagesschau.de"
+}

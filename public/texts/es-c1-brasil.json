@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-brasil",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Entre el bolsonarismo y un Lula 4.0: Brasil vota dividido y habrá segunda vuelta presidenc",
+  "content": "El senador Flávio Bolsonaro ha sido el candidato más votado en las presidenciales , con el 47,03 % de los votos válidos, frente al 45,16 % del actual presidente, Luiz Inácio Lula da Silva. Ninguno ha superado el 50 % necesario para ganar en primera vuelta, por lo que ambos volverán a enfrentarse el próximo 25 de octubre. El primer balance favorece a la derecha y, especialmente, al bolsonarismo, que refuerza su presencia institucional y llega con ventaja a la segunda vuelta. Sin embargo, la presidencia de la República sigue abierta. Queda por ver si Brasil tendrá un cuarto mandato de Lula o si el apellido Bolsonaro regresará a la presidencia. La ausencia de Jair Bolsonaro, padre de Flávio, en esta contienda tiene una explicación judicial. En 2023, el Tribunal Superior Electoral lo inhabilitó durante ocho años por abuso de poder político. En 2025 llegó la condena penal por la trama golpista destinada a impedir la alternancia tras las elecciones de 2022. La candidatura de su hijo mayor se produce, por tanto, en un contexto marcado por las consecuencias de aquella derrota y del intento antidemocrático de revertirla. Aunque se había barajado una candidatura presidencial del gobernador de São Paulo, Tarcísio de Freitas, Jair Bolsonaro eligió respaldar a su hijo Flávio . La dimensión familiar del bolsonarismo va más allá de la presidencia. Su mujer Michelle Bolsonaro y su hijo Carlos Bolsonaro han sido electos para el Senado, mientras que Jair Renan Bolsonaro y Renato Bolsonaro, hijo y hermano del expresidente, respectivamente, han obtenido escaños en la Cámara de Diputados. Estos resultados apuntan a la consolidación de un liderazgo personal y familiar, articulado a través del Partido Liberal (PL). La inseguridad, el coste de vida y el endeudamiento de los hogares han ocupado un lugar central en la campaña. A estas preocupaciones se ha añadido la relación con Estados Unidos. Las disputas por los aranceles de la administración Trump y la designación por parte de Estados Unidos de dos grupos criminales brasileños, Primeiro Comando da Capital y el Comando Vermelho, como organizaciones terroristas han incorporado una dimensión internacional al debate electoral. Otro asunto destacado ha sido el escándalo del Banco Master , cuyo antiguo propietario, Daniel Vorcaro, está siendo investigado por un presunto fraude financiero. Sus ramificaciones alcanzan a figuras de todos los sectores políticos y al propio Supremo Tribunal Federal.",
+  "translation": "",
+  "wordCount": 391,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:10:26.446Z",
+  "vocab": {
+    "Bolsonaro": {
+      "word": "Bolsonaro",
+      "lemma": "bolsonaro",
+      "translation": "bolsļ",
+      "partOfSpeech": "other",
+      "example": "El senador Flávio Bolsonaro ha sido el candidato más votado en las presidenciales , con el 47,03 % de los votos válidos, frente al 45,16 % del actual presidente, Luiz Inácio Lula da Silva.",
+      "pronunciation": ""
+    },
+    "presidenciales": {
+      "word": "presidenciales",
+      "lemma": "presidencia",
+      "translation": "presidência",
+      "partOfSpeech": "other",
+      "example": "El senador Flávio Bolsonaro ha sido el candidato más votado en las presidenciales , con el 47,03 % de los votos válidos, frente al 45,16 % del actual presidente, Luiz Inácio Lula da Silva.",
+      "pronunciation": ""
+    },
+    "bolsonarismo": {
+      "word": "bolsonarismo",
+      "lemma": "bolsonarismo",
+      "translation": "bolsonarismo",
+      "partOfSpeech": "other",
+      "example": "El primer balance favorece a la derecha y, especialmente, al bolsonarismo, que refuerza su presencia institucional y llega con ventaja a la segunda vuelta.",
+      "pronunciation": ""
+    },
+    "candidatura": {
+      "word": "candidatura",
+      "lemma": "candidatura",
+      "translation": "candidatura",
+      "partOfSpeech": "other",
+      "example": "La candidatura de su hijo mayor se produce, por tanto, en un contexto marcado por las consecuencias de aquella derrota y del intento antidemocrático de revertirla.",
+      "pronunciation": ""
+    },
+    "Flávio": {
+      "word": "Flávio",
+      "lemma": "flávio",
+      "translation": "flávio",
+      "partOfSpeech": "other",
+      "example": "El senador Flávio Bolsonaro ha sido el candidato más votado en las presidenciales , con el 47,03 % de los votos válidos, frente al 45,16 % del actual presidente, Luiz Inácio Lula da Silva.",
+      "pronunciation": ""
+    },
+    "Electoral": {
+      "word": "Electoral",
+      "lemma": "electoral",
+      "translation": "Eleição",
+      "partOfSpeech": "other",
+      "example": "En 2023, el Tribunal Superior Electoral lo inhabilitó durante ocho años por abuso de poder político.",
+      "pronunciation": ""
+    },
+    "dimensión": {
+      "word": "dimensión",
+      "lemma": "dimensión",
+      "translation": "dimensão",
+      "partOfSpeech": "other",
+      "example": "La dimensión familiar del bolsonarismo va más allá de la presidencia.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/entre-el-bolsonarismo-y-un-lula-4-0-brasil-vota-dividido-y-habra-segunda-vuelta-presidencial-293586",
+  "sourceSite": "The Conversation"
+}

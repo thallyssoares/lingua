@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-wohnungsnot",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
+  "content": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor allem an Versorgungs- und Nahverkehrsangeboten. Angesichts der Wohnungsnot und steigender Mieten in vielen Städten fordern die Kommunen, ländliche Räume attraktiver zu machen. \"Während in den Ballungsräumen Wohnraum fehlt, stehen in den ländlichen, vielfach strukturschwachen Regionen 1,9 Millionen Wohnungen leer\", sagte der Hauptgeschäftsführer des Deutschen Städte- und Gemeindebunds, André Berghegger, dem Kölner Stadt-Anzeiger. Mehr als 700.000 Wohnungen seien innerhalb der nächsten drei Monate bezugsfertig. Die Zahl der Wohnungsbaugenehmigungen ist zuletzt so stark gestiegen wie seit einem Jahrzehnt nicht mehr. mehr Derzeit fehlten in Deutschland mehr als 800.000 Wohnungen, und der Neubau stagniere auf niedrigem Niveau, erklärte Berghegger. Er forderte Bund und Länder auf, dem Problem nicht nur durch Mietpreisbremsen oder Wohnungsbauoffensiven zu begegnen, sondern ein umfassendes Gesamtkonzept auf den Weg zu bringen. \"Es muss gelingen, die ländlichen Räume durch neue Verkehrswege, wie etwa neue oder reaktivierte Bahntrassen, besser an die Ballungsräume anzubinden und als Wohn- und Lebensräume insgesamt attraktiver zu machen\", sagte er. Gute Gesundheitsversorgung, erreichbare Nahversorgungsangebote wie Einkaufsmöglichkeiten, der Ausbau des öffentlichen Nahverkehrs und ein besseres Kultur- und Freizeitangebot könnten dazu beitragen, strukturschwache Regionen für die Menschen attraktiver zu machen. Für derlei Maßnahmen könnten Mittel aus dem Sondervermögen für Infrastruktur zur Verfügung gestellt werden, sagte Berghegger. Ein solcher nachhaltiger Umbau wäre \"ein echter Beitrag zu gleichwertigen Lebensverhältnissen in ganz Deutschland\". Wegen Wohnungsnot fordert Deutscher Städte- und Gemeindebund attraktivere Gestaltung von ländlichem Raum tagesschau, Das Erste, 03.10.2026 • 09:40 Uhr Wohnungsnot Wohnungsmarkt Wohnraum Dieses Thema im Programm: Das Erste | tagesschau | 01.10.2026 | 09:00 Uhr",
+  "translation": "",
+  "wordCount": 271,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:58:35.842Z",
+  "vocab": {
+    "attraktiver": {
+      "word": "attraktiver",
+      "lemma": "attraktiver",
+      "translation": "mais atraente",
+      "partOfSpeech": "other",
+      "example": "Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen.",
+      "pronunciation": ""
+    },
+    "Wohnungsnot": {
+      "word": "Wohnungsnot",
+      "lemma": "wohnungsnot",
+      "translation": "falta de habitação",
+      "partOfSpeech": "other",
+      "example": "Angesichts der Wohnungsnot und steigender Mieten in vielen Städten fordern die Kommunen, ländliche Räume attraktiver zu machen.",
+      "pronunciation": ""
+    },
+    "Berghegger": {
+      "word": "Berghegger",
+      "lemma": "berghegger",
+      "translation": "sebe de montanha",
+      "partOfSpeech": "other",
+      "example": "\"Während in den Ballungsräumen Wohnraum fehlt, stehen in den ländlichen, vielfach strukturschwachen Regionen 1,9 Millionen Wohnungen leer\", sagte der Hauptgeschäftsführer des Deutschen Städte- und Gemeindebunds, André Berghegger, dem Kölner Stadt-Anzeiger.",
+      "pronunciation": ""
+    },
+    "Wohnungen": {
+      "word": "Wohnungen",
+      "lemma": "wohnungen",
+      "translation": "Alojamento",
+      "partOfSpeech": "other",
+      "example": "\"Während in den Ballungsräumen Wohnraum fehlt, stehen in den ländlichen, vielfach strukturschwachen Regionen 1,9 Millionen Wohnungen leer\", sagte der Hauptgeschäftsführer des Deutschen Städte- und Gemeindebunds, André Berghegger, dem Kölner Stadt-Anzeiger.",
+      "pronunciation": ""
+    },
+    "Wohnraum": {
+      "word": "Wohnraum",
+      "lemma": "wohnraum",
+      "translation": "Habitação",
+      "partOfSpeech": "other",
+      "example": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar.",
+      "pronunciation": ""
+    },
+    "Regionen": {
+      "word": "Regionen",
+      "lemma": "regionen",
+      "translation": "Localização :",
+      "partOfSpeech": "other",
+      "example": "Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen.",
+      "pronunciation": ""
+    },
+    "machen": {
+      "word": "machen",
+      "lemma": "machen",
+      "translation": "fazem",
+      "partOfSpeech": "other",
+      "example": "Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
+  "sourceSite": "tagesschau.de"
+}

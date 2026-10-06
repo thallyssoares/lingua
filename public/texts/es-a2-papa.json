@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-papa",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Cuento para evitar el bullying y enteder lo que es la fortaleza",
+  "content": "Ramón era el tipo duro del colegio porque su papá era un tipo duro. Si alguien se atrevía a desobedecerle, se llevaba una buena. Hasta que llegó Víctor . Nadie diría que Víctor o su padre tuvieran pinta de duros: eran delgaduchos y sin músculo. Pero eso dijo Víctor cuando Ramón fue a asustarle. - Hola niño nuevo. Que sepas que aquí quien manda soy yo , que soy el tipo más duro. - Puede que seas tú quien manda, pero aquí el tipo más duro soy yo . Así fue como Víctor se ganó su primera paliza. La segunda llegó el día que Ramón quería robarle el bocadillo a una niña. - Esta niña es amiga del tipo más duro del colegio, que soy yo, y no te dará su bocadillo - fue lo último que dijo Víctor antes de empezar a recibir golpes . Y la tercera paliza llegó cuando fue él mismo quien no quiso darle el bocadillo. - Los tipos duros como mi padre y yo no robamos ¿y tú quieres ser un tipo duro? - había sido su respuesta.",
+  "translation": "",
+  "wordCount": 184,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:24:40.470Z",
+  "vocab": {
+    "Víctor": {
+      "word": "Víctor",
+      "lemma": "víctor",
+      "translation": "víctor",
+      "partOfSpeech": "other",
+      "example": "Hasta que llegó Víctor .",
+      "pronunciation": ""
+    },
+    "bocadillo": {
+      "word": "bocadillo",
+      "lemma": "bocadillo",
+      "translation": "sanduíche",
+      "partOfSpeech": "other",
+      "example": "La segunda llegó el día que Ramón quería robarle el bocadillo a una niña.",
+      "pronunciation": ""
+    },
+    "Ramón": {
+      "word": "Ramón",
+      "lemma": "ramón",
+      "translation": "ramón",
+      "partOfSpeech": "other",
+      "example": "Ramón era el tipo duro del colegio porque su papá era un tipo duro.",
+      "pronunciation": ""
+    },
+    "llegó": {
+      "word": "llegó",
+      "lemma": "llegó",
+      "translation": "llegó",
+      "partOfSpeech": "other",
+      "example": "Hasta que llegó Víctor .",
+      "pronunciation": ""
+    },
+    "colegio": {
+      "word": "colegio",
+      "lemma": "colegio",
+      "translation": "colegio",
+      "partOfSpeech": "other",
+      "example": "Ramón era el tipo duro del colegio porque su papá era un tipo duro.",
+      "pronunciation": ""
+    },
+    "desobedecerle": {
+      "word": "desobedecerle",
+      "lemma": "desobedecerle",
+      "translation": "desobedecerle",
+      "partOfSpeech": "other",
+      "example": "Si alguien se atrevía a desobedecerle, se llevaba una buena.",
+      "pronunciation": ""
+    },
+    "paliza": {
+      "word": "paliza",
+      "lemma": "paliza",
+      "translation": "paliza",
+      "partOfSpeech": "other",
+      "example": "Así fue como Víctor se ganó su primera paliza.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://cuentosparadormir.com/infantiles/cuento/un-papa-muy-duro",
+  "sourceSite": "CuentosparaDormir"
+}

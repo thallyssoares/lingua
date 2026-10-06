@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-libro",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Día del Libro ELE: Transforma tu clase en una aventura literaria - Aula Profe",
+  "content": "El 23 de abril se acerca y, seamos sinceros, a veces sentimos ese pequeño pánico: no queremos repetir la típica biografía aburrida de Cervantes que los alumnos olvidan al cerrar el libro. Hacer que los alumnos se enamoren del español a través de las letras, pero con actividades dinámicas y frescas. Es la excusa perfecta para presentar el español como un patrimonio vivo , conectando a los alumnos con autores de todo el mundo hispanohablante. Trabajamos el léxico en contexto y la comprensión lectora de una forma mucho más orgánica que con ejercicios gramaticales aislados. ¡No les asustes! La competencia literaria no es solo para expertos. En niveles A1-A2 , el secreto está en usar textos breves y visuales que generen confianza, no frustración. ¿Flechazo a primera vista? Los alumnos analizan portadas de libros y sinopsis muy cortas . En rondas de 2 minutos, deben decidir con qué libro «tendrían una cita» y explicar por qué usando estructuras básicas de opinión y descripción física. El reto de la síntesis. Pídeles que escriban un relato corto usando el límite de caracteres de Twitter o Threads . Es perfecto para practicar el uso de los pasados y conectores, obligándoles a ser precisos y creativos. Analizamos el paso del papel a la pantalla (Netflix, HBO, etc.). Generamos un debate de crítica literaria : ¿se mantiene la esencia del autor? ¿Es el lenguaje audiovisual fiel al texto? Ideal para trabajar registros formales y argumentación compleja.",
+  "translation": "",
+  "wordCount": 241,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:14:18.829Z",
+  "vocab": {
+    "alumnos": {
+      "word": "alumnos",
+      "lemma": "alumnos",
+      "translation": "alumnos",
+      "partOfSpeech": "other",
+      "example": "El 23 de abril se acerca y, seamos sinceros, a veces sentimos ese pequeño pánico: no queremos repetir la típica biografía aburrida de Cervantes que los alumnos olvidan al cerrar el libro.",
+      "pronunciation": ""
+    },
+    "literaria": {
+      "word": "literaria",
+      "lemma": "literaria",
+      "translation": "literaria",
+      "partOfSpeech": "other",
+      "example": "La competencia literaria no es solo para expertos.",
+      "pronunciation": ""
+    },
+    "hispanohablante": {
+      "word": "hispanohablante",
+      "lemma": "hispanohablante",
+      "translation": "hispanohablante",
+      "partOfSpeech": "other",
+      "example": "Es la excusa perfecta para presentar el español como un patrimonio vivo , conectando a los alumnos con autores de todo el mundo hispanohablante.",
+      "pronunciation": ""
+    },
+    "español": {
+      "word": "español",
+      "lemma": "español",
+      "translation": "Espanhol",
+      "partOfSpeech": "other",
+      "example": "Hacer que los alumnos se enamoren del español a través de las letras, pero con actividades dinámicas y frescas.",
+      "pronunciation": ""
+    },
+    "argumentación": {
+      "word": "argumentación",
+      "lemma": "argumentación",
+      "translation": "argumentación",
+      "partOfSpeech": "other",
+      "example": "Ideal para trabajar registros formales y argumentación compleja.",
+      "pronunciation": ""
+    },
+    "gramaticales": {
+      "word": "gramaticales",
+      "lemma": "gramaticales",
+      "translation": "gramaticales",
+      "partOfSpeech": "other",
+      "example": "Trabajamos el léxico en contexto y la comprensión lectora de una forma mucho más orgánica que con ejercicios gramaticales aislados.",
+      "pronunciation": ""
+    },
+    "usando": {
+      "word": "usando",
+      "lemma": "usando",
+      "translation": "usando",
+      "partOfSpeech": "other",
+      "example": "En rondas de 2 minutos, deben decidir con qué libro «tendrían una cita» y explicar por qué usando estructuras básicas de opinión y descripción física.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://aulaprofe.com/dia-del-libro-ele/",
+  "sourceSite": "AulaProfe"
+}

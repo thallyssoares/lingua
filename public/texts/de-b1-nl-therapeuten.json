@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-nl-therapeuten",
+  "language": "de",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Psycho-Therapeuten sollen weniger Geld bekommen",
+  "content": "Eine Therapie ist eine medizinische Behandlung. Es gibt verschiedene Arten von Therapie. Zum Beispiel eine Psycho-Therapie. Die ist für Menschen mit geistigen Problemen. Zum Beispiel mit Depressionen. Bei der Psycho-Therapie sprechen die Menschen mit einem Arzt oder einer Ärztin über ihre Ängste und Gefühle. Es gibt aber auch Therapien für Menschen mit körperlichen Problemen.",
+  "translation": "",
+  "wordCount": 54,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:08.368Z",
+  "vocab": {
+    "Psycho-Therapie": {
+      "word": "Psycho-Therapie",
+      "lemma": "psycho-therapie",
+      "translation": "psycho-therapie",
+      "partOfSpeech": "other",
+      "example": "Zum Beispiel eine Psycho-Therapie.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Die ist für Menschen mit geistigen Problemen.",
+      "pronunciation": ""
+    },
+    "Problemen": {
+      "word": "Problemen",
+      "lemma": "problemen",
+      "translation": "problemen",
+      "partOfSpeech": "other",
+      "example": "Die ist für Menschen mit geistigen Problemen.",
+      "pronunciation": ""
+    },
+    "Therapie": {
+      "word": "Therapie",
+      "lemma": "therapie",
+      "translation": "therapie",
+      "partOfSpeech": "other",
+      "example": "Eine Therapie ist eine medizinische Behandlung.",
+      "pronunciation": ""
+    },
+    "Beispiel": {
+      "word": "Beispiel",
+      "lemma": "beispiel",
+      "translation": "beispiel",
+      "partOfSpeech": "other",
+      "example": "Zum Beispiel eine Psycho-Therapie.",
+      "pronunciation": ""
+    },
+    "medizinische": {
+      "word": "medizinische",
+      "lemma": "medizinische",
+      "translation": "medizinische",
+      "partOfSpeech": "other",
+      "example": "Eine Therapie ist eine medizinische Behandlung.",
+      "pronunciation": ""
+    },
+    "verschiedene": {
+      "word": "verschiedene",
+      "lemma": "verschiedene",
+      "translation": "verschiedene",
+      "partOfSpeech": "other",
+      "example": "Es gibt verschiedene Arten von Therapie.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/psycho-therapeuten-104.html",
+  "sourceSite": "Nachrichtenleicht"
+}

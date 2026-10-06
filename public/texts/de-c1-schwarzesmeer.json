@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-schwarzesmeer",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Drohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken",
+  "content": "Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens. Ein Frachter ist gesunken, die Crew wird vermisst. Auf einem weiteren Handelsschiff gab es mehrere Verletzte. Vor der Küste Bulgariens im Schwarzen Meer ist ein Handelsschiff nach einem Drohnenangriff gesunken. Nach Angaben des Seenotrettungszentrums wird die Besatzung vermisst. Ein weiteres Handelsschiff wurde ebenfalls getroffen, die Crew konnte aber gerettet werden. Bei dem gesunkenen Frachter handelt es sich um die \"Alfa Watan\", die unter der Flagge des westafrikanischen Staates Togo fuhr. Nach Angaben des öffentlich-rechtlichen Radiosenders BNR lief eine Rettungsaktion rund 150 Kilometer östlich der Küstenstadt Byala an. Das andere Schiff, die \"Able\", fuhr unter der Flagge Palaus. Dort brach nach dem Drohnenangriff ein Feuer aus. Alle 18 Besatzungsmitglieder wurden von einer Fähre gerettet. Mehrere Verletzte wurden in ein Krankenhaus in der bulgarischen Schwarzmeerstadt Warna gebracht. Das Schiff war mit Weizen beladen. Die Drohnenangriffe ereigneten sich in den frühen Morgenstunden in der bulgarischen Wirtschaftszone. Die Regierung hat nach eigenen Angaben eine Krisensitzung einberufen. Premier Rumen Radev bezeichnete den Angriff als absolut inakzeptabel, ohne Verantwortliche zu benennen. Angriffe Russlands bringen die ukrainische Schifffahrt auf dem Schwarzen Meer nahezu zum Erliegen. mehr Der Vorfall ereignete sich einen Tag nach einem Drohnenangriff auf ein türkisches Frachtschiff vor der Küste Rumäniens , bei dem zwei Besatzungsmitglieder getötet wurden. Der ukrainische Präsident Wolodymyr Selenskyj machte zwei russische Drohnen dafür verantwortlich. Infolge des Ukraine-Krieges ist das Schwarze Meer immer wieder Schauplatz von Drohnenvorfällen. Laut der türkischen Handelskammer für Seefahrt wurden seit Beginn des Krieges 226 zivile und Handelsschiffe im Schwarzen Meer angegriffen, eine Mehrheit davon in diesem Jahr. Dieses Thema im Programm: tagesschau.de | Drohnenangriffe gegen Schiffe vor bulgarischer Küste | 06.10.2026 | 10:59 Uhr",
+  "translation": "",
+  "wordCount": 283,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:59:44.944Z",
+  "vocab": {
+    "Drohnenangriff": {
+      "word": "Drohnenangriff",
+      "lemma": "drohnenangriff",
+      "translation": "ataque de drone",
+      "partOfSpeech": "other",
+      "example": "Vor der Küste Bulgariens im Schwarzen Meer ist ein Handelsschiff nach einem Drohnenangriff gesunken.",
+      "pronunciation": ""
+    },
+    "Besatzungsmitglieder": {
+      "word": "Besatzungsmitglieder",
+      "lemma": "besatzungsmitglieder",
+      "translation": "Membros da tripulação",
+      "partOfSpeech": "other",
+      "example": "Alle 18 Besatzungsmitglieder wurden von einer Fähre gerettet.",
+      "pronunciation": ""
+    },
+    "Handelsschiffe": {
+      "word": "Handelsschiffe",
+      "lemma": "handelsschiffe",
+      "translation": "navios mercantes",
+      "partOfSpeech": "other",
+      "example": "Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens.",
+      "pronunciation": ""
+    },
+    "Schwarzen": {
+      "word": "Schwarzen",
+      "lemma": "schwarzen",
+      "translation": "schwarzen",
+      "partOfSpeech": "other",
+      "example": "Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens.",
+      "pronunciation": ""
+    },
+    "Drohnenangriffe": {
+      "word": "Drohnenangriffe",
+      "lemma": "drohnenangriffe",
+      "translation": "ataques de drones",
+      "partOfSpeech": "other",
+      "example": "Die Drohnenangriffe ereigneten sich in den frühen Morgenstunden in der bulgarischen Wirtschaftszone.",
+      "pronunciation": ""
+    },
+    "wurden": {
+      "word": "wurden",
+      "lemma": "wurden",
+      "translation": "> 1 mg/ l",
+      "partOfSpeech": "other",
+      "example": "Alle 18 Besatzungsmitglieder wurden von einer Fähre gerettet.",
+      "pronunciation": ""
+    },
+    "bulgarischen": {
+      "word": "bulgarischen",
+      "lemma": "bulgarischen",
+      "translation": "búlgaro",
+      "partOfSpeech": "other",
+      "example": "Mehrere Verletzte wurden in ein Krankenhaus in der bulgarischen Schwarzmeerstadt Warna gebracht.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-drohnenangriff-100.html",
+  "sourceSite": "tagesschau.de"
+}

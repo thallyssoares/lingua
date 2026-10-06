@@ -1,0 +1,73 @@
+{
+  "id": "es-a1-busco",
+  "language": "es",
+  "level": "A1",
+  "theme": "Cotidiano",
+  "title": "Busco…",
+  "content": "En esta prueba tienes que completar unas oraciones seleccionando la opción correcta. Lee a continuación las ofertas de este tablón de anuncios. COCHE COMPARTIDO Valencia-Barcelona ¿Viajas a Barcelona desde Valencia este viernes? Busco plaza en coche compartido urgentemente a cualquier hora. No llevo equipaje (solo una mochila) y soy puntual. No hablo mucho y tengo sugerencias de música de todos los gustos y estilos. CLASES DE QUÍMICA Busco profesor o profesora para clases particulares de Química (2º de Bachillerato). Tengo el examen final en un mes y se me dan muy mal. ¡Necesito ayuda! Clases privadas o como mucho con otra persona. TRABAJO DE CANGURO Busco trabajo de canguro. Tengo mucha experiencia con niños y niñas de 2 hasta 10 años. Cobro 25 € por hora, también el tiempo de desplazamiento. Si me quedo a dormir, cobro 50 € extra. Conozco cientos de juegos, no pongo la televisión. No limpio la casa. Tras leer los anuncios dos veces, completa las oraciones seleccionando la opción correcta.",
+  "translation": "",
+  "wordCount": 165,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:07.316Z",
+  "vocab": {
+    "seleccionando": {
+      "word": "seleccionando",
+      "lemma": "seleccionando",
+      "translation": "seleccionar",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que completar unas oraciones seleccionando la opción correcta.",
+      "pronunciation": ""
+    },
+    "COMPARTIDO": {
+      "word": "COMPARTIDO",
+      "lemma": "compartido",
+      "translation": "partilhado",
+      "partOfSpeech": "other",
+      "example": "COCHE COMPARTIDO Valencia-Barcelona ¿Viajas a Barcelona desde Valencia este viernes?",
+      "pronunciation": ""
+    },
+    "oraciones": {
+      "word": "oraciones",
+      "lemma": "oraciones",
+      "translation": "Orações",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que completar unas oraciones seleccionando la opción correcta.",
+      "pronunciation": ""
+    },
+    "Valencia-Barcelona": {
+      "word": "Valencia-Barcelona",
+      "lemma": "valencia-barcelona",
+      "translation": "valencia-barcelona",
+      "partOfSpeech": "other",
+      "example": "COCHE COMPARTIDO Valencia-Barcelona ¿Viajas a Barcelona desde Valencia este viernes?",
+      "pronunciation": ""
+    },
+    "CLASES": {
+      "word": "CLASES",
+      "lemma": "clases",
+      "translation": "aulas",
+      "partOfSpeech": "other",
+      "example": "CLASES DE QUÍMICA Busco profesor o profesora para clases particulares de Química (2º de Bachillerato).",
+      "pronunciation": ""
+    },
+    "correcta": {
+      "word": "correcta",
+      "lemma": "correcta",
+      "translation": "CORRETO.",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que completar unas oraciones seleccionando la opción correcta.",
+      "pronunciation": ""
+    },
+    "anuncios": {
+      "word": "anuncios",
+      "lemma": "anuncios",
+      "translation": "Anúncios",
+      "partOfSpeech": "other",
+      "example": "Lee a continuación las ofertas de este tablón de anuncios.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/ejercicios/articles/busco",
+  "sourceSite": "Lingolia"
+}

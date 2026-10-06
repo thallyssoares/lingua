@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-hanning",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Entsetzen nach Festnahme des Ex-BND-Chefs Hanning",
+  "content": "\"Verstörend\" und \"alarmierend\": Die überraschende Festnahme des Ex-BND-Chefs Hanning hat für Aufsehen gesorgt. Sicherheitspolitiker von Regierung und Opposition zeigen sich entsetzt und fordern eine umfassende Aufklärung des Falls. Die Festnahme des früheren BND-Chefs August Hanning hat die Bundespolitik alarmiert - und Sorge vor einem Vertrauensverlust bei ausländischen Partner-Geheimdiensten genährt. Der Vorsitzende des Parlamentarischen Geheimdienst-Kontrollgremiums des Bundestags, Marc Henrichmann, fand deutliche Worte: \"Wer sich mit den Feinden unserer freiheitlichen Demokratie verbündet, der bleibt nicht unentdeckt\", sagte er. \"Wir werden Geheimnisverrat nicht dulden.\" Der Staat sende mit der Festnahme \"ein wichtiges Signal nach außen, sowie nach innen: Die Arbeit mit geheimen Informationen ist eine Frage der nationalen Sicherheit und kein Bagatelldelikt\", so Henrichmann. Hanning leitete den Bundesnachrichtendienst von 1998 bis 2005. Am Morgen war er unter Spionageverdacht festgenommen worden . Der Generalbundesanwalt ermittelt unter anderem wegen des mutmaßlichen Auskundschaftens von Staatsgeheimnissen und geheimdienstlicher Agententätigkeit gegen den früheren Präsidenten des Bundesnachrichtendiensts. Er soll von seinem früheren Büroleiter beim BND geheime Informationen gekauft haben. Ob und an wen er diese weitergab, ist bisher unklar. Der amtierende BND-Präsident Martin Jäger bestätigte interne Ermittlungen in dem Fall. Man habe \"frühzeitig und unverzüglich umfangreiche interne Ermittlungen\" eingeleitet, die den Verdacht erhärtet hätten, erklärte Jäger. Für seine Behörde und ihn selbst gebe es bei der internen Sicherheit \"keine Kompromisse\", betonte der BND-Chef. Die Fraktionschefs der SPD- und CDU/CSU-Bundestagsfraktion, Matthias Miersch und Thorsten Frei, äußerten sich entsetzt und forderten Aufklärung. Frei sprach von einer \"verstörenden Nachricht\". Mit Blick auf die Beratung im Parlament über die Reform der Nachrichtendienste fügte er hinzu, man werde von überall her angegriffen. Die Reform, die den Diensten mehr operative Befugnisse geben soll, sei dringend nötig. Miersch sprach von einem \"alarmierenden Vorgang\". Er forderte eine Debatte über Karenzzeiten von ausscheidenden Geheimdienst-Mitarbeitern. Auch der SPD-Bundestagsabgeordnete und Geheimdienstkontrolleur Daniel Baldy forderte schärfere Regeln für ehemalige Spitzenkräfte der Nachrichtendienste. Wer als BND-Präsident oder in einer anderen sicherheitsempfindlichen Funktion tätig gewesen sei, dürfe anschließend nicht in einer privaten Beratungsfirma arbeiten. Eine \"sofortige Aufklärung der ungeheuerlichen Vorwürfe\" forderte der Grünen-Sicherheitsexperte Konstantin von Notz. \"Auch der gegebenenfalls entstandene nachrichtendienstliche Schaden muss ebenso umgehend wie umfassend ab- und aufgeklärt werden\", sagte der stellvertretende Vorsitzende des Geheimdienste-Kontrollgremiums.",
+  "translation": "",
+  "wordCount": 354,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:56:39.914Z",
+  "vocab": {
+    "Nachrichtendienste": {
+      "word": "Nachrichtendienste",
+      "lemma": "nachrichtendienste",
+      "translation": "serviços de informação,",
+      "partOfSpeech": "other",
+      "example": "Mit Blick auf die Beratung im Parlament über die Reform der Nachrichtendienste fügte er hinzu, man werde von überall her angegriffen.",
+      "pronunciation": ""
+    },
+    "Aufklärung": {
+      "word": "Aufklärung",
+      "lemma": "aufklärung",
+      "translation": "Esclarecimento",
+      "partOfSpeech": "other",
+      "example": "Sicherheitspolitiker von Regierung und Opposition zeigen sich entsetzt und fordern eine umfassende Aufklärung des Falls.",
+      "pronunciation": ""
+    },
+    "Geheimdienste-Kontrollgremiums": {
+      "word": "Geheimdienste-Kontrollgremiums",
+      "lemma": "geheimdienste-kontrollgremiums",
+      "translation": "organismo de controlo de informações",
+      "partOfSpeech": "other",
+      "example": "\"Auch der gegebenenfalls entstandene nachrichtendienstliche Schaden muss ebenso umgehend wie umfassend ab- und aufgeklärt werden\", sagte der stellvertretende Vorsitzende des Geheimdienste-Kontrollgremiums.",
+      "pronunciation": ""
+    },
+    "Geheimdienst-Kontrollgremiums": {
+      "word": "Geheimdienst-Kontrollgremiums",
+      "lemma": "geheimdienst-kontrollgremiums",
+      "translation": "painel de Controle do Serviço Secreto",
+      "partOfSpeech": "other",
+      "example": "Der Vorsitzende des Parlamentarischen Geheimdienst-Kontrollgremiums des Bundestags, Marc Henrichmann, fand deutliche Worte: \"Wer sich mit den Feinden unserer freiheitlichen Demokratie verbündet, der bleibt nicht unentdeckt\", sagte er.",
+      "pronunciation": ""
+    },
+    "Festnahme": {
+      "word": "Festnahme",
+      "lemma": "festnahme",
+      "translation": "Arresto",
+      "partOfSpeech": "other",
+      "example": "\"Verstörend\" und \"alarmierend\": Die überraschende Festnahme des Ex-BND-Chefs Hanning hat für Aufsehen gesorgt.",
+      "pronunciation": ""
+    },
+    "Informationen": {
+      "word": "Informationen",
+      "lemma": "informationen",
+      "translation": "informationen",
+      "partOfSpeech": "other",
+      "example": "\"Wir werden Geheimnisverrat nicht dulden.\" Der Staat sende mit der Festnahme \"ein wichtiges Signal nach außen, sowie nach innen: Die Arbeit mit geheimen Informationen ist eine Frage der nationalen Sicherheit und kein Bagatelldelikt\", so Henrichmann.",
+      "pronunciation": ""
+    },
+    "BND-Präsident": {
+      "word": "BND-Präsident",
+      "lemma": "bnd-präsident",
+      "translation": "bnd-president",
+      "partOfSpeech": "other",
+      "example": "Der amtierende BND-Präsident Martin Jäger bestätigte interne Ermittlungen in dem Fall.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
+  "sourceSite": "tagesschau.de"
+}

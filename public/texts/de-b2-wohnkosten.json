@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-wohnkosten",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Wohnen wird für Studierende auch 2026 teurer",
+  "content": "Studentisches Wohnen wird in vielen deutschen Städten immer teurer. Das zeigt der aktuelle Studentenwohnreport. Die BAföG-Wohnkostenpauschale deckt vielerorts oft nicht einmal die Kosten für ein WG-Zimmer - außer in Chemnitz. Wohnen für Studierende wird in Deutschland immer teurer: Die Mieten für studentisches Wohnen sind im ersten Halbjahr 2026 gegenüber dem selben Zeitraum im Vorjahr im Durchschnitt um 2,6 Prozent gestiegen. Das geht aus dem Studentenwohnreport 2026 des Finanzdienstleisters MLP und des Instituts der deutschen Wirtschaft (IW) hervor. Kleine Wohnungen verteuerten sich am stärksten: Die Preise für Wohnungen unter 40 Quadratmeter legten binnen eines Jahres um 3,5 Prozent zu, WG-Mieten erhöhten sich um 2,3 Prozent, möblierte Wohnungen auf Zeit um 2,0 Prozent. Hohe Mieten und Nebenkosten setzen Studierende finanziell unter Druck. Viele sind überbelastet. mehr Bei den Mietkosten an den einzelnen Hochschulstandorten gibt es den Angaben zufolge große Unterschiede. Das zeigten Beispiele anhand einer studentischen Musterwohnung mit 30 Quadratmetern sowie eines hypothetischen WG-Zimmers mit 20 Quadratmetern. Am teuersten ist demnach auch in diesem Jahr die Musterwohnung in München mit rund 880 Euro monatlich, gefolgt von Berlin, Frankfurt und Köln sowie Hamburg und Heidelberg mit etwa 700 bis 720 Euro. Am günstigsten ist das Wohnen im sächsischen Chemnitz mit rund 280 Euro. Auch beim Muster-WG-Zimmer reicht die Spanne den Berechnungen zufolge von rund 850 Euro in München bis rund 220 Euro in Chemnitz. Die höchsten Zuwächse in den letzten drei Jahren verzeichneten den Angaben zufolge Hamburg und Saarbrücken mit jeweils 5,8 Prozent sowie Bochum mit 5,5 Prozent pro Jahr. Mit der BAföG-Wohnkostenpauschale von 380 Euro lasse sich die Miete der studentischen 30-Quadratmeter-Musterwohnung nur in Chemnitz komplett decken. Die Sätze werden zwar angehoben, aber erst zum Sommersemester 2027. mehr Dieses Thema im Programm: SWR4 | Regionalnachrichten | 30.09.2026 | 10:30 Uhr",
+  "translation": "",
+  "wordCount": 288,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:07:40.011Z",
+  "vocab": {
+    "BAföG-Wohnkostenpauschale": {
+      "word": "BAföG-Wohnkostenpauschale",
+      "lemma": "bafög-wohnkostenpauschale",
+      "translation": "subsídio de alojamento bafög",
+      "partOfSpeech": "other",
+      "example": "Die BAföG-Wohnkostenpauschale deckt vielerorts oft nicht einmal die Kosten für ein WG-Zimmer - außer in Chemnitz.",
+      "pronunciation": ""
+    },
+    "Prozent": {
+      "word": "Prozent",
+      "lemma": "prozent",
+      "translation": "porcento",
+      "partOfSpeech": "other",
+      "example": "Wohnen für Studierende wird in Deutschland immer teurer: Die Mieten für studentisches Wohnen sind im ersten Halbjahr 2026 gegenüber dem selben Zeitraum im Vorjahr im Durchschnitt um 2,6 Prozent gestiegen.",
+      "pronunciation": ""
+    },
+    "Studentenwohnreport": {
+      "word": "Studentenwohnreport",
+      "lemma": "studentenwohnreport",
+      "translation": "relatório de alojamento estudantil",
+      "partOfSpeech": "other",
+      "example": "Das zeigt der aktuelle Studentenwohnreport.",
+      "pronunciation": ""
+    },
+    "Chemnitz": {
+      "word": "Chemnitz",
+      "lemma": "chemnitz",
+      "translation": "chemnitz",
+      "partOfSpeech": "other",
+      "example": "Die BAföG-Wohnkostenpauschale deckt vielerorts oft nicht einmal die Kosten für ein WG-Zimmer - außer in Chemnitz.",
+      "pronunciation": ""
+    },
+    "30-Quadratmeter-Musterwohnung": {
+      "word": "30-Quadratmeter-Musterwohnung",
+      "lemma": "30-quadratmeter-musterwohnung",
+      "translation": "Apartamento modelo de 30 metros quadrados",
+      "partOfSpeech": "other",
+      "example": "Mit der BAföG-Wohnkostenpauschale von 380 Euro lasse sich die Miete der studentischen 30-Quadratmeter-Musterwohnung nur in Chemnitz komplett decken.",
+      "pronunciation": ""
+    },
+    "Wohnungen": {
+      "word": "Wohnungen",
+      "lemma": "wohnungen",
+      "translation": "Alojamento",
+      "partOfSpeech": "other",
+      "example": "Kleine Wohnungen verteuerten sich am stärksten: Die Preise für Wohnungen unter 40 Quadratmeter legten binnen eines Jahres um 3,5 Prozent zu, WG-Mieten erhöhten sich um 2,3 Prozent, möblierte Wohnungen auf Zeit um 2,0 Prozent.",
+      "pronunciation": ""
+    },
+    "Studentisches": {
+      "word": "Studentisches",
+      "lemma": "studentisches",
+      "translation": "aluno",
+      "partOfSpeech": "other",
+      "example": "Studentisches Wohnen wird in vielen deutschen Städten immer teurer.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/wohnkosten-studierende-steigen-100.html",
+  "sourceSite": "tagesschau.de"
+}

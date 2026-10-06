@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-frankreich-schulen",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+  "content": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz. Die seit gut einer Woche andauernden Proteste junger Menschen in Frankreich für bessere Lernbedingungen an Schulen haben ein neues Ausmaß erreicht. An zahlreichen Gymnasien und Universitäten kam es zu Blockadeaktionen. In Paris und vielen Großstädten formierten sich Protestzüge, denen sich erstmals auch Gewerkschaften anschlossen. Bei den Protesten sind auch Lehrkräfte und Eltern dabei - auch um sich schützend vor ihre Kinder zu stellen. Die Polizei mobilisierte ein Großaufgebot und trat den demonstrierenden Jugendlichen in vielen Städten in schwerer Montur gegenüber. Sie sieht sich auf den Kundgebungen zunehmend dem Vorwurf von Polizeigewalt ausgesetzt, auf vielen Plakaten prangerten junge Leute den Einsatz von Tränengas an. \"Setzt Tränengas gegen Vergewaltiger ein, nicht gegen Minderjährige\", hieß es auf einem Pappschild bei der Kundgebung in Marseille. Die Generalinspektion der Polizei ermittelt wegen Einsätzen, bei denen Demonstranten durch Beamte verletzt wurden. Landesweit wurden 150.000 bis 200.000 Demonstranten erwartet, berichtete der Sender BFMTV unter Verweis auf das Innenministerium. Alleine bei einem Protestzug in Paris, der am frühen Nachmittag startete, wird mit 20.000 bis zu 40.000 Teilnehmern gerechnet. Auch in anderen Großstädten wie Lyon, Lille, Marseille, Toulouse, Bordeaux, Rennes und Straßburg sollte es Versammlungen geben. Schon im Vorfeld gerieten Demonstranten und Polizeikräfte aneinander. Beamte wurden mit Gegenständen und Feuerwerkskörpern beworfen, seitens der Ordnungshüter wurden Wasserwerfer und Tränengas eingesetzt. Empörung über das Durchgreifen der Polizei gegenüber den meist jugendlichen Demonstranten gibt es auch bei etlichen Politikern. Sabine Bohland, ARD Paris, über landesweite Demonstrationen in Frankreich für bessere Bildung tagesschau24, 06.10.2026 • 15:00 Uhr Innenminister findet Polizeieinsatz \"verhältnismäßig\" Innenminister Laurent Nuñez rechtfertigte im Interview des Senders France Inter den Einsatz von Granaten sowie Gummigeschossen bei den Demonstrationen. Wenn es zu Ausschreitungen komme, sei der Einsatz dieser Waffen \"verhältnismäßig\". \"Man kann hier nicht von polizeilicher Repression sprechen\", so der Minister.",
+  "translation": "",
+  "wordCount": 317,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:00:10.858Z",
+  "vocab": {
+    "Demonstranten": {
+      "word": "Demonstranten",
+      "lemma": "demonstranten",
+      "translation": "manifestantes",
+      "partOfSpeech": "other",
+      "example": "Die Generalinspektion der Polizei ermittelt wegen Einsätzen, bei denen Demonstranten durch Beamte verletzt wurden.",
+      "pronunciation": ""
+    },
+    "Frankreich": {
+      "word": "Frankreich",
+      "lemma": "frankreich",
+      "translation": "França",
+      "partOfSpeech": "other",
+      "example": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet.",
+      "pronunciation": ""
+    },
+    "Demonstrationen": {
+      "word": "Demonstrationen",
+      "lemma": "demonstrationen",
+      "translation": "Manifestação",
+      "partOfSpeech": "other",
+      "example": "Sabine Bohland, ARD Paris, über landesweite Demonstrationen in Frankreich für bessere Bildung tagesschau24, 06.10.2026 • 15:00 Uhr Innenminister findet Polizeieinsatz \"verhältnismäßig\" Innenminister Laurent Nuñez rechtfertigte im Interview des Senders France Inter den Einsatz von Granaten sowie Gummigeschossen bei den Demonstrationen.",
+      "pronunciation": ""
+    },
+    "verhältnismäßig": {
+      "word": "verhältnismäßig",
+      "lemma": "verhältnismäßig",
+      "translation": "regulamentação adicional .",
+      "partOfSpeech": "other",
+      "example": "Sabine Bohland, ARD Paris, über landesweite Demonstrationen in Frankreich für bessere Bildung tagesschau24, 06.10.2026 • 15:00 Uhr Innenminister findet Polizeieinsatz \"verhältnismäßig\" Innenminister Laurent Nuñez rechtfertigte im Interview des Senders France Inter den Einsatz von Granaten sowie Gummigeschossen bei den Demonstrationen.",
+      "pronunciation": ""
+    },
+    "Gewerkschaften": {
+      "word": "Gewerkschaften",
+      "lemma": "gewerkschaften",
+      "translation": "Atividades de organizações sindicais",
+      "partOfSpeech": "other",
+      "example": "Auch Gewerkschaften schlossen sich den Protesten an.",
+      "pronunciation": ""
+    },
+    "Polizei": {
+      "word": "Polizei",
+      "lemma": "polizei",
+      "translation": "Polícia",
+      "partOfSpeech": "other",
+      "example": "Die Polizei ist mit einem Großaufgebot im Einsatz.",
+      "pronunciation": ""
+    },
+    "Einsatz": {
+      "word": "Einsatz",
+      "lemma": "einsatz",
+      "translation": "usar",
+      "partOfSpeech": "other",
+      "example": "Die Polizei ist mit einem Großaufgebot im Einsatz.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
+  "sourceSite": "tagesschau.de"
+}

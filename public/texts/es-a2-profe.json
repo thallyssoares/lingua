@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-profe",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Un cuento de maestros sobre el cariño en el aula",
+  "content": "Había una vez un ladrón malvado que, huyendo de la policía, llegó a un pequeño pueblo llamado Sodavlamaruc, donde escondió lo robado y se hizo pasar por el nuevo maestro y comenzó a dar clases con el nombre de Don Pepo . Como era un tipo malvado, gritaba muchísimo y siempre estaba de mal humor. Castigaba a los niños constantemente y se notaba que no los quería ni un poquito. Al terminar las clases, sus alumnos salían siempre corriendo. Hasta que un día Pablito, uno de los más pequeños, en lugar de salir se le quedó mirando en silencio . Entonces acercó una silla y se puso en pie sobre ella. El maestro se acercó para gritarle pero, en cuanto lo tuvo a tiro, Pablito saltó a su cuello y le dio un gran abrazo. Luego le dio un beso y huyó corriendo , sin que al malvado le diera tiempo a recuperarse de la sorpresa. A partir de aquel día, Pablito aprovechaba cualquier despiste para darle un abrazo por sorpresa y salir corriendo antes de que le pudiera pillar. Al principio el malvado maestro se molestaba mucho, pero luego empezó a parecerle gracioso . Y un día que pudo atraparlo, le preguntó por qué lo hacía: - Creo que usted es tan malo porque nunca le han querido. Y yo voy a quererle para que se cure, aunque no le guste.",
+  "translation": "",
+  "wordCount": 232,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:24:45.671Z",
+  "vocab": {
+    "malvado": {
+      "word": "malvado",
+      "lemma": "malvado",
+      "translation": "malvado",
+      "partOfSpeech": "other",
+      "example": "Había una vez un ladrón malvado que, huyendo de la policía, llegó a un pequeño pueblo llamado Sodavlamaruc, donde escondió lo robado y se hizo pasar por el nuevo maestro y comenzó a dar clases con el nombre de Don Pepo .",
+      "pronunciation": ""
+    },
+    "corriendo": {
+      "word": "corriendo",
+      "lemma": "corriendo",
+      "translation": "corriendo",
+      "partOfSpeech": "other",
+      "example": "Al terminar las clases, sus alumnos salían siempre corriendo.",
+      "pronunciation": ""
+    },
+    "maestro": {
+      "word": "maestro",
+      "lemma": "maestro",
+      "translation": "maestro",
+      "partOfSpeech": "other",
+      "example": "Había una vez un ladrón malvado que, huyendo de la policía, llegó a un pequeño pueblo llamado Sodavlamaruc, donde escondió lo robado y se hizo pasar por el nuevo maestro y comenzó a dar clases con el nombre de Don Pepo .",
+      "pronunciation": ""
+    },
+    "Pablito": {
+      "word": "Pablito",
+      "lemma": "pablito",
+      "translation": "pablito",
+      "partOfSpeech": "other",
+      "example": "Hasta que un día Pablito, uno de los más pequeños, en lugar de salir se le quedó mirando en silencio .",
+      "pronunciation": ""
+    },
+    "sorpresa": {
+      "word": "sorpresa",
+      "lemma": "sorpresa",
+      "translation": "sorpresa",
+      "partOfSpeech": "other",
+      "example": "Luego le dio un beso y huyó corriendo , sin que al malvado le diera tiempo a recuperarse de la sorpresa.",
+      "pronunciation": ""
+    },
+    "siempre": {
+      "word": "siempre",
+      "lemma": "siempre",
+      "translation": "sempre",
+      "partOfSpeech": "other",
+      "example": "Como era un tipo malvado, gritaba muchísimo y siempre estaba de mal humor.",
+      "pronunciation": ""
+    },
+    "constantemente": {
+      "word": "constantemente",
+      "lemma": "constantemente",
+      "translation": "Constante",
+      "partOfSpeech": "other",
+      "example": "Castigaba a los niños constantemente y se notaba que no los quería ni un poquito.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://cuentosparadormir.com/infantiles/cuento/el-extrano-profe-que-no-queria-sus-alumnos",
+  "sourceSite": "CuentosparaDormir"
+}

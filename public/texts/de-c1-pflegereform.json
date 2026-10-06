@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-pflegereform",
+  "language": "de",
+  "level": "C1",
+  "theme": "Cotidiano",
+  "title": "Pflegegesetz im Kabinett: Die große Reform ist erstmal vertagt",
+  "content": "Es gibt nun ein Pflegegesetz - doch die große Strukturreform soll erst 2027 folgen. Wie stehen Union und SPD nach der Einigung da? Und werden die geplanten Einsparungen ausreichen? Es wirkt ein bisschen so, als habe der Kanzler einen Reformkalender und setze jedes Mal ein Häkchen, wenn ein Vorhaben durchs Kabinett gegangen ist. Bei Pflege kann er jetzt also ein Häkchen setzen: Das Sparpaket ist beschlossen. Wenn man allerdings genauer hinschaut, ist damit weder eine Reform gelungen, noch die Finanzlücke in der Pflegeversicherung geschlossen. Die Koalition hat sich mit dem Beschluss, der noch durch den Bundestag muss, ein paar Monate Zeit gekauft. Wie funktioniert die Pflegeversicherung, wo sind die Probleme - und welche Maßnahmen werden diskutiert? mehr Intern heißt es: Vor allem der Kanzler habe Druck gemacht in den vergangenen Tagen. Er wollte das Pflegegesetz unbedingt diese Woche im Kabinett haben - auch wenn die Verhandler von SPD und Union vor ein paar Tagen noch weit auseinander lagen . Friedrich Merz, so ist zu vermuten, wollte unbedingt den Eindruck erwecken: Die Reformvorhaben gehen voran. Es darf bloß nichts stocken, damit der \"Herbst der Reformen\" endlich Ergebnisse zeigt. Wichtig ist für ihn auch: Sein neuer Gesundheitsminister Carsten Linnemann (CDU) soll mit einer Erfolgsmeldung starten - sonst steht Merz' Kabinettsumbau gleich mit infrage. Bei der Frage nach Lösungen für die Pflegereform liegen die Koalitionspartner weit auseinander. Gelingt der Durchbruch? mehr Diesen Zeitdruck hat die SPD als Chance für sich begriffen. Sie hat die härtesten Sparvorschläge, die noch im alten Gesetz standen, abgemildert. Das gilt zum Beispiel für die Kürzungen beim Pflegegeld oder für Bewohner von Pflegeheimen. Und sie hat der Union abgerungen, dass zumindest geprüft wird, ob ein Finanzausgleich zwischen privater und gesetzlicher Pflegeversicherung möglich und sinnvoll ist. Die SPD hat also Punkte gemacht in den vergangenen Tagen. Sie profitiert davon, dass der Kanzler schwach erscheint und unbedingt Erfolgsmeldungen braucht. Zudem hat Merz nach den Landtagswahlen selbst als Lerneffekt aus den Wahlkämpfen verkündet, dass das \" Nebeneinander von privater und gesetzlicher Pflegeversicherung ein erhebliches Problem auslöst im Gerechtigkeitsempfinden der Bevölkerung.\" Man müsse \"daran etwas ändern\". Nach diesem Pflege-Verhandlungsmarathon kann man sagen: Der Kanzler hat die Tür aufgemacht - und nun kann die Union dabei zuschauen, wie die SPD auch durchgehen will.",
+  "translation": "",
+  "wordCount": 369,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:07:32.731Z",
+  "vocab": {
+    "Pflegeversicherung": {
+      "word": "Pflegeversicherung",
+      "lemma": "pflegeversicherung",
+      "translation": "Seguro de cuidados",
+      "partOfSpeech": "other",
+      "example": "Wenn man allerdings genauer hinschaut, ist damit weder eine Reform gelungen, noch die Finanzlücke in der Pflegeversicherung geschlossen.",
+      "pronunciation": ""
+    },
+    "Kanzler": {
+      "word": "Kanzler",
+      "lemma": "kanzler",
+      "translation": "secretário",
+      "partOfSpeech": "other",
+      "example": "Es wirkt ein bisschen so, als habe der Kanzler einen Reformkalender und setze jedes Mal ein Häkchen, wenn ein Vorhaben durchs Kabinett gegangen ist.",
+      "pronunciation": ""
+    },
+    "unbedingt": {
+      "word": "unbedingt",
+      "lemma": "unbedingt",
+      "translation": "Completamente",
+      "partOfSpeech": "other",
+      "example": "Er wollte das Pflegegesetz unbedingt diese Woche im Kabinett haben - auch wenn die Verhandler von SPD und Union vor ein paar Tagen noch weit auseinander lagen .",
+      "pronunciation": ""
+    },
+    "Pflege-Verhandlungsmarathon": {
+      "word": "Pflege-Verhandlungsmarathon",
+      "lemma": "pflege-verhandlungsmarathon",
+      "translation": "maratona de negociação de enfermagem",
+      "partOfSpeech": "other",
+      "example": "Nach diesem Pflege-Verhandlungsmarathon kann man sagen: Der Kanzler hat die Tür aufgemacht - und nun kann die Union dabei zuschauen, wie die SPD auch durchgehen will.",
+      "pronunciation": ""
+    },
+    "Pflegegesetz": {
+      "word": "Pflegegesetz",
+      "lemma": "pflegegesetz",
+      "translation": "care Act",
+      "partOfSpeech": "other",
+      "example": "Es gibt nun ein Pflegegesetz - doch die große Strukturreform soll erst 2027 folgen.",
+      "pronunciation": ""
+    },
+    "gesetzlicher": {
+      "word": "gesetzlicher",
+      "lemma": "gesetzlicher",
+      "translation": "estatutário",
+      "partOfSpeech": "other",
+      "example": "Und sie hat der Union abgerungen, dass zumindest geprüft wird, ob ein Finanzausgleich zwischen privater und gesetzlicher Pflegeversicherung möglich und sinnvoll ist.",
+      "pronunciation": ""
+    },
+    "Gerechtigkeitsempfinden": {
+      "word": "Gerechtigkeitsempfinden",
+      "lemma": "gerechtigkeitsempfinden",
+      "translation": "sentido de justiça",
+      "partOfSpeech": "other",
+      "example": "Zudem hat Merz nach den Landtagswahlen selbst als Lerneffekt aus den Wahlkämpfen verkündet, dass das \" Nebeneinander von privater und gesetzlicher Pflegeversicherung ein erhebliches Problem auslöst im Gerechtigkeitsempfinden der Bevölkerung.\" Man müsse \"daran etwas ändern\".",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html",
+  "sourceSite": "tagesschau.de"
+}

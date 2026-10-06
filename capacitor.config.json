@@ -1,0 +1,1 @@
+{"appId":"com.lingua.app","appName":"Lingua","webDir":"dist","bundledWebRuntime":false,"plugins":{"SplashScreen":{"launchAutoHide":true,"backgroundColor":"#f6f8fb","showSpinner":false},"App":{"disableBackButtonHandler":false}}}

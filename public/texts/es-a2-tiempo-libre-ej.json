@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-tiempo-libre-ej",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "¿Qué haces en tu tiempo libre?",
+  "content": "En esta prueba tienes que asignar actividades de tiempo libre (A, B, C…) a personas (1, 2, 3) según sus intereses. A continuación vas a leer propuestas de actividades para el tiempo libre. Hay dos tipos de personas: quien se conforma con tener un cactus triste en su escritorio, ¡y quien sabe hablar con las plantas! ¿Tienes un jardín grande? ¿Un balcón pequeño? ¡No importa! Cualquier lugar es ideal para llenarlo de colores vivos. Siente la tierra mojada en tus manos, acaricia cada semilla antes de plantarla, acompaña a cada planta mientras crece, celebra cada flor que florece. B – Esto es personal Hay cosas que hay que resolver personalmente. Una mesa, una lámpara, mil piezas pequeñas desordenadas… y tú. Usa tu astucia y capacidad de observación para formar las imágenes más bellas a base de pequeños fragmentos. Los puzzles son solo para valientes. C – Saca la estrella que llevas dentro De joven tocabas la guitarra. ¡O el bajo! Como si tocabas la batería. ¡Recupera tu alma rockera y encuentra personas con las que formar una banda en tu comunidad! Da igual si no sabes de música, ¡se trata de aprender en compañía! Tenéis sala de ensayo, equipo de sonido y un concierto asegurado a principio de cada estación.",
+  "translation": "",
+  "wordCount": 210,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:07.866Z",
+  "vocab": {
+    "personas": {
+      "word": "personas",
+      "lemma": "personas",
+      "translation": "pessoas",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que asignar actividades de tiempo libre (A, B, C…) a personas (1, 2, 3) según sus intereses.",
+      "pronunciation": ""
+    },
+    "actividades": {
+      "word": "actividades",
+      "lemma": "actividades",
+      "translation": "atividades.",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que asignar actividades de tiempo libre (A, B, C…) a personas (1, 2, 3) según sus intereses.",
+      "pronunciation": ""
+    },
+    "tocabas": {
+      "word": "tocabas",
+      "lemma": "tocabas",
+      "translation": "você jogou",
+      "partOfSpeech": "other",
+      "example": "C – Saca la estrella que llevas dentro De joven tocabas la guitarra.",
+      "pronunciation": ""
+    },
+    "personalmente": {
+      "word": "personalmente",
+      "lemma": "personalmente",
+      "translation": "Pessoalmente.",
+      "partOfSpeech": "other",
+      "example": "B – Esto es personal Hay cosas que hay que resolver personalmente.",
+      "pronunciation": ""
+    },
+    "tienes": {
+      "word": "tienes",
+      "lemma": "tienes",
+      "translation": "tem, né?",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que asignar actividades de tiempo libre (A, B, C…) a personas (1, 2, 3) según sus intereses.",
+      "pronunciation": ""
+    },
+    "tiempo": {
+      "word": "tiempo",
+      "lemma": "tiempo",
+      "translation": "o tempo",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que asignar actividades de tiempo libre (A, B, C…) a personas (1, 2, 3) según sus intereses.",
+      "pronunciation": ""
+    },
+    "continuación": {
+      "word": "continuación",
+      "lemma": "continuación",
+      "translation": "2.",
+      "partOfSpeech": "other",
+      "example": "A continuación vas a leer propuestas de actividades para el tiempo libre.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/ejercicios/articles/que-haces-en-tu-tiempo-libre",
+  "sourceSite": "Lingolia"
+}

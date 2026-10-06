@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-hartmann",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Ostdeutsche in Führungspositionen: &quot;Es gibt kaum positive Entwicklungen&quot;",
+  "content": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus. Vor wenigen Tagen hat die Ostbeauftragte der Bundesregierung, Elisabeth Kaiser (SPD), mehr Ostdeutsche in Führungspositionen gefordert. Je höher die Führungsebene, desto geringer sei der ostdeutsche Anteil dort, sagte sie bei der Vorstellung ihres aktuellen Jahresberichts . Im Interview mit tagesschau24 erläutert der Soziologe Michael Hartmann, woran das liegt und welche Auswirkungen die ungleiche Verteilung hat. Michael Hartmann: Normalerweise nimmt man den Begriff Elite und das sind Personen, die durch ihre Entscheidungen gesellschaftliche Entwicklungen maßgeblich beeinflussen können. Das sind, wenn man einen weiten Elitenbegriff dazu nimmt, ungefähr 4.000 Personen maximal. Bei der Studie, auf die sich die Ostbeauftragte bezieht, sind es gut 3.000 Personen. tagesschau24: Wie verteilen sich diese Eliten? Eher in Ostdeutschland oder eher in Westdeutschland? Hartmann: Die liegen weitgehend in Westdeutschland. In dieser Studie kommt man auf einen Anteil Ostdeutscher in allen Eliten von zwölf Prozent. Dabei muss man sagen, dass die Unterschiede zwischen den Sektoren sehr groß sind. Wenn ich jetzt nur die großen Unternehmen nehme, da gibt es so gut wie überhaupt keine Menschen, die in Ostdeutschland groß geworden sind: Unter mehr als 250 DAX-Vorständen gibt es eine einzige Person. Und bei den Vorstandschefs und Aufsichtsratschefs der 100 größten Unternehmen überhaupt keine. In der Justiz gibt es ein halbes Dutzend Bundesrichter, die im Osten groß geworden sind. Das ist minimal. Der Sektor, in dem Ostdeutsche repräsentativ vertreten sind, also mit ungefähr 20 Prozent, ist die Politik. Wenn die Politik und die öffentliche Verwaltung, die an die Politik angebunden ist, nicht mitgezählt würden, wäre der Anteil der Ostdeutschen in diesen Spitzenpositionen unter zehn Prozent. Kerstin Palzer, ARD Berlin, zu den Forderungen der Ostbeauftragten tagesschau24, 30.09.2026 • 14:00 Uhr \"Alle Elitepositionen durch Westdeutsche neu besetzt\" tagesschau24: Woran liegt das? Wir haben nun 36 Jahre Wiedervereinigung hinter uns.",
+  "translation": "",
+  "wordCount": 319,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:58:42.295Z",
+  "vocab": {
+    "tagesschau24": {
+      "word": "tagesschau24",
+      "lemma": "tagesschau24",
+      "translation": "tagesschau24",
+      "partOfSpeech": "other",
+      "example": "Im Interview mit tagesschau24 erläutert der Soziologe Michael Hartmann, woran das liegt und welche Auswirkungen die ungleiche Verteilung hat.",
+      "pronunciation": ""
+    },
+    "Ostdeutsche": {
+      "word": "Ostdeutsche",
+      "lemma": "ostdeutsche",
+      "translation": "alemanha Oriental",
+      "partOfSpeech": "other",
+      "example": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten.",
+      "pronunciation": ""
+    },
+    "Führungspositionen": {
+      "word": "Führungspositionen",
+      "lemma": "führungspositionen",
+      "translation": "cargos de gestão",
+      "partOfSpeech": "other",
+      "example": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten.",
+      "pronunciation": ""
+    },
+    "Wiedervereinigung": {
+      "word": "Wiedervereinigung",
+      "lemma": "wiedervereinigung",
+      "translation": "Reunificação",
+      "partOfSpeech": "other",
+      "example": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten.",
+      "pronunciation": ""
+    },
+    "Hartmann": {
+      "word": "Hartmann",
+      "lemma": "hartmann",
+      "translation": "hartmann",
+      "partOfSpeech": "other",
+      "example": "Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
+      "pronunciation": ""
+    },
+    "Westdeutschland": {
+      "word": "Westdeutschland",
+      "lemma": "westdeutschland",
+      "translation": "Antigos Länder alemães",
+      "partOfSpeech": "other",
+      "example": "Eher in Ostdeutschland oder eher in Westdeutschland?",
+      "pronunciation": ""
+    },
+    "Ostbeauftragte": {
+      "word": "Ostbeauftragte",
+      "lemma": "ostbeauftragte",
+      "translation": "representante Leste",
+      "partOfSpeech": "other",
+      "example": "Vor wenigen Tagen hat die Ostbeauftragte der Bundesregierung, Elisabeth Kaiser (SPD), mehr Ostdeutsche in Führungspositionen gefordert.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
+  "sourceSite": "tagesschau.de"
+}

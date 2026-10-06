@@ -1,0 +1,73 @@
+{
+  "id": "es-a1-que-vende",
+  "language": "es",
+  "level": "A1",
+  "theme": "Cotidiano",
+  "title": "¿Qué vende?",
+  "content": "En esta prueba tienes que relacionar números (1, 2, 3…) con letras (A, B, C…). Lee las descripciones de los cinco comercios (1, 2, 3, 4, 5) y relaciona cada comercio con una imagen (A, B, C, D, E).",
+  "translation": "",
+  "wordCount": 39,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:06.767Z",
+  "vocab": {
+    "descripciones": {
+      "word": "descripciones",
+      "lemma": "descripciones",
+      "translation": "descrições",
+      "partOfSpeech": "other",
+      "example": "Lee las descripciones de los cinco comercios (1, 2, 3, 4, 5) y relaciona cada comercio con una imagen (A, B, C, D, E).",
+      "pronunciation": ""
+    },
+    "relacionar": {
+      "word": "relacionar",
+      "lemma": "relaciona",
+      "translation": "diz respeito",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que relacionar números (1, 2, 3…) con letras (A, B, C…).",
+      "pronunciation": ""
+    },
+    "comercios": {
+      "word": "comercios",
+      "lemma": "comercio",
+      "translation": "comércio",
+      "partOfSpeech": "other",
+      "example": "Lee las descripciones de los cinco comercios (1, 2, 3, 4, 5) y relaciona cada comercio con una imagen (A, B, C, D, E).",
+      "pronunciation": ""
+    },
+    "números": {
+      "word": "números",
+      "lemma": "números",
+      "translation": "números&#x0D;",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que relacionar números (1, 2, 3…) con letras (A, B, C…).",
+      "pronunciation": ""
+    },
+    "prueba": {
+      "word": "prueba",
+      "lemma": "prueba",
+      "translation": "teste.",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que relacionar números (1, 2, 3…) con letras (A, B, C…).",
+      "pronunciation": ""
+    },
+    "tienes": {
+      "word": "tienes",
+      "lemma": "tienes",
+      "translation": "tem, né?",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que relacionar números (1, 2, 3…) con letras (A, B, C…).",
+      "pronunciation": ""
+    },
+    "letras": {
+      "word": "letras",
+      "lemma": "letras",
+      "translation": "cartas",
+      "partOfSpeech": "other",
+      "example": "En esta prueba tienes que relacionar números (1, 2, 3…) con letras (A, B, C…).",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/ejercicios/articles/que-vende",
+  "sourceSite": "Lingolia"
+}

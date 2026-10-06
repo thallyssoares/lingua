@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-ia-biologia",
+  "language": "es",
+  "level": "C1",
+  "theme": "AI Engineering",
+  "title": "¿Jugamos a ser dioses? Lo que supone la IA en biología",
+  "content": "Durante toda la historia de la biología, los científicos nos hemos dedicado a descifrar las reglas de la vida a base de observarla, establecer hipótesis sobre su funcionamiento y diseñar experimentos reproducibles que corroboraran si nuestras propuestas se transformaban en brillantes descubrimientos o en rotundos fracasos. Así, con muchísimo esfuerzo en tiempo, recursos y discusiones sesudas, hemos ido desentrañando en qué consiste esta cosa tan difícilmente definible que es la vida y dando soluciones a problemas de variada índole, incluidas las destinadas a solucionar las múltiples patologías de nuestros imperfectos cuerpos. En este fascinante camino, la tecnología ha sido un extraordinario aliado y el mejor acelerador del ritmo de nuestros descubrimientos en los últimos años. Pero lo que está ocurriendo ahora merece un capítulo reflexivo propio porque la IA no se limita a ser una mera “ayuda técnica”. No se trata de un procesador espectacular de millones de datos simultáneos, ni tan siquiera un salto cuántico en la capacidad de generar conocimiento. Tampoco hablamos de un cambio de paradigma, porque no se limita a dar un giro profundo en la manera de entender o interpretar el lenguaje de la biología. Hablamos de otra cosa mucho más seria para la que, en mi opinión, la palabra revolución se queda ridículamente corta. Empecemos por lo más sencillo de la vida: sus biomoléculas. Progresivamente (y con gran esfuerzo), hemos ido identificado las asombrosas proteínas existentes en la naturaleza. Para algunas de ellas, una vez establecida su función, se estudió su posible aplicación en la solución de problemas agrícolas, ganaderos o ecológicos y, especialmente, en intentar paliar los efectos de diferentes patologías humanas. Con la IA generativa las reglas del juego han cambiado radicalmente. Ahora podemos hacer algo tan asombroso como decidir una función biológica concreta y, a partir de ella, generar de novo una proteína que la realice. Ya no se trata de identificar un nuevo prótido, descubrir para qué sirve y, manipulándolo (en concentración o en localización), solucionar un problema. Ahora es posible decir “tengo este problema y quiero crear una proteína/solución que sirva exactamente para lo que yo quiero”. De hecho, ya se están generando proteínas estructurales que no existen en la naturaleza y que responden funcionalmente a la previsión de su formulación .",
+  "translation": "",
+  "wordCount": 373,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:08:56.635Z",
+  "vocab": {
+    "descubrimientos": {
+      "word": "descubrimientos",
+      "lemma": "descubrimientos",
+      "translation": "DESCOBERTAS:",
+      "partOfSpeech": "other",
+      "example": "Durante toda la historia de la biología, los científicos nos hemos dedicado a descifrar las reglas de la vida a base de observarla, establecer hipótesis sobre su funcionamiento y diseñar experimentos reproducibles que corroboraran si nuestras propuestas se transformaban en brillantes descubrimientos o en rotundos fracasos.",
+      "pronunciation": ""
+    },
+    "solucionar": {
+      "word": "solucionar",
+      "lemma": "solucionar",
+      "translation": "corrigir",
+      "partOfSpeech": "other",
+      "example": "Así, con muchísimo esfuerzo en tiempo, recursos y discusiones sesudas, hemos ido desentrañando en qué consiste esta cosa tan difícilmente definible que es la vida y dando soluciones a problemas de variada índole, incluidas las destinadas a solucionar las múltiples patologías de nuestros imperfectos cuerpos.",
+      "pronunciation": ""
+    },
+    "patologías": {
+      "word": "patologías",
+      "lemma": "patologías",
+      "translation": "Patologias",
+      "partOfSpeech": "other",
+      "example": "Así, con muchísimo esfuerzo en tiempo, recursos y discusiones sesudas, hemos ido desentrañando en qué consiste esta cosa tan difícilmente definible que es la vida y dando soluciones a problemas de variada índole, incluidas las destinadas a solucionar las múltiples patologías de nuestros imperfectos cuerpos.",
+      "pronunciation": ""
+    },
+    "naturaleza": {
+      "word": "naturaleza",
+      "lemma": "naturaleza",
+      "translation": "natureza",
+      "partOfSpeech": "other",
+      "example": "Progresivamente (y con gran esfuerzo), hemos ido identificado las asombrosas proteínas existentes en la naturaleza.",
+      "pronunciation": ""
+    },
+    "problemas": {
+      "word": "problemas",
+      "lemma": "problemas",
+      "translation": "problemas",
+      "partOfSpeech": "other",
+      "example": "Así, con muchísimo esfuerzo en tiempo, recursos y discusiones sesudas, hemos ido desentrañando en qué consiste esta cosa tan difícilmente definible que es la vida y dando soluciones a problemas de variada índole, incluidas las destinadas a solucionar las múltiples patologías de nuestros imperfectos cuerpos.",
+      "pronunciation": ""
+    },
+    "proteínas": {
+      "word": "proteínas",
+      "lemma": "proteínas",
+      "translation": "proteína",
+      "partOfSpeech": "other",
+      "example": "Progresivamente (y con gran esfuerzo), hemos ido identificado las asombrosas proteínas existentes en la naturaleza.",
+      "pronunciation": ""
+    },
+    "biología": {
+      "word": "biología",
+      "lemma": "biología",
+      "translation": "biologia",
+      "partOfSpeech": "other",
+      "example": "Durante toda la historia de la biología, los científicos nos hemos dedicado a descifrar las reglas de la vida a base de observarla, establecer hipótesis sobre su funcionamiento y diseñar experimentos reproducibles que corroboraran si nuestras propuestas se transformaban en brillantes descubrimientos o en rotundos fracasos.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/jugamos-a-ser-dioses-lo-que-supone-la-ia-en-biologia-293014",
+  "sourceSite": "The Conversation"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-ostbericht",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Ostbeauftragte Kaiser will mehr Ostdeutsche in Führungspositionen",
+  "content": "Sind Ostdeutsche unter Entscheidungsträgern ausreichend repräsentiert? Die Ostbeauftragte der Bundesregierung, Kaiser, sagt nein. Auch Vermögen und Erbschaften seien in Ost und West weiterhin ungleich verteilt. Kurz vor dem Tag der Deutschen Einheit am 3. Oktober hat die Ostbeauftragte der Bundesregierung, Elisabeth Kaiser (SPD), mehr Ostdeutsche in Führungspositionen gefordert. Ostdeutsche sollten überall dort auch am Tisch sitzen, wo Entscheidungen getroffen werden, sagte Kaiser bei der Vorstellung ihres aktuellen Jahresberichts in Berlin. Das gelte für Ministerien, Behörden, Unternehmen, Wissenschaft, Justiz, Kultur und Medien. Dass in den obersten Bundesbehörden der Anteil ostdeutscher Führungskräfte von 13,9 Prozent im Jahr 2022 auf aktuell 16,3 Prozent gestiegen sei, sei ein guter Fortschritt, so die Beauftragte. Weiterhin gelte aber überall: \"Je höher die Führungsebene, desto geringer ist tatsächlich der ostdeutsche Anteil.\" Ohne Ostdeutsche in Führungspositionen fehle bei wichtigen Entscheidungen ein großer Teil der Erfahrungen in Deutschland. Der Anteil der Bevölkerung in ostdeutschen Bundesländern an der Gesamtbevölkerung in Deutschland liegt dem Statistischen Bundesamt zufolge ohne Berlin bei 14,8 Prozent. Mit Berlin liegt der Anteil bei 19,2 Prozent. Top-Jobs gehen eher an Westdeutsche. Die Linke fordert Veränderung. mehr Angesichts der ungleichen Verteilung von Vermögen in Ost und West brachte Kaiser zudem einen Finanzausgleich bei den Einnahmen aus der Erbschaftsteuer ins Spiel. Zunächst müssten große Vermögen und auch Erbschaften stärker besteuert werden, \"damit wir letztendlich mehr Geld im System haben\", sagte sie noch vor der Präsentation Ihres Berichts im gemeinsamen Morgenmagazin von ARD und ZDF . Es sei richtig, einen Ausgleich zu schaffen, damit die höheren Einnahmen \"den ganzen Bundesländern zugute kommen, eben auch den ostdeutschen\", sagte Kaiser. Um die nach wie vor existierenden wirtschaftlichen Unterschiede zwischen Ost und West zu verringern, müsse es Verbesserungen beim Bildungssystem, bei Jobs und bei der Infrastruktur geben. Dazu seien finanzielle Mittel nötig. Bundestagsvizepräsident Ramelow plädiert dafür, die Identifikation Ostdeutscher mit dem Staat zu stärken. mehr Kaiser sprach sich zudem dafür aus, über die Idee eines Grunderbes nachzudenken, das jedem 18-Jährigen zustehen könnte, etwa für die Ausbildung oder die Bildung von Vermögen. Zu fairen Chancen gehöre auch die Frage, mit welchen Voraussetzungen die Menschen starteten. Vermögen sei in Ost und West bis heute unterschiedlich verteilt. Das gelte für Erbschaften genauso wie für Wohneigentum.",
+  "translation": "",
+  "wordCount": 359,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:57:34.534Z",
+  "vocab": {
+    "Ostdeutsche": {
+      "word": "Ostdeutsche",
+      "lemma": "ostdeutsche",
+      "translation": "alemanha Oriental",
+      "partOfSpeech": "other",
+      "example": "Sind Ostdeutsche unter Entscheidungsträgern ausreichend repräsentiert?",
+      "pronunciation": ""
+    },
+    "Vermögen": {
+      "word": "Vermögen",
+      "lemma": "vermögen",
+      "translation": "vermögen",
+      "partOfSpeech": "other",
+      "example": "Auch Vermögen und Erbschaften seien in Ost und West weiterhin ungleich verteilt.",
+      "pronunciation": ""
+    },
+    "Kaiser": {
+      "word": "Kaiser",
+      "lemma": "kaiser",
+      "translation": "Imperatriz",
+      "partOfSpeech": "other",
+      "example": "Die Ostbeauftragte der Bundesregierung, Kaiser, sagt nein.",
+      "pronunciation": ""
+    },
+    "Führungspositionen": {
+      "word": "Führungspositionen",
+      "lemma": "führungspositionen",
+      "translation": "cargos de gestão",
+      "partOfSpeech": "other",
+      "example": "Oktober hat die Ostbeauftragte der Bundesregierung, Elisabeth Kaiser (SPD), mehr Ostdeutsche in Führungspositionen gefordert.",
+      "pronunciation": ""
+    },
+    "Erbschaften": {
+      "word": "Erbschaften",
+      "lemma": "erbschaften",
+      "translation": "erbschaften",
+      "partOfSpeech": "other",
+      "example": "Auch Vermögen und Erbschaften seien in Ost und West weiterhin ungleich verteilt.",
+      "pronunciation": ""
+    },
+    "Bundesregierung": {
+      "word": "Bundesregierung",
+      "lemma": "bundesregierung",
+      "translation": "governo federal",
+      "partOfSpeech": "other",
+      "example": "Die Ostbeauftragte der Bundesregierung, Kaiser, sagt nein.",
+      "pronunciation": ""
+    },
+    "Ostbeauftragte": {
+      "word": "Ostbeauftragte",
+      "lemma": "ostbeauftragte",
+      "translation": "representante Leste",
+      "partOfSpeech": "other",
+      "example": "Die Ostbeauftragte der Bundesregierung, Kaiser, sagt nein.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/bericht-beauftragte-bundesregierung-ostdeutschland-100.html",
+  "sourceSite": "tagesschau.de"
+}

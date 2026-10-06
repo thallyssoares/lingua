@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-werft",
+  "language": "de",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
+  "content": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt. Nun fordert die betroffene niederländische Werft Milliarden vom Bund. Im Streit über das gestoppte Fregatten-Projekt F126 fordert die niederländische Werft Damen von der Bundesrepublik Deutschland rund 4,7 Milliarden Euro. Dies geht aus einem Schreiben der Anwaltskanzlei Gauweiler an den Haushalts- und den Verteidigungsausschuss des Bundestages hervor, das der Nachrichtenagentur Reuters vorliegt. Bei der Summe handele es sich um vertraglich vereinbarte Zahlungs- und Freistellungsansprüche wegen des Vertragsbruchs durch den Bund. Zusätzliche Schadensersatzforderungen würden derzeit geprüft, heißt es in dem Schreiben weiter. Verteidigungsminister Pistorius zieht die Reißleine beim Marine-Projekt zum Bau von F126-Fregatten. mehr Die Werft wirft der Bundesregierung vor, für die Projektverzögerungen selbst verantwortlich zu sein. Der Bund habe noch im Juni 2024 in Kenntnis der Verzögerungen die vertragliche Option auf zwei weitere Fregatten ausgeübt. Die plötzliche Kündigung des Projekts sei daher eine \"Überraschungsentscheidung\" und allein politisch motiviert. Pistorius hatte im Juni 2026 das Projekt abgebrochen und dies mit einer Kostenexplosion auf fast 18 Milliarden Euro sowie massiven Verzögerungen begründet. Pistorius hatte den Vorwurf eines Rechtsbruchs beim Ende des milliardenteuren Fregattenprojekts bereits scharf zurückgewiesen. Das Verteidigungsministerium habe \"sehr sorgfältig überlegt, warum wir das tun und dass wir es tun müssen, um weiteren Schaden für den Steuerzahler abwenden zu können\", sagte Pistoruis damals. Das Projekt hat den Bund dem Minister zufolge bereits rund 2,3 Milliarden Euro gekostet. Die Bundesregierung plant nun stattdessen den Kauf von acht Fregatten des Typs MEKO A-200 von der Thyssenkrupp-Tochter TKMS. Dieses Thema im Programm: NDR Info | Nachrichten | 02.10.2026 | 08:30 Uhr",
+  "translation": "",
+  "wordCount": 264,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:43:29.184Z",
+  "vocab": {
+    "Verteidigungsminister": {
+      "word": "Verteidigungsminister",
+      "lemma": "verteidigungsminister",
+      "translation": "MINISTROS DA DEFESA",
+      "partOfSpeech": "other",
+      "example": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt.",
+      "pronunciation": ""
+    },
+    "Milliarden": {
+      "word": "Milliarden",
+      "lemma": "milliarden",
+      "translation": "milliarden",
+      "partOfSpeech": "other",
+      "example": "Nun fordert die betroffene niederländische Werft Milliarden vom Bund.",
+      "pronunciation": ""
+    },
+    "Verzögerungen": {
+      "word": "Verzögerungen",
+      "lemma": "verzögerungen",
+      "translation": "verzögerungen",
+      "partOfSpeech": "other",
+      "example": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt.",
+      "pronunciation": ""
+    },
+    "Pistorius": {
+      "word": "Pistorius",
+      "lemma": "pistorius",
+      "translation": "pistorius",
+      "partOfSpeech": "other",
+      "example": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt.",
+      "pronunciation": ""
+    },
+    "Fregatten-Projekt": {
+      "word": "Fregatten-Projekt",
+      "lemma": "fregatten-projekt",
+      "translation": "fregatten-projekt",
+      "partOfSpeech": "other",
+      "example": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt.",
+      "pronunciation": ""
+    },
+    "Kostenexplosion": {
+      "word": "Kostenexplosion",
+      "lemma": "kostenexplosion",
+      "translation": "kostenexplosion",
+      "partOfSpeech": "other",
+      "example": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt.",
+      "pronunciation": ""
+    },
+    "niederländische": {
+      "word": "niederländische",
+      "lemma": "niederländische",
+      "translation": "Holandês",
+      "partOfSpeech": "other",
+      "example": "Nun fordert die betroffene niederländische Werft Milliarden vom Bund.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
+  "sourceSite": "tagesschau.de"
+}

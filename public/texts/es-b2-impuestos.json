@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-impuestos",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "¿Y si los impuestos ayudaran a atenuar la crisis de la vivienda?",
+  "content": "Ante esta situación, el debate suele centrarse en la necesidad de construir más viviendas, regular los alquileres o restringir las prácticas especulativas. Sin embargo, existe una herramienta que a menudo pasa desapercibida: la fiscalidad. Los impuestos no solo sirven para recaudar dinero. También pueden utilizarse para orientar comportamientos y corregir situaciones que generan desigualdad. De hecho, la Constitución española reconoce el derecho a una vivienda digna y establece que los poderes públicos deben impedir la especulación del suelo. Aunque este derecho no puede exigirse directamente ante los tribunales, sí debería inspirar las políticas públicas, incluidas las tributarias. La pregunta es sencilla: ¿podrían algunos impuestos ayudar a que los residentes tengan más facilidades para acceder a una vivienda y, al mismo tiempo, desincentivar determinadas operaciones especulativas? La actual crisis inmobiliaria es diferente a la de 2008 . Entonces el problema derivaba de una burbuja asociada a un exceso de construcción y de crédito. Hoy sucede justamente lo contrario: existe una demanda creciente frente a una oferta insuficiente. A ello se añaden que la vivienda se ha convertido en un activo de inversión muy atractivo. Además, la presencia de compradores internacionales, con un alto poder adquisitivo, ejerce una presión adicional sobre los precios. Como resultado, quienes buscan comprar su primera vivienda compiten en el mismo mercado con inversores que persiguen rentabilidades económicas. Aunque ambos tienen derecho a participar en el mercado inmobiliario, parece razonable preguntarse si deberían recibir exactamente el mismo tratamiento fiscal. Leia mais: Alquiler: ¿derecho a la vivienda o libre mercado? En los últimos años han surgido propuestas para limitar la compra de viviendas por parte de extranjeros o no residentes. Sin embargo, este tipo de restricciones choca con principios fundamentales de la Unión Europea, como la libre circulación de capitales .",
+  "translation": "",
+  "wordCount": 292,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:03.535Z",
+  "vocab": {
+    "viviendas": {
+      "word": "viviendas",
+      "lemma": "viviendas",
+      "translation": "Unidades de habitação",
+      "partOfSpeech": "other",
+      "example": "Ante esta situación, el debate suele centrarse en la necesidad de construir más viviendas, regular los alquileres o restringir las prácticas especulativas.",
+      "pronunciation": ""
+    },
+    "derecho": {
+      "word": "derecho",
+      "lemma": "derecho",
+      "translation": "direito",
+      "partOfSpeech": "other",
+      "example": "De hecho, la Constitución española reconoce el derecho a una vivienda digna y establece que los poderes públicos deben impedir la especulación del suelo.",
+      "pronunciation": ""
+    },
+    "especulativas": {
+      "word": "especulativas",
+      "lemma": "especulativas",
+      "translation": "especulativo",
+      "partOfSpeech": "other",
+      "example": "Ante esta situación, el debate suele centrarse en la necesidad de construir más viviendas, regular los alquileres o restringir las prácticas especulativas.",
+      "pronunciation": ""
+    },
+    "mercado": {
+      "word": "mercado",
+      "lemma": "mercado",
+      "translation": "bolsa da borracha",
+      "partOfSpeech": "other",
+      "example": "Como resultado, quienes buscan comprar su primera vivienda compiten en el mismo mercado con inversores que persiguen rentabilidades económicas.",
+      "pronunciation": ""
+    },
+    "residentes": {
+      "word": "residentes",
+      "lemma": "residentes",
+      "translation": "residentes",
+      "partOfSpeech": "other",
+      "example": "La pregunta es sencilla: ¿podrían algunos impuestos ayudar a que los residentes tengan más facilidades para acceder a una vivienda y, al mismo tiempo, desincentivar determinadas operaciones especulativas?",
+      "pronunciation": ""
+    },
+    "impuestos": {
+      "word": "impuestos",
+      "lemma": "impuestos",
+      "translation": "impostos",
+      "partOfSpeech": "other",
+      "example": "Los impuestos no solo sirven para recaudar dinero.",
+      "pronunciation": ""
+    },
+    "comportamientos": {
+      "word": "comportamientos",
+      "lemma": "comportamientos",
+      "translation": "comportamentos",
+      "partOfSpeech": "other",
+      "example": "También pueden utilizarse para orientar comportamientos y corregir situaciones que generan desigualdad.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/y-si-los-impuestos-ayudaran-a-atenuar-la-crisis-de-la-vivienda-293140",
+  "sourceSite": "The Conversation"
+}

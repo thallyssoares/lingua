@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-nobel",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "El Nobel de Física reconoce el descubrimiento de los “mensajeros fantasmales” del cosmos",
+  "content": "El Comité del Nobel ha afirmado que Halzen ha realizado “contribuciones decisivas” al descubrimiento de “neutrinos de origen astrofísico” con IceCube, un experimento instalado bajo el hielo del Polo Sur. Ellen Moons, secretaria general de la Real Academia Sueca de Ciencias, se refirió a estos neutrinos como “mensajeros fantasmales”. Esto alude al hecho de que las partículas carecen prácticamente de masa y atraviesan los objetos sólidos sin apenas interactuar con ellos. De hecho, cada segundo atraviesan a cualquier persona en la Tierra miles de millones de neutrinos. La mayoría son emitidos por el Sol. Sin embargo, los de alta energía procedentes de otras partes del cosmos también llegan a nuestro planeta, y resultan aproximadamente mil millones de veces más raros que los que emana nuestra estrella. Tienen su origen en diversas fuentes , como los agujeros negros situados en el centro de galaxias lejanas, que aceleran las partículas hasta energías extremas. La idea del experimento IceCube consistía en utilizar el hielo del Polo Sur como un medio natural transparente para captar los tenues destellos de estas partículas de alta energía. De ello se encargan miles de sensores situados bajo la superficie helada de la Antártida, distribuidos a lo largo de un kilómetro cúbico. Al comentar por qué es importante el trabajo de Halzen, Mark Pearce, presidente del comité del Premio Nobel de Física, afirmó: “El neutrino tiene unas propiedades muy peculiares: el hecho de que interactúe tan raramente con la materia y, en este caso, que sea una forma de proporcionarnos información sobre fuentes cósmicas lejanas que no podemos obtener de otra manera”. La mayor parte de lo que sabemos sobre el universo proviene de la luz. Pero algunos de sus entornos más extremos pueden ocultarle sus secretos por completo. Los neutrinos de alta energía nos ofrecen otra forma de verlos. Halzen, que trabaja en la Universidad de Wisconsin-Madison (Estados Unidos), ha contribuido a convertir estas partículas esquivas en una nueva herramienta para la astronomía . Los neutrinos interactúan tan débilmente con la materia que pueden atravesar estrellas, galaxias e incluso planetas enteros casi sin sufrir alteraciones. Eso los hace extraordinariamente difíciles de detectar, pero también los convierte en mensajeros del cosmos de un valor único.",
+  "translation": "",
+  "wordCount": 366,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.004Z",
+  "vocab": {
+    "neutrinos": {
+      "word": "neutrinos",
+      "lemma": "neutrinos",
+      "translation": "neutrinos",
+      "partOfSpeech": "other",
+      "example": "El Comité del Nobel ha afirmado que Halzen ha realizado “contribuciones decisivas” al descubrimiento de “neutrinos de origen astrofísico” con IceCube, un experimento instalado bajo el hielo del Polo Sur.",
+      "pronunciation": ""
+    },
+    "partículas": {
+      "word": "partículas",
+      "lemma": "partículas",
+      "translation": "partícula(de madeira)",
+      "partOfSpeech": "other",
+      "example": "Esto alude al hecho de que las partículas carecen prácticamente de masa y atraviesan los objetos sólidos sin apenas interactuar con ellos.",
+      "pronunciation": ""
+    },
+    "experimento": {
+      "word": "experimento",
+      "lemma": "experimento",
+      "translation": "experiência aleatória",
+      "partOfSpeech": "other",
+      "example": "El Comité del Nobel ha afirmado que Halzen ha realizado “contribuciones decisivas” al descubrimiento de “neutrinos de origen astrofísico” con IceCube, un experimento instalado bajo el hielo del Polo Sur.",
+      "pronunciation": ""
+    },
+    "energía": {
+      "word": "energía",
+      "lemma": "energía",
+      "translation": "energia",
+      "partOfSpeech": "other",
+      "example": "Sin embargo, los de alta energía procedentes de otras partes del cosmos también llegan a nuestro planeta, y resultan aproximadamente mil millones de veces más raros que los que emana nuestra estrella.",
+      "pronunciation": ""
+    },
+    "mensajeros": {
+      "word": "mensajeros",
+      "lemma": "mensajeros",
+      "translation": "estafetas",
+      "partOfSpeech": "other",
+      "example": "Ellen Moons, secretaria general de la Real Academia Sueca de Ciencias, se refirió a estos neutrinos como “mensajeros fantasmales”.",
+      "pronunciation": ""
+    },
+    "atraviesan": {
+      "word": "atraviesan",
+      "lemma": "atraviesan",
+      "translation": "percorrer",
+      "partOfSpeech": "other",
+      "example": "Esto alude al hecho de que las partículas carecen prácticamente de masa y atraviesan los objetos sólidos sin apenas interactuar con ellos.",
+      "pronunciation": ""
+    },
+    "extraordinariamente": {
+      "word": "extraordinariamente",
+      "lemma": "extraordinariamente",
+      "translation": "extraordinariamente",
+      "partOfSpeech": "other",
+      "example": "Eso los hace extraordinariamente difíciles de detectar, pero también los convierte en mensajeros del cosmos de un valor único.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/el-nobel-de-fisica-reconoce-el-descubrimiento-de-los-mensajeros-fantasmales-del-cosmos-293763",
+  "sourceSite": "The Conversation"
+}

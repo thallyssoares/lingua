@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-jagd-symbolen",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Auf der Jagd nach Symbolen (C2, German) - Fabulang",
+  "content": "Trockener, roter Staub. Wenn die meisten Menschen an den Mars denken, ist das alles, was sie sich darunter vorstellen können. Aber für Philippa war er der faszinierendste Ort im Universum. „Sag mir deine Meinung, wenn du die Beweise untersucht hast“, sagte Philippa scharf. „Meine Zeit ist kostbar, Liebes. Ich mache echte Arbeit.“ Die meisten Wissenschaftler auf der Marsstation arbeiteten am selben Projekt: Die erste Stadt auf dem Mars zu bauen. Philippa führte ihre eigene Forschung durch. Most of the scientists at the Mars station were working on the same project: building the first city on Mars. Philippa was doing her own research. „Ich habe das gleiche Symbol auf Dutzenden Steinen überall auf dem Mars gefunden“, beharrte Philippa. „Ein Quadrat mit einer Linie und einem Punkt. Es ist eine uralte Sprache. Es muss in der Vergangenheit eine Zivilisation auf dem Mars gegeben haben. Wie erklärst du dir das sonst?“ „Ein Quadrat mit einer Linie und einem Punkt! Dutzende!“ spottete die andere Frau. „Mich wundert nicht, dass die Regierung dich zurück zur Erde schickt. Wie viel Geld haben sie verschwendet, damit du Spielchen spielen kannst?“ Philippa wusste, dass sie Glück gehabt hatte, so viel Förderung zu erhalten. Doch nach drei Missionen ohne eindeutige Beweise hatte die Regierung die Finanzierung einer vierten abgelehnt. Es war der letzte Tag, den sie jemals auf dem Mars verbringen würde. Philippa knew she had been lucky to receive so much funding. But with no solid proof after three missions, the government had refused to pay for a fourth. It was the last day she would ever spend on Mars. „Ihre Theorie interessiert niemanden“, lachte der Mann gegenüber am Esstisch. „Sie ist die einzige Person, die verrückt genug ist, diesen Teil der Höhlen zu erkunden. Ihre Karten sind wahre Kunstwerke. Sie ist sehr preiswert.“ „Du hättest Künstlerin werden sollen, Liebes. Welche Farbe hatten denn deine uralten Außerirdischen? Rot oder Grün?“ Alle Wissenschaftler lachten, außer dem jungen Mann, der neben Philippa saß. Er sah mitfühlend aus. The scientists all laughed, except the young man sitting next to Philippa. He looked sympathetic. „Vielleicht ist es an der Zeit, es zu akzeptieren, Philippa?“, sagte er. „Es ist nur ein Zufall. Es war eine gute Theorie. Ich wünschte, sie wäre wahr. Sie würde alles verändern! Aber als Wissenschaftlerin musst du akzeptieren, wenn du falsch liegst.“",
+  "translation": "",
+  "wordCount": 383,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:24.979Z",
+  "vocab": {
+    "Philippa": {
+      "word": "Philippa",
+      "lemma": "philippa",
+      "translation": "philippa",
+      "partOfSpeech": "other",
+      "example": "Aber für Philippa war er der faszinierendste Ort im Universum.",
+      "pronunciation": ""
+    },
+    "Wissenschaftler": {
+      "word": "Wissenschaftler",
+      "lemma": "wissenschaftler",
+      "translation": "cientista",
+      "partOfSpeech": "other",
+      "example": "Ich mache echte Arbeit.“ Die meisten Wissenschaftler auf der Marsstation arbeiteten am selben Projekt: Die erste Stadt auf dem Mars zu bauen.",
+      "pronunciation": ""
+    },
+    "akzeptieren": {
+      "word": "akzeptieren",
+      "lemma": "akzeptieren",
+      "translation": "aceitar",
+      "partOfSpeech": "other",
+      "example": "„Vielleicht ist es an der Zeit, es zu akzeptieren, Philippa?“, sagte er.",
+      "pronunciation": ""
+    },
+    "scientists": {
+      "word": "scientists",
+      "lemma": "scientists",
+      "translation": "cientistas",
+      "partOfSpeech": "other",
+      "example": "Most of the scientists at the Mars station were working on the same project: building the first city on Mars.",
+      "pronunciation": ""
+    },
+    "Regierung": {
+      "word": "Regierung",
+      "lemma": "regierung",
+      "translation": "governo",
+      "partOfSpeech": "other",
+      "example": "„Mich wundert nicht, dass die Regierung dich zurück zur Erde schickt.",
+      "pronunciation": ""
+    },
+    "Wissenschaftlerin": {
+      "word": "Wissenschaftlerin",
+      "lemma": "wissenschaftlerin",
+      "translation": "Ciência",
+      "partOfSpeech": "other",
+      "example": "Aber als Wissenschaftlerin musst du akzeptieren, wenn du falsch liegst.“",
+      "pronunciation": ""
+    },
+    "faszinierendste": {
+      "word": "faszinierendste",
+      "lemma": "faszinierendste",
+      "translation": "mais fascinante",
+      "partOfSpeech": "other",
+      "example": "Aber für Philippa war er der faszinierendste Ort im Universum.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.fabulang.com/en/de/stories/c2-jagd-symbolen",
+  "sourceSite": "Fabulang"
+}

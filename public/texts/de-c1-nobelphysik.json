@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-nobelphysik",
+  "language": "de",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Nobelpreisträger Hegemann in den tagesthemen: &quot;Ich bin natürlich überwältigt&quot;",
+  "content": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik. tagesthemen: Vielleicht hatten Sie von diesem berühmten Anruf des Nobelkomitees ja zuvor schon mal geträumt - aber heute Morgen kam er dann tatsächlich. Und jetzt, ein paar Stunden später: Wie stark müssen Sie sich noch immer zwicken? Peter Hegemann: Ich bin natürlich überwältigt. Und man weiß am Anfang gar nicht, wie man damit umgehen muss. Und der Tag heute war ziemlich turbulent. Aber allmählich hat sich das bei mir etwas gesetzt. Und ich denke schon, dass es irgendwie real ist. tagesthemen: Ihre Forschung, so das Nobelpreiskomitee, habe \"unser Verständnis des Gehirns grundlegend verändert\". Lässt sich das so zusammenfassen? Sie und die beiden anderen Nobelpreisträger haben ja buchstäblich Licht ins Dunkel des Gehirns gebracht. Hegemann: Ja, Licht ins Dunkel kann man in gewisser Weise sagen. Aber das gilt sicher für das Fliegengehirn, das man belichten kann, oder das Zebrafischgehirn. Beim Mausgehirn wird es schon schwieriger - und das menschliche Gehirn ist weitgehend dunkel. Wenn Sie da optogenetisch arbeiten wollen, müssen Sie einen Lichtleiter ins Gehirn reinstecken und dann können Sie ein kleines Volumen von ein bis fünf Quadratmillimetern belichten. Mehr nicht. Peter Hegemann, Medizin-Nobelpreisträger, zum Inhalt seiner Forschung tagesthemen, Das Erste, 05.10.2026 • 21:45 Uhr \"Eine Technologie, die man sich lange gewünscht hat\" tagesthemen: Und doch führt das dazu, dass man einen besseren Überblick schaffen kann, wo welche Bereiche wie funktionieren im Gehirn. Das ist doch im Prinzip das, wofür Sie ausgezeichnet wurden, oder? Hegemann: Ja, das ist natürlich eine Technologie, die man sich lange gewünscht hat, dass man einzelne Zellen in einem großen zellulären Verband aktivieren kann oder auch inaktivieren, um zu sehen, wofür sie gut sind und wofür nicht. Das heißt, funktionale Studien wurden durchgeführt, sodass man jetzt einzelne Zellen im Gehirn, im Hippocampus, Hypothalamus, präfrontalen Cortex besser menschlichen Funktionen zuordnen kann und weiß, was die bei Patienten tun und was sie vielleicht nicht tun. tagesthemen: Und das ist genau der Grund, weshalb sie heute ausgezeichnet wurden. Aber Stichwort Patienten: Wie berechtigt sind denn die Hoffnungen, die sich Patienten mit etwa Parkinson, Epilepsie oder Schizophrenie machen können, dass ihre Grundlagenforschung dann auch wirklich zu neuen Therapien führt?",
+  "translation": "",
+  "wordCount": 382,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:01:52.178Z",
+  "vocab": {
+    "tagesthemen": {
+      "word": "tagesthemen",
+      "lemma": "tagesthemen",
+      "translation": "tópicos do dia",
+      "partOfSpeech": "other",
+      "example": "In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
+      "pronunciation": ""
+    },
+    "Hegemann": {
+      "word": "Hegemann",
+      "lemma": "hegemann",
+      "translation": "hegemon",
+      "partOfSpeech": "other",
+      "example": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis.",
+      "pronunciation": ""
+    },
+    "Patienten": {
+      "word": "Patienten",
+      "lemma": "patienten",
+      "translation": "IMPACT",
+      "partOfSpeech": "other",
+      "example": "Das heißt, funktionale Studien wurden durchgeführt, sodass man jetzt einzelne Zellen im Gehirn, im Hippocampus, Hypothalamus, präfrontalen Cortex besser menschlichen Funktionen zuordnen kann und weiß, was die bei Patienten tun und was sie vielleicht nicht tun.",
+      "pronunciation": ""
+    },
+    "ausgezeichnet": {
+      "word": "ausgezeichnet",
+      "lemma": "ausgezeichnet",
+      "translation": "Excelente",
+      "partOfSpeech": "other",
+      "example": "Das ist doch im Prinzip das, wofür Sie ausgezeichnet wurden, oder?",
+      "pronunciation": ""
+    },
+    "Gehirns": {
+      "word": "Gehirns",
+      "lemma": "gehirn",
+      "translation": "Cérebro",
+      "partOfSpeech": "other",
+      "example": "tagesthemen: Ihre Forschung, so das Nobelpreiskomitee, habe \"unser Verständnis des Gehirns grundlegend verändert\".",
+      "pronunciation": ""
+    },
+    "Medizin-Nobelpreisträger": {
+      "word": "Medizin-Nobelpreisträger",
+      "lemma": "medizin-nobelpreisträger",
+      "translation": "prémio Nobel da Medicina",
+      "partOfSpeech": "other",
+      "example": "Peter Hegemann, Medizin-Nobelpreisträger, zum Inhalt seiner Forschung tagesthemen, Das Erste, 05.10.2026 • 21:45 Uhr \"Eine Technologie, die man sich lange gewünscht hat\" tagesthemen: Und doch führt das dazu, dass man einen besseren Überblick schaffen kann, wo welche Bereiche wie funktionieren im Gehirn.",
+      "pronunciation": ""
+    },
+    "Technologie": {
+      "word": "Technologie",
+      "lemma": "technologie",
+      "translation": "A tecnologia",
+      "partOfSpeech": "other",
+      "example": "Peter Hegemann, Medizin-Nobelpreisträger, zum Inhalt seiner Forschung tagesthemen, Das Erste, 05.10.2026 • 21:45 Uhr \"Eine Technologie, die man sich lange gewünscht hat\" tagesthemen: Und doch führt das dazu, dass man einen besseren Überblick schaffen kann, wo welche Bereiche wie funktionieren im Gehirn.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
+  "sourceSite": "tagesschau.de"
+}

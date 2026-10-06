@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-studium",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Warum ein Studium keine Jobgarantie mehr ist",
+  "content": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Ein Studium als Garantie für einen sicheren Job? Diese Rechnung geht in Deutschland gerade nicht mehr auf. Denn hierzulande waren 2025 laut Bundesagentur für Arbeit rund 335.000 Menschen mit Uniabschluss arbeitslos - ein trauriger Rekord. Die Arbeitslosenquote bei Akademikern lag damit im vergangenen Jahr bei 3,3 Prozent. Das klingt im Vergleich zur allgemeinen Arbeitslosenquote gering, lag sie doch für das Gesamtjahr 2025 bei 6,3 Prozent. Aber vor der Corona-Pandemie lag die Arbeitslosenquote unter Akademikern noch bei nur 2,1 Prozent. Der Anstieg auf 3,3 Prozent ist ein Sprung um 57 Prozent. Werte über drei Prozent bei der Akademiker-Arbeitslosenquote gab es zuletzt 2007. Diese Zahlen zeigen: Die aktuelle Krise trifft inzwischen auch jene, die von Konjunktureinbrüchen früher verschont blieben, erklärt der Arbeitsmarktforscher Enzo Weber dem ARD -Finanzformat 50k : \"In den letzten Jahren sehen wir, auch Akademiker sind nicht mehr immun gegen die Krise.\" Das hat verschiedene Gründe: so sorgen einerseits Entwicklungen wie die Künstliche Intelligenz dafür, dass auch in \"typischen Schreibtischjobs\" die menschliche Leistung immer mehr in den Hintergrund rückt und die KI \"immer mehr Tätigkeiten übernehmen\" könne, so Weber. Es gibt aber auch noch eine andere Ursache: Es gibt schlicht viel mehr Studierende als früher. Seit Jahrzehnten steigt die Zahl der Studierenden hierzulande deutlich. 2014 gab es bereits 2,7 Millionen Studierende und 1,43 Millionen Azubis, zehn Jahre später sogar schon 2,9 Millionen Studierende und nur noch 1,21 Millionen Azubis. Studieren war lange attraktiv, auch weil die Politik nach dem Zweiten Weltkrieg massiv auf mehr Bildung setzte. Mit zusätzlichen Gymnasien und Unis wollte man - durch bessere Bildung - auch die Wirtschaft stärken. Denn es wurden immer mehr Ingenieure, Naturwissenschaftlerinnen, Ökonomen und andere Fachkräfte gebraucht. In Engpassberufen sind Beschäftigte mit Einwanderungsgeschichte überdurchschnittlich stark vertreten. mehr",
+  "translation": "",
+  "wordCount": 308,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:00:59.835Z",
+  "vocab": {
+    "Arbeitslosenquote": {
+      "word": "Arbeitslosenquote",
+      "lemma": "arbeitslosenquote",
+      "translation": "Taxa de desemprego",
+      "partOfSpeech": "other",
+      "example": "Die Arbeitslosenquote bei Akademikern lag damit im vergangenen Jahr bei 3,3 Prozent.",
+      "pronunciation": ""
+    },
+    "Prozent": {
+      "word": "Prozent",
+      "lemma": "prozent",
+      "translation": "porcento",
+      "partOfSpeech": "other",
+      "example": "Die Arbeitslosenquote bei Akademikern lag damit im vergangenen Jahr bei 3,3 Prozent.",
+      "pronunciation": ""
+    },
+    "Millionen": {
+      "word": "Millionen",
+      "lemma": "millionen",
+      "translation": "Milhões",
+      "partOfSpeech": "other",
+      "example": "2014 gab es bereits 2,7 Millionen Studierende und 1,43 Millionen Azubis, zehn Jahre später sogar schon 2,9 Millionen Studierende und nur noch 1,21 Millionen Azubis.",
+      "pronunciation": ""
+    },
+    "hierzulande": {
+      "word": "hierzulande",
+      "lemma": "hierzulande",
+      "translation": "neste país",
+      "partOfSpeech": "other",
+      "example": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job.",
+      "pronunciation": ""
+    },
+    "Studierende": {
+      "word": "Studierende",
+      "lemma": "studierende",
+      "translation": "Estudantes",
+      "partOfSpeech": "other",
+      "example": "Es gibt aber auch noch eine andere Ursache: Es gibt schlicht viel mehr Studierende als früher.",
+      "pronunciation": ""
+    },
+    "Akademiker-Arbeitslosenquote": {
+      "word": "Akademiker-Arbeitslosenquote",
+      "lemma": "akademiker-arbeitslosenquote",
+      "translation": "taxa de Desemprego Académico",
+      "partOfSpeech": "other",
+      "example": "Werte über drei Prozent bei der Akademiker-Arbeitslosenquote gab es zuletzt 2007.",
+      "pronunciation": ""
+    },
+    "Naturwissenschaftlerinnen": {
+      "word": "Naturwissenschaftlerinnen",
+      "lemma": "naturwissenschaftlerinnen",
+      "translation": "cientistas naturais",
+      "partOfSpeech": "other",
+      "example": "Denn es wurden immer mehr Ingenieure, Naturwissenschaftlerinnen, Ökonomen und andere Fachkräfte gebraucht.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
+  "sourceSite": "tagesschau.de"
+}

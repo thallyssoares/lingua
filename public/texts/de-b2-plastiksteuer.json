@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-plastiksteuer",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Union und SPD planen neue Plastiksteuer",
+  "content": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren. Sie erhoffen sich auch wichtige Einnahmen für den Haushalt. Wirtschaftsverbände kritisieren den Entwurf. Die Bundestagsfraktionen von CDU/CSU und SPD planen eine neue Steuer auf Kunststoff. Dem Entwurf zufolge sollen ab Juli 2027 für jede Tonne Kunststoff in Verpackungen 550 Euro fällig werden. Das geht aus einem Gesetzentwurf hervor, der auf einem Beschluss der Bundesregierung vom Juli basiert. Damit könnten Plastikverpackungen für Unternehmen ab dem kommenden Jahr teurer werden. Steuerpflichtig sollen demzufolge Kunststoffverpackungen, -folien und Verbundverpackungen werden, wenn deren Kunststoffanteil mehr als fünf Prozent beträgt. Die Steuer soll bei der Herstellung, dem Verbringen oder der Einfuhr der entsprechenden Verpackungen anfallen. Für Verpackungen aus recyceltem Kunststoff kann die Steuer auf Antrag entfallen. Tausende Chemikalien im Plastik - das macht es oft kaum möglich, die Grundstoffe zu isolieren und wiederzuverwenden. mehr Dem Entwurf zufolge sollen mit der Verbrauchssteuer Anreize geschaffen werden, den Verbrauch von Kunststoffverpackungen zu verringern. Außerdem sollen durch das Gesetz zusätzliche Einnahmen für den Bundeshaushalt entstehen. Für 2027 wird mit zusätzlichen Steuereinnahmen von 805 Millionen Euro gerechnet. Ab 2028 könnten die Mehreinnahmen laut den Berechnungen bei knapp 1,5 Milliarden Euro jährlich liegen. Die Deutsche Umwelthilfe begrüßte die Initiative. Es müsse aber sichergestellt werden, dass die Steuer auf Einwegverpackungen beschränkt bleibe und nicht auf Mehrweg erhoben werde, erklärte eine Sprecherin der Organisation. Dazu sollte die Verbrauchssteuer auf Papier, Pappe, Karton und Metalle wie Aluminium und Weißblech ausgeweitet werden, um eine Verlagerung auf andere Verpackungsmaterialien zu verhindern, hieß es. In einer Reaktion auf den Entwurf wandten sich Wirtschaftsverbände mit einem Brief an Kanzleramtsministerin Nina Warken (CDU). Darin warnten sie, diese Steuer \"im Schnellverfahren\" ohne Ressortbeteiligung und Kabinettsbeschluss einzuführen. Das Kanzleramt müsse das Bundesfinanzministerium hier stoppen, forderten die Verbände. Zu den Unterzeichnern gehören unter anderem die Ernährungsindustrie, der Handelsverband und die Kunststoffverpackungsindustrie. Dieses Thema im Programm: tagesschau.de | Plastiksteuer: Unternehmen sollen zahlen | 05.10.2026 | 16:29 Uhr",
+  "translation": "",
+  "wordCount": 320,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:33.990Z",
+  "vocab": {
+    "Kunststoffverpackungen": {
+      "word": "Kunststoffverpackungen",
+      "lemma": "kunststoffverpackungen",
+      "translation": "embalagens plásticas",
+      "partOfSpeech": "other",
+      "example": "Steuerpflichtig sollen demzufolge Kunststoffverpackungen, -folien und Verbundverpackungen werden, wenn deren Kunststoffanteil mehr als fünf Prozent beträgt.",
+      "pronunciation": ""
+    },
+    "Wirtschaftsverbände": {
+      "word": "Wirtschaftsverbände",
+      "lemma": "wirtschaftsverbände",
+      "translation": "associações industriais,",
+      "partOfSpeech": "other",
+      "example": "Wirtschaftsverbände kritisieren den Entwurf.",
+      "pronunciation": ""
+    },
+    "Steuer": {
+      "word": "Steuer",
+      "lemma": "steuer",
+      "translation": "impostos",
+      "partOfSpeech": "other",
+      "example": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren.",
+      "pronunciation": ""
+    },
+    "Verpackungen": {
+      "word": "Verpackungen",
+      "lemma": "verpackungen",
+      "translation": "Embalagens",
+      "partOfSpeech": "other",
+      "example": "Dem Entwurf zufolge sollen ab Juli 2027 für jede Tonne Kunststoff in Verpackungen 550 Euro fällig werden.",
+      "pronunciation": ""
+    },
+    "Unternehmen": {
+      "word": "Unternehmen",
+      "lemma": "unternehmen",
+      "translation": "EMPRESA",
+      "partOfSpeech": "other",
+      "example": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren.",
+      "pronunciation": ""
+    },
+    "Verbrauchssteuer": {
+      "word": "Verbrauchssteuer",
+      "lemma": "verbrauchssteuer",
+      "translation": "imposto de consumo",
+      "partOfSpeech": "other",
+      "example": "mehr Dem Entwurf zufolge sollen mit der Verbrauchssteuer Anreize geschaffen werden, den Verbrauch von Kunststoffverpackungen zu verringern.",
+      "pronunciation": ""
+    },
+    "Kunststoff": {
+      "word": "Kunststoff",
+      "lemma": "kunststoff",
+      "translation": "Plásticos",
+      "partOfSpeech": "other",
+      "example": "Die Bundestagsfraktionen von CDU/CSU und SPD planen eine neue Steuer auf Kunststoff.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/koalition-fraktionen-plastiksteuer-100.html",
+  "sourceSite": "tagesschau.de"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-paralympics",
+  "language": "de",
+  "level": "A2",
+  "theme": "Futebol",
+  "title": "Paralympics sind mit großer Feier zu Ende gegangen",
+  "content": "Russland ist ein sehr großes Land. Es ist eines der mächtigsten Länder der Welt. Der größte Teil von Russland gehört zu Asien. Der kleinere Teil liegt in Europa. Die Haupt-Stadt von Russland ist Moskau. Belarus ist ein Land in Ost-Europa. Früher hieß es Weiß-Russland. Die Haupt-Stadt heißt Minsk. Belarus ist eine Diktatur. Das heißt, die Menschen können dort nicht frei leben. Der Präsident von Belarus heißt Alexander Lukaschenko. Belarus gehörte früher zusammen mit Russland und anderen Ländern zur Sowjet-Union. Die Ukraine ist ein Land in Ost-Europa. Die Ukraine gehörte früher zu dem Land Sowjet-Union. Die Ukraine ist fast doppelt so groß wie Deutschland, aber es leben viel weniger Menschen dort. Viele von ihnen sprechen Ukrainisch und Russisch. Die Haupt-Stadt heißt Kiew. Ein Nachbar-Land von der Ukraine ist Russland. Russland möchte Teile von der Ukraine haben. Darum gibt es seit 2014 Kämpfe um diese Teile: zum Beispiel um die Halb-Insel Krim oder den Osten von der Ukraine. Im Jahr 2022 hat Russland dann die ganze Ukraine angegriffen. Seitdem ist Krieg in dem Land. Der Gewinner bei einem großen Sport-Wettkampf bekommt eine Gold-Medaille. Der Zweite bekommt eine Silber-Medaille, der Dritte bekommt eine Bronze-Medaille. Eine Medaille sieht aus wie eine große Münze. Sie hat ein Band, an der man sie um den Hals tragen kann. Auf der Medaille steht geschrieben, wofür man sie gewonnen hat.",
+  "translation": "",
+  "wordCount": 222,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:10:53.690Z",
+  "vocab": {
+    "Russland": {
+      "word": "Russland",
+      "lemma": "russland",
+      "translation": "Russia",
+      "partOfSpeech": "other",
+      "example": "Russland ist ein sehr großes Land.",
+      "pronunciation": ""
+    },
+    "Ukraine": {
+      "word": "Ukraine",
+      "lemma": "ukraine",
+      "translation": "Ucrânia",
+      "partOfSpeech": "other",
+      "example": "Die Ukraine ist ein Land in Ost-Europa.",
+      "pronunciation": ""
+    },
+    "Haupt-Stadt": {
+      "word": "Haupt-Stadt",
+      "lemma": "haupt-stadt",
+      "translation": "haupt-stadt",
+      "partOfSpeech": "other",
+      "example": "Die Haupt-Stadt von Russland ist Moskau.",
+      "pronunciation": ""
+    },
+    "Belarus": {
+      "word": "Belarus",
+      "lemma": "belarus",
+      "translation": "belarus",
+      "partOfSpeech": "other",
+      "example": "Belarus ist ein Land in Ost-Europa.",
+      "pronunciation": ""
+    },
+    "Sowjet-Union": {
+      "word": "Sowjet-Union",
+      "lemma": "sowjet-union",
+      "translation": "sowjet-union",
+      "partOfSpeech": "other",
+      "example": "Belarus gehörte früher zusammen mit Russland und anderen Ländern zur Sowjet-Union.",
+      "pronunciation": ""
+    },
+    "bekommt": {
+      "word": "bekommt",
+      "lemma": "bekommt",
+      "translation": "bekommt",
+      "partOfSpeech": "other",
+      "example": "Der Gewinner bei einem großen Sport-Wettkampf bekommt eine Gold-Medaille.",
+      "pronunciation": ""
+    },
+    "Ost-Europa": {
+      "word": "Ost-Europa",
+      "lemma": "ost-europa",
+      "translation": "ost-europa",
+      "partOfSpeech": "other",
+      "example": "Belarus ist ein Land in Ost-Europa.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/paralympics-132.html",
+  "sourceSite": "Nachrichtenleicht"
+}

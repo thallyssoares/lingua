@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-cerebros",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "¿Tenemos dos cerebros?",
+  "content": "La publicación ha tenido una gran repercusión mediática, quizás porque algunas fuentes de referencia, como Stanford Medicine , han presentado la noticia con un titular provocador: “ El cerebro humano son dos órganos separados ”. Pero ¿realmente es eso lo que demuestra el estudio? Vayamos por partes. Al comienzo del desarrollo embrionario, durante la etapa denominada gastrulación , las células se organizan en tres capas llamadas ectodermo , mesodermo y endodermo . De ellas surgirán los distintos tejidos del cuerpo. Solo por citar algunos, el ectodermo contribuye a formar el tejido nervioso y la epidermis, el mesodermo da lugar al muscular y al óseo, y el endodermo genera el revestimiento (epitelio) de buena parte del aparato digestivo y del respiratorio. Sin embargo, si hablamos de órganos completos, no se suelen construir con una sola de las tres capas embrionarias. En el intestino, por ejemplo, el revestimiento interno procede del endodermo, mientras que parte de sus músculos y vasos sanguíneos provienen del mesodermo. Podemos, pues, decir que un órgano es una parte del cuerpo formada por diferentes tejidos que se organizan para cumplir determinadas funciones. Cuando hablamos del cerebro, generalmente nos referirnos al conjunto de estructuras nerviosas situadas dentro del cráneo. En anatomía, el nombre preciso para ese conjunto es encéfalo . El cerebro es una de sus partes, junto con el cerebelo y el tronco encefálico. Durante el desarrollo embrionario, el encéfalo se organiza en tres grandes regiones: prosencéfalo , mesencéfalo y rombencéfalo . Estos nombres describen regiones en formación, mientras que cerebro, cerebelo y tronco encefálico designan partes del encéfalo que podemos distinguir en etapas posteriores del desarrollo. Esto nos puede ayudar a entender la pregunta que se plantea en el nuevo estudio, ya que los investigadores no examinan si tenemos dos cerebros en el sentido anatómico de la palabra. Más bien, tratan de comprobar si diferentes regiones del encéfalo proceden de una misma población de células o de poblaciones diferentes. Lo que revela el nuevo estudio es que, al final de la gastrulación, en el ratón se distinguen dos poblaciones de células neurales con destinos diferentes. Las células de la región anterior del ectodermo (la capa de células embrionarias que da lugar al sistema nervioso) contribuyeron al desarrollo del prosencéfalo y del mesencéfalo, mientras que las de la región posterior del ectodermo generaron, principalmente, la parte posterior del rombencéfalo.",
+  "translation": "",
+  "wordCount": 391,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:08:39.112Z",
+  "vocab": {
+    "desarrollo": {
+      "word": "desarrollo",
+      "lemma": "desarrollo",
+      "translation": "desenvolvimento",
+      "partOfSpeech": "other",
+      "example": "Al comienzo del desarrollo embrionario, durante la etapa denominada gastrulación , las células se organizan en tres capas llamadas ectodermo , mesodermo y endodermo .",
+      "pronunciation": ""
+    },
+    "diferentes": {
+      "word": "diferentes",
+      "lemma": "diferentes",
+      "translation": "diferentes.",
+      "partOfSpeech": "other",
+      "example": "Podemos, pues, decir que un órgano es una parte del cuerpo formada por diferentes tejidos que se organizan para cumplir determinadas funciones.",
+      "pronunciation": ""
+    },
+    "ectodermo": {
+      "word": "ectodermo",
+      "lemma": "ectodermo",
+      "translation": "Ectoderma",
+      "partOfSpeech": "other",
+      "example": "Al comienzo del desarrollo embrionario, durante la etapa denominada gastrulación , las células se organizan en tres capas llamadas ectodermo , mesodermo y endodermo .",
+      "pronunciation": ""
+    },
+    "células": {
+      "word": "células",
+      "lemma": "células",
+      "translation": "células",
+      "partOfSpeech": "other",
+      "example": "Al comienzo del desarrollo embrionario, durante la etapa denominada gastrulación , las células se organizan en tres capas llamadas ectodermo , mesodermo y endodermo .",
+      "pronunciation": ""
+    },
+    "encéfalo": {
+      "word": "encéfalo",
+      "lemma": "encéfalo",
+      "translation": "cérebro",
+      "partOfSpeech": "other",
+      "example": "En anatomía, el nombre preciso para ese conjunto es encéfalo .",
+      "pronunciation": ""
+    },
+    "cerebro": {
+      "word": "cerebro",
+      "lemma": "cerebro",
+      "translation": "cérebro",
+      "partOfSpeech": "other",
+      "example": "La publicación ha tenido una gran repercusión mediática, quizás porque algunas fuentes de referencia, como Stanford Medicine , han presentado la noticia con un titular provocador: “ El cerebro humano son dos órganos separados ”.",
+      "pronunciation": ""
+    },
+    "mesodermo": {
+      "word": "mesodermo",
+      "lemma": "mesodermo",
+      "translation": "Mesoderma",
+      "partOfSpeech": "other",
+      "example": "Al comienzo del desarrollo embrionario, durante la etapa denominada gastrulación , las células se organizan en tres capas llamadas ectodermo , mesodermo y endodermo .",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/tenemos-dos-cerebros-292964",
+  "sourceSite": "The Conversation"
+}

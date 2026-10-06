@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-lluvias-verano",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Por qué las lluvias tras el verano son más que necesarias",
+  "content": "A las altas temperaturas se le añaden las escasas precipitaciones. Los meses de junio y julio han sido especialmente secos, con 12,4 mm (el 39 % del promedio normal del mes en el periodo 1991-2020) y 4,6 mm (un 26 % del promedio normal del mes) de precipitación, respectivamente. Aunque estas condiciones de altas temperaturas y escasas precipitaciones han tenido un importante impacto en la reserva de aguas embalsadas, a finales del verano las reservas totales eran algo superiores a las de 2025 como resultado de un invierno y primavera muy húmedos, con intensas precipitaciones. No obstante, mientras que a finales de mayo la reserva hídrica peninsular estaba en 46 593 hm³ (83 % de la capacidad total), los últimos días de agosto había descendido a 35 87546 hm³ (64 % de la capacidad total). Como siempre ha ocurrido en la península ibérica, la distribución de las reservas es desigual, pero en este año destaca que las cuencas que tradicionalmente han tenido mayores reservas (Asturias, Galicia, Cantabria, Navarra, La Rioja), ahora presentan una mayor escasez, algunas de ellas en alarma de sequía según el Observatorio Europeo de Sequía . En otros países europeos la situación meteorológica de elevadas temperaturas y escasas precipitaciones ha sido aún más dramática, especialmente en Centroeuropa, donde se han llegado a superar en 15 ºC los valores típicos del periodo 1961-1990 . Ello ha generado la alerta por sequía en países como Francia, Países bajos, Luxemburgo, Alemania meridional, Bélgica, Italia septentrional, Polonia y aquellos países de la cuenca del Danubio . Un periodo relativamente prolongado sin precipitaciones (sequía meteorológica) provoca –como uno de los efectos más evidentes– el descenso en los caudales de los ríos (como los extraordinariamente ocurridos en los grandes ríos europeos: Danubio, Rin, Po, Loira ) y de las reservas embalsadas (sequía hidrológica). La ausencia de precipitaciones también incide en un descenso en la recarga de los acuíferos, aunque no tan conspicuo. Leia mais: La sequía se gesta en los años lluviosos",
+  "translation": "",
+  "wordCount": 329,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:05.608Z",
+  "vocab": {
+    "precipitaciones": {
+      "word": "precipitaciones",
+      "lemma": "precipitaciones",
+      "translation": "precipitação",
+      "partOfSpeech": "other",
+      "example": "A las altas temperaturas se le añaden las escasas precipitaciones.",
+      "pronunciation": ""
+    },
+    "temperaturas": {
+      "word": "temperaturas",
+      "lemma": "temperaturas",
+      "translation": "temperaturas",
+      "partOfSpeech": "other",
+      "example": "A las altas temperaturas se le añaden las escasas precipitaciones.",
+      "pronunciation": ""
+    },
+    "sequía": {
+      "word": "sequía",
+      "lemma": "sequía",
+      "translation": "seca",
+      "partOfSpeech": "other",
+      "example": "Como siempre ha ocurrido en la península ibérica, la distribución de las reservas es desigual, pero en este año destaca que las cuencas que tradicionalmente han tenido mayores reservas (Asturias, Galicia, Cantabria, Navarra, La Rioja), ahora presentan una mayor escasez, algunas de ellas en alarma de sequía según el Observatorio Europeo de Sequía .",
+      "pronunciation": ""
+    },
+    "reservas": {
+      "word": "reservas",
+      "lemma": "reservas",
+      "translation": "aprovisionamentos",
+      "partOfSpeech": "other",
+      "example": "Aunque estas condiciones de altas temperaturas y escasas precipitaciones han tenido un importante impacto en la reserva de aguas embalsadas, a finales del verano las reservas totales eran algo superiores a las de 2025 como resultado de un invierno y primavera muy húmedos, con intensas precipitaciones.",
+      "pronunciation": ""
+    },
+    "especialmente": {
+      "word": "especialmente",
+      "lemma": "especialmente",
+      "translation": "especialmente",
+      "partOfSpeech": "other",
+      "example": "Los meses de junio y julio han sido especialmente secos, con 12,4 mm (el 39 % del promedio normal del mes en el periodo 1991-2020) y 4,6 mm (un 26 % del promedio normal del mes) de precipitación, respectivamente.",
+      "pronunciation": ""
+    },
+    "meteorológica": {
+      "word": "meteorológica",
+      "lemma": "meteorológica",
+      "translation": "meteorológico",
+      "partOfSpeech": "other",
+      "example": "En otros países europeos la situación meteorológica de elevadas temperaturas y escasas precipitaciones ha sido aún más dramática, especialmente en Centroeuropa, donde se han llegado a superar en 15 ºC los valores típicos del periodo 1961-1990 .",
+      "pronunciation": ""
+    },
+    "países": {
+      "word": "países",
+      "lemma": "países",
+      "translation": "países",
+      "partOfSpeech": "other",
+      "example": "En otros países europeos la situación meteorológica de elevadas temperaturas y escasas precipitaciones ha sido aún más dramática, especialmente en Centroeuropa, donde se han llegado a superar en 15 ºC los valores típicos del periodo 1961-1990 .",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/por-que-las-lluvias-tras-el-verano-son-mas-que-necesarias-291685",
+  "sourceSite": "The Conversation"
+}

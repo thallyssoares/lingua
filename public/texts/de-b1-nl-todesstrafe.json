@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-nl-todesstrafe",
+  "language": "de",
+  "level": "B1",
+  "theme": "Investigação",
+  "title": "Israelisches Parlament beschließt neues Gesetz zur Todes-Strafe",
+  "content": "Die Palästinenser sind ein arabisch-sprechendes Volk im Nahen Osten. Sie haben keinen eigenen Staat. Sie leben in verschiedenen Ländern. Sie leben zum Beispiel in Jordanien, in Israel und im Libanon. Die meisten Palästinenser leben aber in den Gebieten West-Jordan-Land und Gaza-Streifen. Palästinensische Politiker dürfen dort mitbestimmen. Aber auch Israel hat viel Macht in den Gebieten. Israelische Soldaten kontrollieren zum Beispiel, welche Menschen und welche Waren in das West-Jordan-Land und in den Gaza-Streifen kommen. Inzwischen leben auch viele Menschen aus Israel im West-Jordan-Land. Die Palästinenser sagen: Diese Menschen nehmen uns unser Land weg. Lange haben Palästinenser in Gebieten gelebt, die heute zu Israel gehören. Die Palästinenser wurden von dort vertrieben, als die Juden einen eigenen Staat bekamen. Das war nach dem 2. Welt-Krieg. Seitdem gab es immer wieder Konflikte zwischen Israel und den Palästinensern. Denn die Palästinenser wollen endlich einen eigenen Staat. Die Todes-Strafe ist die schlimmste Strafe, die ein Gericht verhängen kann. Todes-Strafe bedeutet: Der Verurteilte wird getötet. Er wird zum Beispiel erschossen, gehängt oder mit einer Gift-Spritze getötet. Die Todes-Strafe gibt es nur in manchen Ländern. Es gibt sie zum Beispiel in den USA, in Ägypten und in Indonesien. In Deutschland gibt es schon lange keine Todes-Strafe mehr. An einem Gericht entscheiden Richter und Richterinnen über Streit-Fälle. Sie kennen die Gesetze und entscheiden, ob jemand etwas Verbotenes getan hat. Nazi ist die Abkürzung für National-Sozialist. In Deutschland waren die Nazis von 1933 bis 1945 an der Macht. Sie überfielen andere Länder und waren schuld am 2. Welt-Krieg. Die Nazis ermordeten sehr viele Juden. Der Anführer der Nazis hieß Adolf Hitler. Nazis sind ausländerfeindlich: sie wollen nicht, dass Ausländer in Deutschland leben. Sie sind auch gegen Schwule und Lesben und gegen fremde Religionen. Heute gibt es auch noch Menschen, die so denken. Sie werden Neo-Nazis genannt.",
+  "translation": "",
+  "wordCount": 296,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:07.016Z",
+  "vocab": {
+    "Palästinenser": {
+      "word": "Palästinenser",
+      "lemma": "palästinenser",
+      "translation": "palästinenser",
+      "partOfSpeech": "other",
+      "example": "Die Palästinenser sind ein arabisch-sprechendes Volk im Nahen Osten.",
+      "pronunciation": ""
+    },
+    "West-Jordan-Land": {
+      "word": "West-Jordan-Land",
+      "lemma": "west-jordan-land",
+      "translation": "west-jordan-land",
+      "partOfSpeech": "other",
+      "example": "Die meisten Palästinenser leben aber in den Gebieten West-Jordan-Land und Gaza-Streifen.",
+      "pronunciation": ""
+    },
+    "Todes-Strafe": {
+      "word": "Todes-Strafe",
+      "lemma": "todes-strafe",
+      "translation": "todes-strafe",
+      "partOfSpeech": "other",
+      "example": "Die Todes-Strafe ist die schlimmste Strafe, die ein Gericht verhängen kann.",
+      "pronunciation": ""
+    },
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "In Deutschland gibt es schon lange keine Todes-Strafe mehr.",
+      "pronunciation": ""
+    },
+    "Beispiel": {
+      "word": "Beispiel",
+      "lemma": "beispiel",
+      "translation": "beispiel",
+      "partOfSpeech": "other",
+      "example": "Sie leben zum Beispiel in Jordanien, in Israel und im Libanon.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Israelische Soldaten kontrollieren zum Beispiel, welche Menschen und welche Waren in das West-Jordan-Land und in den Gaza-Streifen kommen.",
+      "pronunciation": ""
+    },
+    "Israel": {
+      "word": "Israel",
+      "lemma": "israel",
+      "translation": "israel",
+      "partOfSpeech": "other",
+      "example": "Sie leben zum Beispiel in Jordanien, in Israel und im Libanon.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/todes-strafe-israel-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

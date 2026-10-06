@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-salud-mental",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Volver al trabajo tras una baja por salud mental: qué hace falta además del alta médica",
+  "content": "Aunque ha recibido el alta y puede trabajar, la notificación médica no decide cómo será ese primer día ni qué va a pasar durante la semana siguiente. Y de eso se habla poco. Durante una baja la vida sigue, y también el trabajo: puede que haya cambiado el equipo, que hayan aparecido tareas nuevas o que alguien haya asumido parte de lo que hacía el trabajador o la trabajadora ausente. Aunque a veces, todo sigue casi igual. Una persona puede encontrarse mejor y estar preparada para reincorporarse sin sentirse todavía igual que meses atrás. Tal vez le cueste mantener la concentración durante mucho rato, tal vez se canse antes. O quizá le preocupe no saber qué se va a encontrar al llegar. La Organización Mundial de la Salud recomienda que, cuando haga falta, se faciliten ajustes y medidas de apoyo a la reincorporación al trabajo tras un problema de salud mental. Dicho así suena muy formal, pero no tiene por qué serlo. A veces basta con decidir qué es urgente y qué no. O con evitar que el primer día aparezcan, de golpe, todos los asuntos guardados durante meses. Cuando alguien ha sufrido ansiedad o depresión, hay que mirar primero a la persona: cómo está, qué síntomas tiene, si ya puede volver al trabajo. Todo eso importa, pero también importa a dónde vuelve. No es igual regresar a un puesto en el que puede organizar parte del día que hacerlo a otro en el que todo viene marcado desde fuera. Tampoco es lo mismo volver a un equipo tranquilo que a uno en el que cada mañana empieza con cinco asuntos urgentes, y nadie tiene claro cuál va primero. Pensemos en alguien que, antes de la baja, pasaba buena parte del día saltando de una cosa a otra: correos, llamadas, interrupciones. Si vuelve y encuentra exactamente lo mismo, conviene preguntarse si el problema del regreso está solo en la persona.",
+  "translation": "",
+  "wordCount": 320,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.477Z",
+  "vocab": {
+    "durante": {
+      "word": "durante",
+      "lemma": "durante",
+      "translation": "durante",
+      "partOfSpeech": "other",
+      "example": "Aunque ha recibido el alta y puede trabajar, la notificación médica no decide cómo será ese primer día ni qué va a pasar durante la semana siguiente.",
+      "pronunciation": ""
+    },
+    "puede": {
+      "word": "puede",
+      "lemma": "puede",
+      "translation": "Pode",
+      "partOfSpeech": "other",
+      "example": "Aunque ha recibido el alta y puede trabajar, la notificación médica no decide cómo será ese primer día ni qué va a pasar durante la semana siguiente.",
+      "pronunciation": ""
+    },
+    "trabajo": {
+      "word": "trabajo",
+      "lemma": "trabajo",
+      "translation": "trabalho",
+      "partOfSpeech": "other",
+      "example": "Durante una baja la vida sigue, y también el trabajo: puede que haya cambiado el equipo, que hayan aparecido tareas nuevas o que alguien haya asumido parte de lo que hacía el trabajador o la trabajadora ausente.",
+      "pronunciation": ""
+    },
+    "alguien": {
+      "word": "alguien",
+      "lemma": "alguien",
+      "translation": "alguém",
+      "partOfSpeech": "other",
+      "example": "Durante una baja la vida sigue, y también el trabajo: puede que haya cambiado el equipo, que hayan aparecido tareas nuevas o que alguien haya asumido parte de lo que hacía el trabajador o la trabajadora ausente.",
+      "pronunciation": ""
+    },
+    "persona": {
+      "word": "persona",
+      "lemma": "persona",
+      "translation": "Denominações de Grupos",
+      "partOfSpeech": "other",
+      "example": "Una persona puede encontrarse mejor y estar preparada para reincorporarse sin sentirse todavía igual que meses atrás.",
+      "pronunciation": ""
+    },
+    "problema": {
+      "word": "problema",
+      "lemma": "problema",
+      "translation": "problema",
+      "partOfSpeech": "other",
+      "example": "La Organización Mundial de la Salud recomienda que, cuando haga falta, se faciliten ajustes y medidas de apoyo a la reincorporación al trabajo tras un problema de salud mental.",
+      "pronunciation": ""
+    },
+    "parte": {
+      "word": "parte",
+      "lemma": "parte",
+      "translation": "parte de uma obra",
+      "partOfSpeech": "other",
+      "example": "Durante una baja la vida sigue, y también el trabajo: puede que haya cambiado el equipo, que hayan aparecido tareas nuevas o que alguien haya asumido parte de lo que hacía el trabajador o la trabajadora ausente.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/volver-al-trabajo-tras-una-baja-por-salud-mental-que-hace-falta-ademas-del-alta-medica-292194",
+  "sourceSite": "The Conversation"
+}

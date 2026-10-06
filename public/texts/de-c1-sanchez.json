@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-sanchez",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Vorgezogene Wahl: Das Kalkül von Spaniens &quot;Überlebenskünstler&quot; Sánchez",
+  "content": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Es lief zuletzt meist nicht gut für Pedro Sánchez, den Ministerpräsidenten Spaniens. Bei der Regionalwahl in Andalusien verlor seine sozialdemokratische Partei (PSOE) im Mai krachend. Im Umfeld von Sánchez gibt es verschiedene Korruptionsfälle . Die Migrationskrise in der spanischen Exklave Ceuta vom Juli 2026 schwelt weiter. Dann wird die Wohnung einer 87-jährigen Frau zwangsgeräumt, weil sie eine Mieterhöhung nicht zahlen kann. Bilder davon gehen um die Welt: eine kämpferische alte Dame, die erschöpft in einen Krankenwagen getragen wird. In Spanien sorgt es für einen Aufschrei - und nun für Neuwahlen. Es ist nicht das erste Mal, dass Sánchez dieses Mittel wählt. Zehntausende forderten besseren Mieterschutz. Die 87-Jährige musste ihre Wohnung nach 70 Jahren räumen. mehr Schon 2023 ruft Sánchez nach verlorenen Lokal- und Regionalwahlen seiner Partei Neuwahlen aus. Die konservative Partei Partido Popular (PP) gewinnt. Doch die PP kann nicht allein regieren, und auch mit der rechtspopulistischen Partei VOX reicht es nicht zu einer Mehrheit im Parlament. Sánchez, dessen Partei 2023 nur zweitstärkste Kraft wird, bleibt daraufhin an der Macht. Denn ihm gelingt es, Regionalparteien zu überzeugen, eine von ihm geführte Minderheitsregierung mit dem linken Bündnis Sumar zu unterstützen. Was ihm viele Spanier bis heute übel nehmen: Sánchez sichert sich dabei auch die Unterstützung der katalanischen Separatisten um Carles Puigdemont zu. Es ist der Mann, der die Region Katalonien nach einem für verfassungswidrig erklärten Unabhängigkeitsreferendum 2017 in die Unabhängigkeit führen wollte. Die Begnadigung neun katalanischer Separatistenführer durch Ministerpräsident Sánchez macht niemanden froh. mehr Sánchez macht gegenüber allen Regionalparteien Zugeständnisse und Versprechungen. Nichts davon ist aber so umstritten wie eine Verabredung, die er mit der Partei von Puigdemont (Junts) trifft. Er stellt ein Amnestiegesetz für katalanische Separatisten in Aussicht und wirbt dafür, dass Katalanisch eine Amtssprache der EU in Brüssel wird. Viele Spanier gehen wütend auf die Straßen . Denn vor der Wahl hatte Sánchez gesagt, ein Amnestiegesetz sei inakzeptabel und unvereinbar mit der Verfassung. Für die einen ist Sánchez ein \"Verräter\". Andere bezeichnen ihn als \"Überlebenskünstler\", der es immer wieder schaffe, sich aus ausweglosen politischen Situationen zu befreien. Sánchez wird schließlich erneut zum Regierungschef gewählt, das Amnestiegesetz 2024 mit knapper Mehrheit verabschiedet.",
+  "translation": "",
+  "wordCount": 378,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:43:48.780Z",
+  "vocab": {
+    "Sánchez": {
+      "word": "Sánchez",
+      "lemma": "sánchez",
+      "translation": "sánchez",
+      "partOfSpeech": "other",
+      "example": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt.",
+      "pronunciation": ""
+    },
+    "Amnestiegesetz": {
+      "word": "Amnestiegesetz",
+      "lemma": "amnestiegesetz",
+      "translation": "amnestiegesetz",
+      "partOfSpeech": "other",
+      "example": "Er stellt ein Amnestiegesetz für katalanische Separatisten in Aussicht und wirbt dafür, dass Katalanisch eine Amtssprache der EU in Brüssel wird.",
+      "pronunciation": ""
+    },
+    "Partei": {
+      "word": "Partei",
+      "lemma": "partei",
+      "translation": "PCC",
+      "partOfSpeech": "other",
+      "example": "Bei der Regionalwahl in Andalusien verlor seine sozialdemokratische Partei (PSOE) im Mai krachend.",
+      "pronunciation": ""
+    },
+    "Ministerpräsident": {
+      "word": "Ministerpräsident",
+      "lemma": "ministerpräsident",
+      "translation": "Primeiro‑ministro:",
+      "partOfSpeech": "other",
+      "example": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt.",
+      "pronunciation": ""
+    },
+    "Regionalparteien": {
+      "word": "Regionalparteien",
+      "lemma": "regionalparteien",
+      "translation": "regionalparteien",
+      "partOfSpeech": "other",
+      "example": "Denn ihm gelingt es, Regionalparteien zu überzeugen, eine von ihm geführte Minderheitsregierung mit dem linken Bündnis Sumar zu unterstützen.",
+      "pronunciation": ""
+    },
+    "Unabhängigkeitsreferendum": {
+      "word": "Unabhängigkeitsreferendum",
+      "lemma": "unabhängigkeitsreferendum",
+      "translation": "unabhängigkeitsreferendum",
+      "partOfSpeech": "other",
+      "example": "Es ist der Mann, der die Region Katalonien nach einem für verfassungswidrig erklärten Unabhängigkeitsreferendum 2017 in die Unabhängigkeit führen wollte.",
+      "pronunciation": ""
+    },
+    "Mieterschutz": {
+      "word": "Mieterschutz",
+      "lemma": "mieterschutz",
+      "translation": "mieterschutz",
+      "partOfSpeech": "other",
+      "example": "Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+  "sourceSite": "tagesschau.de"
+}

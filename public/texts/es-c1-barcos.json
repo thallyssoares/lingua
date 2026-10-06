@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-barcos",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "¿Por qué los barcos siguen chocando, a pesar de la tecnología y de conocer sus respectivas",
+  "content": "Rigor acadêmico, estilo jornalístico Veyadira/Shutterstock ¿Por qué los barcos siguen chocando, a pesar de la tecnología y de conocer sus respectivas posiciones? Publicado: 21 setembro 2026 13:05 -03 El 2 de septiembre de 2026, a las tres y cuarto de la madrugada, el carguero Tuğberk İmamoğlu y el petrolero Alsu chocaron en el mar de Mármara , a 18 millas (unos 29 kilómetros) de la costa de Estambul. El carguero, de 90 metros de eslora, se hundió 11 minutos después, con 10 tripulantes a bordo . ¿Cómo fue posible la colisión, si los dos barcos sabían dónde estaba el otro? A bordo, tenían operativo el radar, el sistema de navegación por satélite y las comunicaciones. De hecho, sus capitanes habían hablado por radio poco antes del impacto. Pero, aunque parezca raro, este accidente no es una excepción. Las colisiones siguen apareciendo en las estadísticas de accidentes marítimos , pese a que un puente de mando moderno cuenta con más información que nunca. Un buque conoce su posición mediante sistemas de navegación por satélite. El sistema de identificación automática (AIS) permite, además, que los barcos intercambien información como su identidad, posición, rumbo y velocidad. El radar es otra fuente de información independiente. Emite ondas de radio y analiza los ecos que regresan de los objetos situados alrededor. Los sistemas de ayuda automática para el punteo radar (ARPA) utilizan esos ecos para seguir otros buques y calcular dos datos especialmente útiles: a qué distancia mínima pasarán si mantienen sus trayectorias y cuánto tiempo falta para que lleguen a ese punto. Si la distancia prevista es demasiado pequeña, existe riesgo de colisión. Pero el cálculo contiene una condición importante: supone que los dos barcos seguirán navegando como hasta ese momento. Con que uno de ellos cambie de rumbo o velocidad, el resultado se modifica . Y es que los sensores permiten saber con bastante precisión dónde está otro barco y cómo se está moviendo . Lo que no pueden medir es qué piensa hacer su capitán en los próximos dos minutos. A esa incertidumbre se añade un problema de escala. Un coche que circula a 50 kilómetros por hora puede detenerse en unas decenas de metros, mientras que un buque necesita mucho más espacio.",
+  "translation": "",
+  "wordCount": 371,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:09:29.603Z",
+  "vocab": {
+    "información": {
+      "word": "información",
+      "lemma": "información",
+      "translation": "informação",
+      "partOfSpeech": "other",
+      "example": "Las colisiones siguen apareciendo en las estadísticas de accidentes marítimos , pese a que un puente de mando moderno cuenta con más información que nunca.",
+      "pronunciation": ""
+    },
+    "barcos": {
+      "word": "barcos",
+      "lemma": "barcos",
+      "translation": "navios",
+      "partOfSpeech": "other",
+      "example": "Rigor acadêmico, estilo jornalístico Veyadira/Shutterstock ¿Por qué los barcos siguen chocando, a pesar de la tecnología y de conocer sus respectivas posiciones?",
+      "pronunciation": ""
+    },
+    "kilómetros": {
+      "word": "kilómetros",
+      "lemma": "kilómetros",
+      "translation": "Quilómetros",
+      "partOfSpeech": "other",
+      "example": "Publicado: 21 setembro 2026 13:05 -03 El 2 de septiembre de 2026, a las tres y cuarto de la madrugada, el carguero Tuğberk İmamoğlu y el petrolero Alsu chocaron en el mar de Mármara , a 18 millas (unos 29 kilómetros) de la costa de Estambul.",
+      "pronunciation": ""
+    },
+    "navegación": {
+      "word": "navegación",
+      "lemma": "navegación",
+      "translation": "navegação",
+      "partOfSpeech": "other",
+      "example": "A bordo, tenían operativo el radar, el sistema de navegación por satélite y las comunicaciones.",
+      "pronunciation": ""
+    },
+    "automática": {
+      "word": "automática",
+      "lemma": "automática",
+      "translation": "automático",
+      "partOfSpeech": "other",
+      "example": "El sistema de identificación automática (AIS) permite, además, que los barcos intercambien información como su identidad, posición, rumbo y velocidad.",
+      "pronunciation": ""
+    },
+    "velocidad": {
+      "word": "velocidad",
+      "lemma": "velocidad",
+      "translation": "velocidade",
+      "partOfSpeech": "other",
+      "example": "El sistema de identificación automática (AIS) permite, además, que los barcos intercambien información como su identidad, posición, rumbo y velocidad.",
+      "pronunciation": ""
+    },
+    "distancia": {
+      "word": "distancia",
+      "lemma": "distancia",
+      "translation": "distância",
+      "partOfSpeech": "other",
+      "example": "Los sistemas de ayuda automática para el punteo radar (ARPA) utilizan esos ecos para seguir otros buques y calcular dos datos especialmente útiles: a qué distancia mínima pasarán si mantienen sus trayectorias y cuánto tiempo falta para que lleguen a ese punto.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/por-que-los-barcos-siguen-chocando-a-pesar-de-la-tecnologia-y-de-conocer-sus-respectivas-posiciones-291302",
+  "sourceSite": "The Conversation"
+}

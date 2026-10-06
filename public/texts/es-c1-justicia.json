@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-justicia",
+  "language": "es",
+  "level": "C1",
+  "theme": "AI Engineering",
+  "title": "La justicia robotizada ya está aquí, pero regulada para que juzgar siga siendo una potesta",
+  "content": "En España, la inteligencia artificial (IA) también ha irrumpido con fuerza en el ámbito judicial. Algo que está dando lugar a un intenso debate acerca de sus implicaciones éticas y jurídicas. En marzo de 2025 se anunció que Cataluña iniciaría un plan piloto en diversos juzgados para evaluar el empleo de sistemas de IA destinados a agilizar la redacción de resoluciones judiciales. La IA ha llegado a todos los sectores de actividad y el ámbito jurídico no ha sido una excepción. Consciente de esta realidad y del creciente interés que despierta esta tecnología disruptiva, el Consejo General del Poder Judicial ha considerado necesario establecer un marco regulador para el uso que jueces y magistrados pueden hacer de ella en el ejercicio de sus funciones. En enero de 2026, el pleno del máximo órgano de gobierno de la judicatura aprobó la Instrucción 2/2026 sobre la utilización de sistemas de IA, con el objetivo de fijar criterios y principios que orienten el empleo de sistemas expertos. El fin último es evitar un uso incontrolado de las herramientas, que pueda comprometer derechos y libertades fundamentales. El modo en que los profesionales del derecho utilizan la IA merece una especial atención y constituye una cuestión que debe preocupar a la sociedad. La inquietud resulta aún mayor cuando una decisión de enorme trascendencia –como la resolución de un conflicto mediante sentencia– puede verse condicionada por la utilización de esta tecnología por parte del juzgador. Bien empleada, la IA ofrece un extraordinario potencial para mejorar la administración de justicia. Entre otras funciones, permite resumir, copiar y redactar textos, transcribir interrogatorios, optimizar la búsqueda de legislación y jurisprudencia aplicable, apoyar razonamientos jurídicos, reforzar la fundamentación argumentativa, facilitar la interpretación de las normas y contribuir a una aplicación más eficiente del derecho. Pero surge una cuestión inevitable: ¿debe el juez informar sobre la utilización de IA generativa como herramienta de apoyo para elaborar y dictar sus resoluciones? Por razones de transparencia, honestidad, ética y, en última instancia, de seguridad –no solo jurídica–, cabe sostener que sí. El magistrado, al igual que cualquier otro profesional que recurra a esta tecnología, debe advertir con naturalidad y sin complejos que se ha servido de ella en el desempeño de su labor.",
+  "translation": "",
+  "wordCount": 370,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:11:38.110Z",
+  "vocab": {
+    "utilización": {
+      "word": "utilización",
+      "lemma": "utilización",
+      "translation": "utilização",
+      "partOfSpeech": "other",
+      "example": "En enero de 2026, el pleno del máximo órgano de gobierno de la judicatura aprobó la Instrucción 2/2026 sobre la utilización de sistemas de IA, con el objetivo de fijar criterios y principios que orienten el empleo de sistemas expertos.",
+      "pronunciation": ""
+    },
+    "tecnología": {
+      "word": "tecnología",
+      "lemma": "tecnología",
+      "translation": "tecnologia",
+      "partOfSpeech": "other",
+      "example": "Consciente de esta realidad y del creciente interés que despierta esta tecnología disruptiva, el Consejo General del Poder Judicial ha considerado necesario establecer un marco regulador para el uso que jueces y magistrados pueden hacer de ella en el ejercicio de sus funciones.",
+      "pronunciation": ""
+    },
+    "sistemas": {
+      "word": "sistemas",
+      "lemma": "sistemas",
+      "translation": "sistemas",
+      "partOfSpeech": "other",
+      "example": "En marzo de 2025 se anunció que Cataluña iniciaría un plan piloto en diversos juzgados para evaluar el empleo de sistemas de IA destinados a agilizar la redacción de resoluciones judiciales.",
+      "pronunciation": ""
+    },
+    "resoluciones": {
+      "word": "resoluciones",
+      "lemma": "resoluciones",
+      "translation": "Decisões",
+      "partOfSpeech": "other",
+      "example": "En marzo de 2025 se anunció que Cataluña iniciaría un plan piloto en diversos juzgados para evaluar el empleo de sistemas de IA destinados a agilizar la redacción de resoluciones judiciales.",
+      "pronunciation": ""
+    },
+    "funciones": {
+      "word": "funciones",
+      "lemma": "funciones",
+      "translation": "funções",
+      "partOfSpeech": "other",
+      "example": "Consciente de esta realidad y del creciente interés que despierta esta tecnología disruptiva, el Consejo General del Poder Judicial ha considerado necesario establecer un marco regulador para el uso que jueces y magistrados pueden hacer de ella en el ejercicio de sus funciones.",
+      "pronunciation": ""
+    },
+    "judicial": {
+      "word": "judicial",
+      "lemma": "judicial",
+      "translation": "Poder judiciário",
+      "partOfSpeech": "other",
+      "example": "En España, la inteligencia artificial (IA) también ha irrumpido con fuerza en el ámbito judicial.",
+      "pronunciation": ""
+    },
+    "cuestión": {
+      "word": "cuestión",
+      "lemma": "cuestión",
+      "translation": "Questão",
+      "partOfSpeech": "other",
+      "example": "El modo en que los profesionales del derecho utilizan la IA merece una especial atención y constituye una cuestión que debe preocupar a la sociedad.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/la-justicia-robotizada-ya-esta-aqui-pero-regulada-para-que-juzgar-siga-siendo-una-potestad-humana-290307",
+  "sourceSite": "The Conversation"
+}

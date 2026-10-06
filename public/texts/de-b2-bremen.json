@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-bremen",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+  "content": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". Die ersten prominenten Gäste sind bereits eingetroffen. In Bremen haben die dreitägigen Feierlichkeiten rund um den Tag der Deutschen Einheit begonnen. Symbolisiert wurde die Eröffnung des Bürgerfestes mit dem Start einer Ariane-Rakete. Teile davon werden in Bremen produziert. Eine Überraschung - auch für Bundesratspräsident und Bremens Regierungschef Andreas Bovenschulte. Vor dem zentralen Festakt am Samstag zeigte Bovenschulte Bundeskanzler Friedrich Merz und weiteren bekannten Politikern den Marktplatz vor dem historischen Rathaus. Im Beisein von zahlreichen Passanten erzählte er den Gästen unter anderem von der Geschichte der Roland-Statue, die ein Symbol für die Freiheiten und Rechte der Stadt ist. Zu der Runde, die sich für ein Gruppenfoto auf dem Marktplatz versammelte, gehörten neben Merz etwa auch Bundestagspräsidentin Julia Klöckner, deren Lebenspartner Jörg Pilawa, Nordrhein-Westfalens Ministerpräsident Hendrik Wüst, Baden-Württembergs Ministerpräsident Cem Özdemir und Schleswig-Holsteins Regierungschef Daniel Günther. Bremens Polizei steht vor ihrem bislang größten Einsatz. mehr Bundestagspräsidentin Klöckner hatte anlässlich des 3. Oktobers dazu aufgefordert, Unterschiede auszuhalten. \"Einheit bedeutet nicht Gleichheit\", so die CDU-Politikerin. Zur Deutschen Einheit gehörten unterschiedliche Erfahrungen und Perspektiven. \"Einheit heißt, diese Unterschiede auszuhalten, miteinander im Gespräch zu bleiben und gemeinsame Regeln und Grundrechte zu achten.\" Demokratie und Parlamentarismus bräuchten Widerspruch und Debatte, \"aber ebenso die Bereitschaft, notwendige Zumutungen zu ertragen und Kompromisse einzugehen\". Hier seien alle gefordert. Die Bundestagspräsidentin appellierte zudem, 36 Jahre nach der Wiedervereinigung sowohl auf die Spuren der Teilung zu blicken als auch \"das viele Gute\" zu sehen, \"was wir gemeinsam erreicht haben\". Shows, Konzerte und viele Infos rund um unser politisches System: Das Land Bremen lockt zum Tag der Deutschen Einheit mit großem Programm. Der Eintritt ist frei. butenunbinnen Bis Sonntag gibt es in der Bremer Innenstadt und an der Weser ein Bürgerfest mit Musik, Theater und Diskussionsrunden auf mehr als 100 Bühnen. Ein musikalischer Höhepunkt ist der Auftritt der Fantastischen Vier am Samstagabend . Insgesamt werden in der Hansestadt über das Wochenende mehr als 400.000 Besucher erwartet.",
+  "translation": "",
+  "wordCount": 338,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:43:25.196Z",
+  "vocab": {
+    "Bundestagspräsidentin": {
+      "word": "Bundestagspräsidentin",
+      "lemma": "bundestagspräsidentin",
+      "translation": "bundestagspräsidentin",
+      "partOfSpeech": "other",
+      "example": "Zu der Runde, die sich für ein Gruppenfoto auf dem Marktplatz versammelte, gehörten neben Merz etwa auch Bundestagspräsidentin Julia Klöckner, deren Lebenspartner Jörg Pilawa, Nordrhein-Westfalens Ministerpräsident Hendrik Wüst, Baden-Württembergs Ministerpräsident Cem Özdemir und Schleswig-Holsteins Regierungschef Daniel Günther.",
+      "pronunciation": ""
+    },
+    "Einheit": {
+      "word": "Einheit",
+      "lemma": "einheit",
+      "translation": "einheit",
+      "partOfSpeech": "other",
+      "example": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden.",
+      "pronunciation": ""
+    },
+    "Deutschen": {
+      "word": "Deutschen",
+      "lemma": "deutschen",
+      "translation": "alemão",
+      "partOfSpeech": "other",
+      "example": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden.",
+      "pronunciation": ""
+    },
+    "Bovenschulte": {
+      "word": "Bovenschulte",
+      "lemma": "bovenschulte",
+      "translation": "bovenschulte",
+      "partOfSpeech": "other",
+      "example": "Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\".",
+      "pronunciation": ""
+    },
+    "Ministerpräsident": {
+      "word": "Ministerpräsident",
+      "lemma": "ministerpräsident",
+      "translation": "Primeiro‑ministro:",
+      "partOfSpeech": "other",
+      "example": "Zu der Runde, die sich für ein Gruppenfoto auf dem Marktplatz versammelte, gehörten neben Merz etwa auch Bundestagspräsidentin Julia Klöckner, deren Lebenspartner Jörg Pilawa, Nordrhein-Westfalens Ministerpräsident Hendrik Wüst, Baden-Württembergs Ministerpräsident Cem Özdemir und Schleswig-Holsteins Regierungschef Daniel Günther.",
+      "pronunciation": ""
+    },
+    "Regierungschef": {
+      "word": "Regierungschef",
+      "lemma": "regierungschef",
+      "translation": "Chefe do Governo",
+      "partOfSpeech": "other",
+      "example": "Eine Überraschung - auch für Bundesratspräsident und Bremens Regierungschef Andreas Bovenschulte.",
+      "pronunciation": ""
+    },
+    "Bremen": {
+      "word": "Bremen",
+      "lemma": "bremen",
+      "translation": "bremen",
+      "partOfSpeech": "other",
+      "example": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+  "sourceSite": "tagesschau.de"
+}

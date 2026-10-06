@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-travesura",
+  "language": "es",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Travesura en el baño",
+  "content": "Hay dos tipos de personas: las que prefieren darse una ducha y las que prefieren darse un baño. Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación. Linda es jardinera. Se pasa el día trabajando con sus plantas. Cuando llega a casa, manchada de tierra y cansada, lo único que quiere es darse un baño relajante. Casi nunca se da una ducha. En lugar de eso, abre el grifo y llena la bañera de agua caliente, enciende la música, cierra los ojos y se olvida de todo. Linda se incorpora para alcanzar la toalla y da un sobresalto. No puede creer lo que ven sus ojos: ¡menudo desastre! Los gatos corren como un rayo fuera del baño. Tras de sí, los gatos dejan un patito de goma flotando en el agua del inodoro. Linda se pregunta desconcertada: «¿habrá sido él?»",
+  "translation": "",
+  "wordCount": 147,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:51:45.614Z",
+  "vocab": {
+    "prefieren": {
+      "word": "prefieren",
+      "lemma": "prefieren",
+      "translation": "preferir",
+      "partOfSpeech": "other",
+      "example": "Hay dos tipos de personas: las que prefieren darse una ducha y las que prefieren darse un baño.",
+      "pronunciation": ""
+    },
+    "darse": {
+      "word": "darse",
+      "lemma": "darse",
+      "translation": "ser dado",
+      "partOfSpeech": "other",
+      "example": "Hay dos tipos de personas: las que prefieren darse una ducha y las que prefieren darse un baño.",
+      "pronunciation": ""
+    },
+    "Linda": {
+      "word": "Linda",
+      "lemma": "linda",
+      "translation": "Eu te amo muito",
+      "partOfSpeech": "other",
+      "example": "Linda es jardinera.",
+      "pronunciation": ""
+    },
+    "correctamente": {
+      "word": "correctamente",
+      "lemma": "correctamente",
+      "translation": "corretamente",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "desconcertada": {
+      "word": "desconcertada",
+      "lemma": "desconcertada",
+      "translation": "desnorteado",
+      "partOfSpeech": "other",
+      "example": "Linda se pregunta desconcertada: «¿habrá sido él?»",
+      "pronunciation": ""
+    },
+    "continuación": {
+      "word": "continuación",
+      "lemma": "continuación",
+      "translation": "2.",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "comprensión": {
+      "word": "comprensión",
+      "lemma": "comprensión",
+      "translation": "compreensão",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/travesura-en-el-bano",
+  "sourceSite": "Lingolia"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-aleacion",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Una nueva aleación metálica reduce las pérdidas de energía en motores eléctricos",
+  "content": "Estos motores accionan la maquinaria industrial y también las bombas de cualquier electrodoméstico en una cocina doméstica. Los propios sistemas de energías renovables requieren de motores eléctricos, y los vehículos eléctricos están ya en todos los escenarios. Reducir su consumo significa reducir mucho. Con magnitudes así, incluso mejoras modestas de eficiencia pueden tener un efecto importante. Si se generalizaran ganancias de unos pocos puntos porcentuales, el ahorro podría situarse en decenas de TWh al año. La conferencia COP28 pidió duplicar para 2030 la tasa media anual mundial de mejora de la eficiencia energética. El objetivo implica pasar de aproximadamente un 2 % a más de un 4 % de mejora anual. ¿Cómo lo hacemos? Elevar la eficiencia de los motores modernos no es sencillo, porque ya alcanzan rendimientos elevados. Así que hay que fijarse en los puntos donde se producen pérdidas de energía, y tratar de mejorarlos. El calentamiento de los materiales que conforman los circuitos (Resistencia de los devanados) Pérdidas magnéticas en el núcleo de los motores. Corrientes de Foucault (pequeños remolinos de corriente eléctrica que se generan por sí solos dentro del propio núcleo metálico cuando el campo magnético cambia). Así, trabajamos en mejores diseños de todo el sistema electromagnético y térmico del motor, buscando materiales que nos permitan nuevas geometrías y reducir al mínimo esas pérdidas. Investigamos una familia poco común de materiales: los vidrios metálicos . La mayoría de los metales, incluidos los aceros eléctricos al silicio utilizados habitualmente en los motores actuales, tienen una estructura cristalina. Esto significa que el orden atómico se repite de forma periódica con un largo alcance. Sin embargo, los vidrios metálicos presentan una característica singular: se solidifican de un modo muy rápido, y esto les da una estructura amorfa. Sus átomos tienen un orden local, entre vecinos, pero no ofrecen ese patrón periódico de los cristales. Y eso ha resultado ser una ventaja.",
+  "translation": "",
+  "wordCount": 313,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:09:41.364Z",
+  "vocab": {
+    "motores": {
+      "word": "motores",
+      "lemma": "motores",
+      "translation": "motores",
+      "partOfSpeech": "other",
+      "example": "Estos motores accionan la maquinaria industrial y también las bombas de cualquier electrodoméstico en una cocina doméstica.",
+      "pronunciation": ""
+    },
+    "eléctricos": {
+      "word": "eléctricos",
+      "lemma": "eléctricos",
+      "translation": "elétricos.",
+      "partOfSpeech": "other",
+      "example": "Los propios sistemas de energías renovables requieren de motores eléctricos, y los vehículos eléctricos están ya en todos los escenarios.",
+      "pronunciation": ""
+    },
+    "eficiencia": {
+      "word": "eficiencia",
+      "lemma": "eficiencia",
+      "translation": "eficiência",
+      "partOfSpeech": "other",
+      "example": "Con magnitudes así, incluso mejoras modestas de eficiencia pueden tener un efecto importante.",
+      "pronunciation": ""
+    },
+    "materiales": {
+      "word": "materiales",
+      "lemma": "materiales",
+      "translation": "Materiais",
+      "partOfSpeech": "other",
+      "example": "El calentamiento de los materiales que conforman los circuitos (Resistencia de los devanados) Pérdidas magnéticas en el núcleo de los motores.",
+      "pronunciation": ""
+    },
+    "pérdidas": {
+      "word": "pérdidas",
+      "lemma": "pérdidas",
+      "translation": "perdas",
+      "partOfSpeech": "other",
+      "example": "Así que hay que fijarse en los puntos donde se producen pérdidas de energía, y tratar de mejorarlos.",
+      "pronunciation": ""
+    },
+    "Reducir": {
+      "word": "Reducir",
+      "lemma": "reducir",
+      "translation": "reduzir",
+      "partOfSpeech": "other",
+      "example": "Reducir su consumo significa reducir mucho.",
+      "pronunciation": ""
+    },
+    "estructura": {
+      "word": "estructura",
+      "lemma": "estructura",
+      "translation": "sistema de atracagem",
+      "partOfSpeech": "other",
+      "example": "La mayoría de los metales, incluidos los aceros eléctricos al silicio utilizados habitualmente en los motores actuales, tienen una estructura cristalina.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/una-nueva-aleacion-metalica-reduce-las-perdidas-de-energia-en-motores-electricos-292313",
+  "sourceSite": "The Conversation"
+}

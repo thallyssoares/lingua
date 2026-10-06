@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-lluvia",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "La tierra de la lluvia eterna (A2, Spanish) - Fabulang",
+  "content": "Hace años, en un pequeño pueblo, había una bruja. La bruja hacía que lloviera todos los días. En primavera, verano, otoño e invierno: lluvia, lluvia, lluvia, nieve. Years ago, in a small town, there was a witch. The witch made it rain every day. In spring, summer, autumn and winter: rain, rain, rain, snow. Un día, una huérfana llamada Beatriz fue al Ayuntamiento. Era un edificio grande y bonito. Lo construyeron cuando Beatriz era un bebé. One day, an orphan called Beatrice went to the Town Hall. It was a large, beautiful building. It was built when Beatrice was a baby. Había siete hombres frente a ella. Eran los líderes del pueblo. There were seven men in front of her. They were the leaders of the town. Las rocas estaban mojadas. Era difícil subir la montaña. Beatriz escaló durante horas. En la cima no llovía. Ya era de noche, pero vio el castillo de la bruja. She knocked on the door. The witch opened the door. Beatriz entró. Había un fuego encendido. El castillo era cálido y acogedor. La bruja le dio una taza de té y unas tortitas calientes. Beatriz dio las gracias. Beatrice went inside. There was a fire. The castle was warm and cosy. The witch gave her a cup of tea and some hot cakes. Beatrice said thank you. It always rains in the town, because a witch cast a magic spell a witch made it always winter the country just has really bad weather",
+  "translation": "",
+  "wordCount": 249,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:52:46.912Z",
+  "vocab": {
+    "Beatriz": {
+      "word": "Beatriz",
+      "lemma": "beatriz",
+      "translation": "beatriz",
+      "partOfSpeech": "other",
+      "example": "Un día, una huérfana llamada Beatriz fue al Ayuntamiento.",
+      "pronunciation": ""
+    },
+    "Beatrice": {
+      "word": "Beatrice",
+      "lemma": "beatrice",
+      "translation": "beatrice",
+      "partOfSpeech": "other",
+      "example": "One day, an orphan called Beatrice went to the Town Hall.",
+      "pronunciation": ""
+    },
+    "witch": {
+      "word": "witch",
+      "lemma": "witch",
+      "translation": "bruxa",
+      "partOfSpeech": "other",
+      "example": "Years ago, in a small town, there was a witch.",
+      "pronunciation": ""
+    },
+    "bruja": {
+      "word": "bruja",
+      "lemma": "bruja",
+      "translation": "arreganhada",
+      "partOfSpeech": "other",
+      "example": "Hace años, en un pequeño pueblo, había una bruja.",
+      "pronunciation": ""
+    },
+    "lluvia": {
+      "word": "lluvia",
+      "lemma": "lluvia",
+      "translation": "chuva",
+      "partOfSpeech": "other",
+      "example": "En primavera, verano, otoño e invierno: lluvia, lluvia, lluvia, nieve.",
+      "pronunciation": ""
+    },
+    "castillo": {
+      "word": "castillo",
+      "lemma": "castillo",
+      "translation": "castelo",
+      "partOfSpeech": "other",
+      "example": "Ya era de noche, pero vio el castillo de la bruja.",
+      "pronunciation": ""
+    },
+    "había": {
+      "word": "había",
+      "lemma": "había",
+      "translation": "Havia.",
+      "partOfSpeech": "other",
+      "example": "Hace años, en un pequeño pueblo, había una bruja.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.fabulang.com/en/es/stories/a2-tierra-lluvia-eterna",
+  "sourceSite": "Fabulang"
+}

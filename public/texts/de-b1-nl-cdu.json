@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-nl-cdu",
+  "language": "de",
+  "level": "B1",
+  "theme": "Investigação",
+  "title": "Landtag - Die Partei CDU gewinnt Wahl in Rheinland-Pfalz",
+  "content": "Rheinland-Pfalz ist ein deutsches Bundes-Land. Es liegt im Süd-Westen von Deutschland. Die Haupt-Stadt ist Mainz. In Rheinland-Pfalz leben ungefähr 4,1 Millionen Menschen. Das Bundes-Land hat Grenzen mit den Ländern Frankreich, Belgien und Luxemburg. Bei einer Landtagswahl wählen die Bürger Politiker für ihr Landes-Parlament. Jedes Bundes-Land in Deutschland hat ein eigenes Landes-Parlament. Im Landes-Parlament besprechen und machen die Politiker Gesetze. Eine Landtags-Wahl gibt es in den meisten Bundes-Ländern alle 5 Jahre. Die CDU ist eine große deutsche Partei. Die Abkürzung steht für: Christlich-Demokratische Union Deutschlands. Die CDU gibt es in allen Bundes-Ländern außer in Bayern. Dort gibt es die Partei CSU. CDU und CSU arbeiten in der Bundes-Politik zusammen. Beide zusammen nennt man auch die Union. Die SPD ist eine von den großen Parteien in Deutschland. SPD ist die Abkürzung für Sozial-Demokratische Partei Deutschlands. Die SPD nennt sich sozial-demokratisch, weil sie betonen will, dass ihr das Soziale besonders wichtig ist. Damit ist zum Beispiel Gerechtigkeit gemeint. Die AfD ist eine politische Partei in Deutschland. Die Abkürzung steht für: Alternative für Deutschland. Die AfD gibt es seit dem Jahr 2013. Im Jahr 2017 ist sie in den Bundestag gekommen. Am Anfang war die AfD vor allem gegen den Euro. Später hat sie vor allem gegen Flüchtlinge und gegen den Islam protestiert. Viele Politikerinnen und Politiker aus anderen Parteien finden das ausländer-feindlich. Deshalb wollen sie mit der AfD nicht zusammen-arbeiten.",
+  "translation": "",
+  "wordCount": 227,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:09.009Z",
+  "vocab": {
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Es liegt im Süd-Westen von Deutschland.",
+      "pronunciation": ""
+    },
+    "Landes-Parlament": {
+      "word": "Landes-Parlament",
+      "lemma": "landes-parlament",
+      "translation": "landes-parlament",
+      "partOfSpeech": "other",
+      "example": "Bei einer Landtagswahl wählen die Bürger Politiker für ihr Landes-Parlament.",
+      "pronunciation": ""
+    },
+    "Bundes-Land": {
+      "word": "Bundes-Land",
+      "lemma": "bundes-land",
+      "translation": "bundes-land",
+      "partOfSpeech": "other",
+      "example": "Rheinland-Pfalz ist ein deutsches Bundes-Land.",
+      "pronunciation": ""
+    },
+    "Rheinland-Pfalz": {
+      "word": "Rheinland-Pfalz",
+      "lemma": "rheinland-pfalz",
+      "translation": "rheinland-pfalz",
+      "partOfSpeech": "other",
+      "example": "Rheinland-Pfalz ist ein deutsches Bundes-Land.",
+      "pronunciation": ""
+    },
+    "Bundes-Ländern": {
+      "word": "Bundes-Ländern",
+      "lemma": "bundes-ländern",
+      "translation": "bundes-ländern",
+      "partOfSpeech": "other",
+      "example": "Eine Landtags-Wahl gibt es in den meisten Bundes-Ländern alle 5 Jahre.",
+      "pronunciation": ""
+    },
+    "Politiker": {
+      "word": "Politiker",
+      "lemma": "politiker",
+      "translation": "politiker",
+      "partOfSpeech": "other",
+      "example": "Bei einer Landtagswahl wählen die Bürger Politiker für ihr Landes-Parlament.",
+      "pronunciation": ""
+    },
+    "Abkürzung": {
+      "word": "Abkürzung",
+      "lemma": "abkürzung",
+      "translation": "abkürzung",
+      "partOfSpeech": "other",
+      "example": "Die Abkürzung steht für: Christlich-Demokratische Union Deutschlands.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/cdu-gewinnt-landtagswahl-rheinland-pfalz-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

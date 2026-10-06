@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-afd",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Cómo el partido de extrema derecha alemán AfD está tratando de ganarse el voto de aquellos",
+  "content": "Sajonia-Anhalt es un estado alemán mayoritariamente rural, con una población inmigrante muy reducida y escasos incentivos para dirigir la campaña a este colectivo. Si bien el resultado récord de la AfD en esta región tuvo poco que ver con el voto de los inmigrantes, la situación será muy diferente cuando Berlín acuda a las urnas el 20 de septiembre. Una encuesta de opinión publicada el 10 de septiembre sitúa a la AfD en camino de obtener el 18 % de los votos de la capital, el doble de su resultado del 9,1 % de 2023. Esto situaría al partido a tres puntos del líder en una carrera muy reñida, en una ciudad donde el 42,3 % de los residentes es inmigrante . Aunque la AfD logró ganar en Sajonia-Anhalt sin el voto de los extranjeros, no puede permitirse ignorarlos en Berlín. Leia mais: Aunque no llegue a formar Gobierno, el partido ultraderechista AfD sacude el tablero de la política alemana La AfD lleva años tratando de captar el voto de los inmigrantes, con contenidos en TikTok y en turco dirigidos principalmente a personas de origen ruso y turco. Se trata de comunidades de inmigrantes establecidas desde hace tiempo, muchas de las cuales son ciudadanos alemanes con derecho a voto. Sin embargo, la campaña en turco de la AfD no se está traduciendo en votos. Un análisis de julio de 2026 del Centro Alemán de Investigación sobre Integración y Migración (DeZIM) reveló que los votantes de origen inmigrante consideraban a este partido como el que tenía menos posibilidades de ser elegido de entre todos los grupos. Otro informe del DeZIM ha puesto de relieve la caída de la participación electoral entre los votantes de origen turco, de Oriente Medio y del norte de África, lo que se interpreta como una posible señal de alerta de un distanciamiento a largo plazo del sistema de partidos en su conjunto.",
+  "translation": "",
+  "wordCount": 316,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:11:32.164Z",
+  "vocab": {
+    "inmigrantes": {
+      "word": "inmigrantes",
+      "lemma": "inmigrantes",
+      "translation": "Imigração",
+      "partOfSpeech": "other",
+      "example": "Si bien el resultado récord de la AfD en esta región tuvo poco que ver con el voto de los inmigrantes, la situación será muy diferente cuando Berlín acuda a las urnas el 20 de septiembre.",
+      "pronunciation": ""
+    },
+    "inmigrante": {
+      "word": "inmigrante",
+      "lemma": "inmigrante",
+      "translation": "imigrante",
+      "partOfSpeech": "other",
+      "example": "Sajonia-Anhalt es un estado alemán mayoritariamente rural, con una población inmigrante muy reducida y escasos incentivos para dirigir la campaña a este colectivo.",
+      "pronunciation": ""
+    },
+    "Sajonia-Anhalt": {
+      "word": "Sajonia-Anhalt",
+      "lemma": "sajonia-anhalt",
+      "translation": "Sachsen-Anhalt",
+      "partOfSpeech": "other",
+      "example": "Sajonia-Anhalt es un estado alemán mayoritariamente rural, con una población inmigrante muy reducida y escasos incentivos para dirigir la campaña a este colectivo.",
+      "pronunciation": ""
+    },
+    "partido": {
+      "word": "partido",
+      "lemma": "partido",
+      "translation": "Partida",
+      "partOfSpeech": "other",
+      "example": "Esto situaría al partido a tres puntos del líder en una carrera muy reñida, en una ciudad donde el 42,3 % de los residentes es inmigrante .",
+      "pronunciation": ""
+    },
+    "septiembre": {
+      "word": "septiembre",
+      "lemma": "septiembre",
+      "translation": "setembro",
+      "partOfSpeech": "other",
+      "example": "Si bien el resultado récord de la AfD en esta región tuvo poco que ver con el voto de los inmigrantes, la situación será muy diferente cuando Berlín acuda a las urnas el 20 de septiembre.",
+      "pronunciation": ""
+    },
+    "turco": {
+      "word": "turco",
+      "lemma": "turco",
+      "translation": "turco",
+      "partOfSpeech": "other",
+      "example": "Leia mais: Aunque no llegue a formar Gobierno, el partido ultraderechista AfD sacude el tablero de la política alemana La AfD lleva años tratando de captar el voto de los inmigrantes, con contenidos en TikTok y en turco dirigidos principalmente a personas de origen ruso y turco.",
+      "pronunciation": ""
+    },
+    "resultado": {
+      "word": "resultado",
+      "lemma": "resultado",
+      "translation": ",",
+      "partOfSpeech": "other",
+      "example": "Si bien el resultado récord de la AfD en esta región tuvo poco que ver con el voto de los inmigrantes, la situación será muy diferente cuando Berlín acuda a las urnas el 20 de septiembre.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/como-el-partido-de-extrema-derecha-aleman-afd-esta-tratando-de-ganarse-el-voto-de-aquellos-a-quienes-promete-deportar-291941",
+  "sourceSite": "The Conversation"
+}

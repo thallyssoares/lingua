@@ -1,0 +1,8 @@
+[
+  {"id": "en-c1-literacy", "language": "en", "level": "C1", "theme": "Cotidiano", "sourceSite": "Our World in Data", "sourceUrl": "https://ourworldindata.org/literacy", "url": "https://ourworldindata.org/literacy"},
+  {"id": "en-c1-democracy", "language": "en", "level": "C1", "theme": "Investigação", "sourceSite": "Our World in Data", "sourceUrl": "https://ourworldindata.org/democracy", "url": "https://ourworldindata.org/democracy"},
+  {"id": "en-c1-life-expectancy", "language": "en", "level": "C1", "theme": "Tecnologia", "sourceSite": "Our World in Data", "sourceUrl": "https://ourworldindata.org/life-expectancy", "url": "https://ourworldindata.org/life-expectancy"},
+  {"id": "en-c1-co2", "language": "en", "level": "C1", "theme": "Tecnologia", "sourceSite": "Our World in Data", "sourceUrl": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions", "url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions"},
+  {"id": "en-c1-education", "language": "en", "level": "C1", "theme": "Cotidiano", "sourceSite": "Our World in Data", "sourceUrl": "https://ourworldindata.org/global-education", "url": "https://ourworldindata.org/global-education"},
+  {"id": "en-c1-ai", "language": "en", "level": "C1", "theme": "AI Engineering", "sourceSite": "Our World in Data", "sourceUrl": "https://ourworldindata.org/artificial-intelligence", "url": "https://ourworldindata.org/artificial-intelligence"}
+]

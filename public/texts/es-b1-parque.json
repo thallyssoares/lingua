@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-parque",
+  "language": "es",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Descansando en el parque",
+  "content": "¿Te gusta ir al parque a pasear? A la señora Pilar le encanta. Mejora tu comprensión lectora en español con este texto resolviendo correctamente el ejercicio más abajo. Puedes repasar el vocabulario sobre el parque en la sección de Vocabulario temático . «¡Qué día más precioso!», dijo la señora Pilar. «El sol brilla y los pájaros cantan. Hace demasiado buen tiempo como para quedarse en casa». La señora Pilar está jubilada y vive en la gran ciudad de Madrid. Su piso está en una calle principal del centro, pero ella preferiría vivir en un lugar donde la vida no fuera tan anónima. Cerca de donde ella vive está el Parque del Retiro y la señora Pilar acude siempre a él cuando hace buen tiempo como hoy. Allí siempre ocurre algo. En el parque hay corredores, ciclistas, gente paseando con sus perros o familias con niños jugando en el césped. Como la señora Pilar es muy extrovertida, siempre conoce nueva gente y se encuentra con viejos conocidos con los que poder hablar. En los caminos hay bancos para sentarse. Algunos están en el sol y otros a la sombra de los árboles. Como hoy no hace mucho calor, la señora Pilar se ha sentado en un banco al sol entre dos arbustos. Desde él puede ver a los patos y los peces en el estanque. Pero sobre todo le encanta el sonido del agua de la fuente. Justo se acababa de sentar cuando escuchó una paloma gorjeando. Incluso los pájaros conocen ya a la señora Pilar y saben que siempre trae algo para ellos. «¡Aquí estáis!», dijo la señora Pilar sonriendo y dejó una bolsa cerca del banco. Naturalmente hoy tampoco se había olvidado de traer algo a sus animales preferidos.",
+  "translation": "",
+  "wordCount": 290,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:50:32.089Z",
+  "vocab": {
+    "señora": {
+      "word": "señora",
+      "lemma": "señora",
+      "translation": "senhora",
+      "partOfSpeech": "other",
+      "example": "A la señora Pilar le encanta.",
+      "pronunciation": ""
+    },
+    "Pilar": {
+      "word": "Pilar",
+      "lemma": "pilar",
+      "translation": "pirâmide de pedras soltas",
+      "partOfSpeech": "other",
+      "example": "A la señora Pilar le encanta.",
+      "pronunciation": ""
+    },
+    "siempre": {
+      "word": "siempre",
+      "lemma": "siempre",
+      "translation": "sempre",
+      "partOfSpeech": "other",
+      "example": "Cerca de donde ella vive está el Parque del Retiro y la señora Pilar acude siempre a él cuando hace buen tiempo como hoy.",
+      "pronunciation": ""
+    },
+    "parque": {
+      "word": "parque",
+      "lemma": "parque",
+      "translation": "recinto",
+      "partOfSpeech": "other",
+      "example": "¿Te gusta ir al parque a pasear?",
+      "pronunciation": ""
+    },
+    "vocabulario": {
+      "word": "vocabulario",
+      "lemma": "vocabulario",
+      "translation": "vocabulário",
+      "partOfSpeech": "other",
+      "example": "Puedes repasar el vocabulario sobre el parque en la sección de Vocabulario temático .",
+      "pronunciation": ""
+    },
+    "encanta": {
+      "word": "encanta",
+      "lemma": "encanta",
+      "translation": "amor",
+      "partOfSpeech": "other",
+      "example": "A la señora Pilar le encanta.",
+      "pronunciation": ""
+    },
+    "pájaros": {
+      "word": "pájaros",
+      "lemma": "pájaros",
+      "translation": "Pássaros",
+      "partOfSpeech": "other",
+      "example": "«El sol brilla y los pájaros cantan.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/descansando-en-el-parque",
+  "sourceSite": "Lingolia"
+}

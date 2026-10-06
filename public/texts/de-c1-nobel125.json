@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-nobel125",
+  "language": "de",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
+  "content": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Den entscheidenden Satz schrieb der schwedische Erfinder Alfred Nobel am 27. November 1895 in sein Testament: Sein Vermögen solle nach seinem Tod in eine Stiftung fließen und die jährlichen Zinsen \"als Preis denen zugeteilt werden, die im verflossenen Jahr der Menschheit den größten Nutzen geleistet haben\". Im Jahr 1901, genau fünf Jahre nach Nobels Tod, wurden zum ersten Mal die Nobelpreise verliehen - in den Kategorien Physiologie oder Medizin, Physik, Chemie, Literatur und Frieden. Der Wirtschaftsnobelpreis kam erst 1969 dazu - gestiftet von der Schwedischen Reichsbank. Heute gelten die Nobelpreise als eine der höchsten Auszeichnungen, die ein Mensch erhalten kann. Er ist der berühmteste Wissenschaftspreis der Welt - doch wie werden die Nobelpreisträger ausgewählt? mehr Ralph Burmester, Ausstellungskurator und Wissenschaftshistoriker in der Bonner Zweigstelle des Deutschen Museums, sieht einen Grund für die Bekanntheit der Nobelpreise darin, dass die Auszeichnung von Anfang an international vergeben wurde. Die meisten anderen Wissenschaftspreise zu Beginn des 20. Jahrhunderts seien dagegen national geprägt gewesen. Auch der Verleihungsort habe eine Rolle gespielt, so Burmester: \"Schweden und Norwegen waren auch damals nicht in Großmächte-Bündnisse verstrickt. Sie waren neutrale Orte, und diese Neutralität (...) hat sicherlich dazu beigetragen, dass dieses Renommee gewachsen ist.\" Dazu kommt: Gerade unter den naturwissenschaftlichen Preisträgern waren viele geniale Köpfe, deren Namen wir heute noch kennen. Etwa Albert Einstein, Marie Curie oder Paul Ehrlich. Auch das machte den Nobelpreis bekannt. Bei den Preisen für Literatur und Frieden sei es den Nobelpreiskomitees laut Burmester dagegen häufig gelungen, Leistungen zu herauszuarbeiten, die bislang eher unbekannt waren. Noch heute tragen diese bewussten Schwerpunkte ihren Teil zur Bedeutung des Nobelpreises bei, so der Experte: \"Die Akademie setzt den Scheinwerfer auf Menschen oder Institutionen und setzt damit auch gesellschaftliche oder teilweise politische Reize.\" In der kommenden Woche werden die Nobelpreisträger verkündet. mehr Für jeden Preis gibt es ein eigenes Komitee, das sich je nach Kategorie aus in Schweden oder Norwegen tätigen Personen zusammensetzt. Der im schwedischen Lund lehrende Nanophysik-Professor Heiner Linke etwa ist Mitglied der Königlich Schwedischen Akademie der Wissenschaften und derzeit Teil des Komitees, das die Kandidatinnen und Kandidaten für den Chemie-Nobelpreis bewertet.",
+  "translation": "",
+  "wordCount": 377,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:44:19.814Z",
+  "vocab": {
+    "Nobelpreise": {
+      "word": "Nobelpreise",
+      "lemma": "nobelpreise",
+      "translation": "nobelpreise",
+      "partOfSpeech": "other",
+      "example": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren.",
+      "pronunciation": ""
+    },
+    "Schwedischen": {
+      "word": "Schwedischen",
+      "lemma": "schwedischen",
+      "translation": "schwedischen",
+      "partOfSpeech": "other",
+      "example": "Der Wirtschaftsnobelpreis kam erst 1969 dazu - gestiftet von der Schwedischen Reichsbank.",
+      "pronunciation": ""
+    },
+    "Nobelpreisträger": {
+      "word": "Nobelpreisträger",
+      "lemma": "nobelpreisträger",
+      "translation": "prémio Nobel",
+      "partOfSpeech": "other",
+      "example": "Er ist der berühmteste Wissenschaftspreis der Welt - doch wie werden die Nobelpreisträger ausgewählt?",
+      "pronunciation": ""
+    },
+    "Burmester": {
+      "word": "Burmester",
+      "lemma": "burmester",
+      "translation": "burmester",
+      "partOfSpeech": "other",
+      "example": "mehr Ralph Burmester, Ausstellungskurator und Wissenschaftshistoriker in der Bonner Zweigstelle des Deutschen Museums, sieht einen Grund für die Bekanntheit der Nobelpreise darin, dass die Auszeichnung von Anfang an international vergeben wurde.",
+      "pronunciation": ""
+    },
+    "Auszeichnung": {
+      "word": "Auszeichnung",
+      "lemma": "auszeichnung",
+      "translation": "auszeichnung",
+      "partOfSpeech": "other",
+      "example": "Warum hat die Auszeichnung eine so hohe Bedeutung?",
+      "pronunciation": ""
+    },
+    "Wissenschaftshistoriker": {
+      "word": "Wissenschaftshistoriker",
+      "lemma": "wissenschaftshistoriker",
+      "translation": "wissenschaftshistoriker",
+      "partOfSpeech": "other",
+      "example": "mehr Ralph Burmester, Ausstellungskurator und Wissenschaftshistoriker in der Bonner Zweigstelle des Deutschen Museums, sieht einen Grund für die Bekanntheit der Nobelpreise darin, dass die Auszeichnung von Anfang an international vergeben wurde.",
+      "pronunciation": ""
+    },
+    "naturwissenschaftlichen": {
+      "word": "naturwissenschaftlichen",
+      "lemma": "naturwissenschaftlichen",
+      "translation": "científico",
+      "partOfSpeech": "other",
+      "example": "Sie waren neutrale Orte, und diese Neutralität (...) hat sicherlich dazu beigetragen, dass dieses Renommee gewachsen ist.\" Dazu kommt: Gerade unter den naturwissenschaftlichen Preisträgern waren viele geniale Köpfe, deren Namen wir heute noch kennen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
+  "sourceSite": "tagesschau.de"
+}

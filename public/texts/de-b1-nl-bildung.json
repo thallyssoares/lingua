@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-nl-bildung",
+  "language": "de",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Unesco-Bericht - Weltweit mehr als 270 Millionen Kinder nicht in der Schule",
+  "content": "Afghanistan ist ein Land in Asien. Die Haupt-Stadt heißt Kabul. In Afghanistan ist seit langer Zeit immer wieder Krieg mit der islamistischen Taliban-Miliz. Sie ist jetzt an der Macht. Bis zum Frühjahr 2021 waren ausländische Soldaten und Soldatinnen dort. Auch die Bundes-Wehr war bei dem Einsatz dabei. In Afghanistan gab es auch früher schon viele Kriege. Deshalb geht es vielen Menschen dort sehr schlecht.",
+  "translation": "",
+  "wordCount": 64,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:13.728Z",
+  "vocab": {
+    "Afghanistan": {
+      "word": "Afghanistan",
+      "lemma": "afghanistan",
+      "translation": "afghanistan",
+      "partOfSpeech": "other",
+      "example": "Afghanistan ist ein Land in Asien.",
+      "pronunciation": ""
+    },
+    "islamistischen": {
+      "word": "islamistischen",
+      "lemma": "islamistischen",
+      "translation": "islamistischen",
+      "partOfSpeech": "other",
+      "example": "In Afghanistan ist seit langer Zeit immer wieder Krieg mit der islamistischen Taliban-Miliz.",
+      "pronunciation": ""
+    },
+    "Taliban-Miliz": {
+      "word": "Taliban-Miliz",
+      "lemma": "taliban-miliz",
+      "translation": "taliban-miliz",
+      "partOfSpeech": "other",
+      "example": "In Afghanistan ist seit langer Zeit immer wieder Krieg mit der islamistischen Taliban-Miliz.",
+      "pronunciation": ""
+    },
+    "ausländische": {
+      "word": "ausländische",
+      "lemma": "ausländische",
+      "translation": "ausländische",
+      "partOfSpeech": "other",
+      "example": "Bis zum Frühjahr 2021 waren ausländische Soldaten und Soldatinnen dort.",
+      "pronunciation": ""
+    },
+    "Haupt-Stadt": {
+      "word": "Haupt-Stadt",
+      "lemma": "haupt-stadt",
+      "translation": "haupt-stadt",
+      "partOfSpeech": "other",
+      "example": "Die Haupt-Stadt heißt Kabul.",
+      "pronunciation": ""
+    },
+    "Soldatinnen": {
+      "word": "Soldatinnen",
+      "lemma": "soldatinnen",
+      "translation": "soldatinnen",
+      "partOfSpeech": "other",
+      "example": "Bis zum Frühjahr 2021 waren ausländische Soldaten und Soldatinnen dort.",
+      "pronunciation": ""
+    },
+    "Bundes-Wehr": {
+      "word": "Bundes-Wehr",
+      "lemma": "bundes-wehr",
+      "translation": "bundes-wehr",
+      "partOfSpeech": "other",
+      "example": "Auch die Bundes-Wehr war bei dem Einsatz dabei.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/welt-bildungs-bericht-100.html",
+  "sourceSite": "Nachrichtenleicht"
+}

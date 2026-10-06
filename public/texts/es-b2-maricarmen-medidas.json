@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-maricarmen-medidas",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Las medidas de los ‘Decretos Maricarmen’",
+  "content": "Rigor acadêmico, estilo jornalístico Vista panorámica de la ciudad de Madrid en un día nublado desde una azotea. Sonia Bonet / Shutterstock.com Las medidas de los ‘Decretos Maricarmen’ Publicado: 29 setembro 2026 16:48 -03 La novela gráfica de Isaac Rosa y Cristina Bueno Aquí vivió. Historia de un desahucio (2016) cuenta los sentimientos de miedo, vergüenza e incertidumbre de una familia desahuciada por el impago de su hipoteca en los años de la Gran Recesión. Hoy, la mayor parte de los desahucios se producen por impagos de las rentas de alquiler , pero los sentimientos que provocan en las personas son los mismos. El que sufrió Maricarmen Abascal hace pocos días en Madrid ha despertado una ola de indignación que va más allá de este caso particular. La dificultad de acceso a una vivienda digna y asequible, uno de los mayores problemas sociales en todo el mundo, produce exclusión social, desigualdad y pobreza. Ser propietario se está convirtiendo en un factor de diferenciación social: cada vez menos personas acumulan más propiedades , mientras otras no pueden acceder a una sola, digna y asequible. El debate social generado por el desahucio de Maricarmen Abascal ha hecho que las dos fuerzas políticas del Gobierno (PSOE y Sumar), hayan aprobado hoy en Consejo de Ministros dos reales decretos con medidas para evitar nuevos casos de desahucios y contener la espiral de precios del alquiler. Esta misma semana, el viernes 2 de octubre, se llevarán estas normas a votación en el Congreso para intentar mantener la vigencia de estas normas. Esta figura tiene una ventaja principal respecto a otros instrumentos legislativos : el Real Decreto Ley, aunque necesita convalidarse en el Congreso en los 30 días siguientes a su publicación en el BOE, entra en vigor al día siguiente de dicha publicación y sus medidas proporcionan cobertura legal inmediata a sus beneficiarios. En cambio, un Proyecto de Ley, por ejemplo, necesita de un largo procedimiento legislativo en las Cortes.",
+  "translation": "",
+  "wordCount": 325,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:10:55.629Z",
+  "vocab": {
+    "Maricarmen": {
+      "word": "Maricarmen",
+      "lemma": "maricarmen",
+      "translation": "maricarmen",
+      "partOfSpeech": "other",
+      "example": "Sonia Bonet / Shutterstock.com Las medidas de los ‘Decretos Maricarmen’ Publicado: 29 setembro 2026 16:48 -03 La novela gráfica de Isaac Rosa y Cristina Bueno Aquí vivió.",
+      "pronunciation": ""
+    },
+    "sentimientos": {
+      "word": "sentimientos",
+      "lemma": "sentimientos",
+      "translation": "sentimentos",
+      "partOfSpeech": "other",
+      "example": "Historia de un desahucio (2016) cuenta los sentimientos de miedo, vergüenza e incertidumbre de una familia desahuciada por el impago de su hipoteca en los años de la Gran Recesión.",
+      "pronunciation": ""
+    },
+    "publicación": {
+      "word": "publicación",
+      "lemma": "publicación",
+      "translation": "edição",
+      "partOfSpeech": "other",
+      "example": "Esta figura tiene una ventaja principal respecto a otros instrumentos legislativos : el Real Decreto Ley, aunque necesita convalidarse en el Congreso en los 30 días siguientes a su publicación en el BOE, entra en vigor al día siguiente de dicha publicación y sus medidas proporcionan cobertura legal inmediata a sus beneficiarios.",
+      "pronunciation": ""
+    },
+    "medidas": {
+      "word": "medidas",
+      "lemma": "medidas",
+      "translation": "medidas",
+      "partOfSpeech": "other",
+      "example": "Sonia Bonet / Shutterstock.com Las medidas de los ‘Decretos Maricarmen’ Publicado: 29 setembro 2026 16:48 -03 La novela gráfica de Isaac Rosa y Cristina Bueno Aquí vivió.",
+      "pronunciation": ""
+    },
+    "desahucios": {
+      "word": "desahucios",
+      "lemma": "desahucios",
+      "translation": "despejos",
+      "partOfSpeech": "other",
+      "example": "Hoy, la mayor parte de los desahucios se producen por impagos de las rentas de alquiler , pero los sentimientos que provocan en las personas son los mismos.",
+      "pronunciation": ""
+    },
+    "desahucio": {
+      "word": "desahucio",
+      "lemma": "desahucio",
+      "translation": "despedimento de um rendeiro",
+      "partOfSpeech": "other",
+      "example": "Historia de un desahucio (2016) cuenta los sentimientos de miedo, vergüenza e incertidumbre de una familia desahuciada por el impago de su hipoteca en los años de la Gran Recesión.",
+      "pronunciation": ""
+    },
+    "asequible": {
+      "word": "asequible",
+      "lemma": "asequible",
+      "translation": "Acessível",
+      "partOfSpeech": "other",
+      "example": "La dificultad de acceso a una vivienda digna y asequible, uno de los mayores problemas sociales en todo el mundo, produce exclusión social, desigualdad y pobreza.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/las-medidas-de-los-decretos-maricarmen-293067",
+  "sourceSite": "The Conversation"
+}

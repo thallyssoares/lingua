@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-dulces",
+  "language": "es",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Los dulces de la Navidad",
+  "content": "La Navidad es inseparable de sus dulces típicos. Descubre el lado más dulce de la Navidad en España y mejora tu comprensión lectora leyendo este texto y resolviendo correctamente el ejercicio a continuación. La Navidad va acompañada de luces pero también de dulces de todos los rincones de la geografía española. Entre los dulces más apreciados están el turrón, los polvorones, las yemas, el mazapán y el roscón de reyes. La confitería navideña se compra tradicionalmente en conventos y obradores , donde las monjas y los mejores artesanos los elaboran a mano siguiendo recetas de siglos de antigüedad. El turrón es un dulce de herencia musulmana a base de almendras tostadas, miel, claras de huevo y azúcar. En España, se produjo por primera vez en Jijona, en la Comunidad Valenciana, al este de la península ibérica. Hay muchas variedades de turrón: puede tener una textura dura o blanda y para los más golosos hay turrón de chocolate. El turrón tiene forma de tableta. Se sirve en trozos en una bandeja junto a nueces y otros dulces navideños. Los polvorones son unos dulces redondos y compactos que se elaboran con harina, manteca, canela, azúcar y almendra. Se envuelven uno a uno en papel y se deshacen en la boca al comerlos. Reciben ese nombre porque están recubiertos de azúcar glasé. Los polvorones más conocidos son los de Estepa, en Sevilla, y de Antequera, en Málaga. Otro dulce muy tradicional que no puede faltar en Navidad son las Yemas de Ávila. Se preparan simplemente con la yema del huevo y azúcar y se envuelven una a una con las manos hasta formar una bola pequeña.",
+  "translation": "",
+  "wordCount": 273,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:51:53.024Z",
+  "vocab": {
+    "dulces": {
+      "word": "dulces",
+      "lemma": "dulces",
+      "translation": "Dulce",
+      "partOfSpeech": "other",
+      "example": "La Navidad es inseparable de sus dulces típicos.",
+      "pronunciation": ""
+    },
+    "turrón": {
+      "word": "turrón",
+      "lemma": "turrón",
+      "translation": "Torrão",
+      "partOfSpeech": "other",
+      "example": "Entre los dulces más apreciados están el turrón, los polvorones, las yemas, el mazapán y el roscón de reyes.",
+      "pronunciation": ""
+    },
+    "polvorones": {
+      "word": "polvorones",
+      "lemma": "polvorones",
+      "translation": "polvoronas",
+      "partOfSpeech": "other",
+      "example": "Entre los dulces más apreciados están el turrón, los polvorones, las yemas, el mazapán y el roscón de reyes.",
+      "pronunciation": ""
+    },
+    "Navidad": {
+      "word": "Navidad",
+      "lemma": "navidad",
+      "translation": "Natal",
+      "partOfSpeech": "other",
+      "example": "La Navidad es inseparable de sus dulces típicos.",
+      "pronunciation": ""
+    },
+    "azúcar": {
+      "word": "azúcar",
+      "lemma": "azúcar",
+      "translation": "açúcar",
+      "partOfSpeech": "other",
+      "example": "El turrón es un dulce de herencia musulmana a base de almendras tostadas, miel, claras de huevo y azúcar.",
+      "pronunciation": ""
+    },
+    "envuelven": {
+      "word": "envuelven",
+      "lemma": "envuelven",
+      "translation": "wrap",
+      "partOfSpeech": "other",
+      "example": "Se envuelven uno a uno en papel y se deshacen en la boca al comerlos.",
+      "pronunciation": ""
+    },
+    "tradicionalmente": {
+      "word": "tradicionalmente",
+      "lemma": "tradicionalmente",
+      "translation": "tradicionalmente",
+      "partOfSpeech": "other",
+      "example": "La confitería navideña se compra tradicionalmente en conventos y obradores , donde las monjas y los mejores artesanos los elaboran a mano siguiendo recetas de siglos de antigüedad.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/los-dulces-de-la-navidad-23719",
+  "sourceSite": "Lingolia"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "en-b1-olympic-blog",
+  "language": "en",
+  "level": "B1",
+  "theme": "Futebol",
+  "title": "An Olympic blog",
+  "content": "It is all over! I have been writing my blog from London every day during the Olympics and the Paralympics, and this is my final post to look back on a wonderful couple of months. The Opening Ceremony set the scene for the Games with music, dancing, historical figures, fireworks and British humour. A huge number of volunteers practised for months to make everything perfect. I was very proud of Team GB as they kept winning medals and finished in third position in the medal table. The crowd cheered on the British, but there was lots of support for athletes of other nationalities too. I enjoyed watching sports that are not normally shown on television. Before the Olympics I did not expect to love watching judo or find myself screaming at wheelchair tennis. It took seven years of planning and 70,000 volunteers to make everything go well, and London had a friendly atmosphere.",
+  "translation": "",
+  "wordCount": 153,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "wonderful": {
+      "word": "wonderful",
+      "lemma": "wonderful",
+      "translation": "maravilhoso",
+      "partOfSpeech": "adjective",
+      "example": "...to look back on a wonderful couple of months.",
+      "pronunciation": ""
+    },
+    "volunteers": {
+      "word": "volunteers",
+      "lemma": "volunteer",
+      "translation": "voluntários",
+      "partOfSpeech": "noun",
+      "example": "A huge number of volunteers practised for months to make everything perfect.",
+      "pronunciation": ""
+    },
+    "medal table": {
+      "word": "medal table",
+      "lemma": "medal table",
+      "translation": "quadro de medalhas",
+      "partOfSpeech": "phrase",
+      "example": "...finished in third position in the medal table.",
+      "pronunciation": ""
+    },
+    "nationalities": {
+      "word": "nationalities",
+      "lemma": "nationality",
+      "translation": "nacionalidades",
+      "partOfSpeech": "noun",
+      "example": "...support for athletes of other nationalities too.",
+      "pronunciation": ""
+    },
+    "wheelchair": {
+      "word": "wheelchair",
+      "lemma": "wheelchair",
+      "translation": "cadeira de rodas",
+      "partOfSpeech": "noun",
+      "example": "...find myself screaming at wheelchair tennis.",
+      "pronunciation": ""
+    },
+    "planning": {
+      "word": "planning",
+      "lemma": "planning",
+      "translation": "planejamento",
+      "partOfSpeech": "noun",
+      "example": "It took seven years of planning and 70,000 volunteers to make everything go well,",
+      "pronunciation": ""
+    },
+    "atmosphere": {
+      "word": "atmosphere",
+      "lemma": "atmosphere",
+      "translation": "atmosfera",
+      "partOfSpeech": "noun",
+      "example": "...and London had a friendly atmosphere.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://learnenglishteens.britishcouncil.org/skills/reading/b1-reading/olympic-blog",
+  "sourceSite": "British Council Teens"
+}

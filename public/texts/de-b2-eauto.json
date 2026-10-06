@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-eauto",
+  "language": "de",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "Die E-Auto-Prämie für Einkommenschwächere zeigt Wirkung",
+  "content": "Die hohen Kraftstoffpreise bringen immer mehr Kunden zum Umschwenken auf Hybrid- oder E-Autos. Auch der seit Jahresbeginn mögliche Zuschuss für einkommensschwächere Haushalte wirkt. Auf dem Weg zum Autohaus ist Werner Tormann voller Vorfreude. Der Rentner aus dem saarländischen Eiweiler freut sich auf sein elektrisches Auto, das er heute bekommen soll. Im Juni hatte er es beim Händler bestellt, bei dem er auch sein altes Fahrzeug in Zahlung gibt. Tormann hat nicht lange gerungen, denn die Vorteile überzeugten ihn: \"Es ist bei dem heutigen Spritpreis eine Mordsersparnis. Und beim E-Auto kriegst du ja auch eine Prämie.\" Und dann sei da auch noch der Fahrkomfort - für ihn sei der wesentlich besser als beim Verbrenner. Auch mit der Reichweite von rund 400 Kilometern komme er super klar, erzählt der Rentner, als er beim Händler das erste Mal in seinen neuen Wagen steigt und sich die technischen Details erklären lässt. Die neue Prämie zur Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. mehr In den Autohäusern fragen immer mehr Kunden nach Elektro-Fahrzeugen. Die E-Auto-Prämie von bis zu 6.000 Euro habe daran einen wichtigen Anteil, erklärt Verkaufsleiter Tobias Wehrmann vom Händler Dechent in Saarbrücken, als er dem Rentner zum neuen Fahrzeug auch noch einen Blumenstrauß überreicht. Bis September wurden in Deutschland insgesamt rund 100.000 Fahrzeuge beim Neukauf mit der Prämie gefördert. Und die nach wie vor hohen Benzin- und Dieselpreise bringen immer mehr Kunden zum Umdenken. Verkaufsleiter Wehrmann beobachtet, dass auch bei den Gebrauchtwagen die Nachfrage nach E-Autos steigt, obwohl es keine Förderprämie gibt. Wichtig sei nun aber, dass sich die Händler selbst noch mehr mit E-Autos befassten. Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. mehr Nur einige Fahrminuten entfernt lernen Auszubildende beim saarländischen Kraftfahrzeugverband, worauf es bei Reparaturen an Elektroantrieben ankommt. Verbandsgeschäftsführer Niklas Burmester hatte zunächst nicht mit einer starken Auswirkung der Neuauflage der E-Förderprämie durch die Bundesregierung gerechnet. Nun seien die Elektrofahrzeuge aber beim Kunden angekommen. \"Den Effekt habe ich nicht erwartet, auch wenn nicht ganz klar ist, wie stark der Einfluss auf die Kaufentscheidung ist\", sagt Burmester.",
+  "translation": "",
+  "wordCount": 342,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:01:20.592Z",
+  "vocab": {
+    "E-Autos": {
+      "word": "E-Autos",
+      "lemma": "e-autos",
+      "translation": "e-cars",
+      "partOfSpeech": "other",
+      "example": "Die hohen Kraftstoffpreise bringen immer mehr Kunden zum Umschwenken auf Hybrid- oder E-Autos.",
+      "pronunciation": ""
+    },
+    "saarländischen": {
+      "word": "saarländischen",
+      "lemma": "saarländischen",
+      "translation": "sarre",
+      "partOfSpeech": "other",
+      "example": "Der Rentner aus dem saarländischen Eiweiler freut sich auf sein elektrisches Auto, das er heute bekommen soll.",
+      "pronunciation": ""
+    },
+    "Händler": {
+      "word": "Händler",
+      "lemma": "händler",
+      "translation": "Distribuidor",
+      "partOfSpeech": "other",
+      "example": "Im Juni hatte er es beim Händler bestellt, bei dem er auch sein altes Fahrzeug in Zahlung gibt.",
+      "pronunciation": ""
+    },
+    "Verkaufsleiter": {
+      "word": "Verkaufsleiter",
+      "lemma": "verkaufsleiter",
+      "translation": "chefe de vendas",
+      "partOfSpeech": "other",
+      "example": "Die E-Auto-Prämie von bis zu 6.000 Euro habe daran einen wichtigen Anteil, erklärt Verkaufsleiter Tobias Wehrmann vom Händler Dechent in Saarbrücken, als er dem Rentner zum neuen Fahrzeug auch noch einen Blumenstrauß überreicht.",
+      "pronunciation": ""
+    },
+    "Kunden": {
+      "word": "Kunden",
+      "lemma": "kunden",
+      "translation": "Clientes",
+      "partOfSpeech": "other",
+      "example": "Die hohen Kraftstoffpreise bringen immer mehr Kunden zum Umschwenken auf Hybrid- oder E-Autos.",
+      "pronunciation": ""
+    },
+    "Verbandsgeschäftsführer": {
+      "word": "Verbandsgeschäftsführer",
+      "lemma": "verbandsgeschäftsführer",
+      "translation": "administrador da associação",
+      "partOfSpeech": "other",
+      "example": "Verbandsgeschäftsführer Niklas Burmester hatte zunächst nicht mit einer starken Auswirkung der Neuauflage der E-Förderprämie durch die Bundesregierung gerechnet.",
+      "pronunciation": ""
+    },
+    "Rentner": {
+      "word": "Rentner",
+      "lemma": "rentner",
+      "translation": "Reformado",
+      "partOfSpeech": "other",
+      "example": "Der Rentner aus dem saarländischen Eiweiler freut sich auf sein elektrisches Auto, das er heute bekommen soll.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-foerderung-112.html",
+  "sourceSite": "tagesschau.de"
+}

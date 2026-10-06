@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-karneval-sueden",
+  "language": "de",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "So feiert man Karneval im Süden",
+  "content": "In südlichen Regionen Deutschlands sowie in Österreich und der Schweiz wird der Karneval „Fasching“ genannt. Die Bräuche unterscheiden sich deutlich von denen im Rheinland, denn hier will man mit den Umzügen den Winter vertreiben. Mit angsteinflößenden Holzmasken oder als Hexen und Teufel verkleidet ziehen die Menschen durch die Straßen und hoffen, dass sie dadurch die bösen Geister verjagen. Der Lärm, den sie dabei mit Glocken, Peitschen und Besen machen, soll zudem die guten Geister wecken, die den Frühling und neue Fruchtbarkeit für das Land bringen. Die schaurige Szene wird meist durch Fackeln und verschiedene Musikkapellen unterstützt. Die einzelnen Bezeichnungen, fantasievollen Kostüme und Bräuche können jedoch je nach Region stark variieren. Zum Beispiel feiert man in Teilen Süddeutschlands den „Schmutzigen Donnerstag“. Es handelt sich hierbei um den Donnerstag vor der Fastenzeit. Die Namensgebung beruht auf der Tradition, an diesem Tag kleine Küchlein „schmotzig“, das heißt in Fett, zu backen. Eine ähnliche Tradition findet sich in der Bezeichnung „Schmalziger Samstag“. In Österreich werden an diesem letzten Samstag vor der Fastenzeit traditionell Schmalzküchlein gebacken.",
+  "translation": "",
+  "wordCount": 171,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:47:52.890Z",
+  "vocab": {
+    "Österreich": {
+      "word": "Österreich",
+      "lemma": "österreich",
+      "translation": "Áustria",
+      "partOfSpeech": "other",
+      "example": "In südlichen Regionen Deutschlands sowie in Österreich und der Schweiz wird der Karneval „Fasching“ genannt.",
+      "pronunciation": ""
+    },
+    "Donnerstag": {
+      "word": "Donnerstag",
+      "lemma": "donnerstag",
+      "translation": "quinta-feira",
+      "partOfSpeech": "other",
+      "example": "Zum Beispiel feiert man in Teilen Süddeutschlands den „Schmutzigen Donnerstag“.",
+      "pronunciation": ""
+    },
+    "Fastenzeit": {
+      "word": "Fastenzeit",
+      "lemma": "fastenzeit",
+      "translation": "Quaresma",
+      "partOfSpeech": "other",
+      "example": "Es handelt sich hierbei um den Donnerstag vor der Fastenzeit.",
+      "pronunciation": ""
+    },
+    "Tradition": {
+      "word": "Tradition",
+      "lemma": "tradition",
+      "translation": "TRADIÇÃO",
+      "partOfSpeech": "other",
+      "example": "Die Namensgebung beruht auf der Tradition, an diesem Tag kleine Küchlein „schmotzig“, das heißt in Fett, zu backen.",
+      "pronunciation": ""
+    },
+    "angsteinflößenden": {
+      "word": "angsteinflößenden",
+      "lemma": "angsteinflößenden",
+      "translation": "assustador",
+      "partOfSpeech": "other",
+      "example": "Mit angsteinflößenden Holzmasken oder als Hexen und Teufel verkleidet ziehen die Menschen durch die Straßen und hoffen, dass sie dadurch die bösen Geister verjagen.",
+      "pronunciation": ""
+    },
+    "Süddeutschlands": {
+      "word": "Süddeutschlands",
+      "lemma": "süddeutschlands",
+      "translation": "sul da Alemanha",
+      "partOfSpeech": "other",
+      "example": "Zum Beispiel feiert man in Teilen Süddeutschlands den „Schmutzigen Donnerstag“.",
+      "pronunciation": ""
+    },
+    "Schmalzküchlein": {
+      "word": "Schmalzküchlein",
+      "lemma": "schmalzküchlein",
+      "translation": "bolo de banha",
+      "partOfSpeech": "other",
+      "example": "In Österreich werden an diesem letzten Samstag vor der Fastenzeit traditionell Schmalzküchlein gebacken.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://deutsch.lingolia.com/de/leseverstehen/b1/articles/so-feiert-man-karneval-im-sueden",
+  "sourceSite": "Lingolia"
+}

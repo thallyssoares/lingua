@@ -1,0 +1,5 @@
+# Netlify: este repo publica SÓ a pasta sync/ (pacote de conteúdo OTA).
+# Push na main -> deploy automático, sem build. O app busca <site>/manifest.json.
+[build]
+  publish = "sync"
+  command = ""

@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-atletismo",
+  "language": "es",
+  "level": "B1",
+  "theme": "Futebol",
+  "title": "La hora de atletismo",
+  "content": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación. Elisa hace deporte todos los jueves. Su profesora de atletismo es muy exigente y en sus clases se trabaja todo el cuerpo con unos ejercicios extremadamente agotadores. Cuando los deportistas empiezan a sudar, ella siempre grita: «¡Venga, vamos, las manos arriba y bien altas sobre la cabeza! ¡No bajéis los brazos!» Al principio Elisa siempre tenía muchísimas agujetas en las piernas, sobre todo en los muslos. Pero poco a poco se ha ido acostumbrando y desde que hace deporte regularmente tiene menos dolores en la espalda. Ahora sí que le gusta mantenerse en forma. Su amigo Lorenzo se apuntó también a las clases de atletismo para adelgazar, porque cree que tiene una tripa demasiado gorda. Y su amiga Bárbara tiene ciertas dificultades en los ejercicios de flexibilidad, a pesar de estar delgada. Siempre le cuesta mucho traer la rodilla hacia el pecho. Y cuando creen que ya no pueden más, entonces se escucha: «¡Arriba todos, vamos a correr una ronda por el gimnasio! ¡Con los talones subiéndolos hasta el trasero!» Al final acaban todos derrotados y Lorenzo sudando la gota gorda. Pero siempre que termina la clase, la profesora termina estando satisfecha con el trabajo.",
+  "translation": "",
+  "wordCount": 211,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:50:52.965Z",
+  "vocab": {
+    "siempre": {
+      "word": "siempre",
+      "lemma": "siempre",
+      "translation": "sempre",
+      "partOfSpeech": "other",
+      "example": "Cuando los deportistas empiezan a sudar, ella siempre grita: «¡Venga, vamos, las manos arriba y bien altas sobre la cabeza!",
+      "pronunciation": ""
+    },
+    "ejercicios": {
+      "word": "ejercicios",
+      "lemma": "ejercicios",
+      "translation": "exercícios",
+      "partOfSpeech": "other",
+      "example": "Su profesora de atletismo es muy exigente y en sus clases se trabaja todo el cuerpo con unos ejercicios extremadamente agotadores.",
+      "pronunciation": ""
+    },
+    "profesora": {
+      "word": "profesora",
+      "lemma": "profesora",
+      "translation": "Professor",
+      "partOfSpeech": "other",
+      "example": "Su profesora de atletismo es muy exigente y en sus clases se trabaja todo el cuerpo con unos ejercicios extremadamente agotadores.",
+      "pronunciation": ""
+    },
+    "atletismo": {
+      "word": "atletismo",
+      "lemma": "atletismo",
+      "translation": "atletismo",
+      "partOfSpeech": "other",
+      "example": "Su profesora de atletismo es muy exigente y en sus clases se trabaja todo el cuerpo con unos ejercicios extremadamente agotadores.",
+      "pronunciation": ""
+    },
+    "todos": {
+      "word": "todos",
+      "lemma": "todos",
+      "translation": "todos",
+      "partOfSpeech": "other",
+      "example": "Elisa hace deporte todos los jueves.",
+      "pronunciation": ""
+    },
+    "deporte": {
+      "word": "deporte",
+      "lemma": "deporte",
+      "translation": "atividade desportiva",
+      "partOfSpeech": "other",
+      "example": "Elisa hace deporte todos los jueves.",
+      "pronunciation": ""
+    },
+    "extremadamente": {
+      "word": "extremadamente",
+      "lemma": "extremadamente",
+      "translation": "Extremamente",
+      "partOfSpeech": "other",
+      "example": "Su profesora de atletismo es muy exigente y en sus clases se trabaja todo el cuerpo con unos ejercicios extremadamente agotadores.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/la-hora-de-atletismo",
+  "sourceSite": "Lingolia"
+}

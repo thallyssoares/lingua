@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-optogenetik",
+  "language": "de",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Optogenetik: Medizin-Nobelpreis für den Lichtschalter im Gehirn",
+  "content": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern. Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis. Mit der Optogenetik haben Peter Hegemann, Georg Nagel und Karl Deisseroth praktisch ein neues Forschungsfeld erschlossen. Für ihre Arbeiten erhalten sie den Medizin-Nobelpreis 2026 . Sie machten es möglich, ausgewählte Nervenzellen mit Licht gezielt zu aktivieren oder zu hemmen. Damit entstand ein neuartiges Werkzeug, um zu erforschen, wie Nervenzellen im Gehirn miteinander kommunizieren und welche Schaltkreise Gefühle, Erinnerungen, Bewegung oder Verhalten steuern können. Hegemann ist an der Humboldt-Universität zu Berlin tätig, Nagel an der Universität Würzburg. Deisseroth arbeitet an der Stanford University und am Howard Hughes Medical Institute in den USA. Die Wissenschaftler Deisseroth, Hegemann und Nagel forschen im Bereich der Optogenetik. mehr Der Weg zu diesem Werkzeug begann mit einer unscheinbaren einzelligen Grünalge. Hegemann wollte verstehen, wie sich Chlamydomonas reinhardtii so schnell zum Licht hin orientiert. Als um das Jahr 2000 neue Gensequenzen der Alge öffentlich zugänglich wurden, stieß seine Arbeitsgruppe auf Gene, die bekannten lichtempfindlichen Proteinen ähnelten. Hegemann bat Nagel, damals am Max-Planck-Institut für Biophysik in Frankfurt, die Eigenschaften der zugehörigen Proteine zu untersuchen. Nagel brachte die Proteine in Eizellen des Krallenfroschs ein und konnte gemeinsam mit Hegemann zeigen: Eines davon ist ein direkt durch Licht gesteuerter Ionenkanal, nämlich Channelrhodopsin-2. Trifft blaues Licht darauf, öffnet sich der Kanal. Geladene Teilchen strömen durch die Zellmembran und erzeugen ein elektrisches Signal. Der entscheidende Gedanke lag nahe: Auch Nervenzellen arbeiten mit elektrischen Signalen. Könnte man sie mit diesem Protein ebenfalls durch Licht steuern? Peter Hegemann, Medizin-Nobelpreisträger, zum Inhalt seiner Forschung tagesthemen, Das Erste, 05.10.2026 • 21:45 Uhr \"Man muss Risiken eingehen\" Für Patrick Cramer, Präsident der Max-Planck-Gesellschaft, ist die Geschichte ein Beispiel dafür, wie wichtig Beharrlichkeit in der Grundlagenforschung ist. Hegemann habe sich trotz jahrelanger Schwierigkeiten \"nicht entmutigen lassen\". Gemeinsam mit Nagel habe er schließlich den Nachweis erbracht, \"dass es sich bei dem Algen-Rhodopsin tatsächlich um das erste Beispiel eines direkt lichtgesteuerten Ionenkanals und damit um ein völlig neuartiges Membranprotein handelte\". Hegemann sagte selbst zu seiner Arbeitsweise in einem früheren Interview im Hessischen Rundfunk : \"Man muss Risiken eingehen, und dann ergeben sich interessante neue Phänomene, die man nicht vorhersehen kann, die man nicht planen kann.\" Von morgen an wird bekanntgegeben, wer die Nobelpreise erhält, warum hat der Preis eine so hohe Bedeutung? mehr",
+  "translation": "",
+  "wordCount": 389,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:01:59.408Z",
+  "vocab": {
+    "Hegemann": {
+      "word": "Hegemann",
+      "lemma": "hegemann",
+      "translation": "hegemon",
+      "partOfSpeech": "other",
+      "example": "Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis.",
+      "pronunciation": ""
+    },
+    "Nervenzellen": {
+      "word": "Nervenzellen",
+      "lemma": "nervenzellen",
+      "translation": "Células Nervosas",
+      "partOfSpeech": "other",
+      "example": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern.",
+      "pronunciation": ""
+    },
+    "Deisseroth": {
+      "word": "Deisseroth",
+      "lemma": "deisseroth",
+      "translation": "deisseroth",
+      "partOfSpeech": "other",
+      "example": "Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis.",
+      "pronunciation": ""
+    },
+    "Medizin-Nobelpreis": {
+      "word": "Medizin-Nobelpreis",
+      "lemma": "medizin-nobelpreis",
+      "translation": "prémio Nobel de Medicina",
+      "partOfSpeech": "other",
+      "example": "Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis.",
+      "pronunciation": ""
+    },
+    "Nagel": {
+      "word": "Nagel",
+      "lemma": "nagel",
+      "translation": "prego",
+      "partOfSpeech": "other",
+      "example": "Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis.",
+      "pronunciation": ""
+    },
+    "Optogenetik": {
+      "word": "Optogenetik",
+      "lemma": "optogenetik",
+      "translation": "Optogenética",
+      "partOfSpeech": "other",
+      "example": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern.",
+      "pronunciation": ""
+    },
+    "Licht": {
+      "word": "Licht",
+      "lemma": "licht",
+      "translation": "Luz",
+      "partOfSpeech": "other",
+      "example": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/gesundheit/optogenetik-nobelpreis-100.html",
+  "sourceSite": "tagesschau.de"
+}

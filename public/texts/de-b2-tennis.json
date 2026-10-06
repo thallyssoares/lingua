@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-tennis",
+  "language": "de",
+  "level": "B2",
+  "theme": "Futebol",
+  "title": "Das Tennismatch",
+  "content": "Glücklicherweise darf sie den ersten Aufschlag machen. Sie positioniert sich an der Aufschlaglinie und atmet noch einmal tief durch. Der Schiedsrichter sitzt in seinem Hochstuhl und ist hoch konzentriert. Die Publikumstribünen um den Tennisplatz sind bis auf den letzten Platz gefüllt. Alle Augen richten sich nun auf Serena. Aber leider verfehlt sie vor lauter Aufregung den Aufschlag. Der erste Tennisball, der ihr dann entgegenkommt, hat eine unglaubliche Wucht. Sie nimmt ihn an und bringt ihn mit ihrer Vorhand glanzvoll über das Netz. Die Rückhand ihrer Gegnerin ist zwar auch nicht von schlechten Eltern, doch der Ball geht ins Aus. Der Balljunge rennt sofort los. Das Spiel geht weiter und es bleibt bis zuletzt spannend. Die Zuschauer schauen gebannt auf den Spielstand. Am Ende gewinnt Serenas Gegnerin in zwei Sätzen. Aber Kopf hoch, Serena. Dabei sein ist alles!",
+  "translation": "",
+  "wordCount": 137,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:11.153Z",
+  "vocab": {
+    "Aufschlag": {
+      "word": "Aufschlag",
+      "lemma": "aufschlag",
+      "translation": "enfeite",
+      "partOfSpeech": "other",
+      "example": "Glücklicherweise darf sie den ersten Aufschlag machen.",
+      "pronunciation": ""
+    },
+    "Publikumstribünen": {
+      "word": "Publikumstribünen",
+      "lemma": "publikumstribünen",
+      "translation": "arquibancadas públicas",
+      "partOfSpeech": "other",
+      "example": "Die Publikumstribünen um den Tennisplatz sind bis auf den letzten Platz gefüllt.",
+      "pronunciation": ""
+    },
+    "Glücklicherweise": {
+      "word": "Glücklicherweise",
+      "lemma": "glücklicherweise",
+      "translation": "felizmente",
+      "partOfSpeech": "other",
+      "example": "Glücklicherweise darf sie den ersten Aufschlag machen.",
+      "pronunciation": ""
+    },
+    "Gegnerin": {
+      "word": "Gegnerin",
+      "lemma": "gegnerin",
+      "translation": "oponente",
+      "partOfSpeech": "other",
+      "example": "Die Rückhand ihrer Gegnerin ist zwar auch nicht von schlechten Eltern, doch der Ball geht ins Aus.",
+      "pronunciation": ""
+    },
+    "Aufschlaglinie": {
+      "word": "Aufschlaglinie",
+      "lemma": "aufschlaglinie",
+      "translation": "linha de impacto",
+      "partOfSpeech": "other",
+      "example": "Sie positioniert sich an der Aufschlaglinie und atmet noch einmal tief durch.",
+      "pronunciation": ""
+    },
+    "Schiedsrichter": {
+      "word": "Schiedsrichter",
+      "lemma": "schiedsrichter",
+      "translation": "árbitro",
+      "partOfSpeech": "other",
+      "example": "Der Schiedsrichter sitzt in seinem Hochstuhl und ist hoch konzentriert.",
+      "pronunciation": ""
+    },
+    "entgegenkommt": {
+      "word": "entgegenkommt",
+      "lemma": "entgegenkommt",
+      "translation": "acomodar",
+      "partOfSpeech": "other",
+      "example": "Der erste Tennisball, der ihr dann entgegenkommt, hat eine unglaubliche Wucht.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://deutsch.lingolia.com/de/leseverstehen/b2/articles/tennismatch",
+  "sourceSite": "Lingolia"
+}

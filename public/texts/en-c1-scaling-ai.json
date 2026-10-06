@@ -1,0 +1,73 @@
+{
+  "id": "en-c1-scaling-ai",
+  "language": "en",
+  "level": "C1",
+  "theme": "AI Engineering",
+  "title": "Scaling up artificial intelligence",
+  "content": "For most of artificial intelligence's history, researchers expected truly capable systems to require a long series of scientific breakthroughs. Recent progress has revealed an unexpected insight: much of the improvement in AI capabilities has come from scaling up existing systems. Scaling means deploying more computational power, using larger datasets and building bigger models. Three things usually grow together during training: the amount of data, the model's size measured in parameters, and computational resources, often called compute. Bigger systems trained on more data tend to perform better even without substantial changes to algorithms. They can also develop new abilities that smaller systems did not have, sometimes in an abrupt leap rather than a smooth improvement. That jump can be concerning because unexpected harmful behaviours may be harder to anticipate and control. As models grow, they need more data to learn nuances, more parameters to capture patterns and exponentially more computing resources. Researchers must also consider overfitting, data quality and the environmental cost of training.",
+  "translation": "",
+  "wordCount": 163,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "scaling": {
+      "word": "scaling",
+      "lemma": "scale",
+      "translation": "dimensionamento; aumento de escala",
+      "partOfSpeech": "noun",
+      "example": "Recent progress has revealed an unexpected insight: much of the improvement in AI capabilities has come from scaling up existing systems.",
+      "pronunciation": ""
+    },
+    "capabilities": {
+      "word": "capabilities",
+      "lemma": "capability",
+      "translation": "capacidades",
+      "partOfSpeech": "noun",
+      "example": "Recent progress has revealed an unexpected insight: much of the improvement in AI capabilities has come from scaling up existing systems.",
+      "pronunciation": ""
+    },
+    "computational": {
+      "word": "computational",
+      "lemma": "computational",
+      "translation": "computacional",
+      "partOfSpeech": "adjective",
+      "example": "Scaling means deploying more computational power, using larger datasets and building bigger models.",
+      "pronunciation": ""
+    },
+    "parameters": {
+      "word": "parameters",
+      "lemma": "parameter",
+      "translation": "parâmetros",
+      "partOfSpeech": "noun",
+      "example": "Three things usually grow together during training: the amount of data, the model's size measured in parameters, and computational resources, often called compute.",
+      "pronunciation": ""
+    },
+    "abrupt": {
+      "word": "abrupt",
+      "lemma": "abrupt",
+      "translation": "abrupto",
+      "partOfSpeech": "adjective",
+      "example": "They can also develop new abilities that smaller systems did not have, sometimes in an abrupt leap rather than a smooth improvement.",
+      "pronunciation": ""
+    },
+    "anticipate": {
+      "word": "anticipate",
+      "lemma": "anticipate",
+      "translation": "antecipar; prever",
+      "partOfSpeech": "verb",
+      "example": "That jump can be concerning because unexpected harmful behaviours may be harder to anticipate and control.",
+      "pronunciation": ""
+    },
+    "overfitting": {
+      "word": "overfitting",
+      "lemma": "overfit",
+      "translation": "sobreajuste",
+      "partOfSpeech": "noun",
+      "example": "Researchers must also consider overfitting, data quality and the environmental cost of training.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://ourworldindata.org/scaling-up-ai",
+  "sourceSite": "Our World in Data"
+}

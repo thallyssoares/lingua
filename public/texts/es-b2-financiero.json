@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-financiero",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "El conocimiento financiero avanza en España, pero con desigualdades",
+  "content": "Para tomar estas decisiones conviene contar con unos conocimientos financieros básicos. Por ejemplo, saber y entender que: El dinero pierde valor con el tiempo debido a la inflación. El tipo de interés permite comparar el valor del dinero en distintos momentos. El interés compuesto puede hacer crecer los ahorros a largo plazo. Las inversiones con mayores ganancias suelen implicar mayores riesgos. Diversificar la inversión en varios activos en lugar de concentrarse en uno solo ayuda a reducir los riesgos financieros (el conocido consejo de “no poner todos los huevos en la misma cesta”). Aunque estos conceptos parezcan sencillos, muchas personas tienen dificultades para comprenderlos y aplicarlos correctamente. Como consecuencia, pueden aparecer problemas de endeudamiento, una planificación insuficiente del ahorro o dificultades para acceder a determinados productos financieros. La digitalización ha cambiado profundamente la relación entre los ciudadanos y las entidades financieras. Muchas operaciones que antes se hacían con la ayuda de un profesional se realizan ahora desde una aplicación móvil o una plataforma digital. Esto obliga a los usuarios a asumir una mayor responsabilidad en la gestión de sus propias finanzas. Aquellas personas que no se adapten a estos cambios corren el riesgo de sufrir exclusión financiera. Por este motivo, organismos internacionales como la Organización para la Cooperación y el Desarrollo Económicos (OCDE), el Banco Mundial o la Comisión Europea llevan años promoviendo programas de educación financiera. En España, el Banco de España y la Comisión Nacional del Mercado de Valores impulsan desde 2008 planes de educación financiera. Entre ellos destaca el programa Finanzas para Todos , cuyo objetivo es mejorar los conocimientos financieros de la población. ¿Qué saben los españoles sobre finanzas? ¿Han mejorado sus conocimientos en los últimos años? ¿Existen grupos especialmente vulnerables? ¿Son conscientes de lo que saben y de lo que ignoran cuando toman decisiones sobre su dinero?",
+  "translation": "",
+  "wordCount": 302,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:03.395Z",
+  "vocab": {
+    "financieros": {
+      "word": "financieros",
+      "lemma": "financieros",
+      "translation": "financeiros",
+      "partOfSpeech": "other",
+      "example": "Para tomar estas decisiones conviene contar con unos conocimientos financieros básicos.",
+      "pronunciation": ""
+    },
+    "conocimientos": {
+      "word": "conocimientos",
+      "lemma": "conocimientos",
+      "translation": "Conhecimentos;",
+      "partOfSpeech": "other",
+      "example": "Para tomar estas decisiones conviene contar con unos conocimientos financieros básicos.",
+      "pronunciation": ""
+    },
+    "financieras": {
+      "word": "financieras",
+      "lemma": "financiera",
+      "translation": "financeira.",
+      "partOfSpeech": "other",
+      "example": "La digitalización ha cambiado profundamente la relación entre los ciudadanos y las entidades financieras.",
+      "pronunciation": ""
+    },
+    "dificultades": {
+      "word": "dificultades",
+      "lemma": "dificultades",
+      "translation": "dificuldades",
+      "partOfSpeech": "other",
+      "example": "Aunque estos conceptos parezcan sencillos, muchas personas tienen dificultades para comprenderlos y aplicarlos correctamente.",
+      "pronunciation": ""
+    },
+    "finanzas": {
+      "word": "finanzas",
+      "lemma": "finanzas",
+      "translation": "finanças",
+      "partOfSpeech": "other",
+      "example": "Esto obliga a los usuarios a asumir una mayor responsabilidad en la gestión de sus propias finanzas.",
+      "pronunciation": ""
+    },
+    "decisiones": {
+      "word": "decisiones",
+      "lemma": "decisiones",
+      "translation": "decisões",
+      "partOfSpeech": "other",
+      "example": "Para tomar estas decisiones conviene contar con unos conocimientos financieros básicos.",
+      "pronunciation": ""
+    },
+    "dinero": {
+      "word": "dinero",
+      "lemma": "dinero",
+      "translation": "dinheiro",
+      "partOfSpeech": "other",
+      "example": "Por ejemplo, saber y entender que: El dinero pierde valor con el tiempo debido a la inflación.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/el-conocimiento-financiero-avanza-en-espana-pero-con-desigualdades-283721",
+  "sourceSite": "The Conversation"
+}

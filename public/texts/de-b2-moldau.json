@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-moldau",
+  "language": "de",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "Moldau: Wassermangel trifft hohe Ölpreise",
+  "content": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Da, wo sonst Wasser fließt, liegen nur noch Steine, überzogen mit einer braun-grauen Masse: ausgetrocknete Wasserpflanzen. Die Ränder des Dnister-Flussbetts haben seit Wochen kein Wasser mehr gesehen. An manchen Stellen liegen zwischen der Algenmasse tote Fische. Zu sehen ist das in einem Bericht des moldauischen Mediums Newsmaker. Moldau, das kleine Land zwischen Rumänien und der Ukraine leidet unter starker Dürre. Umweltminister Gheorghe Hadjder konstatiert eine \"kritische Situation auf regionaler Ebene an allen Flüssen in der Region\", und die betreffe nicht nur den Dnister, sondern auch die Donau und den Pruth. Der Dnister entspringt in der Ukraine und durchquert Moldau auf seinem Weg ins Schwarze Meer. Laut der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) ist sein Wasser für die Versorgung der Hauptstadt Chisinau wichtig. Laut dem moldauischen Online-Medium Moldova Libera erklärte Moldaus Präsidentin Maia Sandu vor wenigen Tagen, dass es bald Versorgungsengpässe geben könnte. Neben Wassermangel herrscht im Land eine Energiekrise. Der Staat ist fast komplett auf Energieimporte angewiesen. Zuletzt seien wegen des Krieges zwischen Iran und den USA die Energiepreise stark angestiegen, sagt Sergiu Tofilat, Energieexperte beim moldauischen Thinktank WatchDog. In Moldau zahlten die Bürger im Grunde denselben Preis für Gas oder Strom wie die europäischen Verbraucher, erklärt Tofialt gegenüber der ARD . Das Einkommen der moldauischen Verbraucher sei aber zwei- bis dreimal niedriger - das sei \"das Kernproblem\". Die Regierung befürchte, dass hohe Rechnungen zur Verschuldung von Haushalten führen könnten. Das Parlament in Chisinau hat den Energienotstand ausgerufen. Russlandfreundliche Gruppen rufen deshalb nach vermeintlich billiger Energie aus Russland. Wie ernst die Situation ist, wurde vor wenigen Tagen deutlich. Das Parlament beschloss mit großer Mehrheit einen 60-tägigen Energienotstand. Dadurch soll die Regierung nötigenfalls Energie oder Wasser rationieren und verteilen können.",
+  "translation": "",
+  "wordCount": 315,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:00:34.329Z",
+  "vocab": {
+    "moldauischen": {
+      "word": "moldauischen",
+      "lemma": "moldauischen",
+      "translation": "moldavo",
+      "partOfSpeech": "other",
+      "example": "Zu sehen ist das in einem Bericht des moldauischen Mediums Newsmaker.",
+      "pronunciation": ""
+    },
+    "Energienotstand": {
+      "word": "Energienotstand",
+      "lemma": "energienotstand",
+      "translation": "emergência energética",
+      "partOfSpeech": "other",
+      "example": "Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen.",
+      "pronunciation": ""
+    },
+    "Regierung": {
+      "word": "Regierung",
+      "lemma": "regierung",
+      "translation": "governo",
+      "partOfSpeech": "other",
+      "example": "Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen.",
+      "pronunciation": ""
+    },
+    "Moldau": {
+      "word": "Moldau",
+      "lemma": "moldau",
+      "translation": "Moldávia",
+      "partOfSpeech": "other",
+      "example": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig.",
+      "pronunciation": ""
+    },
+    "Wasser": {
+      "word": "Wasser",
+      "lemma": "wasser",
+      "translation": "água",
+      "partOfSpeech": "other",
+      "example": "Da, wo sonst Wasser fließt, liegen nur noch Steine, überzogen mit einer braun-grauen Masse: ausgetrocknete Wasserpflanzen.",
+      "pronunciation": ""
+    },
+    "Verbraucher": {
+      "word": "Verbraucher",
+      "lemma": "verbraucher",
+      "translation": "Consumidor",
+      "partOfSpeech": "other",
+      "example": "In Moldau zahlten die Bürger im Grunde denselben Preis für Gas oder Strom wie die europäischen Verbraucher, erklärt Tofialt gegenüber der ARD .",
+      "pronunciation": ""
+    },
+    "ausgerufen": {
+      "word": "ausgerufen",
+      "lemma": "ausgerufen",
+      "translation": "proclamado",
+      "partOfSpeech": "other",
+      "example": "Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
+  "sourceSite": "tagesschau.de"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-radio",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Radio y algoritmos: el poder creciente de las plataformas y los derechos menguantes de la ",
+  "content": "La rica oferta de programas constituye una parte esencial del ecosistema comunicativo español. Estos contenidos son producidos por cadenas con responsabilidad editorial, que rinden cuentas sobre aquello que emiten. También garantizan los derechos a la información y a la pluralidad de opiniones, y constituyen una herramienta indispensable de entretenimiento y compañía. El streaming y el pódcast están ayudando a la radio a sostener la audiencia . Y su papel como medio informativo esencial se puso de relieve nuevamente durante el gran apagón eléctrico que afectó a toda la península ibérica el 28 de abril de 2025. No obstante, la escucha creciente a través de plataformas digitales, agregadores y altavoces inteligentes también representa un riesgo para la radio. En España, una cuarta parte de las personas que escucharon la radio en 2025 accedieron digitalmente, multiplicando por cuatro la aportación que tenían esos canales en 2018. Más de la mitad de esta escucha se realiza a través de plataformas. El crecimiento más rápido en los últimos años se debe al auge del podcast . Como resultado de esta tendencia, una parte importante de la audiencia está cada vez más condicionada por las big tech (empresas tecnológicas), sin que esto repercuta favorablemente en el ingreso publicitario que perciben las emisoras. Como apuntábamos, la radio mantiene su penetración (porcentaje sobre la población total) gracias a la aportación de la audiencia digital. Pero su cuota económica por este consumo (el porcentaje sobre su volumen total de facturación) no sobrepasa el 3,5 % . Quién sí se beneficia de ello son las plataformas. El modelo de negocio digital está basado en la suscripción por el servicio y en la puesta en valor de los datos del usuario ante el mercado de la publicidad. En ambos casos, el interés de la plataforma es retener tanto tiempo como sea posible al usuario en su entorno. Identifica sus patrones de consumo y, siempre que puede, lo orienta. La legalidad de algunas de las estrategias de las big tech para lograr captar y retener usuarios ha sido cuestionada de modo recurrente. El desarrollo tecnológico ha ido por delante del despliegue normativo. Si nos atenemos al vigente reglamento europeo de protección de datos , las prácticas abusivas de las plataformas se ponen en evidencia.",
+  "translation": "",
+  "wordCount": 373,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:10:20.197Z",
+  "vocab": {
+    "plataformas": {
+      "word": "plataformas",
+      "lemma": "plataformas",
+      "translation": "plataformas",
+      "partOfSpeech": "other",
+      "example": "No obstante, la escucha creciente a través de plataformas digitales, agregadores y altavoces inteligentes también representa un riesgo para la radio.",
+      "pronunciation": ""
+    },
+    "audiencia": {
+      "word": "audiencia",
+      "lemma": "audiencia",
+      "translation": "audiência",
+      "partOfSpeech": "other",
+      "example": "El streaming y el pódcast están ayudando a la radio a sostener la audiencia .",
+      "pronunciation": ""
+    },
+    "radio": {
+      "word": "radio",
+      "lemma": "radio",
+      "translation": "rádio",
+      "partOfSpeech": "other",
+      "example": "El streaming y el pódcast están ayudando a la radio a sostener la audiencia .",
+      "pronunciation": ""
+    },
+    "aportación": {
+      "word": "aportación",
+      "lemma": "aportación",
+      "translation": "contribuição",
+      "partOfSpeech": "other",
+      "example": "En España, una cuarta parte de las personas que escucharon la radio en 2025 accedieron digitalmente, multiplicando por cuatro la aportación que tenían esos canales en 2018.",
+      "pronunciation": ""
+    },
+    "porcentaje": {
+      "word": "porcentaje",
+      "lemma": "porcentaje",
+      "translation": "percentagem",
+      "partOfSpeech": "other",
+      "example": "Como apuntábamos, la radio mantiene su penetración (porcentaje sobre la población total) gracias a la aportación de la audiencia digital.",
+      "pronunciation": ""
+    },
+    "esencial": {
+      "word": "esencial",
+      "lemma": "esencial",
+      "translation": "essencial",
+      "partOfSpeech": "other",
+      "example": "La rica oferta de programas constituye una parte esencial del ecosistema comunicativo español.",
+      "pronunciation": ""
+    },
+    "parte": {
+      "word": "parte",
+      "lemma": "parte",
+      "translation": "parte de uma obra",
+      "partOfSpeech": "other",
+      "example": "La rica oferta de programas constituye una parte esencial del ecosistema comunicativo español.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/radio-y-algoritmos-el-poder-creciente-de-las-plataformas-y-los-derechos-menguantes-de-la-ciudadania-289951",
+  "sourceSite": "The Conversation"
+}

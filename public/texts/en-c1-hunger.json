@@ -1,0 +1,73 @@
+{
+  "id": "en-c1-hunger",
+  "language": "en",
+  "level": "C1",
+  "theme": "Cotidiano",
+  "title": "Hunger and Undernourishment",
+  "content": "What are the consequences of undernourishment and how can we make progress against hunger and undernourishment? By Hannah Ritchie , Pablo Rosado , and Max Roser Cite this work Reuse this work Having enough to eat is one of the fundamental basic human needs. Hunger – or, more formally, undernourishment – is defined as eating less than the energy required to maintain an active and healthy life. The share of undernourished people is the leading indicator for food security and nutrition used by the Food and Agriculture Organization of the United Nations. The fight against hunger focuses on a sufficient energy intake – enough calories per person per day. But it is not the only factor that matters for a healthy diet. Sufficient protein, fats, and micronutrients are also essential, and we cover this in our topic page on micronutrient deficiencies . Undernourishment in mothers and children is a leading risk factor for death and other poor health outcomes. The UN has set a global target as part of the Sustainable Development Goals to “ end hunger by 2030 “. While the world has progressed in past decades, we are far from reaching this target. On this page, you can find our data, visualizations, and writing on hunger and undernourishment. It looks at how many people are undernourished, where they are, and other metrics used to track food security. Almost one-in-ten people in the world do not get enough to eat Hunger – also known as undernourishment – is defined as not consuming enough calories to maintain a normal, active, healthy life. The world has made much progress in reducing global hunger in recent decades — we will see this in the following key insight. But we are still far away from an end to hunger. Tragically, nearly one-in-ten people still do not get enough food to eat. The share of the undernourished population is shown globally and by region in the chart. You can see that rates of hunger are highest in Sub-Saharan Africa. South Asia has much higher rates than the Americas and East Asia. Rates in North America and Europe are below 2.5%. However, the FAO shows this as “2.5%” rather than the specific point estimate. The world has made significant progress against hunger, but this has slowed Rates of undernourishment fell quickly during the 20th and early 21st centuries.",
+  "translation": "",
+  "wordCount": 393,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:28:49.419Z",
+  "vocab": {
+    "undernourishment": {
+      "word": "undernourishment",
+      "lemma": "undernourishment",
+      "translation": "subnutrição",
+      "partOfSpeech": "other",
+      "example": "What are the consequences of undernourishment and how can we make progress against hunger and undernourishment?",
+      "pronunciation": ""
+    },
+    "hunger": {
+      "word": "hunger",
+      "lemma": "hunger",
+      "translation": "fome",
+      "partOfSpeech": "other",
+      "example": "What are the consequences of undernourishment and how can we make progress against hunger and undernourishment?",
+      "pronunciation": ""
+    },
+    "undernourished": {
+      "word": "undernourished",
+      "lemma": "undernourished",
+      "translation": "desnutrido",
+      "partOfSpeech": "other",
+      "example": "The share of undernourished people is the leading indicator for food security and nutrition used by the Food and Agriculture Organization of the United Nations.",
+      "pronunciation": ""
+    },
+    "enough": {
+      "word": "enough",
+      "lemma": "enough",
+      "translation": "suficiente",
+      "partOfSpeech": "other",
+      "example": "By Hannah Ritchie , Pablo Rosado , and Max Roser Cite this work Reuse this work Having enough to eat is one of the fundamental basic human needs.",
+      "pronunciation": ""
+    },
+    "progress": {
+      "word": "progress",
+      "lemma": "progress",
+      "translation": "progresso",
+      "partOfSpeech": "other",
+      "example": "What are the consequences of undernourishment and how can we make progress against hunger and undernourishment?",
+      "pronunciation": ""
+    },
+    "people": {
+      "word": "people",
+      "lemma": "people",
+      "translation": "pessoas",
+      "partOfSpeech": "other",
+      "example": "The share of undernourished people is the leading indicator for food security and nutrition used by the Food and Agriculture Organization of the United Nations.",
+      "pronunciation": ""
+    },
+    "against": {
+      "word": "against",
+      "lemma": "against",
+      "translation": "contra",
+      "partOfSpeech": "other",
+      "example": "What are the consequences of undernourishment and how can we make progress against hunger and undernourishment?",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://ourworldindata.org/hunger-and-undernourishment",
+  "sourceSite": "Our World in Data"
+}

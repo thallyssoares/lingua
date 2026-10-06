@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-arbol",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Breve cuento para dar las gracias y pedir las cosas por favor",
+  "content": "Hace mucho mucho tiempo, un niño paseaba por un prado en cuyo centro encontró un árbol con un cartel que decía: soy un árbol encantado, si dices las palabras mágicas , lo verás. El niño trató de acertar el hechizo, y probó con abracadabra , supercalifragilisticoespialidoso , tan-ta-ta-chán , y muchas otras, pero nada. Rendido, se tiró suplicante, diciendo: \"¡¡por favor, arbolito!!\" , y entonces, se abrió una gran puerta en el árbol . Todo estaba oscuro, menos un cartel que decía: \"sigue haciendo magia\" . Entonces el niño dijo \"¡¡Gracias, arbolito!!\" , y se encendió dentro del árbol una luz que alumbraba un camino hacia una gran montaña de juguetes y chocolate . El niño pudo llevar a todos sus amigos a aquel árbol y tener la mejor fiesta del mundo, y por eso se dice siempre que \"por favor\" y \"gracias\", son las palabras mágicas",
+  "translation": "",
+  "wordCount": 147,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:24:26.290Z",
+  "vocab": {
+    "supercalifragilisticoespialidoso": {
+      "word": "supercalifragilisticoespialidoso",
+      "lemma": "supercalifragilisticoespialidoso",
+      "translation": "supercalifragilisticoespialidoso",
+      "partOfSpeech": "other",
+      "example": "El niño trató de acertar el hechizo, y probó con abracadabra , supercalifragilisticoespialidoso , tan-ta-ta-chán , y muchas otras, pero nada.",
+      "pronunciation": ""
+    },
+    "árbol": {
+      "word": "árbol",
+      "lemma": "árbol",
+      "translation": "árvore",
+      "partOfSpeech": "other",
+      "example": "Hace mucho mucho tiempo, un niño paseaba por un prado en cuyo centro encontró un árbol con un cartel que decía: soy un árbol encantado, si dices las palabras mágicas , lo verás.",
+      "pronunciation": ""
+    },
+    "palabras": {
+      "word": "palabras",
+      "lemma": "palabras",
+      "translation": "palavras",
+      "partOfSpeech": "other",
+      "example": "Hace mucho mucho tiempo, un niño paseaba por un prado en cuyo centro encontró un árbol con un cartel que decía: soy un árbol encantado, si dices las palabras mágicas , lo verás.",
+      "pronunciation": ""
+    },
+    "arbolito": {
+      "word": "arbolito",
+      "lemma": "arbolito",
+      "translation": "arbolito",
+      "partOfSpeech": "other",
+      "example": "Rendido, se tiró suplicante, diciendo: \"¡¡por favor, arbolito!!\" , y entonces, se abrió una gran puerta en el árbol .",
+      "pronunciation": ""
+    },
+    "entonces": {
+      "word": "entonces",
+      "lemma": "entonces",
+      "translation": "entonces",
+      "partOfSpeech": "other",
+      "example": "Rendido, se tiró suplicante, diciendo: \"¡¡por favor, arbolito!!\" , y entonces, se abrió una gran puerta en el árbol .",
+      "pronunciation": ""
+    },
+    "mágicas": {
+      "word": "mágicas",
+      "lemma": "mágicas",
+      "translation": "mágicas",
+      "partOfSpeech": "other",
+      "example": "Hace mucho mucho tiempo, un niño paseaba por un prado en cuyo centro encontró un árbol con un cartel que decía: soy un árbol encantado, si dices las palabras mágicas , lo verás.",
+      "pronunciation": ""
+    },
+    "tan-ta-ta-chán": {
+      "word": "tan-ta-ta-chán",
+      "lemma": "tan-ta-ta-chán",
+      "translation": "tan-ta-ta-chán",
+      "partOfSpeech": "other",
+      "example": "El niño trató de acertar el hechizo, y probó con abracadabra , supercalifragilisticoespialidoso , tan-ta-ta-chán , y muchas otras, pero nada.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://cuentosparadormir.com/infantiles/cuento/el-arbol-magico",
+  "sourceSite": "CuentosparaDormir"
+}

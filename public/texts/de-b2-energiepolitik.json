@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-energiepolitik",
+  "language": "de",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "Günther kritisiert Energiepolitik von Ministerin Reiche",
+  "content": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen. Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteifreundin zu verhindern. Schleswig-Holsteins Ministerpräsident Daniel Günther hat die Energiepolitik von Wirtschaftsministerin Katherina Reiche (CDU) scharf kritisiert. Er habe \"größtmögliche Sorge\", dass die Pläne zur EEG-Novelle und zum sogenannten Netzpaket \"dem Potential der Bundesrepublik und meinem Bundesland schaden\", heißt es in einem dem NDR vorliegenden dreiseitigen Brief des CDU-Politikers an Kanzler Friedrich Merz. Günther mahnt den Kanzler, dass gerade die Schließung der Straße von Hormus zeige, dass Deutschland schnellstmöglich das Risiko einer erneuten \"fossilen Preiskrise\" abbauen müsse. \"Das geht nur über den beschleunigten Ausbau der Erneuerbaren Energien.\" Deshalb sei er \"hochgradig irritiert\" über den Plan, die Einspeisevergütung für private Solaranlagen auf Dächern komplett zu streichen, schreibt Günther. Er frage sich ernsthaft, ob bei dem vergleichsweise kleinen Segment der Photovoltaikanlagen auf den Dächern der politische Nutzen und Schaden noch im Verhältnis stünden. \"Wir brauchen für die Bürger niedrigschwellige Möglichkeiten, selbst Teil der Energiewende zu sein.\" Das geht aus einem Gesetzesentwurf des Ministeriums hervor, der dem ARD-Hauptstadtstudio vorliegt. mehr Günther erinnert den Kanzler an die nötige Akzeptanz der Bürger für Reformen. Bürgerinnen und Bürger müssten weiterhin erfolgreich an der Energiewende beteiligt werden. Auch die Ausschreibungsmengen für neue Windkraftanlagen an Land seien viel zu niedrig. Der Bund sei in der Verantwortung, dafür zu sorgen, dass die von den Ländern bereitgestellten Flächen für Windräder auch genutzt werden könnten. Das Kabinett hat sich auf neue Energiegesetze geeinigt. Welche Folgen hat das für Privathaushalte und die Windenergie? mehr Generell warnt Günther vor einem Tempoverlust bei der Energiewende. Hintergrund ist ein Konflikt mit dem konservativen, wirtschaftsliberalen Flügel der CDU, dem der Ausbau von Wind- und Solaranlagen zu schnell geht. Günther fordert vom Kanzler und der CDU/CSU-Bundestagsfraktion schnelle Kurskorrekturen. Dieses Thema im Programm: NDR 1 Welle Nord | Nachrichten für Schleswig-Holstein | 05.10.2026 | 16:00 Uhr",
+  "translation": "",
+  "wordCount": 310,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:32.455Z",
+  "vocab": {
+    "Günther": {
+      "word": "Günther",
+      "lemma": "günther",
+      "translation": "Gunther",
+      "partOfSpeech": "other",
+      "example": "Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteifreundin zu verhindern.",
+      "pronunciation": ""
+    },
+    "Schleswig-Holsteins": {
+      "word": "Schleswig-Holsteins",
+      "lemma": "schleswig-holsteins",
+      "translation": "schleswig-holstein",
+      "partOfSpeech": "other",
+      "example": "Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteifreundin zu verhindern.",
+      "pronunciation": ""
+    },
+    "Energiewende": {
+      "word": "Energiewende",
+      "lemma": "energiewende",
+      "translation": "transição energética",
+      "partOfSpeech": "other",
+      "example": "\"Wir brauchen für die Bürger niedrigschwellige Möglichkeiten, selbst Teil der Energiewende zu sein.\" Das geht aus einem Gesetzesentwurf des Ministeriums hervor, der dem ARD-Hauptstadtstudio vorliegt.",
+      "pronunciation": ""
+    },
+    "Ministerpräsident": {
+      "word": "Ministerpräsident",
+      "lemma": "ministerpräsident",
+      "translation": "Primeiro‑ministro:",
+      "partOfSpeech": "other",
+      "example": "Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteifreundin zu verhindern.",
+      "pronunciation": ""
+    },
+    "Kanzler": {
+      "word": "Kanzler",
+      "lemma": "kanzler",
+      "translation": "secretário",
+      "partOfSpeech": "other",
+      "example": "Er habe \"größtmögliche Sorge\", dass die Pläne zur EEG-Novelle und zum sogenannten Netzpaket \"dem Potential der Bundesrepublik und meinem Bundesland schaden\", heißt es in einem dem NDR vorliegenden dreiseitigen Brief des CDU-Politikers an Kanzler Friedrich Merz.",
+      "pronunciation": ""
+    },
+    "Bundeswirtschaftsministerin": {
+      "word": "Bundeswirtschaftsministerin",
+      "lemma": "bundeswirtschaftsministerin",
+      "translation": "ministro Federal da Economia",
+      "partOfSpeech": "other",
+      "example": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen.",
+      "pronunciation": ""
+    },
+    "Solaranlagen": {
+      "word": "Solaranlagen",
+      "lemma": "solaranlagen",
+      "translation": "sistemas solares",
+      "partOfSpeech": "other",
+      "example": "\"Das geht nur über den beschleunigten Ausbau der Erneuerbaren Energien.\" Deshalb sei er \"hochgradig irritiert\" über den Plan, die Einspeisevergütung für private Solaranlagen auf Dächern komplett zu streichen, schreibt Günther.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
+  "sourceSite": "tagesschau.de"
+}

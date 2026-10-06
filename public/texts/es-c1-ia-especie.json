@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-ia-especie",
+  "language": "es",
+  "level": "C1",
+  "theme": "AI Engineering",
+  "title": "¿Podría la IA acabar realmente con la especie humana?",
+  "content": "Hace solo unos días, saltaba la alarma, tras conocerse que un grupo de agentes autónomos de IA de OpenAI había vuelto a salirse de control . Esta vez, había accedido sin autorización a datos del sistema de salud en Australia . El incidente no se debió a una rebelión consciente de las máquinas, sino a un comportamiento no previsto de algoritmos diseñados para actuar de forma autónoma. Este suceso vuelve a poner sobre la mesa la advertencia lanzada por un exingeniero de Anthropic hace un par de semanas . ¿Es cierto que la IA podría matarnos en el horizonte de 2030? La respuesta corta, desde el rigor científico, es que no seremos aniquilados por un superordenador consciente al estilo de Terminator . El peligro real de la inteligencia artificial no es que se vuelva malvada ni que desarrolle voluntad propia. El riesgo es que haga exactamente aquello para lo que ha sido programada, pero sin el contexto, la ética ni la supervisión humana indispensables. Si nos preguntamos de qué manera podría causar un daño profundo a la sociedad o pérdidas de vidas humanas, los escenarios posibles no pertenecen a un futuro lejano poblado de máquinas malvadas. La amenaza está en cómo diseñamos e implantamos esta tecnología en el presente y en el riesgo de fallos en cascada en entornos críticos. Conviene aclararlo desde el principio: la inteligencia artificial es una de las herramientas con mayor potencial para hacer avanzar la medicina, la ciencia y la sostenibilidad en la historia de la humanidad. Pero, para que esa promesa se cumpla, debemos ser conscientes de los fallos de diseño que hoy oscurecen su impacto positivo. El caso de Australia es el síntoma de una tendencia: la delegación de decisiones operativas en agentes de IA –programas informáticos autónomos diseñados con aprendizaje automático– que interactúan entre sí a velocidades sobrehumanas. A medida que integramos esta tecnología en redes eléctricas, gestión del tráfico aéreo, movilidad autónoma o diagnóstico médico, la complejidad del sistema se vuelve inmanejable.",
+  "translation": "",
+  "wordCount": 331,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:09:06.576Z",
+  "vocab": {
+    "inteligencia": {
+      "word": "inteligencia",
+      "lemma": "inteligencia",
+      "translation": "inteligência",
+      "partOfSpeech": "other",
+      "example": "El peligro real de la inteligencia artificial no es que se vuelva malvada ni que desarrolle voluntad propia.",
+      "pronunciation": ""
+    },
+    "consciente": {
+      "word": "consciente",
+      "lemma": "consciente",
+      "translation": "consciente.",
+      "partOfSpeech": "other",
+      "example": "El incidente no se debió a una rebelión consciente de las máquinas, sino a un comportamiento no previsto de algoritmos diseñados para actuar de forma autónoma.",
+      "pronunciation": ""
+    },
+    "artificial": {
+      "word": "artificial",
+      "lemma": "artificial",
+      "translation": "falso",
+      "partOfSpeech": "other",
+      "example": "El peligro real de la inteligencia artificial no es que se vuelva malvada ni que desarrolle voluntad propia.",
+      "pronunciation": ""
+    },
+    "tecnología": {
+      "word": "tecnología",
+      "lemma": "tecnología",
+      "translation": "tecnologia",
+      "partOfSpeech": "other",
+      "example": "La amenaza está en cómo diseñamos e implantamos esta tecnología en el presente y en el riesgo de fallos en cascada en entornos críticos.",
+      "pronunciation": ""
+    },
+    "autónomos": {
+      "word": "autónomos",
+      "lemma": "autónomos",
+      "translation": "TRABALHADORES POR CONTA PRÓPRIA",
+      "partOfSpeech": "other",
+      "example": "Hace solo unos días, saltaba la alarma, tras conocerse que un grupo de agentes autónomos de IA de OpenAI había vuelto a salirse de control .",
+      "pronunciation": ""
+    },
+    "Australia": {
+      "word": "Australia",
+      "lemma": "australia",
+      "translation": "Aruba",
+      "partOfSpeech": "other",
+      "example": "Esta vez, había accedido sin autorización a datos del sistema de salud en Australia .",
+      "pronunciation": ""
+    },
+    "diseñados": {
+      "word": "diseñados",
+      "lemma": "diseñados",
+      "translation": "projetados",
+      "partOfSpeech": "other",
+      "example": "El incidente no se debió a una rebelión consciente de las máquinas, sino a un comportamiento no previsto de algoritmos diseñados para actuar de forma autónoma.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/podria-la-ia-acabar-realmente-con-la-especie-humana-292723",
+  "sourceSite": "The Conversation"
+}

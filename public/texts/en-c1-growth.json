@@ -1,0 +1,73 @@
+{
+  "id": "en-c1-growth",
+  "language": "en",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Economic Growth",
+  "content": "By Max Roser , Bertha Rohenkohl , Pablo Arriagada , Joe Hasell , Hannah Ritchie , and Esteban Ortiz-Ospina Economic growth means an increase in the quantity or quality of the many goods and services that people produce. The history of economic growth is, therefore, the history of how societies left widespread poverty behind . In places that have seen substantial economic growth, few now go without food , almost all have access to education , and parents rarely suffer the loss of a child . The work of historians shows this was not the case in the past . Of course, economic growth does not reflect everything we value. On Our World in Data we provide thousands of measures that try to capture these many different dimensions, covering topics such as biodiversity , pollution , time use , human rights and democracy . On this page, you can find all our data, visualizations, and writing on the topic. The Industrial Revolution ended the Malthusian trap in which incomes were determined by the size of the population — making it possible for a country to leave abject poverty behind. In the last three decades, the world has made progress against extreme poverty faster than ever before. But unless the poorest economies start growing, this period of progress against the worst form of poverty is over. Bertha Rohenkohl, Joe Hasell, Pablo Arriagada, and Esteban Ortiz-Ospina",
+  "translation": "",
+  "wordCount": 234,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:29:10.825Z",
+  "vocab": {
+    "Economic": {
+      "word": "Economic",
+      "lemma": "economic",
+      "translation": "econômico",
+      "partOfSpeech": "other",
+      "example": "By Max Roser , Bertha Rohenkohl , Pablo Arriagada , Joe Hasell , Hannah Ritchie , and Esteban Ortiz-Ospina Economic growth means an increase in the quantity or quality of the many goods and services that people produce.",
+      "pronunciation": ""
+    },
+    "poverty": {
+      "word": "poverty",
+      "lemma": "poverty",
+      "translation": "pobreza",
+      "partOfSpeech": "other",
+      "example": "The history of economic growth is, therefore, the history of how societies left widespread poverty behind .",
+      "pronunciation": ""
+    },
+    "Ortiz-Ospina": {
+      "word": "Ortiz-Ospina",
+      "lemma": "ortiz-ospina",
+      "translation": "Ortiz-Ospina",
+      "partOfSpeech": "other",
+      "example": "By Max Roser , Bertha Rohenkohl , Pablo Arriagada , Joe Hasell , Hannah Ritchie , and Esteban Ortiz-Ospina Economic growth means an increase in the quantity or quality of the many goods and services that people produce.",
+      "pronunciation": ""
+    },
+    "growth": {
+      "word": "growth",
+      "lemma": "growth",
+      "translation": "crescimento",
+      "partOfSpeech": "other",
+      "example": "By Max Roser , Bertha Rohenkohl , Pablo Arriagada , Joe Hasell , Hannah Ritchie , and Esteban Ortiz-Ospina Economic growth means an increase in the quantity or quality of the many goods and services that people produce.",
+      "pronunciation": ""
+    },
+    "Rohenkohl": {
+      "word": "Rohenkohl",
+      "lemma": "rohenkohl",
+      "translation": "Rohenkohl",
+      "partOfSpeech": "other",
+      "example": "By Max Roser , Bertha Rohenkohl , Pablo Arriagada , Joe Hasell , Hannah Ritchie , and Esteban Ortiz-Ospina Economic growth means an increase in the quantity or quality of the many goods and services that people produce.",
+      "pronunciation": ""
+    },
+    "Arriagada": {
+      "word": "Arriagada",
+      "lemma": "arriagada",
+      "translation": "Arriagada",
+      "partOfSpeech": "other",
+      "example": "By Max Roser , Bertha Rohenkohl , Pablo Arriagada , Joe Hasell , Hannah Ritchie , and Esteban Ortiz-Ospina Economic growth means an increase in the quantity or quality of the many goods and services that people produce.",
+      "pronunciation": ""
+    },
+    "progress": {
+      "word": "progress",
+      "lemma": "progress",
+      "translation": "progresso",
+      "partOfSpeech": "other",
+      "example": "In the last three decades, the world has made progress against extreme poverty faster than ever before.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://ourworldindata.org/economic-growth",
+  "sourceSite": "Our World in Data"
+}

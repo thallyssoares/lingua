@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-ai-language-learning",
+  "language": "es",
+  "level": "B2",
+  "theme": "AI Engineering",
+  "title": "La inteligencia artificial y el aprendizaje de lenguas",
+  "content": "La interacción con las plataformas de inteligencia artificial generativa y con los modelos extensos de lenguaje se produce por medio del lenguaje natural. Las personas pueden pedir datos, órdenes o explicaciones, y las plataformas proporcionan respuestas verbales con razonamientos. Para el aprendizaje de lenguas, los modelos permiten interactuar en una lengua extranjera, establecer secuencias formativas personalizadas, desarrollar tareas de comprensión y expresión, corregir errores y simular situaciones comunicativas corrientes. Estas posibilidades hacen que la práctica sea accesible a cualquier hora y sin miedo a recibir un juicio negativo. Sin embargo, el panorama no está completo. Si los procesos cognitivos complejos se apoyan sistemáticamente en la inteligencia artificial, el aprendizaje profundo puede quedar limitado y puede desarrollarse una dependencia cognitiva. Si usamos la IA para leer y escribir por nosotros, nos volvemos más perezosos y aprendemos menos. La tecnología puede ayudar, pero la interacción con personas reales sigue siendo necesaria desde una perspectiva comunicativa y social.",
+  "translation": "",
+  "wordCount": 155,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "generativa": {
+      "word": "generativa",
+      "lemma": "generativo",
+      "translation": "generativa",
+      "partOfSpeech": "adjective",
+      "example": "La interacción con las plataformas de inteligencia artificial generativa y con los modelos extensos de lenguaje se produce por medio del lenguaje natural.",
+      "pronunciation": ""
+    },
+    "modelos extensos": {
+      "word": "modelos extensos",
+      "lemma": "modelos extensos",
+      "translation": "modelos extensivos",
+      "partOfSpeech": "phrase",
+      "example": "La interacción con las plataformas de inteligencia artificial generativa y con los modelos extensos de lenguaje se produce por medio del lenguaje natural.",
+      "pronunciation": ""
+    },
+    "secuencias formativas": {
+      "word": "secuencias formativas",
+      "lemma": "secuencias formativas",
+      "translation": "sequências de aprendizagem",
+      "partOfSpeech": "other",
+      "example": "Para el aprendizaje de lenguas, los modelos permiten interactuar en una lengua extranjera, establecer secuencias formativas personalizadas, desarrollar tareas de comprensión y expresión, corregir errores y simular situaciones comunicativas corrientes.",
+      "pronunciation": ""
+    },
+    "corregir": {
+      "word": "corregir",
+      "lemma": "corregir",
+      "translation": "corrigir",
+      "partOfSpeech": "verb",
+      "example": "Para el aprendizaje de lenguas, los modelos permiten interactuar en una lengua extranjera, establecer secuencias formativas personalizadas, desarrollar tareas de comprensión y expresión, corregir errores y simular situaciones comunicativas corrientes.",
+      "pronunciation": ""
+    },
+    "sistemáticamente": {
+      "word": "sistemáticamente",
+      "lemma": "sistemáticamente",
+      "translation": "sistematicamente",
+      "partOfSpeech": "adverb",
+      "example": "Si los procesos cognitivos complejos se apoyan sistemáticamente en la inteligencia artificial, el aprendizaje profundo puede quedar limitado y puede desarrollarse una dependencia cognitiva.",
+      "pronunciation": ""
+    },
+    "dependencia cognitiva": {
+      "word": "dependencia cognitiva",
+      "lemma": "dependencia cognitiva",
+      "translation": "dependência cognitiva",
+      "partOfSpeech": "phrase",
+      "example": "Si los procesos cognitivos complejos se apoyan sistemáticamente en la inteligencia artificial, el aprendizaje profundo puede quedar limitado y puede desarrollarse una dependencia cognitiva.",
+      "pronunciation": ""
+    },
+    "perspectiva": {
+      "word": "perspectiva",
+      "lemma": "perspectiva",
+      "translation": "perspetiva",
+      "partOfSpeech": "noun",
+      "example": "La tecnología puede ayudar, pero la interacción con personas reales sigue siendo necesaria desde una perspectiva comunicativa y social.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/es-la-inteligencia-artificial-el-recurso-definitivo-para-aprender-idiomas-290448",
+  "sourceSite": "The Conversation España"
+}

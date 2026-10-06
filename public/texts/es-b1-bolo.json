@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-bolo",
+  "language": "es",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Una cama para Bolo",
+  "content": "Si tienes animales en casa… tu cama es su cama. Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación. Por suerte, soy mucho más lista que los tres juntos y se me ocurrió un plan infalible para sacarlos de mi dormitorio: ¡el despertador! Cada vez que suena la alarma, desaparecen en un abrir y cerrar de ojos, y entonces solo tengo que cerrar la puerta y correr las cortinas. En cuanto salieron, me metí en la cama rápidamente y alcancé un libro de la mesilla. Por fin tenía un poco de paz y tranquilidad.",
+  "translation": "",
+  "wordCount": 101,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:51:35.622Z",
+  "vocab": {
+    "correctamente": {
+      "word": "correctamente",
+      "lemma": "correctamente",
+      "translation": "corretamente",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "continuación": {
+      "word": "continuación",
+      "lemma": "continuación",
+      "translation": "2.",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "cerrar": {
+      "word": "cerrar",
+      "lemma": "cerrar",
+      "translation": "fechar",
+      "partOfSpeech": "other",
+      "example": "Cada vez que suena la alarma, desaparecen en un abrir y cerrar de ojos, y entonces solo tengo que cerrar la puerta y correr las cortinas.",
+      "pronunciation": ""
+    },
+    "tranquilidad": {
+      "word": "tranquilidad",
+      "lemma": "tranquilidad",
+      "translation": "Tranquilidade",
+      "partOfSpeech": "other",
+      "example": "Por fin tenía un poco de paz y tranquilidad.",
+      "pronunciation": ""
+    },
+    "comprensión": {
+      "word": "comprensión",
+      "lemma": "comprensión",
+      "translation": "compreensão",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "resolviendo": {
+      "word": "resolviendo",
+      "lemma": "resolviendo",
+      "translation": "resolver",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "despertador": {
+      "word": "despertador",
+      "lemma": "despertador",
+      "translation": "despertador",
+      "partOfSpeech": "other",
+      "example": "Por suerte, soy mucho más lista que los tres juntos y se me ocurrió un plan infalible para sacarlos de mi dormitorio: ¡el despertador!",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/una-cama-para-bolo",
+  "sourceSite": "Lingolia"
+}

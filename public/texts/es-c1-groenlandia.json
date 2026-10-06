@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-groenlandia",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Groenlandia no se compra, se negocia: las claves del nuevo acuerdo con Estados Unidos",
+  "content": "Lejos de una anexión o compra directa, la Casa Blanca ha tenido que dirigir sus exigencias de seguridad a través de la vía diplomática multilateral, respetando la integridad territorial del Reino de Dinamarca y el derecho de autodeterminación del pueblo groenlandés. Sin embargo, tras los titulares triunfalistas se esconde un complejo tablero de narrativas políticas, cautelas jurídicas y pugnas geoeconómicas por el control del Ártico. A un lado del Atlántico, Donald Trump presentó el preacuerdo en sus canales oficiales con un marcado tono eufórico, celebrando haber asegurado un “control permanente sobre la seguridad” de la isla , además de un marco de cooperación indefinido útil para la agenda política interna de cara a las elecciones de medio mandato. Al otro lado, la respuesta de Copenhague y Nuuk destacó por un calculado pragmatismo. La primera ministra danesa, Mette Frederiksen, restó dramatismo al choque institucional en sus intervenciones públicas, recordando la solidez de las relaciones bilaterales con Washington y encuadrando el movimiento dentro del marco de cooperación preexistente en la OTAN (heredero del tratado de defensa de 1951, actualizado en 2004) . Por su parte, la reacción en la capital groenlandesa ha sido de prudente tranquilidad. Como ha señalado el líder político groenlandés Erik Jensen en declaraciones al medio local Sermitsiaq , existe confianza en que el contenido del pacto salvaguarda los intereses de la isla. Dinamarca y Groenlandia parecen haber adoptado la estrategia de permitir que Washington disfrute del titular político a cambio de preservar intactas las líneas rojas fundamentales: la soberanía del Reino y la autonomía de Nuuk. A pesar del impacto mediático del anuncio, la cautela analítica resulta indispensable. A día de hoy, el texto definitivo del acuerdo no es público. La primera ministra danesa, Mette Frederiksen, y el presidente de Groenlandia, Jens-Frederik Nielsen, han viajado a Nueva York para rubricar en los márgenes de la Asamblea General de la ONU el nuevo pacto de seguridad junto a Estados Unidos. Sin embargo, esta escenografía política no equivale a un hecho consumado ni concede fuerza legal inmediata al documento. Para que medidas tan relevantes como el derecho de veto estadounidense sobre inversiones extranjeras o el despliegue de nuevas instalaciones militares entren en vigor de forma efectiva e indefinida, el tratado debe superar un itinerario obligatorio de varios pasos.",
+  "translation": "",
+  "wordCount": 378,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:11:24.943Z",
+  "vocab": {
+    "seguridad": {
+      "word": "seguridad",
+      "lemma": "seguridad",
+      "translation": "Token",
+      "partOfSpeech": "other",
+      "example": "Lejos de una anexión o compra directa, la Casa Blanca ha tenido que dirigir sus exigencias de seguridad a través de la vía diplomática multilateral, respetando la integridad territorial del Reino de Dinamarca y el derecho de autodeterminación del pueblo groenlandés.",
+      "pronunciation": ""
+    },
+    "groenlandés": {
+      "word": "groenlandés",
+      "lemma": "groenlandés",
+      "translation": "Groenlandês",
+      "partOfSpeech": "other",
+      "example": "Lejos de una anexión o compra directa, la Casa Blanca ha tenido que dirigir sus exigencias de seguridad a través de la vía diplomática multilateral, respetando la integridad territorial del Reino de Dinamarca y el derecho de autodeterminación del pueblo groenlandés.",
+      "pronunciation": ""
+    },
+    "cooperación": {
+      "word": "cooperación",
+      "lemma": "cooperación",
+      "translation": "associação",
+      "partOfSpeech": "other",
+      "example": "A un lado del Atlántico, Donald Trump presentó el preacuerdo en sus canales oficiales con un marcado tono eufórico, celebrando haber asegurado un “control permanente sobre la seguridad” de la isla , además de un marco de cooperación indefinido útil para la agenda política interna de cara a las elecciones de medio mandato.",
+      "pronunciation": ""
+    },
+    "Frederiksen": {
+      "word": "Frederiksen",
+      "lemma": "frederiksen",
+      "translation": "frederiksen",
+      "partOfSpeech": "other",
+      "example": "La primera ministra danesa, Mette Frederiksen, restó dramatismo al choque institucional en sus intervenciones públicas, recordando la solidez de las relaciones bilaterales con Washington y encuadrando el movimiento dentro del marco de cooperación preexistente en la OTAN (heredero del tratado de defensa de 1951, actualizado en 2004) .",
+      "pronunciation": ""
+    },
+    "Groenlandia": {
+      "word": "Groenlandia",
+      "lemma": "groenlandia",
+      "translation": "Gronelândia",
+      "partOfSpeech": "other",
+      "example": "Dinamarca y Groenlandia parecen haber adoptado la estrategia de permitir que Washington disfrute del titular político a cambio de preservar intactas las líneas rojas fundamentales: la soberanía del Reino y la autonomía de Nuuk.",
+      "pronunciation": ""
+    },
+    "Washington": {
+      "word": "Washington",
+      "lemma": "washington",
+      "translation": "washington",
+      "partOfSpeech": "other",
+      "example": "La primera ministra danesa, Mette Frederiksen, restó dramatismo al choque institucional en sus intervenciones públicas, recordando la solidez de las relaciones bilaterales con Washington y encuadrando el movimiento dentro del marco de cooperación preexistente en la OTAN (heredero del tratado de defensa de 1951, actualizado en 2004) .",
+      "pronunciation": ""
+    },
+    "Dinamarca": {
+      "word": "Dinamarca",
+      "lemma": "dinamarca",
+      "translation": "dinamarca",
+      "partOfSpeech": "other",
+      "example": "Lejos de una anexión o compra directa, la Casa Blanca ha tenido que dirigir sus exigencias de seguridad a través de la vía diplomática multilateral, respetando la integridad territorial del Reino de Dinamarca y el derecho de autodeterminación del pueblo groenlandés.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/groenlandia-no-se-compra-se-negocia-las-claves-del-nuevo-acuerdo-con-estados-unidos-292445",
+  "sourceSite": "The Conversation"
+}

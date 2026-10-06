@@ -1,0 +1,73 @@
+{
+  "id": "en-c1-biodiversity",
+  "language": "en",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Biodiversity",
+  "content": "Explore the diversity of wildlife across the planet. What are species threatened with? What can we do to prevent biodiversity loss? By Hannah Ritchie , Fiona Spooner , and Max Roser Cite this work Reuse this work Most of our work on Our World in Data focuses on data and research on human well-being and prosperity. But we are just one of many species on Earth, and our demand for resources – land , water, food, and shelter – shapes the environment for other wildlife too. For millennia, humans have been reshaping ecosystems, directly through competition and hunting of other animals, and indirectly through deforestation and land use changes for agriculture . On average, there has been a large decline across tens of thousands of wildlife populations since 1970 One of the most widely-quoted, but misunderstood, metrics on biodiversity is the Living Planet Index. The Living Planet Index tries to summarize the average change in population size of tens of thousands of studied animal populations. It distills this change into a single number. What it reports is the average decline in animal population sizes since 1970. This does not tell us the: Living Planet Index: what does it really mean? The Living Planet Index is the biodiversity metric that always claims the headlines. It’s often misinterpreted. How should we understand it? But, reducing the state of global biodiversity into a single figure is a problem. It hides a huge diversity of changes in animal populations within the dataset. The Living Planet Project also shows us what percentage of studied populations have increased, decreased, and remained stable since 1970. Almost half of these animal populations have remained stable or increased . This is shown in the chart. Understanding the broad range of changes in populations is crucial if we’re to stop biodiversity loss – we need to know that not all animal populations are declining. We need to also know which populations are doing well and why they’re doing well. How the Living Planet project helps us understand changes in the world’s wildlife Beneath the popular index, the Living Planet database helps us understand where and what animals are deeply threatened, and what animals are thriving.",
+  "translation": "",
+  "wordCount": 365,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:29:21.130Z",
+  "vocab": {
+    "populations": {
+      "word": "populations",
+      "lemma": "populations",
+      "translation": "populações",
+      "partOfSpeech": "other",
+      "example": "On average, there has been a large decline across tens of thousands of wildlife populations since 1970 One of the most widely-quoted, but misunderstood, metrics on biodiversity is the Living Planet Index.",
+      "pronunciation": ""
+    },
+    "biodiversity": {
+      "word": "biodiversity",
+      "lemma": "biodiversity",
+      "translation": "biodiversidade",
+      "partOfSpeech": "other",
+      "example": "What can we do to prevent biodiversity loss?",
+      "pronunciation": ""
+    },
+    "planet": {
+      "word": "planet",
+      "lemma": "planet",
+      "translation": "planeta",
+      "partOfSpeech": "other",
+      "example": "Explore the diversity of wildlife across the planet.",
+      "pronunciation": ""
+    },
+    "Living": {
+      "word": "Living",
+      "lemma": "living",
+      "translation": "vivendo",
+      "partOfSpeech": "other",
+      "example": "On average, there has been a large decline across tens of thousands of wildlife populations since 1970 One of the most widely-quoted, but misunderstood, metrics on biodiversity is the Living Planet Index.",
+      "pronunciation": ""
+    },
+    "wildlife": {
+      "word": "wildlife",
+      "lemma": "wildlife",
+      "translation": "animais selvagens",
+      "partOfSpeech": "other",
+      "example": "Explore the diversity of wildlife across the planet.",
+      "pronunciation": ""
+    },
+    "animals": {
+      "word": "animals",
+      "lemma": "animal",
+      "translation": "animals",
+      "partOfSpeech": "other",
+      "example": "For millennia, humans have been reshaping ecosystems, directly through competition and hunting of other animals, and indirectly through deforestation and land use changes for agriculture .",
+      "pronunciation": ""
+    },
+    "understand": {
+      "word": "understand",
+      "lemma": "understand",
+      "translation": "entender",
+      "partOfSpeech": "other",
+      "example": "How should we understand it?",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://ourworldindata.org/biodiversity",
+  "sourceSite": "Our World in Data"
+}

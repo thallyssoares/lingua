@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-copernicus",
+  "language": "de",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
+  "content": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor. Auch bei den Hitzetagen gab es diesen Sommer laut dem EU-Klimadienst Copernicus einen neuen Höchststand - mit ernsten Folgen für die Gesundheit. Hitze, extreme Trockenheit und niedrige Wasserstände: Klimaextreme haben laut dem EU-Dienst Copernicus den Sommer in ganz Europa geprägt. Die anhaltende und außergewöhnliche Hitze habe den Sommer zum drittwärmsten des Kontinents seit Beginn der Wetteraufzeichnungen gemacht, teilte Copernicus mit. In mehr als der Hälfte Westeuropas kletterten die Temperaturen an 17 Tagen auf über 30 Grad. Zum Vergleich: Im Vorjahr wurden nur sieben solcher extremen Hitzetage gezählt, beim bisherigen Höchststand im Jahr 2003 waren es elf Tage. Die Durchschnittstemperatur lag bei 21,7 Grad. Damit erlebte Westeuropa den heißesten Sommer seit Beginn der Aufzeichnungen. Die Werte lagen laut den Daten um 2,5 Grad über dem langjährigen Mittel von 1991 bis 2020. Damit wurde der bisherige Rekordsommer von 2003 übertroffen. Zwei Hitzewellen und Höchstwerte bei den Meerestemperaturen: Der Juni 2026 hat gleich mehrere Rekorde gebrochen. mehr 52 Prozent des Kontinents waren laut Copernicus während der Sommermonate zeitweise \"sehr starkem\" Hitzestress ausgesetzt, womit eine gefühlte Temperatur von 38 Grad oder mehr bezeichnet wird. Für den menschlichen Körper bedeutet das eine extreme Belastung und ein erhöhtes Gesundheitsrisiko. Bereits im Mai und auch noch im September kletterten die Temperaturen auf Höchstwerte. Die anhaltende Trockenheit trug auch zu vermehrten Waldbränden bei. Nach Angaben des Europäischen Waldbrand-Informationssystems (EFFIS) war die verbrannte Fläche in der EU bis zum 2. September fast doppelt so groß wie im Durchschnitt der Jahre 2006 bis 2025 für diese Jahreszeit. Parallel dazu wurden in Europa die stärksten Niedrigwasserstände seit Beginn der Aufzeichnungen im Jahr 1992 gemessen, darunter auch im Rhein und in der Donau. Auch die europäischen Meere waren außergewöhnlich warm . Die Zahl der Hitzetoten übertrifft schon zur Jahresmitte die Werte ganzer Vorjahre, so das Robert-Koch-Institut. mehr Diese \"überschneidenden Klimaextreme\" unterstrichen, wie wichtig es sei, eine \"Widerstandsfähigkeit gegenüber zunehmend miteinander verknüpften Klimarisiken\" aufzubauen, sagte Samantha Burgess, Strategieleiterin für Klima beim Europäischen Zentrum für mittelfristige Wettervorhersage.",
+  "translation": "",
+  "wordCount": 335,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:02:47.775Z",
+  "vocab": {
+    "Copernicus": {
+      "word": "Copernicus",
+      "lemma": "copernicus",
+      "translation": "Copernicus:",
+      "partOfSpeech": "other",
+      "example": "Auch bei den Hitzetagen gab es diesen Sommer laut dem EU-Klimadienst Copernicus einen neuen Höchststand - mit ernsten Folgen für die Gesundheit.",
+      "pronunciation": ""
+    },
+    "Europäischen": {
+      "word": "Europäischen",
+      "lemma": "europäischen",
+      "translation": "europeu",
+      "partOfSpeech": "other",
+      "example": "Nach Angaben des Europäischen Waldbrand-Informationssystems (EFFIS) war die verbrannte Fläche in der EU bis zum 2.",
+      "pronunciation": ""
+    },
+    "Sommer": {
+      "word": "Sommer",
+      "lemma": "sommer",
+      "translation": "verão",
+      "partOfSpeech": "other",
+      "example": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor.",
+      "pronunciation": ""
+    },
+    "Waldbrand-Informationssystems": {
+      "word": "Waldbrand-Informationssystems",
+      "lemma": "waldbrand-informationssystems",
+      "translation": "sistema de informação sobre incêndios florestais",
+      "partOfSpeech": "other",
+      "example": "Nach Angaben des Europäischen Waldbrand-Informationssystems (EFFIS) war die verbrannte Fläche in der EU bis zum 2.",
+      "pronunciation": ""
+    },
+    "Wetteraufzeichnungen": {
+      "word": "Wetteraufzeichnungen",
+      "lemma": "aufzeichnungen",
+      "translation": "CONSERVAÇÃO DE REGISTOS",
+      "partOfSpeech": "other",
+      "example": "Die anhaltende und außergewöhnliche Hitze habe den Sommer zum drittwärmsten des Kontinents seit Beginn der Wetteraufzeichnungen gemacht, teilte Copernicus mit.",
+      "pronunciation": ""
+    },
+    "Klimaextreme": {
+      "word": "Klimaextreme",
+      "lemma": "klimaextreme",
+      "translation": "extremos climáticos",
+      "partOfSpeech": "other",
+      "example": "Hitze, extreme Trockenheit und niedrige Wasserstände: Klimaextreme haben laut dem EU-Dienst Copernicus den Sommer in ganz Europa geprägt.",
+      "pronunciation": ""
+    },
+    "Temperaturen": {
+      "word": "Temperaturen",
+      "lemma": "temperaturen",
+      "translation": "Temperaturas",
+      "partOfSpeech": "other",
+      "example": "In mehr als der Hälfte Westeuropas kletterten die Temperaturen an 17 Tagen auf über 30 Grad.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
+  "sourceSite": "tagesschau.de"
+}

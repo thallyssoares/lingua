@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-hausarzt",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Erst Hausarzt, dann Facharzt - Baden-Württemberg als Vorreiter",
+  "content": "Der Hausarzt als erste Anlaufstelle: Die Bundesregierung will das System der Primärversorgung bundesweit einführen. In Baden-Württemberg gibt es das System seit fast 20 Jahren. Wie läuft es dort? Martin Holl hatte Herzprobleme, geschwollene Beine, Muskelschwäche. Beim 68-Jährigen gingen die Alarmglocken an. \"Ich habe viel Sport getrieben und ich denke, ich kenne meinen Körper und vor allem auch die Muskulatur\", erzählt er. \"Und das war mir dann suspekt.\" Ein Fall für den Kardiologen? Nein. Martin Holl hat zuerst einmal seinen Hausarzt aufgesucht - denn das muss er. Der Rentner nimmt am Modell \"hausarztzentrierte Versorgung\" (HZV) teil. Das gibt es in Ansätzen in allen Bundesländern, nirgendwo ist es aber so weit verbreitet wie in Baden-Württemberg. 2008 wurde das System eingeführt, mittlerweile nimmt über ein Drittel der gesetzlich Versicherten im Land teil, insgesamt 3,4 Millionen Menschen. Tendenz laut Hausärztinnen- und Hausärzteverband: zuletzt stark steigend. Union und SPD planen das Primärarztsystem für gesetzlich Versicherte. mehr Das Konzept sieht vor, dass die Teilnehmenden sich grundsätzlich verpflichten, zunächst zum Hausarzt zu gehen. Der übernimmt die Erstversorgung - braucht es danach noch eine Untersuchung durch einen Spezialisten, überweist er an einen Facharzt. Im Gegenzug für die eingeschränkte Wahlfreiheit verspricht Martin Holls Hausarzt Joachim Kolb in Benningen bei Stuttgart schnellere Termine. \"Wenn mich Patienten fragen, warum soll ich das überhaupt machen, sage ich, ich kann ihnen garantieren, ich sorge dafür, dass sie, wenn es dringend wird, zeitnah eine Behandlung bekommen.\" Möglich macht das der kurze Dienstweg zu Fachärzten in der Umgebung und der Kontakt auf Augenhöhe. Ein Mediziner könne einem Fachkollegen oft deutlich besser vermitteln, warum ein Fall dringend ist. Dann klappe es mit einem Facharzttermine oftmals innerhalb von zwei Tagen. Auch wenn es Unterschiede zwischen den Fachrichtungen gebe und in seinen Augen noch deutlich mehr Praxen teilnehmen sollten.",
+  "translation": "",
+  "wordCount": 291,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:59:03.827Z",
+  "vocab": {
+    "Baden-Württemberg": {
+      "word": "Baden-Württemberg",
+      "lemma": "baden-württemberg",
+      "translation": "baden-württemberg",
+      "partOfSpeech": "other",
+      "example": "In Baden-Württemberg gibt es das System seit fast 20 Jahren.",
+      "pronunciation": ""
+    },
+    "Hausarzt": {
+      "word": "Hausarzt",
+      "lemma": "hausarzt",
+      "translation": "médico de família",
+      "partOfSpeech": "other",
+      "example": "Der Hausarzt als erste Anlaufstelle: Die Bundesregierung will das System der Primärversorgung bundesweit einführen.",
+      "pronunciation": ""
+    },
+    "gesetzlich": {
+      "word": "gesetzlich",
+      "lemma": "gesetzlich",
+      "translation": "estatutário",
+      "partOfSpeech": "other",
+      "example": "2008 wurde das System eingeführt, mittlerweile nimmt über ein Drittel der gesetzlich Versicherten im Land teil, insgesamt 3,4 Millionen Menschen.",
+      "pronunciation": ""
+    },
+    "System": {
+      "word": "System",
+      "lemma": "system",
+      "translation": "Sistema",
+      "partOfSpeech": "other",
+      "example": "Der Hausarzt als erste Anlaufstelle: Die Bundesregierung will das System der Primärversorgung bundesweit einführen.",
+      "pronunciation": ""
+    },
+    "Martin": {
+      "word": "Martin",
+      "lemma": "martin",
+      "translation": "martin",
+      "partOfSpeech": "other",
+      "example": "Martin Holl hatte Herzprobleme, geschwollene Beine, Muskelschwäche.",
+      "pronunciation": ""
+    },
+    "hausarztzentrierte": {
+      "word": "hausarztzentrierte",
+      "lemma": "hausarztzentrierte",
+      "translation": "centrado no GP",
+      "partOfSpeech": "other",
+      "example": "Der Rentner nimmt am Modell \"hausarztzentrierte Versorgung\" (HZV) teil.",
+      "pronunciation": ""
+    },
+    "Primärversorgung": {
+      "word": "Primärversorgung",
+      "lemma": "primärversorgung",
+      "translation": "Cuidados primários",
+      "partOfSpeech": "other",
+      "example": "Der Hausarzt als erste Anlaufstelle: Die Bundesregierung will das System der Primärversorgung bundesweit einführen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/versorgung-hausarzt-facharzt-100.html",
+  "sourceSite": "tagesschau.de"
+}

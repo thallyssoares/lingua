@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-ciudades",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Las ciudades sostenibles empiezan mucho antes del primer ladrillo",
+  "content": "Cada vez que un ayuntamiento decide cómo crecerá una ciudad en los próximos años, lo hace a través del planeamiento urbanístico: las normas y planos que determinan qué usos podrá tener cada terreno. Así se establece dónde habrá viviendas, colegios, parques o zonas para actividades económicas. Son decisiones que condicionarán cómo crecerán nuestras ciudades durante las próximas décadas. Aunque físicamente nada haya cambiado todavía, esas decisiones pueden generar importantes expectativas sobre el futuro de un territorio. Y esas decisiones no se convierten en una realidad hasta que no se han llevado a cabo. Así, desde el punto de vista de los propietarios de un terreno, éstos no pueden considerar suyo un futuro desarrollo urbanístico solo porque aparece previsto en un plan. Por ejemplo, que un plan urbanístico reserve una zona para un futuro barrio no significa que sus propietarios hayan adquirido ya el derecho a desarrollarlo. Pongamos otro ejemplo. Imaginemos una zona agrícola situada en las afueras de una ciudad cuyos terrenos pertenecen a distintos propietarios. El plan urbanístico prevé que dentro de unos años pueda transformarse en un nuevo barrio residencial. Sin embargo, mientras no se cumplan las condiciones que exige la ley, sus propietarios siguen teniendo el mismo suelo que tenían antes. La posibilidad de que algún día se construyan viviendas en esa zona es, por el momento, una expectativa de futuro y no un derecho adquirido. La Ley de Suelo y Rehabilitación Urbana establece que esos derechos no nacen automáticamente con la aprobación del plan urbanístico. Antes deben cumplirse una serie de requisitos. Entre otras obligaciones, es necesario urbanizar el suelo, es decir, dotarlo de calles, aceras, alumbrado y redes de suministro. También es preciso reservar parte del terreno para equipamientos públicos, como parques o colegios, y los propietarios deben asumir los costes y beneficios que genera la transformación urbanística.",
+  "translation": "",
+  "wordCount": 303,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:04.186Z",
+  "vocab": {
+    "propietarios": {
+      "word": "propietarios",
+      "lemma": "propietarios",
+      "translation": "proprietários",
+      "partOfSpeech": "other",
+      "example": "Así, desde el punto de vista de los propietarios de un terreno, éstos no pueden considerar suyo un futuro desarrollo urbanístico solo porque aparece previsto en un plan.",
+      "pronunciation": ""
+    },
+    "urbanístico": {
+      "word": "urbanístico",
+      "lemma": "urbanístico",
+      "translation": "Urbanismo",
+      "partOfSpeech": "other",
+      "example": "Cada vez que un ayuntamiento decide cómo crecerá una ciudad en los próximos años, lo hace a través del planeamiento urbanístico: las normas y planos que determinan qué usos podrá tener cada terreno.",
+      "pronunciation": ""
+    },
+    "decisiones": {
+      "word": "decisiones",
+      "lemma": "decisiones",
+      "translation": "decisões",
+      "partOfSpeech": "other",
+      "example": "Son decisiones que condicionarán cómo crecerán nuestras ciudades durante las próximas décadas.",
+      "pronunciation": ""
+    },
+    "futuro": {
+      "word": "futuro",
+      "lemma": "futuro",
+      "translation": "futuro",
+      "partOfSpeech": "other",
+      "example": "Aunque físicamente nada haya cambiado todavía, esas decisiones pueden generar importantes expectativas sobre el futuro de un territorio.",
+      "pronunciation": ""
+    },
+    "terreno": {
+      "word": "terreno",
+      "lemma": "terreno",
+      "translation": "terra",
+      "partOfSpeech": "other",
+      "example": "Cada vez que un ayuntamiento decide cómo crecerá una ciudad en los próximos años, lo hace a través del planeamiento urbanístico: las normas y planos que determinan qué usos podrá tener cada terreno.",
+      "pronunciation": ""
+    },
+    "establece": {
+      "word": "establece",
+      "lemma": "establece",
+      "translation": "Estabelece",
+      "partOfSpeech": "other",
+      "example": "Así se establece dónde habrá viviendas, colegios, parques o zonas para actividades económicas.",
+      "pronunciation": ""
+    },
+    "viviendas": {
+      "word": "viviendas",
+      "lemma": "viviendas",
+      "translation": "Unidades de habitação",
+      "partOfSpeech": "other",
+      "example": "Así se establece dónde habrá viviendas, colegios, parques o zonas para actividades económicas.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/las-ciudades-sostenibles-empiezan-mucho-antes-del-primer-ladrillo-292493",
+  "sourceSite": "The Conversation"
+}

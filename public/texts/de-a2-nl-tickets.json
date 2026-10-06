@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-tickets",
+  "language": "de",
+  "level": "A2",
+  "theme": "Futebol",
+  "title": "WM: Fans kritisieren hohe Ticket-Preise",
+  "content": "Die FIFA ist der internationale Verein für den Fußball. Man kann auch Welt-Fußball-Verband dazu sagen. Die Zentrale von der FIFA ist in der Stadt Zürich in dem Land Schweiz. Die FIFA organisiert die Welt-Meisterschaften im Fußball. Sie entscheidet auch, in welchen Fernseh-Sendern die Welt-Meisterschaft zu sehen ist. Die FIFA verdient durch die WM und durch Werbung viel Geld. Die EU-Kommission ist in der Europäischen Union für Gesetze zuständig. Jedes Land schickt eine Person als Kommissar oder Kommissarin in die EU-Kommission. Jeder Kommissar ist für ein bestimmtes Thema zuständig, zum Beispiel für den Umwelt-Schutz oder die Sicherheit in Europa. Die EU-Kommission ist in Brüssel. Brüssel ist die Haupt-Stadt von Belgien. Das Finale ist die letzte Runde in einem Sport-Turnier. Im Finale spielen die beiden besten Mannschaften oder die beiden besten Spieler oder Spielerinnen gegeneinander. Ein deutsches Wort für Finale ist End-Spiel. Kanada ist ein Land in Nord-Amerika. Es liegt nördlich von dem Land USA. Die Haupt-Stadt von Kanada heißt Ottawa. Die meisten Menschen in Kanada sprechen Englisch. In einem Teil von Kanada sprechen die Menschen aber vor allem Französisch. Mexiko ist ein Land in Nord-Amerika. Es wird auch Vereinigte Mexikanische Staaten genannt. Die Haupt-Stadt von Mexiko heißt Mexiko-Stadt. Die meisten Menschen in Mexiko sprechen Spanisch. Mexiko ist ein Nachbar-Land von dem Land USA.",
+  "translation": "",
+  "wordCount": 212,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:10:53.056Z",
+  "vocab": {
+    "EU-Kommission": {
+      "word": "EU-Kommission",
+      "lemma": "eu-kommission",
+      "translation": "Comissão Europeia",
+      "partOfSpeech": "other",
+      "example": "Die EU-Kommission ist in der Europäischen Union für Gesetze zuständig.",
+      "pronunciation": ""
+    },
+    "Haupt-Stadt": {
+      "word": "Haupt-Stadt",
+      "lemma": "haupt-stadt",
+      "translation": "haupt-stadt",
+      "partOfSpeech": "other",
+      "example": "Brüssel ist die Haupt-Stadt von Belgien.",
+      "pronunciation": ""
+    },
+    "Kanada": {
+      "word": "Kanada",
+      "lemma": "kanada",
+      "translation": "kanada",
+      "partOfSpeech": "other",
+      "example": "Kanada ist ein Land in Nord-Amerika.",
+      "pronunciation": ""
+    },
+    "Nord-Amerika": {
+      "word": "Nord-Amerika",
+      "lemma": "nord-amerika",
+      "translation": "nord-amerika",
+      "partOfSpeech": "other",
+      "example": "Kanada ist ein Land in Nord-Amerika.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Die meisten Menschen in Kanada sprechen Englisch.",
+      "pronunciation": ""
+    },
+    "sprechen": {
+      "word": "sprechen",
+      "lemma": "sprechen",
+      "translation": "sprechen",
+      "partOfSpeech": "other",
+      "example": "Die meisten Menschen in Kanada sprechen Englisch.",
+      "pronunciation": ""
+    },
+    "Mexiko": {
+      "word": "Mexiko",
+      "lemma": "mexiko",
+      "translation": "mexiko",
+      "partOfSpeech": "other",
+      "example": "Mexiko ist ein Land in Nord-Amerika.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/fussball-tickets-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

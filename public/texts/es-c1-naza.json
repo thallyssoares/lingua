@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-naza",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino",
+  "content": "Una losa de hormigón se va colocando lentamente en su sitio para completar un tramo del muro. Pulgada a pulgada, la comunidad palestina del otro lado se va haciendo cada vez más pequeña. Y entonces –así, sin más– un mundo que está a un tiro de piedra desaparece. Como alguien que ha estudiado las restricciones impuestas a los palestinos, a menudo pienso en esta escena como un microcosmos del uso que Israel lleva décadas haciendo de muros, puestos de control y tecnologías de vigilancia para aislar a los palestinos del resto de la sociedad. En ningún lugar resulta más evidente esta dinámica que en la Franja de Gaza, que Israel cercó durante la década de los noventa y que lleva bloqueado desde 2007 , alegando motivos de seguridad y la amenaza de ataques terroristas. Debido a estas barreras, ha resultado difícil documentar el inmenso sufrimiento de los palestinos de Gaza, más de 70 000 de los cuales han perdido la vida como consecuencia de la guerra entre Israel y Hamás desde 2023. El Gobierno israelí prohíbe en gran medida a los periodistas internacionales entrar de forma independiente en la Franja de Gaza, mientras que a los palestinos de Gaza no se les permite, por lo general, salir de la Franja. Sin embargo, el estreno de la película NAZA , de los cineastas israelíes Yuval Abraham y Rachel Szor, en el Festival Internacional de Cine de Venecia, ha puesto el foco en la tragedia que se está viviendo en Gaza sin recurrir a imágenes de cadáveres espantosos ni de barrios bombardeados. La película se compone en gran parte de testimonios anónimos de 24 miembros del ejército y los servicios de inteligencia israelíes. En ellos se aborda la forma en que Israel ha utilizado la inteligencia artificial para atacar a dirigentes de Hamás, a pesar de saber que los ataques también provocarían un gran número de víctimas civiles. El título, NAZA , proviene de un acrónimo de la expresión hebrea “ nezek agavi ”, o “daños colaterales”, y es el sistema de umbrales del ejército israelí para determinar cuántas víctimas civiles son aceptables en sus ataques militares contra Gaza desde el 7 de octubre de 2023 . Ese día, militantes de Hamás procedentes de Gaza atacaron el sur de Israel, asesinando a 1 200 personas –en su mayoría civiles– y tomando además unos 250 rehenes.",
+  "translation": "",
+  "wordCount": 393,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.312Z",
+  "vocab": {
+    "palestinos": {
+      "word": "palestinos",
+      "lemma": "palestinos",
+      "translation": "palestinos",
+      "partOfSpeech": "other",
+      "example": "Como alguien que ha estudiado las restricciones impuestas a los palestinos, a menudo pienso en esta escena como un microcosmos del uso que Israel lleva décadas haciendo de muros, puestos de control y tecnologías de vigilancia para aislar a los palestinos del resto de la sociedad.",
+      "pronunciation": ""
+    },
+    "Israel": {
+      "word": "Israel",
+      "lemma": "israel",
+      "translation": "israel",
+      "partOfSpeech": "other",
+      "example": "Como alguien que ha estudiado las restricciones impuestas a los palestinos, a menudo pienso en esta escena como un microcosmos del uso que Israel lleva décadas haciendo de muros, puestos de control y tecnologías de vigilancia para aislar a los palestinos del resto de la sociedad.",
+      "pronunciation": ""
+    },
+    "inteligencia": {
+      "word": "inteligencia",
+      "lemma": "inteligencia",
+      "translation": "inteligência",
+      "partOfSpeech": "other",
+      "example": "La película se compone en gran parte de testimonios anónimos de 24 miembros del ejército y los servicios de inteligencia israelíes.",
+      "pronunciation": ""
+    },
+    "ataques": {
+      "word": "ataques",
+      "lemma": "ataques",
+      "translation": "ataques",
+      "partOfSpeech": "other",
+      "example": "En ningún lugar resulta más evidente esta dinámica que en la Franja de Gaza, que Israel cercó durante la década de los noventa y que lleva bloqueado desde 2007 , alegando motivos de seguridad y la amenaza de ataques terroristas.",
+      "pronunciation": ""
+    },
+    "civiles": {
+      "word": "civiles",
+      "lemma": "civiles",
+      "translation": "Cíveis",
+      "partOfSpeech": "other",
+      "example": "En ellos se aborda la forma en que Israel ha utilizado la inteligencia artificial para atacar a dirigentes de Hamás, a pesar de saber que los ataques también provocarían un gran número de víctimas civiles.",
+      "pronunciation": ""
+    },
+    "Franja": {
+      "word": "Franja",
+      "lemma": "franja",
+      "translation": "stripe",
+      "partOfSpeech": "other",
+      "example": "En ningún lugar resulta más evidente esta dinámica que en la Franja de Gaza, que Israel cercó durante la década de los noventa y que lleva bloqueado desde 2007 , alegando motivos de seguridad y la amenaza de ataques terroristas.",
+      "pronunciation": ""
+    },
+    "israelíes": {
+      "word": "israelíes",
+      "lemma": "israelíes",
+      "translation": "israelitas",
+      "partOfSpeech": "other",
+      "example": "Sin embargo, el estreno de la película NAZA , de los cineastas israelíes Yuval Abraham y Rachel Szor, en el Festival Internacional de Cine de Venecia, ha puesto el foco en la tragedia que se está viviendo en Gaza sin recurrir a imágenes de cadáveres espantosos ni de barrios bombardeados.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/naza-las-revelaciones-israelies-retratan-el-aislamiento-del-pueblo-palestino-293026",
+  "sourceSite": "The Conversation"
+}

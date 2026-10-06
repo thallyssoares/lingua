@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-niedrigwasser",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Schneider fordert anderen Umgang mit Wasser",
+  "content": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf. Bundesumweltminister Carsten Schneider (SPD) mahnt angesichts der Trockenheit in diesem Jahr ein Umdenken beim Umgang mit Wasser an. \"Die Zeiten, in denen wir uns in Deutschland über Wasser keine Gedanken machen mussten, sind endgültig vorbei\", sagte Schneider dem Kölner Stadt-Anzeiger . Die niedrigen Pegelstände in Flüssen wie dem Rhein hatten in diesem Sommer für eine erhebliche Einschränkung der Binnenschifffahrt gesorgt. Dies sei eine dramatische Belastung für Natur und Wirtschaft - aber nur sichtbares Zeichen einer größeren Entwicklung. Der Genossenschaftsbankenverband blickt optimistischer auf die Entwicklung der deutschen Wirtschaft. mehr Schneider sagte weiter, die Wasserpolitik der vergangenen Jahrhunderte sei es gewesen, Wasser möglichst schnell abzuleiten und nasse Flächen trockenzulegen. \"Heute ist die Aufgabe, Wasser so gut wie möglich in der Landschaft zu halten. Wenn die Gebirge mit ihren Gletschern als Wasserlieferanten ausfallen, müssen die Flüsse, Auen, Wälder und Böden umso mehr zu Wasserspeichern werden\", erklärte Schneider. Dies bedeute zum Beispiel, trockene Moore wieder zu vernässen, Flüssen mehr Raum zu geben und Wälder zu stabilen Mischwäldern umzubauen. Auch die technische Wasserinfrastruktur müsse fit gemacht werden. \"Die Länder tun gut daran, die Mittel aus dem Sondervermögen zu einem guten Teil in die Wasserinfrastruktur zu investieren\", sagte Schneider. Der Bund hat den Ländern aus dem Sondervermögen für Infrastruktur 100 Milliarden Euro zur Verfügung gestellt. Die Schätzung der Organisation geht von wirtschaftlichen Schäden von mindestens 36 Milliarden Euro aus. mehr Die Bundesnetzagentur warnte, die Pegelstände können sich auch auf die Energieversorgung auswirken. \"Durch die Niedrigwasserlage können Binnenschiffe gegenwärtig nur mit reduzierten Ladungskapazitäten die Kohlekraftwerke insbesondere in Süddeutschland beliefern\", sagte ein Sprecher der Behörde der Zeitung. Dies habe bisher aber keine Auswirkungen auf die Verfügbarkeit der Kraftwerke. Am Montag findet in Berlin im Bundesumweltministerium eine Konferenz zu Wasserpolitik statt. Auch EU-Umweltkommissarin Jessika Roswall nimmt daran teil.",
+  "translation": "",
+  "wordCount": 314,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:43:18.281Z",
+  "vocab": {
+    "Wasserinfrastruktur": {
+      "word": "Wasserinfrastruktur",
+      "lemma": "wasserinfrastruktur",
+      "translation": "wasserinfrastruktur",
+      "partOfSpeech": "other",
+      "example": "Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
+      "pronunciation": ""
+    },
+    "Schneider": {
+      "word": "Schneider",
+      "lemma": "schneider",
+      "translation": "Alfaiataria",
+      "partOfSpeech": "other",
+      "example": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt.",
+      "pronunciation": ""
+    },
+    "Bundesumweltminister": {
+      "word": "Bundesumweltminister",
+      "lemma": "bundesumweltminister",
+      "translation": "ministro Federal do Meio Ambiente",
+      "partOfSpeech": "other",
+      "example": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt.",
+      "pronunciation": ""
+    },
+    "Pegelstände": {
+      "word": "Pegelstände",
+      "lemma": "pegelstände",
+      "translation": "pegelstände",
+      "partOfSpeech": "other",
+      "example": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt.",
+      "pronunciation": ""
+    },
+    "Wasser": {
+      "word": "Wasser",
+      "lemma": "wasser",
+      "translation": "água",
+      "partOfSpeech": "other",
+      "example": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt.",
+      "pronunciation": ""
+    },
+    "Genossenschaftsbankenverband": {
+      "word": "Genossenschaftsbankenverband",
+      "lemma": "genossenschaftsbankenverband",
+      "translation": "genossenschaftsbankenverband",
+      "partOfSpeech": "other",
+      "example": "Der Genossenschaftsbankenverband blickt optimistischer auf die Entwicklung der deutschen Wirtschaft.",
+      "pronunciation": ""
+    },
+    "Sondervermögen": {
+      "word": "Sondervermögen",
+      "lemma": "sondervermögen",
+      "translation": "sondervermögen",
+      "partOfSpeech": "other",
+      "example": "\"Die Länder tun gut daran, die Mittel aus dem Sondervermögen zu einem guten Teil in die Wasserinfrastruktur zu investieren\", sagte Schneider.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
+  "sourceSite": "tagesschau.de"
+}

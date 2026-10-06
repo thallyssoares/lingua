@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-pkw",
+  "language": "de",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "E-Autos boomen bei deutschen Käufern",
+  "content": "Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein. Die hohen Benzin- und Dieselpreise machen Elektroautos in Deutschland immer beliebter: Insgesamt 88.599 vollelektrische Pkw wurden hierzulande im September neu zugelassen, wie aus aktuellen Daten des Kraftfahrtbundesamtes hervorgeht. Damit lag ihr Anteil an allen Neuzulassungen bei 34,5 Prozent. Noch höher war mit 38,5 Prozent der Anteil an Autos mit hybridem Antrieb. Dabei dürfte auch die seit Mai bestehende E-Auto-Prämie eine Rolle spielen, die bereits rege genutzt wird. Laut Regierungsangaben wurde sie bereits an 100.000 Antragsteller ausgezahlt. Bundesumweltminister Carsten Schneider (SPD) sagte der Bild : \"Das Förderprogramm hat unsere Erwartungen weit übertroffen und jetzt schon 100.000 Haushalte dabei unterstützt, sich vor den hohen Spritpreisen zu schützen.\" Pkw-Neuzulassungen in Deutschland steigen deutlich tagesschau24, 05.10.2026 • 11:00 Uhr Deutlich weniger Benziner und Diesel-Autos Zurück ging dagegen der Anteil der Autos mit Benzinmotor: Im Vergleich zum Vorjahresmonat sank die Zahl neu zugelassener Benziner um fast 30 Prozent, auf 44.632 Pkw. Ihr Anteil betrug damit nur noch 17,4 Prozent. Ein ähnliches Bild zeigt sich bei Diesel-Autos: Auch hier ging die Zahl der Neuzulassungen um mehr als 20 Prozent auf 23.058 Neuwagen zurück. Der Dieselanteil betrug damit sogar nur noch neun Prozent. Das dürfte auch an den aktuellen Spritpreisen liegen: Der September wird der mit Abstand teuerste Tankmonat bisher, wie aus Daten des ADAC hervorgeht. Der Preis für Super E10 stieg am 3. September auf 2,22 Euro pro Liter und löste damit den bisherigen Tagesrekord von 2022 ab. Die Preise für einen Liter Diesel erreichten am 17. September mit 2,47 Euro ihren Höchststand . Für Entlastung sorgen soll nun der \"Tankrabatt\", der seit dem 1. Oktober gilt. Dabei gilt für Benzin und Diesel, die Tanklager und Raffinerien verlassen, ein Steuernachlass von 16,7 Cent pro Liter. Eine Verpflichtung der Tankstellen, ihre Preise entsprechend zu reduzieren, gibt es jedoch nicht. Die neue Prämie zur Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. mehr",
+  "translation": "",
+  "wordCount": 335,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:44:15.683Z",
+  "vocab": {
+    "Prozent": {
+      "word": "Prozent",
+      "lemma": "prozent",
+      "translation": "porcento",
+      "partOfSpeech": "other",
+      "example": "Damit lag ihr Anteil an allen Neuzulassungen bei 34,5 Prozent.",
+      "pronunciation": ""
+    },
+    "September": {
+      "word": "September",
+      "lemma": "september",
+      "translation": "Setembro",
+      "partOfSpeech": "other",
+      "example": "Die hohen Benzin- und Dieselpreise machen Elektroautos in Deutschland immer beliebter: Insgesamt 88.599 vollelektrische Pkw wurden hierzulande im September neu zugelassen, wie aus aktuellen Daten des Kraftfahrtbundesamtes hervorgeht.",
+      "pronunciation": ""
+    },
+    "Neuzulassungen": {
+      "word": "Neuzulassungen",
+      "lemma": "neuzulassungen",
+      "translation": "neuzulassungen",
+      "partOfSpeech": "other",
+      "example": "Damit lag ihr Anteil an allen Neuzulassungen bei 34,5 Prozent.",
+      "pronunciation": ""
+    },
+    "Anteil": {
+      "word": "Anteil",
+      "lemma": "anteil",
+      "translation": "anteil",
+      "partOfSpeech": "other",
+      "example": "Damit lag ihr Anteil an allen Neuzulassungen bei 34,5 Prozent.",
+      "pronunciation": ""
+    },
+    "Spritpreisen": {
+      "word": "Spritpreisen",
+      "lemma": "spritpreisen",
+      "translation": "spritpreisen",
+      "partOfSpeech": "other",
+      "example": "Bundesumweltminister Carsten Schneider (SPD) sagte der Bild : \"Das Förderprogramm hat unsere Erwartungen weit übertroffen und jetzt schon 100.000 Haushalte dabei unterstützt, sich vor den hohen Spritpreisen zu schützen.\" Pkw-Neuzulassungen in Deutschland steigen deutlich tagesschau24, 05.10.2026 • 11:00 Uhr Deutlich weniger Benziner und Diesel-Autos Zurück ging dagegen der Anteil der Autos mit Benzinmotor: Im Vergleich zum Vorjahresmonat sank die Zahl neu zugelassener Benziner um fast 30 Prozent, auf 44.632 Pkw.",
+      "pronunciation": ""
+    },
+    "Diesel-Autos": {
+      "word": "Diesel-Autos",
+      "lemma": "diesel-autos",
+      "translation": "diesel-autos",
+      "partOfSpeech": "other",
+      "example": "Bundesumweltminister Carsten Schneider (SPD) sagte der Bild : \"Das Förderprogramm hat unsere Erwartungen weit übertroffen und jetzt schon 100.000 Haushalte dabei unterstützt, sich vor den hohen Spritpreisen zu schützen.\" Pkw-Neuzulassungen in Deutschland steigen deutlich tagesschau24, 05.10.2026 • 11:00 Uhr Deutlich weniger Benziner und Diesel-Autos Zurück ging dagegen der Anteil der Autos mit Benzinmotor: Im Vergleich zum Vorjahresmonat sank die Zahl neu zugelassener Benziner um fast 30 Prozent, auf 44.632 Pkw.",
+      "pronunciation": ""
+    },
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Die hohen Benzin- und Dieselpreise machen Elektroautos in Deutschland immer beliebter: Insgesamt 88.599 vollelektrische Pkw wurden hierzulande im September neu zugelassen, wie aus aktuellen Daten des Kraftfahrtbundesamtes hervorgeht.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/neuzulassungen-pkw-kba-100.html",
+  "sourceSite": "tagesschau.de"
+}

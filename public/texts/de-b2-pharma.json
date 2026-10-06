@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-pharma",
+  "language": "de",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "Bundesumweltminister: Pharmafirmen sollen für Wasserreinigung zahlen",
+  "content": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser? Der Umweltminister will die Hersteller zur Kasse bitten. Auch Rechenzentren sollen mehr für Wasser zahlen. Bundesumweltminister Carsten Schneider (SPD) will verantwortliche Branchen für Wasserverschmutzungen stärker zur Kasse bitten. \"Wer unser Wasser verschmutzt, muss auch für die Reinigung aufkommen\", sagte Schneider zum Auftakt der Konferenz \"Zukunft=Wasser\" im Bundesumweltministerium. In den Abwässern befänden sich zunehmend Medikamentenrückstände und andere Mikroschadstoffe, weshalb Milliardenbeträge in den Ausbau einer \"vierten Reinigungsstufe in Kläranlagen\" investiert werden müssten. Pharmafirmen sollten in Zukunft für die Reinigung des Wassers zur Kasse gebeten werden, so Schneider. Für bestimmte Industrieanlagen und Landwirtschaftsbetriebe in Europa gelten künftig neue Schadstoffregeln. mehr Schneider erklärte: \"Das muss fair finanziert sein, nicht von den Bürgerinnen und Bürgern, sondern vom Verursacher.\" Es gebe dagegen großen Lobbydruck. Die Ende 2024 verabschiedete EU- Kommunalabwasserrichtlinie ist seit Anfang 2025 in Kraft und muss bis Ende Juli 2027 in deutsches Recht umgesetzt werden. Sie sieht unter anderem eine zusätzliche, vierte Reinigungsstufe zur Entfernung von Mikroschadstoffen vor. Pharma- und Kosmetikhersteller sollen demnach mindestens 80 Prozent der anfallenden Kosten tragen. Wie das in Deutschland konkret organisiert wird, ist nach Angaben eines Sprechers des Verbands kommunaler Unternehmen (VKU) noch offen, einen Gesetzentwurf gebe es bislang nicht. Vor dem Europäischen Gerichtshof läuft zudem eine Klage Polens gegen die Herstellerverantwortung. Schneider will dennoch hart bleiben. Er hoffe auf eine EU-Lösung zur finanziellen Beteiligung der Hersteller. \"Wenn es sein muss, kann ich mir auch einen nationalen Weg vorstellen\", so der Bundesumweltminister. Große KI-Rechenzentren erzeugen jede Menge Abwärme. Doch oft verpufft sie ungenutzt. mehr Auch die Betreiber von Rechenzentren sollen aus Sicht Schneiders mehr für die Nutzung von Wasser zahlen - oder in sparsamere Technik investieren. Zeiten von Wasserknappheit würden auch in Deutschland häufiger, so Schneider. \"Dies führt zu neuen Verteilungsfragen, auf die wir gerechte Antworten finden müssen. Wenn Wasser knapp ist, kann es nicht sein, dass die Grundbedürfnisse der Bürger mit Großverbrauchern wie Rechenzentren konkurrieren müssen.\"",
+  "translation": "",
+  "wordCount": 319,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:33.378Z",
+  "vocab": {
+    "Schneider": {
+      "word": "Schneider",
+      "lemma": "schneider",
+      "translation": "Alfaiataria",
+      "partOfSpeech": "other",
+      "example": "Bundesumweltminister Carsten Schneider (SPD) will verantwortliche Branchen für Wasserverschmutzungen stärker zur Kasse bitten.",
+      "pronunciation": ""
+    },
+    "Bundesumweltminister": {
+      "word": "Bundesumweltminister",
+      "lemma": "bundesumweltminister",
+      "translation": "ministro Federal do Meio Ambiente",
+      "partOfSpeech": "other",
+      "example": "Bundesumweltminister Carsten Schneider (SPD) will verantwortliche Branchen für Wasserverschmutzungen stärker zur Kasse bitten.",
+      "pronunciation": ""
+    },
+    "Rechenzentren": {
+      "word": "Rechenzentren",
+      "lemma": "rechenzentren",
+      "translation": "DATA CENTRES",
+      "partOfSpeech": "other",
+      "example": "Auch Rechenzentren sollen mehr für Wasser zahlen.",
+      "pronunciation": ""
+    },
+    "Wasser": {
+      "word": "Wasser",
+      "lemma": "wasser",
+      "translation": "água",
+      "partOfSpeech": "other",
+      "example": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser?",
+      "pronunciation": ""
+    },
+    "Reinigungsstufe": {
+      "word": "Reinigungsstufe",
+      "lemma": "reinigungsstufe",
+      "translation": "nível de limpeza",
+      "partOfSpeech": "other",
+      "example": "In den Abwässern befänden sich zunehmend Medikamentenrückstände und andere Mikroschadstoffe, weshalb Milliardenbeträge in den Ausbau einer \"vierten Reinigungsstufe in Kläranlagen\" investiert werden müssten.",
+      "pronunciation": ""
+    },
+    "Kommunalabwasserrichtlinie": {
+      "word": "Kommunalabwasserrichtlinie",
+      "lemma": "kommunalabwasserrichtlinie",
+      "translation": "diretiva de Águas Residuais Municipais",
+      "partOfSpeech": "other",
+      "example": "Die Ende 2024 verabschiedete EU- Kommunalabwasserrichtlinie ist seit Anfang 2025 in Kraft und muss bis Ende Juli 2027 in deutsches Recht umgesetzt werden.",
+      "pronunciation": ""
+    },
+    "Bundesumweltministerium": {
+      "word": "Bundesumweltministerium",
+      "lemma": "bundesumweltministerium",
+      "translation": "ministério Federal do Meio Ambiente",
+      "partOfSpeech": "other",
+      "example": "\"Wer unser Wasser verschmutzt, muss auch für die Reinigung aufkommen\", sagte Schneider zum Auftakt der Konferenz \"Zukunft=Wasser\" im Bundesumweltministerium.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/schneider-pharmafirmen-zahlungen-medikamentenrueckstaende-100.html",
+  "sourceSite": "tagesschau.de"
+}

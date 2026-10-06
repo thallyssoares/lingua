@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-wal",
+  "language": "de",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Wal in der Ost-See wird wohl sterben",
+  "content": "Greenpeace ist ein großer Verein für den Umwelt-Schutz. Es gibt Greenpeace in vielen Ländern, auch in Deutschland. Auf Deutsch bedeutet Greenpeace: “grüner Frieden”.",
+  "translation": "",
+  "wordCount": 23,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:10:57.731Z",
+  "vocab": {
+    "Greenpeace": {
+      "word": "Greenpeace",
+      "lemma": "greenpeace",
+      "translation": "greenpeace",
+      "partOfSpeech": "other",
+      "example": "Greenpeace ist ein großer Verein für den Umwelt-Schutz.",
+      "pronunciation": ""
+    },
+    "Umwelt-Schutz": {
+      "word": "Umwelt-Schutz",
+      "lemma": "umwelt-schutz",
+      "translation": "umwelt-schutz",
+      "partOfSpeech": "other",
+      "example": "Greenpeace ist ein großer Verein für den Umwelt-Schutz.",
+      "pronunciation": ""
+    },
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutsch",
+      "translation": "Português",
+      "partOfSpeech": "other",
+      "example": "Es gibt Greenpeace in vielen Ländern, auch in Deutschland.",
+      "pronunciation": ""
+    },
+    "bedeutet": {
+      "word": "bedeutet",
+      "lemma": "bedeutet",
+      "translation": "bedeutet",
+      "partOfSpeech": "other",
+      "example": "Auf Deutsch bedeutet Greenpeace: “grüner Frieden”.",
+      "pronunciation": ""
+    },
+    "Ländern": {
+      "word": "Ländern",
+      "lemma": "ländern",
+      "translation": "ländern",
+      "partOfSpeech": "other",
+      "example": "Es gibt Greenpeace in vielen Ländern, auch in Deutschland.",
+      "pronunciation": ""
+    },
+    "Frieden": {
+      "word": "Frieden",
+      "lemma": "frieden",
+      "translation": "frieden",
+      "partOfSpeech": "other",
+      "example": "Auf Deutsch bedeutet Greenpeace: “grüner Frieden”.",
+      "pronunciation": ""
+    },
+    "großer": {
+      "word": "großer",
+      "lemma": "großer",
+      "translation": "großer",
+      "partOfSpeech": "other",
+      "example": "Greenpeace ist ein großer Verein für den Umwelt-Schutz.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/wal-ost-see-100.html",
+  "sourceSite": "Nachrichtenleicht"
+}

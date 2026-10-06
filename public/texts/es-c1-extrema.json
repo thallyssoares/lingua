@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-extrema",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Gane o pierda la extrema derecha en las elecciones de Brasil, ¿respetará la democracia?",
+  "content": "Los politólogos ya habían pronosticado este escenario. A pesar de que las encuestas mostraban mejores resultados para el Partido de los Trabajadores (PT) de Lula, se observó un cambio en los votos en los últimos días de la campaña, impulsado por el sentimiento anti-PT y el descontento alimentado en gran medida por las expectativas no satisfechas de los consumidores . Esto ocurrió incluso en un momento de baja inflación y bajo desempleo. Aun así, la carrera sigue muy abierta, ya que los dos candidatos se dirigen ahora a una segunda vuelta el 25 de octubre. Las elecciones por sí solas no construyen la democracia. Pero, por citar solo a dos figuras fundamentales de la ciencia política, Joseph Schumpeter y Adam Przeworski , las elecciones libres son una de las condiciones necesarias para su existencia: un sistema en el que los líderes compiten periódicamente por los votos y el candidato derrotado acepta su fracaso. Cabe destacar que se trata de una visión instrumental y, como tal, es fuertemente cuestionada por quienes esperan de la democracia algo más que simples elecciones. Pero precisamente por eso merece la pena recordarlo tras la primera vuelta de las elecciones en Brasil. Poder elegir gobiernos a través de las urnas, respetando el resultado, sin que nadie tome las armas ni organice protestas en un cuartel militar, no es cosa menor. Desde 1989, año de las primeras elecciones presidenciales directas en Brasil tras el fin de la dictadura militar , el Partido de los Trabajadores ha sido uno de los principales contendientes políticos, situándose sistemáticamente entre las dos primeras agrupaciones. En siete de las diez elecciones desde entonces, el candidato presidencial del PT fue Lula. Ganó tres de ellas y ahora vuelve a estar en la segunda vuelta. En las tres últimas votaciones (2018, 2022 y 2026), el otro lado de la contienda ha estado ocupado por la extrema derecha, representada por Jair Bolsonaro en las dos primeras y –ahora que se encuentra bajo arresto domiciliario– por su hijo, Flávio. En 2018, Jair Bolsonaro salió victorioso. La derecha se reorganizó en torno a él, centrándose principalmente en agendas morales conservadoras, como la defensa de los valores cristianos, el apoyo a la dictadura militar y la oposición a los derechos sexuales y reproductivos, con un fuerte énfasis en el refuerzo de los roles de género tradicionales.",
+  "translation": "",
+  "wordCount": 388,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:10:31.072Z",
+  "vocab": {
+    "elecciones": {
+      "word": "elecciones",
+      "lemma": "elecciones",
+      "translation": "Eleições",
+      "partOfSpeech": "other",
+      "example": "Las elecciones por sí solas no construyen la democracia.",
+      "pronunciation": ""
+    },
+    "Trabajadores": {
+      "word": "Trabajadores",
+      "lemma": "trabajadores",
+      "translation": "trabalhadores",
+      "partOfSpeech": "other",
+      "example": "A pesar de que las encuestas mostraban mejores resultados para el Partido de los Trabajadores (PT) de Lula, se observó un cambio en los votos en los últimos días de la campaña, impulsado por el sentimiento anti-PT y el descontento alimentado en gran medida por las expectativas no satisfechas de los consumidores .",
+      "pronunciation": ""
+    },
+    "primeras": {
+      "word": "primeras",
+      "lemma": "primeras",
+      "translation": "qualidade",
+      "partOfSpeech": "other",
+      "example": "Desde 1989, año de las primeras elecciones presidenciales directas en Brasil tras el fin de la dictadura militar , el Partido de los Trabajadores ha sido uno de los principales contendientes políticos, situándose sistemáticamente entre las dos primeras agrupaciones.",
+      "pronunciation": ""
+    },
+    "militar": {
+      "word": "militar",
+      "lemma": "militar",
+      "translation": "militares",
+      "partOfSpeech": "other",
+      "example": "Poder elegir gobiernos a través de las urnas, respetando el resultado, sin que nadie tome las armas ni organice protestas en un cuartel militar, no es cosa menor.",
+      "pronunciation": ""
+    },
+    "democracia": {
+      "word": "democracia",
+      "lemma": "democracia",
+      "translation": "república",
+      "partOfSpeech": "other",
+      "example": "Las elecciones por sí solas no construyen la democracia.",
+      "pronunciation": ""
+    },
+    "vuelta": {
+      "word": "vuelta",
+      "lemma": "vuelta",
+      "translation": "volta",
+      "partOfSpeech": "other",
+      "example": "Aun así, la carrera sigue muy abierta, ya que los dos candidatos se dirigen ahora a una segunda vuelta el 25 de octubre.",
+      "pronunciation": ""
+    },
+    "candidatos": {
+      "word": "candidatos",
+      "lemma": "candidato",
+      "translation": "candidato",
+      "partOfSpeech": "other",
+      "example": "Aun así, la carrera sigue muy abierta, ya que los dos candidatos se dirigen ahora a una segunda vuelta el 25 de octubre.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/gane-o-pierda-la-extrema-derecha-en-las-elecciones-de-brasil-respetara-la-democracia-293585",
+  "sourceSite": "The Conversation"
+}

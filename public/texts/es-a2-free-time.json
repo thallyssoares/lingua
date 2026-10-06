@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-free-time",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "El tiempo libre",
+  "content": "En vacaciones, el fin de semana o después del trabajo tienes tiempo libre para hacer ejercicio, llevar un pasatiempo o salir a divertirte. Si eres deportista y te gusta el agua puedes nadar; si te gusta la nieve puedes esquiar. Si no dispones de mucho tiempo puedes correr o ir en bicicleta. Hay quien prefiere quedarse en casa a ver la televisión, jugar videojuegos o navegar por Internet. Cuando llueve o hace mucho frío, puedes escuchar tu música favorita, leer un buen libro o aprender a tocar un instrumento. También puedes aprovechar el tiempo libre para estudiar. Si hace buen tiempo, tal vez quieras ir de compras, salir con amigos o pasar tiempo con la familia en un parque, el teatro o el cine. Aprovechar el tiempo libre es importante para tener una vida feliz, porque las actividades pequeñas ayudan a descansar y a mantener el contacto con otras personas.",
+  "translation": "",
+  "wordCount": 150,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "pasatiempo": {
+      "word": "pasatiempo",
+      "lemma": "pasatiempo",
+      "translation": "hobby; passatempo",
+      "partOfSpeech": "noun",
+      "example": "llevar un pasatiempo",
+      "pronunciation": ""
+    },
+    "deportista": {
+      "word": "deportista",
+      "lemma": "deportista",
+      "translation": "athlete; pessoa esportista",
+      "partOfSpeech": "noun",
+      "example": "Si eres deportista y te gusta el agua puedes nadar",
+      "pronunciation": ""
+    },
+    "dispones": {
+      "word": "dispones",
+      "lemma": "disponer",
+      "translation": "have available; dispor de",
+      "partOfSpeech": "verb",
+      "example": "Si no dispones de mucho tiempo puedes correr o ir en bicicleta",
+      "pronunciation": ""
+    },
+    "quedarse": {
+      "word": "quedarse",
+      "lemma": "quedarse",
+      "translation": "stay (at home)",
+      "partOfSpeech": "verb",
+      "example": "Hay quien prefiere quedarse en casa a ver la televisión",
+      "pronunciation": ""
+    },
+    "aprovechar": {
+      "word": "aprovechar",
+      "lemma": "aprovechar",
+      "translation": "make use of; aproveitar",
+      "partOfSpeech": "verb",
+      "example": "También puedes aprovechar el tiempo libre para estudiar",
+      "pronunciation": ""
+    },
+    "divertirte": {
+      "word": "divertirte",
+      "lemma": "divertir(se)",
+      "translation": "have fun; divertir-se",
+      "partOfSpeech": "verb",
+      "example": "salir a divertirte",
+      "pronunciation": ""
+    },
+    "mantener": {
+      "word": "mantener",
+      "lemma": "mantener",
+      "translation": "maintain; manter",
+      "partOfSpeech": "verb",
+      "example": "ayudan a descansar y a mantener el contacto con otras personas",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://lingua.com/es/espanol/lectura/tiempo-libre/",
+  "sourceSite": "Lingua.com"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-zugbegleiter",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Pläne der Bundesregierung - Härtere Strafen für Angriffe gegen Einsatzkräfte",
+  "content": "In den vergangenen Jahren haben die Angriffe auf Einsatz- und Rettungskräfte zugenommen. Ebenso auf Zugbegleiter und andere für das Gemeinwohl Tätige. Die Strafen dafür sollen jetzt erhöht werden. Die Bundesregierung will Angriffe auf Busfahrer, Zugbegleiter, Polizisten, Rettungssanitäter und Ärzte härter bestrafen. Den entsprechenden Gesetzentwurf von Bundesjustizministerin Stefanie Hubig, (SPD) hat das Kabinett nun auf den Weg gebracht. \"Wer unser Land am Laufen hält, verdient unseren Schutz\", betonte Hubig. Übergriffe auf Einsatzkräfte, Beschäftigte im Nahverkehr, in Kliniken und Praxen nähmen zu. Deshalb sei es wichtig, jetzt das Signal zu senden, dass diese Gewalt nicht unbeantwortet bleibe. Mehr Berufsgruppen sollen geschützt und Haftstrafen erhöht werden. Ein Sicherheitsgipfel soll Lösungen für die Zugbegleiter bringen. Was braucht es aus Sicht der Betroffenen? mehr Einen ersten Entwurf für einen besseren Schutz von Menschen, deren Arbeit dem Gemeinwohl dient, hat das Justizministerium schon Ende 2025 vorgelegt. Zusätzliche Aufmerksamkeit erhielt das Thema im Februar: Ein Zugbegleiter wurde bei der Fahrscheinkontrolle angegriffen und starb. Der Fall sorgte bundesweit für Bestürzung. Bei der Bahn gebe es mittlerweile fünf Angriffe pro Tag, sagte Hubig im Deutschlandfunk. Dort, wo es regelmäßig zu solchen Angriffen komme, müsse man als Staat die Menschen besonders schützen. Dabei gehe es letztlich auch um den Schutz der Funktionsfähigkeit des Staates: Es sei erkennbar, dass es bei diesen Attacken nicht nur darum gehe, Einzelpersonen anzugreifen, sondern \"diejenigen, die dafür sorgen, dass der Staat läuft\", sagte Hubig. Das Landgericht Zweibrücken sprach den 26-Jährigen wegen Körperverletzung mit Todesfolge schuldig. mehr Die Mindeststrafe für Übergriffe etwa auf Polizistinnen und Polizisten sowie Gerichtsvollzieher, Feuerwehrleute und Rettungssanitäter soll von drei auf sechs Monate Freiheitsstrafe steigen. In besonders schweren Fällen ist mindestens ein Jahr Haft vorgesehen. Für Widerstand gegen Vollstreckungsbeamte sieht der Entwurf bis zu fünf Jahre Haft vor. Besonders schwere Fälle sind extra geregelt. Aktuell wird Widerstand gegen Vollstreckungsbeamte mit bis zu drei Jahren Freiheitsstrafe oder Geldstrafe geahndet. In besonders schweren Fällen sind bis zu fünf Jahre möglich. Bahnmitarbeiter, aber auch Beschäftigte anderer wichtiger Infrastrukturunternehmen, etwa der Strom- oder Wasserversorgung, sollen künftig strafrechtlich besser geschützt werden. Wer sie angreift, soll mit den gleichen Strafen rechnen müssen wie bei einem Angriff auf einen Vollstreckungsbeamten. Der Berufsverband des Rettungsfachpersonals hält härtere Strafen zum Schutz gegen Angriffe für unnötig. mehr",
+  "translation": "",
+  "wordCount": 365,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:43:38.127Z",
+  "vocab": {
+    "Zugbegleiter": {
+      "word": "Zugbegleiter",
+      "lemma": "zugbegleiter",
+      "translation": "zugbegleiter",
+      "partOfSpeech": "other",
+      "example": "Ebenso auf Zugbegleiter und andere für das Gemeinwohl Tätige.",
+      "pronunciation": ""
+    },
+    "Vollstreckungsbeamte": {
+      "word": "Vollstreckungsbeamte",
+      "lemma": "vollstreckungsbeamte",
+      "translation": "vollstreckungsbeamte",
+      "partOfSpeech": "other",
+      "example": "Für Widerstand gegen Vollstreckungsbeamte sieht der Entwurf bis zu fünf Jahre Haft vor.",
+      "pronunciation": ""
+    },
+    "besonders": {
+      "word": "besonders",
+      "lemma": "besonders",
+      "translation": "particularmente",
+      "partOfSpeech": "other",
+      "example": "Dort, wo es regelmäßig zu solchen Angriffen komme, müsse man als Staat die Menschen besonders schützen.",
+      "pronunciation": ""
+    },
+    "Rettungssanitäter": {
+      "word": "Rettungssanitäter",
+      "lemma": "rettungssanitäter",
+      "translation": "rettungssanitäter",
+      "partOfSpeech": "other",
+      "example": "Die Bundesregierung will Angriffe auf Busfahrer, Zugbegleiter, Polizisten, Rettungssanitäter und Ärzte härter bestrafen.",
+      "pronunciation": ""
+    },
+    "Angriffe": {
+      "word": "Angriffe",
+      "lemma": "angriffe",
+      "translation": "ataques",
+      "partOfSpeech": "other",
+      "example": "In den vergangenen Jahren haben die Angriffe auf Einsatz- und Rettungskräfte zugenommen.",
+      "pronunciation": ""
+    },
+    "Freiheitsstrafe": {
+      "word": "Freiheitsstrafe",
+      "lemma": "freiheitsstrafe",
+      "translation": "freiheitsstrafe",
+      "partOfSpeech": "other",
+      "example": "mehr Die Mindeststrafe für Übergriffe etwa auf Polizistinnen und Polizisten sowie Gerichtsvollzieher, Feuerwehrleute und Rettungssanitäter soll von drei auf sechs Monate Freiheitsstrafe steigen.",
+      "pronunciation": ""
+    },
+    "Schutz": {
+      "word": "Schutz",
+      "lemma": "schutz",
+      "translation": "schutz",
+      "partOfSpeech": "other",
+      "example": "\"Wer unser Land am Laufen hält, verdient unseren Schutz\", betonte Hubig.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html",
+  "sourceSite": "tagesschau.de"
+}

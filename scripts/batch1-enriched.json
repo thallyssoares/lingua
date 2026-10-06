@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "en-b1-digital-habits",
+    "language": "en",
+    "level": "B1",
+    "theme": "Cotidiano",
+    "title": "Digital habits across generations",
+    "sourceUrl": "https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations",
+    "sourceSite": "British Council",
+    "content": "Today's grandparents are joining their grandchildren on social media, but the different generations' online habits could not be more different. In the UK the over-55s are joining Facebook in increasing numbers, meaning that they will soon be the site's second biggest user group. Sheila, aged 59, joined to see what her grandchildren are doing, because her daughter posts videos and photos of them. She says it is a much better way to see their lives than waiting for letters and photos in the post. Her grandchildren, however, are less likely to use Facebook themselves. Chloe, aged 15, even sleeps with her phone. She looks at it before she goes to sleep and as soon as she wakes up. Her age group spends so much time on phones at home that they may miss spending time with friends in real life. Sheila, on the other hand, has made contact with old school friends she had not heard from for forty years.",
+    "words": [
+      "grandchildren",
+      "increasing",
+      "waiting",
+      "likely",
+      "miss",
+      "contact",
+      "generation"
+    ],
+    "vocab": [
+      {
+        "word": "grandchildren",
+        "lemma": "grandchild",
+        "translation": "netos",
+        "partOfSpeech": "noun",
+        "example": "Today's grandparents are joining their grandchildren on social media, but the different generations' online habits could not be more different.",
+        "pronunciation": ""
+      },
+      {
+        "word": "increasing",
+        "lemma": "increase",
+        "translation": "crescentes",
+        "partOfSpeech": "adjective",
+        "example": "In the UK the over-55s are joining Facebook in increasing numbers, meaning that they will soon be the site's second biggest user group.",
+        "pronunciation": ""
+      },
+      {
+        "word": "waiting",
+        "lemma": "wait",
+        "translation": "esperar",
+        "partOfSpeech": "verb",
+        "example": "She says it is a much better way to see their lives than waiting for letters and photos in the post.",
+        "pronunciation": ""
+      },
+      {
+        "word": "likely",
+        "lemma": "likely",
+        "translation": "provavelmente",
+        "partOfSpeech": "adverb",
+        "example": "Her grandchildren, however, are less likely to use Facebook themselves.",
+        "pronunciation": ""
+      },
+      {
+        "word": "miss",
+        "lemma": "miss",
+        "translation": "deixar de aproveitar",
+        "partOfSpeech": "verb",
+        "example": "Her age group spends so much time on phones at home that they may miss spending time with friends in real life.",
+        "pronunciation": ""
+      },
+      {
+        "word": "contact",
+        "lemma": "contact",
+        "translation": "contato",
+        "partOfSpeech": "noun",
+        "example": "Sheila, on the other hand, has made contact with old school friends she had not heard from for forty years.",
+        "pronunciation": ""
+      },
+      {
+        "word": "generation",
+        "lemma": "generation",
+        "translation": "gerações",
+        "partOfSpeech": "noun",
+        "example": "Today's grandparents are joining their grandchildren on social media, but the different generations' online habits could not be more different.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "en-b1-robot-teachers",
+    "language": "en",
+    "level": "B1",
+    "theme": "Tecnologia",
+    "title": "Robot teachers",
+    "sourceUrl": "https://learnenglish.britishcouncil.org/free-resources/reading/b1/robot-teachers",
+    "sourceSite": "British Council",
+    "content": "If you think of the jobs robots could never do, you would probably put doctors and teachers at the top of the list. It is easy to imagine robot cleaners and factory workers, but some jobs need human connection and creativity. In some cases, robots already perform better than doctors at diagnosing illness, and some patients might feel more comfortable sharing personal information with a machine. British education expert Anthony Seldon predicts that robots could do the main job of transferring information while teachers become assistants. Intelligent robots might read students' faces, movements and brain signals, then adapt information to each student. It is unlikely that robots will ever have empathy and the ability to connect with humans like another human can. A robot teacher is better than no teacher at all in places where there are not enough teachers. Robots can teach anywhere and will not get stressed or move away for a higher-paid job.",
+    "words": [
+      "perform",
+      "diagnosing",
+      "comfortable",
+      "transferring",
+      "adapt",
+      "empathy",
+      "stressed"
+    ],
+    "vocab": [
+      {
+        "word": "perform",
+        "lemma": "perform",
+        "translation": "executar, realizar",
+        "partOfSpeech": "verb",
+        "example": "robots already perform better than doctors at diagnosing illness",
+        "pronunciation": ""
+      },
+      {
+        "word": "diagnosing",
+        "lemma": "diagnose",
+        "translation": "diagnosticar",
+        "partOfSpeech": "verb",
+        "example": "robots already perform better than doctors at diagnosing illness",
+        "pronunciation": ""
+      },
+      {
+        "word": "comfortable",
+        "lemma": "comfortable",
+        "translation": "à vontade, confortável",
+        "partOfSpeech": "adjective",
+        "example": "some patients might feel more comfortable sharing personal information with a machine",
+        "pronunciation": ""
+      },
+      {
+        "word": "transferring",
+        "lemma": "transfer",
+        "translation": "transmitir, transferir",
+        "partOfSpeech": "verb",
+        "example": "robots could do the main job of transferring information while teachers become assistants",
+        "pronunciation": ""
+      },
+      {
+        "word": "adapt",
+        "lemma": "adapt",
+        "translation": "adaptar",
+        "partOfSpeech": "verb",
+        "example": "then adapt information to each student",
+        "pronunciation": ""
+      },
+      {
+        "word": "empathy",
+        "lemma": "empathy",
+        "translation": "empatia",
+        "partOfSpeech": "noun",
+        "example": "It is unlikely that robots will ever have empathy and the ability to connect with humans like another human can",
+        "pronunciation": ""
+      },
+      {
+        "word": "stressed",
+        "lemma": "stress",
+        "translation": "estressado",
+        "partOfSpeech": "adjective",
+        "example": "will not get stressed or move away for a higher-paid job",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "en-b1-olympic-blog",
+    "language": "en",
+    "level": "B1",
+    "theme": "Futebol",
+    "title": "An Olympic blog",
+    "sourceUrl": "https://learnenglishteens.britishcouncil.org/skills/reading/b1-reading/olympic-blog",
+    "sourceSite": "British Council Teens",
+    "content": "It is all over! I have been writing my blog from London every day during the Olympics and the Paralympics, and this is my final post to look back on a wonderful couple of months. The Opening Ceremony set the scene for the Games with music, dancing, historical figures, fireworks and British humour. A huge number of volunteers practised for months to make everything perfect. I was very proud of Team GB as they kept winning medals and finished in third position in the medal table. The crowd cheered on the British, but there was lots of support for athletes of other nationalities too. I enjoyed watching sports that are not normally shown on television. Before the Olympics I did not expect to love watching judo or find myself screaming at wheelchair tennis. It took seven years of planning and 70,000 volunteers to make everything go well, and London had a friendly atmosphere.",
+    "words": [
+      "wonderful",
+      "volunteers",
+      "medal table",
+      "nationalities",
+      "wheelchair",
+      "planning",
+      "atmosphere"
+    ],
+    "vocab": [
+      {
+        "word": "wonderful",
+        "lemma": "wonderful",
+        "translation": "maravilhoso",
+        "partOfSpeech": "adjective",
+        "example": "...to look back on a wonderful couple of months.",
+        "pronunciation": ""
+      },
+      {
+        "word": "volunteers",
+        "lemma": "volunteer",
+        "translation": "voluntários",
+        "partOfSpeech": "noun",
+        "example": "A huge number of volunteers practised for months to make everything perfect.",
+        "pronunciation": ""
+      },
+      {
+        "word": "medal table",
+        "lemma": "medal table",
+        "translation": "quadro de medalhas",
+        "partOfSpeech": "phrase",
+        "example": "...finished in third position in the medal table.",
+        "pronunciation": ""
+      },
+      {
+        "word": "nationalities",
+        "lemma": "nationality",
+        "translation": "nacionalidades",
+        "partOfSpeech": "noun",
+        "example": "...support for athletes of other nationalities too.",
+        "pronunciation": ""
+      },
+      {
+        "word": "wheelchair",
+        "lemma": "wheelchair",
+        "translation": "cadeira de rodas",
+        "partOfSpeech": "noun",
+        "example": "...find myself screaming at wheelchair tennis.",
+        "pronunciation": ""
+      },
+      {
+        "word": "planning",
+        "lemma": "planning",
+        "translation": "planejamento",
+        "partOfSpeech": "noun",
+        "example": "It took seven years of planning and 70,000 volunteers to make everything go well,",
+        "pronunciation": ""
+      },
+      {
+        "word": "atmosphere",
+        "lemma": "atmosphere",
+        "translation": "atmosfera",
+        "partOfSpeech": "noun",
+        "example": "...and London had a friendly atmosphere.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "en-b2-trust-technology-sport",
+    "language": "en",
+    "level": "B2",
+    "theme": "Futebol",
+    "title": "Can we trust technology in sport?",
+    "sourceUrl": "https://www.bbc.co.uk/learningenglish/features/the_reading_room/ep-251107",
+    "sourceSite": "BBC Learning English",
+    "content": "The use of technology in sport is supposed to provide accurate and instant feedback, with better decision-making and fewer errors than human intervention. But is that always the case? Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage. The system should be faster and more accurate, yet the electronic line calling system failed a week into the championship because a person accidentally turned the ball-tracking technology off. In football, referees often come under fire for their decisions, and VAR is used when a referee is unsure and wants to double-check a judgement. However, VAR oversights have angered managers, players and fans. Professor Gina Neff says people have a strong sense of fairness: machines make decisions according to programmed rules, while humans understand context much better. Whether people trust it or not, technology is here to stay in sport.",
+    "words": [
+      "intervention",
+      "line judge",
+      "out of bounds",
+      "replace",
+      "oversight",
+      "fairness",
+      "decisions"
+    ],
+    "vocab": [
+      {
+        "word": "intervention",
+        "lemma": "intervention",
+        "translation": "intervenção",
+        "partOfSpeech": "noun",
+        "example": "The use of technology in sport is supposed to provide accurate and instant feedback, with better decision-making and fewer errors than human intervention.",
+        "pronunciation": ""
+      },
+      {
+        "word": "line judge",
+        "lemma": "line judge",
+        "translation": "árbitro de linha",
+        "partOfSpeech": "noun",
+        "example": "Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage.",
+        "pronunciation": ""
+      },
+      {
+        "word": "out of bounds",
+        "lemma": "out of bounds",
+        "translation": "fora dos limites",
+        "partOfSpeech": "phrase",
+        "example": "Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage.",
+        "pronunciation": ""
+      },
+      {
+        "word": "replace",
+        "lemma": "replace",
+        "translation": "substituir",
+        "partOfSpeech": "verb",
+        "example": "Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage.",
+        "pronunciation": ""
+      },
+      {
+        "word": "oversight",
+        "lemma": "oversight",
+        "translation": "falha",
+        "partOfSpeech": "noun",
+        "example": "However, VAR oversights have angered managers, players and fans.",
+        "pronunciation": ""
+      },
+      {
+        "word": "fairness",
+        "lemma": "fairness",
+        "translation": "justiça",
+        "partOfSpeech": "noun",
+        "example": "Professor Gina Neff says people have a strong sense of fairness: machines make decisions according to programmed rules, while humans understand context much better.",
+        "pronunciation": ""
+      },
+      {
+        "word": "decisions",
+        "lemma": "decision",
+        "translation": "decisões",
+        "partOfSpeech": "noun",
+        "example": "In football, referees often come under fire for their decisions, and VAR is used when a referee is unsure and wants to double-check a judgement.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "en-c1-scaling-ai",
+    "language": "en",
+    "level": "C1",
+    "theme": "AI Engineering",
+    "title": "Scaling up artificial intelligence",
+    "sourceUrl": "https://ourworldindata.org/scaling-up-ai",
+    "sourceSite": "Our World in Data",
+    "content": "For most of artificial intelligence's history, researchers expected truly capable systems to require a long series of scientific breakthroughs. Recent progress has revealed an unexpected insight: much of the improvement in AI capabilities has come from scaling up existing systems. Scaling means deploying more computational power, using larger datasets and building bigger models. Three things usually grow together during training: the amount of data, the model's size measured in parameters, and computational resources, often called compute. Bigger systems trained on more data tend to perform better even without substantial changes to algorithms. They can also develop new abilities that smaller systems did not have, sometimes in an abrupt leap rather than a smooth improvement. That jump can be concerning because unexpected harmful behaviours may be harder to anticipate and control. As models grow, they need more data to learn nuances, more parameters to capture patterns and exponentially more computing resources. Researchers must also consider overfitting, data quality and the environmental cost of training.",
+    "words": [
+      "scaling",
+      "capabilities",
+      "computational",
+      "parameters",
+      "abrupt",
+      "anticipate",
+      "overfitting"
+    ],
+    "vocab": [
+      {
+        "word": "scaling",
+        "lemma": "scale",
+        "translation": "dimensionamento; aumento de escala",
+        "partOfSpeech": "noun",
+        "example": "Recent progress has revealed an unexpected insight: much of the improvement in AI capabilities has come from scaling up existing systems.",
+        "pronunciation": ""
+      },
+      {
+        "word": "capabilities",
+        "lemma": "capability",
+        "translation": "capacidades",
+        "partOfSpeech": "noun",
+        "example": "Recent progress has revealed an unexpected insight: much of the improvement in AI capabilities has come from scaling up existing systems.",
+        "pronunciation": ""
+      },
+      {
+        "word": "computational",
+        "lemma": "computational",
+        "translation": "computacional",
+        "partOfSpeech": "adjective",
+        "example": "Scaling means deploying more computational power, using larger datasets and building bigger models.",
+        "pronunciation": ""
+      },
+      {
+        "word": "parameters",
+        "lemma": "parameter",
+        "translation": "parâmetros",
+        "partOfSpeech": "noun",
+        "example": "Three things usually grow together during training: the amount of data, the model's size measured in parameters, and computational resources, often called compute.",
+        "pronunciation": ""
+      },
+      {
+        "word": "abrupt",
+        "lemma": "abrupt",
+        "translation": "abrupto",
+        "partOfSpeech": "adjective",
+        "example": "They can also develop new abilities that smaller systems did not have, sometimes in an abrupt leap rather than a smooth improvement.",
+        "pronunciation": ""
+      },
+      {
+        "word": "anticipate",
+        "lemma": "anticipate",
+        "translation": "antecipar; prever",
+        "partOfSpeech": "verb",
+        "example": "That jump can be concerning because unexpected harmful behaviours may be harder to anticipate and control.",
+        "pronunciation": ""
+      },
+      {
+        "word": "overfitting",
+        "lemma": "overfit",
+        "translation": "sobreajuste",
+        "partOfSpeech": "noun",
+        "example": "Researchers must also consider overfitting, data quality and the environmental cost of training.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "de-a2-fox-trap",
+    "language": "de",
+    "level": "A2",
+    "theme": "Investigação",
+    "title": "Die Falle des Fuchses",
+    "sourceUrl": "https://www.fabulang.com/en/de/stories/a2-falle-fuchses",
+    "sourceSite": "Fabulang",
+    "content": "Frau Maus war in ihrem Schlafzimmer, in ihrem Haus im Wald. Ihr Haus war in einem kleinen Baumstamm am Boden. Frau Maus sah in ihren Spiegel. Ihre Ohren waren sehr groß, und sie dachte, dass die anderen Tiere über sie lachten. Draußen ging Herr Fuchs vorbei. Er hörte, was Frau Maus sagte, und ging leise näher heran. Seine Stimme war ruhig und freundlich. Er erzählte ihr von einem Zaubersee, in dem Mäuse beim Schwimmen zu Schmetterlingen werden. Frau Maus dachte sorgfältig nach, wollte aber zuerst zu Hause auf ihre Nichten und Neffen warten. Dann stieg sie auf Herrn Fuchs' Kopf, und er begann zu rennen. Als Frau Maus seine Zunge sah, verstand sie die Gefahr. Kurz danach gab es einen lauten Knall: Herr Fuchs' Fuß steckte in einer Falle. Frau Maus sprang von seinem Kopf und ging nach Hause. Sie fragte: Glaubst du, ich bin dumm?",
+    "words": [
+      "Schlafzimmer",
+      "Baumstamm",
+      "Spiegel",
+      "Zaubersee",
+      "sorgfältig",
+      "Gefahr",
+      "Falle"
+    ],
+    "vocab": [
+      {
+        "word": "Schlafzimmer",
+        "lemma": "Schlafzimmer",
+        "translation": "quarto",
+        "partOfSpeech": "noun",
+        "example": "Frau Maus war in ihrem Schlafzimmer, in ihrem Haus im Wald.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Baumstamm",
+        "lemma": "Baumstamm",
+        "translation": "tronco de árvore",
+        "partOfSpeech": "noun",
+        "example": "Ihr Haus war in einem kleinen Baumstamm am Boden.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Spiegel",
+        "lemma": "Spiegel",
+        "translation": "espelho",
+        "partOfSpeech": "noun",
+        "example": "Frau Maus sah in ihren Spiegel.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Zaubersee",
+        "lemma": "Zaubersee",
+        "translation": "lago mágico",
+        "partOfSpeech": "noun",
+        "example": "Er erzählte ihr von einem Zaubersee, in dem Mäuse beim Schwimmen zu Schmetterlingen werden.",
+        "pronunciation": ""
+      },
+      {
+        "word": "sorgfältig",
+        "lemma": "sorgfältig",
+        "translation": "cuidadosamente",
+        "partOfSpeech": "adverb",
+        "example": "Frau Maus dachte sorgfältig nach, wollte aber zuerst zu Hause auf ihre Nichten und Neffen warten.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Gefahr",
+        "lemma": "Gefahr",
+        "translation": "perigo",
+        "partOfSpeech": "noun",
+        "example": "Als Frau Maus seine Zunge sah, verstand sie die Gefahr.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Falle",
+        "lemma": "Falle",
+        "translation": "armadilha",
+        "partOfSpeech": "noun",
+        "example": "Kurz danach gab es einen lauten Knall: Herr Fuchs' Fuß steckte in einer Falle.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "de-b1-under-bed",
+    "language": "de",
+    "level": "B1",
+    "theme": "Cotidiano",
+    "title": "Unter dem Bett",
+    "sourceUrl": "https://www.fabulang.com/en/de/stories/b1-unter-bett",
+    "sourceSite": "Fabulang",
+    "content": "Dorothea fühlte sich sicher. Ihr Kissen war weich und ihre Bettdecke war dick und warm. Um ihr Bett herum lagen ihre Lieblingsspielzeuge: viele verschiedene Arten von Flugzeugen. Es war ihr Traum, Pilotin zu werden. Sie schloss die Augen, dann hörte sie ein Geräusch unter dem Bett. Zwei große weiße Augen blickten sie an. Das Monster machte ein quietschendes Geräusch und rannte zum Fenster. Es sah aus wie ein großer Haarball mit leuchtenden Augen. Dorothea fragte, was es sei. Das Monster erklärte, dass es unter Betten lebe und sich jedes Mal ein neues Bett suchen müsse, wenn jemand es entdecke. Dorothea bot ihm ihr Bett an. Viele Jahre später war Dorothea Pilotin. Während eines Fluges sprang das Monster aus ihrer Tasche und sorgte für Unruhe im Cockpit. Dorothea behauptete schnell, es sei nur eine elastische Perücke. Jahrzehnte später lebten beide noch immer als Freunde zusammen.",
+    "words": [
+      "Bettdecke",
+      "quietschend",
+      "Haarball",
+      "entdecke",
+      "Tasche",
+      "Cockpit",
+      "elastisch"
+    ],
+    "vocab": [
+      {
+        "word": "Bettdecke",
+        "lemma": "Bettdecke",
+        "translation": "cobertor",
+        "partOfSpeech": "noun",
+        "example": "Ihr Kissen war weich und ihre Bettdecke war dick und warm.",
+        "pronunciation": ""
+      },
+      {
+        "word": "quietschend",
+        "lemma": "quietschen",
+        "translation": "chiando/chiando (som)",
+        "partOfSpeech": "adjective",
+        "example": "Das Monster machte ein quietschendes Geräusch und rannte zum Fenster.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Haarball",
+        "lemma": "Haarball",
+        "translation": "bola de pelos",
+        "partOfSpeech": "noun",
+        "example": "Es sah aus wie ein großer Haarball mit leuchtenden Augen.",
+        "pronunciation": ""
+      },
+      {
+        "word": "entdecke",
+        "lemma": "entdecken",
+        "translation": "descobrir",
+        "partOfSpeech": "verb",
+        "example": "Das Monster erklärte, dass es unter Betten lebe und sich jedes Mal ein neues Bett suchen müsse, wenn jemand es entdecke.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Tasche",
+        "lemma": "Tasche",
+        "translation": "bolsa/bolso",
+        "partOfSpeech": "noun",
+        "example": "Während eines Fluges sprang das Monster aus ihrer Tasche und sorgte für Unruhe im Cockpit.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Cockpit",
+        "lemma": "Cockpit",
+        "translation": "cockpit",
+        "partOfSpeech": "noun",
+        "example": "Während eines Fluges sprang das Monster aus ihrer Tasche und sorgte für Unruhe im Cockpit.",
+        "pronunciation": ""
+      },
+      {
+        "word": "elastisch",
+        "lemma": "elastisch",
+        "translation": "elástico",
+        "partOfSpeech": "adjective",
+        "example": "Dorothea behauptete schnell, es sei nur eine elastische Perücke.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "de-b1-brothers-choice",
+    "language": "de",
+    "level": "B1",
+    "theme": "Cotidiano",
+    "title": "Die Wahl der Brüder",
+    "sourceUrl": "https://www.fabulang.com/en/de/stories/b1-wahl-brueder",
+    "sourceSite": "Fabulang",
+    "content": "Lorenz' Freund bewunderte eine elegante Uhr. Lorenz erklärte, dass sie seinem Vater gehört hatte. Der Vater hatte alte und kaputte Uhren auf Auktionen gekauft, sie repariert und wieder schön gemacht. Nach seinem Tod trafen sich Lorenz und seine Brüder bei der Anwältin. Sie las den letzten Willen vor: Das Haus und alle Besitztümer sollten verkauft werden, und das Geld sollte an eine Stiftung gehen. Vor der Auktion durfte jeder Sohn einen Gegenstand aus sentimentalen Gründen behalten. Der jüngere Bruder wählte sofort den Fernseher, der ältere nahm das Auto. Lorenz wählte die Uhr, weil sein Vater sie gemeinsam mit ihm auseinandergebaut und repariert hatte, als Lorenz vierzehn war. Jahre später erklärte sein Freund, dass diese Uhr möglicherweise Millionen wert sei. Lorenz wusste es bereits. Für ihn waren die Erinnerungen wichtiger als der Preis.",
+    "words": [
+      "Auktion",
+      "Anwältin",
+      "Stiftung",
+      "sentimental",
+      "Besitztümer",
+      "auseinandergebaut",
+      "Erinnerungen"
+    ],
+    "vocab": [
+      {
+        "word": "Auktion",
+        "lemma": "Auktion",
+        "translation": "leilão",
+        "partOfSpeech": "noun",
+        "example": "Der Vater hatte alte und kaputte Uhren auf Auktionen gekauft, sie repariert und wieder schön gemacht.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Anwältin",
+        "lemma": "Anwältin",
+        "translation": "advogada",
+        "partOfSpeech": "noun",
+        "example": "Nach seinem Tod trafen sich Lorenz und seine Brüder bei der Anwältin.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Stiftung",
+        "lemma": "Stiftung",
+        "translation": "fundação",
+        "partOfSpeech": "noun",
+        "example": "Das Haus und alle Besitztümer sollten verkauft werden, und das Geld sollte an eine Stiftung gehen.",
+        "pronunciation": ""
+      },
+      {
+        "word": "sentimental",
+        "lemma": "sentimental",
+        "translation": "sentimental",
+        "partOfSpeech": "adjective",
+        "example": "Vor der Auktion durfte jeder Sohn einen Gegenstand aus sentimentalen Gründen behalten.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Besitztümer",
+        "lemma": "Besitztum",
+        "translation": "pertences",
+        "partOfSpeech": "noun",
+        "example": "Das Haus und alle Besitztümer sollten verkauft werden, und das Geld sollte an eine Stiftung gehen.",
+        "pronunciation": ""
+      },
+      {
+        "word": "auseinandergebaut",
+        "lemma": "auseinanderbauen",
+        "translation": "desmontado",
+        "partOfSpeech": "verb",
+        "example": "Lorenz wählte die Uhr, weil sein Vater sie gemeinsam mit ihm auseinandergebaut und repariert hatte, als Lorenz vierzehn war.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Erinnerungen",
+        "lemma": "Erinnerung",
+        "translation": "memórias",
+        "partOfSpeech": "noun",
+        "example": "Für ihn waren die Erinnerungen wichtiger als der Preis.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "de-b2-table-three",
+    "language": "de",
+    "level": "B2",
+    "theme": "Investigação",
+    "title": "Ein Tisch für Drei",
+    "sourceUrl": "https://www.fabulang.com/en/de/stories/b2-tisch-drei",
+    "sourceSite": "Fabulang",
+    "content": "Heinrich stellte die Teller auf die Theke. Das Steak war perfekt, das Gemüse frisch und der Geruch der Sauce köstlich. In dem üppig dekorierten Speisesaal stand nur ein Tisch. Heinrich servierte drei Männern das Abendessen und hörte, wie sie über Macht, Regierungen und ihr Leben in geheimen Häusern sprachen. Danach ging er ins Badezimmer und kontrollierte seine versteckte Kamera. Heinrich war ein verdeckter Reporter. Fünf Jahre lang hatte er vorgegeben, Kellner zu sein, und bei zehn verschiedenen Catering-Unternehmen gearbeitet. Alles hatte er getan, um an diesem Abend die drei Männer zu beobachten. Die Firma verlangte von ihren Angestellten einen strengen Vertrag, aber Heinrich hielt es für wichtiger, der Welt die Wahrheit zu zeigen. Als er das Dessert brachte, lachten die Männer über Milliarden Menschen, die für wenig Geld arbeiteten. Einer von ihnen zeigte auf Heinrich und verriet, dass er fünf Jahre lang nur für diesen Abend gearbeitet hatte. Heinrich erstarrte.",
+    "words": [
+      "üppig",
+      "Theke",
+      "verdeckter Reporter",
+      "vorgegeben",
+      "Angestellte",
+      "verriet",
+      "erstarrte"
+    ],
+    "vocab": [
+      {
+        "word": "üppig",
+        "lemma": "üppig",
+        "translation": "luxurioso; farto, abundante",
+        "partOfSpeech": "adjective",
+        "example": "In dem üppig dekorierten Speisesaal stand nur ein Tisch.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Theke",
+        "lemma": "die Theke",
+        "translation": "balcão (de bar/serviço)",
+        "partOfSpeech": "noun",
+        "example": "Heinrich stellte die Teller auf die Theke.",
+        "pronunciation": ""
+      },
+      {
+        "word": "verdeckter Reporter",
+        "lemma": "verdeckter Reporter",
+        "translation": "repórter disfarçado",
+        "partOfSpeech": "phrase",
+        "example": "Heinrich war ein verdeckter Reporter.",
+        "pronunciation": ""
+      },
+      {
+        "word": "vorgegeben",
+        "lemma": "vorgeben",
+        "translation": "fingir; alegar como cobertura",
+        "partOfSpeech": "verb",
+        "example": "Fünf Jahre lang hatte er vorgegeben, Kellner zu sein, und bei zehn verschiedenen Catering-Unternehmen gearbeitet.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Angestellte",
+        "lemma": "der Angestellte",
+        "translation": "empregados; funcionários",
+        "partOfSpeech": "noun",
+        "example": "Die Firma verlangte von ihren Angestellten einen strengen Vertrag, aber Heinrich hielt es für wichtiger, der Welt die Wahrheit zu zeigen.",
+        "pronunciation": ""
+      },
+      {
+        "word": "verriet",
+        "lemma": "verraten",
+        "translation": "revelou; entregou (informação)",
+        "partOfSpeech": "verb",
+        "example": "Einer von ihnen zeigte auf Heinrich und verriet, dass er fünf Jahre lang nur für diesen Abend gearbeitet hatte.",
+        "pronunciation": ""
+      },
+      {
+        "word": "erstarrte",
+        "lemma": "erstarren",
+        "translation": "ficou paralisado; congelou de choque",
+        "partOfSpeech": "verb",
+        "example": "Heinrich erstarrte.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "de-c1-data-journalism",
+    "language": "de",
+    "level": "C1",
+    "theme": "AI Engineering",
+    "title": "Datenjournalismus: Auf der Jagd nach verborgenen Mustern",
+    "sourceUrl": "https://www.goethe.de/prj/zei/de/art/22739137.html",
+    "sourceSite": "Goethe-Institut",
+    "content": "Künstliche Intelligenz spielt im Journalismus schon heute eine wichtige Rolle: Algorithmen finden Geschichten in großen Datensätzen und erzeugen automatisch Tausende Texte. Anstatt Medienschaffende zu ersetzen, unterstützt und beschleunigt KI die Recherche, Produktion und Distribution von Medieninhalten. Eine der zeitintensivsten Aufgaben von Datenjournalistinnen und Datenjournalisten besteht darin, Datensätze so zu strukturieren, dass sich erzählenswerte Zusammenhänge finden lassen. KI erkennt Muster in Datenmengen und kann direkt aus den Daten Texte produzieren. Große Nachrichtenagenturen lassen Algorithmen riesige Datensätze nach auffälligen Aktienkursen, Marktbewegungen und Social-Media-Kommentaren durchsuchen. Solche Werkzeuge helfen, den Überblick zu behalten und wichtige Ereignisse früh zu erkennen. Die Systeme sind jedoch nicht risikofrei: Sie klassifizieren, sortieren und bewerten, liegen dabei aber nicht immer richtig. Besonders problematisch wird es, wenn Daten über Menschen ausgewertet werden. Deshalb braucht automatisierter Journalismus menschliche Kontrolle, sichere Speicherung und eine kritische Prüfung der Datenquellen.",
+    "words": [
+      "Datensätzen",
+      "Recherche",
+      "Distribution",
+      "Zusammenhänge",
+      "auffällig",
+      "klassifizieren",
+      "Datenquelle"
+    ],
+    "vocab": [
+      {
+        "word": "Datensätzen",
+        "lemma": "Datensatz",
+        "translation": "conjuntos de dados",
+        "partOfSpeech": "noun",
+        "example": "Algorithmen finden Geschichten in großen Datensätzen und erzeugen automatisch Tausende Texte.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Recherche",
+        "lemma": "Recherche",
+        "translation": "investigação/jornalística",
+        "partOfSpeech": "noun",
+        "example": "Anstatt Medienschaffende zu ersetzen, unterstützt und beschleunigt KI die Recherche, Produktion und Distribution von Medieninhalten.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Distribution",
+        "lemma": "Distribution",
+        "translation": "distribuição",
+        "partOfSpeech": "noun",
+        "example": "Anstatt Medienschaffende zu ersetzen, unterstützt und beschleunigt KI die Recherche, Produktion und Distribution von Medieninhalten.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Zusammenhänge",
+        "lemma": "Zusammenhang",
+        "translation": "relações/ligação entre dados",
+        "partOfSpeech": "noun",
+        "example": "Eine der zeitintensivsten Aufgaben von Datenjournalistinnen und Datenjournalisten besteht darin, Datensätze so zu strukturieren, dass sich erzählenswerte Zusammenhänge finden lassen.",
+        "pronunciation": ""
+      },
+      {
+        "word": "auffällig",
+        "lemma": "auffällig",
+        "translation": "incomum/chamativo",
+        "partOfSpeech": "adjective",
+        "example": "Große Nachrichtenagenturen lassen Algorithmen riesige Datensätze nach auffälligen Aktienkursen, Marktbewegungen und Social-Media-Kommentaren durchsuchen.",
+        "pronunciation": ""
+      },
+      {
+        "word": "klassifizieren",
+        "lemma": "klassifizieren",
+        "translation": "classificar",
+        "partOfSpeech": "verb",
+        "example": "Die Systeme sind jedoch nicht risikofrei: Sie klassifizieren, sortieren und bewerten, liegen dabei aber nicht immer richtig.",
+        "pronunciation": ""
+      },
+      {
+        "word": "Datenquelle",
+        "lemma": "Datenquelle",
+        "translation": "fonte de dados",
+        "partOfSpeech": "noun",
+        "example": "Deshalb braucht automatisierter Journalismus menschliche Kontrolle, sichere Speicherung und eine kritische Prüfung der Datenquellen.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "es-a2-free-time",
+    "language": "es",
+    "level": "A2",
+    "theme": "Cotidiano",
+    "title": "El tiempo libre",
+    "sourceUrl": "https://lingua.com/es/espanol/lectura/tiempo-libre/",
+    "sourceSite": "Lingua.com",
+    "content": "En vacaciones, el fin de semana o después del trabajo tienes tiempo libre para hacer ejercicio, llevar un pasatiempo o salir a divertirte. Si eres deportista y te gusta el agua puedes nadar; si te gusta la nieve puedes esquiar. Si no dispones de mucho tiempo puedes correr o ir en bicicleta. Hay quien prefiere quedarse en casa a ver la televisión, jugar videojuegos o navegar por Internet. Cuando llueve o hace mucho frío, puedes escuchar tu música favorita, leer un buen libro o aprender a tocar un instrumento. También puedes aprovechar el tiempo libre para estudiar. Si hace buen tiempo, tal vez quieras ir de compras, salir con amigos o pasar tiempo con la familia en un parque, el teatro o el cine. Aprovechar el tiempo libre es importante para tener una vida feliz, porque las actividades pequeñas ayudan a descansar y a mantener el contacto con otras personas.",
+    "words": [
+      "pasatiempo",
+      "deportista",
+      "dispones",
+      "quedarse",
+      "aprovechar",
+      "divertirte",
+      "mantener"
+    ],
+    "vocab": [
+      {
+        "word": "pasatiempo",
+        "lemma": "pasatiempo",
+        "translation": "hobby; passatempo",
+        "partOfSpeech": "noun",
+        "example": "llevar un pasatiempo",
+        "pronunciation": ""
+      },
+      {
+        "word": "deportista",
+        "lemma": "deportista",
+        "translation": "athlete; pessoa esportista",
+        "partOfSpeech": "noun",
+        "example": "Si eres deportista y te gusta el agua puedes nadar",
+        "pronunciation": ""
+      },
+      {
+        "word": "dispones",
+        "lemma": "disponer",
+        "translation": "have available; dispor de",
+        "partOfSpeech": "verb",
+        "example": "Si no dispones de mucho tiempo puedes correr o ir en bicicleta",
+        "pronunciation": ""
+      },
+      {
+        "word": "quedarse",
+        "lemma": "quedarse",
+        "translation": "stay (at home)",
+        "partOfSpeech": "verb",
+        "example": "Hay quien prefiere quedarse en casa a ver la televisión",
+        "pronunciation": ""
+      },
+      {
+        "word": "aprovechar",
+        "lemma": "aprovechar",
+        "translation": "make use of; aproveitar",
+        "partOfSpeech": "verb",
+        "example": "También puedes aprovechar el tiempo libre para estudiar",
+        "pronunciation": ""
+      },
+      {
+        "word": "divertirte",
+        "lemma": "divertir(se)",
+        "translation": "have fun; divertir-se",
+        "partOfSpeech": "verb",
+        "example": "salir a divertirte",
+        "pronunciation": ""
+      },
+      {
+        "word": "mantener",
+        "lemma": "mantener",
+        "translation": "maintain; manter",
+        "partOfSpeech": "verb",
+        "example": "ayudan a descansar y a mantener el contacto con otras personas",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "es-a2-shopping-list",
+    "language": "es",
+    "level": "A2",
+    "theme": "Cotidiano",
+    "title": "La lista de la compra",
+    "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/a2/articles/la-lista-de-la-compra",
+    "sourceSite": "Lingolia",
+    "content": "Martín ha ido a comprar esta mañana. Es vegano, así que llena su cesta de verduras. Normalmente compra las verduras en el mercado local, pero hoy está cerrado, así que ha ido al supermercado. El supermercado no es tan barato como el mercado local, pero Martín encuentra casi todas las cosas de su lista. Ha comprado cebollas, ajo, tomates y una berenjena para hacer una salsa para la pasta, y un pepino y algunos rábanos para preparar una ensalada. El viernes ha invitado a sus amigos a cenar en casa y quiere preparar curry vegano. Necesita brócoli, pero no lo ha encontrado, así que ha comprado una coliflor. En la caja pide una bolsa de papel porque es más respetuosa con el medio ambiente. De camino a casa, la bolsa se rompe y las verduras se esparcen por el suelo. Unos pájaros cogen una zanahoria, un pimiento y algunas judías verdes, y se van volando.",
+    "words": [
+      "cesta",
+      "verduras",
+      "berenjena",
+      "rábanos",
+      "esparcen",
+      "respetuosa",
+      "judías"
+    ],
+    "vocab": [
+      {
+        "word": "cesta",
+        "lemma": "cesta",
+        "translation": "cesta; recipiente para transportar compras",
+        "partOfSpeech": "noun",
+        "example": "llena su cesta de verduras.",
+        "pronunciation": ""
+      },
+      {
+        "word": "verduras",
+        "lemma": "verdura",
+        "translation": "verduras; vegetais comestíveis (folhas, talos, raízes)",
+        "partOfSpeech": "noun",
+        "example": "llena su cesta de verduras.",
+        "pronunciation": ""
+      },
+      {
+        "word": "berenjena",
+        "lemma": "berenjena",
+        "translation": "berinjela",
+        "partOfSpeech": "noun",
+        "example": "una berenjena para hacer una salsa para la pasta",
+        "pronunciation": ""
+      },
+      {
+        "word": "rábanos",
+        "lemma": "rábano",
+        "translation": "rabanete",
+        "partOfSpeech": "noun",
+        "example": "un pepino y algunos rábanos para preparar una ensalada.",
+        "pronunciation": ""
+      },
+      {
+        "word": "esparcen",
+        "lemma": "esparcir",
+        "translation": "espalham; dispersam pelo chão",
+        "partOfSpeech": "verb",
+        "example": "las verduras se esparcen por el suelo.",
+        "pronunciation": ""
+      },
+      {
+        "word": "respetuosa",
+        "lemma": "respetuoso",
+        "translation": "respeitosa",
+        "partOfSpeech": "adjective",
+        "example": "es más respetuosa con el medio ambiente.",
+        "pronunciation": ""
+      },
+      {
+        "word": "judías",
+        "lemma": "judía",
+        "translation": "vagem; feijão verde",
+        "partOfSpeech": "noun",
+        "example": "algunas judías verdes, y se van volando.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "es-b1-real-madrid",
+    "language": "es",
+    "level": "B1",
+    "theme": "Futebol",
+    "title": "El milagro final: remontada histórica del Real Madrid",
+    "sourceUrl": "https://www.profedeele.es/actividad/el-milagro-final-remontada-historica-del-real-madrid/",
+    "sourceSite": "ProfeDeELE / AS.com",
+    "content": "No hay quien resista el poder de destrucción del Bernabéu, quizá porque no es de este mundo. El Manchester City y Guardiola se derritieron ante un Madrid feroz, eterno resucitado. En este estadio pasa algo y pasó también esta vez para llevar al Madrid a otra final. Aun en casa, agigantado por un estadio en erupción, el Madrid se protegió con un cuarto centrocampista. Guardiola mejoró el plan, pero el partido fue distinto. Los intentos de remontada tienen un manual de instrucciones que el Madrid procuró seguir. De salida le quitó la iniciativa al City y dejó algunas huellas en el área. En la segunda mitad, un ataque relámpago recordó al Madrid que podía. El City empezó a utilizar la pelota en defensa propia, quemando pases y minutos. Después, Rodrygo marcó dos goles y el estadio empezó a creer en una prórroga. Finalmente, Benzema transformó un penalti. El resto fue convencimiento, resistencia y suerte: de ese material están hechas las remontadas.",
+    "words": [
+      "remontada",
+      "resucitado",
+      "agigantado",
+      "remontadas",
+      "relámpago",
+      "prórroga",
+      "convencimiento"
+    ],
+    "vocab": [
+      {
+        "word": "remontada",
+        "lemma": "remontada",
+        "translation": "virada; recuperação de resultado",
+        "partOfSpeech": "noun",
+        "example": "Los intentos de remontada tienen un manual de instrucciones que el Madrid procuró seguir.",
+        "pronunciation": ""
+      },
+      {
+        "word": "resucitado",
+        "lemma": "resucitado",
+        "translation": "ressuscitado; que voltou à vida/forma anterior",
+        "partOfSpeech": "adjective",
+        "example": "El Manchester City y Guardiola se derritieron ante un Madrid feroz, eterno resucitado.",
+        "pronunciation": ""
+      },
+      {
+        "word": "agigantado",
+        "lemma": "agigantado",
+        "translation": "ampliado; tornado maior/mais imponente",
+        "partOfSpeech": "adjective",
+        "example": "Aun en casa, agigantado por un estadio en erupción, el Madrid se protegió con un cuarto centrocampista.",
+        "pronunciation": ""
+      },
+      {
+        "word": "remontadas",
+        "lemma": "remontada",
+        "translation": "viradas; recuperações de placar (plural)",
+        "partOfSpeech": "noun",
+        "example": "De ese material están hechas las remontadas.",
+        "pronunciation": ""
+      },
+      {
+        "word": "relámpago",
+        "lemma": "relámpago",
+        "translation": "relâmpago; ataque muito rápido",
+        "partOfSpeech": "adjective",
+        "example": "En la segunda mitad, un ataque relámpago recordó al Madrid que podía.",
+        "pronunciation": ""
+      },
+      {
+        "word": "prórroga",
+        "lemma": "prórroga",
+        "translation": "prorrogação; tempo extra (no futebol)",
+        "partOfSpeech": "noun",
+        "example": "Después, Rodrygo marcó dos goles y el estadio empezó a creer en una prórroga.",
+        "pronunciation": ""
+      },
+      {
+        "word": "convencimiento",
+        "lemma": "convencimiento",
+        "translation": "convencimento; crença/convicção",
+        "partOfSpeech": "noun",
+        "example": "El resto fue convencimiento, resistencia y suerte: de ese material están hechas las remontadas.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "es-b2-ai-language-learning",
+    "language": "es",
+    "level": "B2",
+    "theme": "AI Engineering",
+    "title": "La inteligencia artificial y el aprendizaje de lenguas",
+    "sourceUrl": "https://theconversation.com/es-la-inteligencia-artificial-el-recurso-definitivo-para-aprender-idiomas-290448",
+    "sourceSite": "The Conversation España",
+    "content": "La interacción con las plataformas de inteligencia artificial generativa y con los modelos extensos de lenguaje se produce por medio del lenguaje natural. Las personas pueden pedir datos, órdenes o explicaciones, y las plataformas proporcionan respuestas verbales con razonamientos. Para el aprendizaje de lenguas, los modelos permiten interactuar en una lengua extranjera, establecer secuencias formativas personalizadas, desarrollar tareas de comprensión y expresión, corregir errores y simular situaciones comunicativas corrientes. Estas posibilidades hacen que la práctica sea accesible a cualquier hora y sin miedo a recibir un juicio negativo. Sin embargo, el panorama no está completo. Si los procesos cognitivos complejos se apoyan sistemáticamente en la inteligencia artificial, el aprendizaje profundo puede quedar limitado y puede desarrollarse una dependencia cognitiva. Si usamos la IA para leer y escribir por nosotros, nos volvemos más perezosos y aprendemos menos. La tecnología puede ayudar, pero la interacción con personas reales sigue siendo necesaria desde una perspectiva comunicativa y social.",
+    "words": [
+      "generativa",
+      "modelos extensos",
+      "secuencias formativas",
+      "corregir",
+      "sistemáticamente",
+      "dependencia cognitiva",
+      "perspectiva"
+    ],
+    "vocab": [
+      {
+        "word": "generativa",
+        "lemma": "generativo",
+        "translation": "generativa",
+        "partOfSpeech": "adjective",
+        "example": "La interacción con las plataformas de inteligencia artificial generativa y con los modelos extensos de lenguaje se produce por medio del lenguaje natural.",
+        "pronunciation": ""
+      },
+      {
+        "word": "modelos extensos",
+        "lemma": "modelos extensos",
+        "translation": "modelos extensos",
+        "partOfSpeech": "phrase",
+        "example": "La interacción con las plataformas de inteligencia artificial generativa y con los modelos extensos de lenguaje se produce por medio del lenguaje natural.",
+        "pronunciation": ""
+      },
+      {
+        "word": "secuencias formativas",
+        "lemma": "secuencias formativas",
+        "translation": "sequências de aprendizagem",
+        "partOfSpeech": "other",
+        "example": "Para el aprendizaje de lenguas, los modelos permiten interactuar en una lengua extranjera, establecer secuencias formativas personalizadas, desarrollar tareas de comprensión y expresión, corregir errores y simular situaciones comunicativas corrientes.",
+        "pronunciation": ""
+      },
+      {
+        "word": "corregir",
+        "lemma": "corregir",
+        "translation": "corrigir",
+        "partOfSpeech": "verb",
+        "example": "Para el aprendizaje de lenguas, los modelos permiten interactuar en una lengua extranjera, establecer secuencias formativas personalizadas, desarrollar tareas de comprensión y expresión, corregir errores y simular situaciones comunicativas corrientes.",
+        "pronunciation": ""
+      },
+      {
+        "word": "sistemáticamente",
+        "lemma": "sistemáticamente",
+        "translation": "sistematicamente",
+        "partOfSpeech": "adverb",
+        "example": "Si los procesos cognitivos complejos se apoyan sistemáticamente en la inteligencia artificial, el aprendizaje profundo puede quedar limitado y puede desarrollarse una dependencia cognitiva.",
+        "pronunciation": ""
+      },
+      {
+        "word": "dependencia cognitiva",
+        "lemma": "dependencia cognitiva",
+        "translation": "dependência cognitiva",
+        "partOfSpeech": "phrase",
+        "example": "Si los procesos cognitivos complejos se apoyan sistemáticamente en la inteligencia artificial, el aprendizaje profundo puede quedar limitado y puede desarrollarse una dependencia cognitiva.",
+        "pronunciation": ""
+      },
+      {
+        "word": "perspectiva",
+        "lemma": "perspectiva",
+        "translation": "perspectiva",
+        "partOfSpeech": "noun",
+        "example": "La tecnología puede ayudar, pero la interacción con personas reales sigue siendo necesaria desde una perspectiva comunicativa y social.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "es-c1-peru-zaballa",
+    "language": "es",
+    "level": "C1",
+    "theme": "Futebol",
+    "title": "El eterno ejemplo de Peru Zaballa",
+    "sourceUrl": "https://www.panenka.org/miradas/el-eterno-ejemplo-de-peru-zaballa/",
+    "sourceSite": "Panenka",
+    "content": "El fútbol es un deporte, no una guerra; como afirmaba Peru Zaballa, el protagonista de esta historia. El balompié español ha conocido mejores jugadores que el cántabro, más técnicos, goleadores e incluso más rápidos. Pero muy pocos han dado su nombre a un trofeo que premia la conducta más noble y caballerosa en plena competición: el fair play. En 1969 Peru Zaballa protagonizó una acción que no propició goles, puntos ni títulos para su club, pero que le inmortalizó. Durante un partido contra el Real Madrid, el portero local quedó lesionado y la meta estaba vacía. Zaballa tenía la pelota y podía marcar, pero la envió fuera para que el arquero recibiera atención. El público se puso en pie y le ovacionó. Su decisión no fue una estrategia ni una obligación; fue un gesto rápido, sin duda, que antepuso el cuidado del adversario a la posibilidad de ganar. El gesto trascendió fuera de España y le valió el premio Fair Play de la UNESCO.",
+    "words": [
+      "balompié",
+      "cántabro",
+      "caballerosa",
+      "inmortalizó",
+      "arquero",
+      "antepuso",
+      "trascendió"
+    ],
+    "vocab": [
+      {
+        "word": "balompié",
+        "lemma": "balompié",
+        "translation": "futebol",
+        "partOfSpeech": "noun",
+        "example": "El balompié español ha conocido mejores jugadores que el cántabro, más técnicos, goleadores e incluso más rápidos.",
+        "pronunciation": ""
+      },
+      {
+        "word": "cántabro",
+        "lemma": "cántabro",
+        "translation": "cántabro (natural da Cantábria)",
+        "partOfSpeech": "adjective",
+        "example": "El balompié español ha conocido mejores jugadores que el cántabro, más técnicos, goleadores e incluso más rápidos.",
+        "pronunciation": ""
+      },
+      {
+        "word": "caballerosa",
+        "lemma": "caballeroso",
+        "translation": "cortês; cavalheiresco",
+        "partOfSpeech": "adjective",
+        "example": "Pero muy pocos han dado su nombre a un trofeo que premia la conducta más noble y caballerosa en plena competición: el fair play.",
+        "pronunciation": ""
+      },
+      {
+        "word": "inmortalizó",
+        "lemma": "inmortalizar",
+        "translation": "imortalizou",
+        "partOfSpeech": "verb",
+        "example": "En 1969 Peru Zaballa protagonizó una acción que no propició goles, puntos ni títulos para su club, pero que le inmortalizó.",
+        "pronunciation": ""
+      },
+      {
+        "word": "arquero",
+        "lemma": "arquero",
+        "translation": "goleiro; guardião da meta",
+        "partOfSpeech": "noun",
+        "example": "Durante un partido contra el Real Madrid, el portero local quedó lesionado y la meta estaba vacía. Zaballa tenía la pelota y podía marcar, pero la envió fuera para que el arquero recibiera atención.",
+        "pronunciation": ""
+      },
+      {
+        "word": "antepuso",
+        "lemma": "anteponer",
+        "translation": "pôs à frente; privilegiou",
+        "partOfSpeech": "verb",
+        "example": "Su decisión no fue una estrategia ni una obligación; fue un gesto rápido, sin duda, que antepuso el cuidado del adversario a la posibilidad de ganar.",
+        "pronunciation": ""
+      },
+      {
+        "word": "trascendió",
+        "lemma": "trascender",
+        "translation": "transcendeu; ultrapassou fronteiras",
+        "partOfSpeech": "verb",
+        "example": "El gesto trascendió fuera de España y le valió el premio Fair Play de la UNESCO.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "ru-a1-my-day",
+    "language": "ru",
+    "level": "A1",
+    "theme": "Cotidiano",
+    "title": "Мой день",
+    "sourceUrl": "https://learnrussianfree.com/reading/basics/my-day/",
+    "sourceSite": "Learn Russian Free",
+    "content": "Это Катя. Вот её день. Утром звонит будильник. Я встаю в семь часов. Я умываюсь и чищу зубы. Потом я делаю зарядку. На завтрак я варю кашу. Я ем кашу и пью чай. Мой кот Барсик тоже хочет есть. Я даю ему корм. Барсик ест и мурлычет. В восемь я выхожу из дома. Я еду на работу на метро. В метро много людей. Я слушаю музыку в наушниках. Работа начинается в девять. Я работаю в офисе. Сначала я читаю почту. Потом у нас собрание. Мы говорим о новом проекте. В час я иду на обед. Я ем суп и салат в столовой. После обеда я снова работаю. В шесть я иду домой. По дороге я захожу в магазин. Дома меня ждёт Барсик. Я готовлю ужин, мою посуду и вечером звоню маме. Потом я читаю книгу на диване и пью чай с вареньем.",
+    "words": [
+      "будильник",
+      "умываюсь",
+      "делаю зарядку",
+      "корм",
+      "мурлычет",
+      "наушниках",
+      "столовой"
+    ],
+    "vocab": [
+      {
+        "word": "будильник",
+        "lemma": "будильник",
+        "translation": "despertador",
+        "partOfSpeech": "noun",
+        "example": "Утром звонит будильник.",
+        "pronunciation": "budil'nik"
+      },
+      {
+        "word": "умываюсь",
+        "lemma": "умываться",
+        "translation": "lavo o rosto",
+        "partOfSpeech": "verb",
+        "example": "Я умываюсь и чищу зубы.",
+        "pronunciation": "umyvayus' "
+      },
+      {
+        "word": "делаю зарядку",
+        "lemma": "делать зарядку",
+        "translation": "fazer exercícios matinais",
+        "partOfSpeech": "phrase",
+        "example": "Потом я делаю зарядку.",
+        "pronunciation": "delayu zaryadku"
+      },
+      {
+        "word": "корм",
+        "lemma": "корм",
+        "translation": "ração/comida para animal",
+        "partOfSpeech": "noun",
+        "example": "Я даю ему корм.",
+        "pronunciation": "korm"
+      },
+      {
+        "word": "мурлычет",
+        "lemma": "мурлыкать",
+        "translation": "ronrona",
+        "partOfSpeech": "verb",
+        "example": "Барсик ест и мурлычет.",
+        "pronunciation": "murl'ych'et"
+      },
+      {
+        "word": "наушниках",
+        "lemma": "наушники",
+        "translation": "fones de ouvido",
+        "partOfSpeech": "noun",
+        "example": "Я слушаю музыку в наушниках.",
+        "pronunciation": ""
+      },
+      {
+        "word": "столовой",
+        "lemma": "столовая",
+        "translation": "refeitório/cantina",
+        "partOfSpeech": "noun",
+        "example": "Я ем суп и салат в столовой.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "ru-a2-panda-katyusha",
+    "language": "ru",
+    "level": "A2",
+    "theme": "Cotidiano",
+    "title": "Панда Катюша",
+    "sourceUrl": "https://www.catalogue.irlc.msu.ru/media-texts-catalogue/all/texts/a2/panda-katyusha",
+    "sourceSite": "MSU IRLC",
+    "content": "Катюша, Катя, Екатерина — известное женское имя в России. Но это имя сейчас есть и у панды. Панда Катюша живёт в Москве и стала первой большой пандой, которая родилась в России, в Московском зоопарке. День её рождения стал уникальным событием. Панда сначала была маленькая и весила всего 150 граммов. Имя для неё выбирали москвичи во время специального голосования. Панда живёт в зоопарке вместе с мамой и папой. Посетителям нравится эта дружная семья. Учёные говорят, что наблюдать за пандами полезно: у детей и взрослых поднимается настроение. Панду можно увидеть лично или посмотреть онлайн-трансляцию. Катюша стала звездой соцсетей. Сотрудники зоопарка публикуют фотографии и видео, рассказывают, как она растёт, играет и гуляет. Панда любит бамбук, яблоки, морковь и специальный хлеб. Её обычный распорядок дня простой: проснуться, поесть, немного поспать и снова поесть.",
+    "words": [
+      "уникальным",
+      "весила",
+      "голосования",
+      "посетителям",
+      "наблюдать",
+      "онлайн-трансляцию",
+      "распорядок"
+    ],
+    "vocab": [
+      {
+        "word": "уникальным",
+        "lemma": "уникальный",
+        "translation": "único",
+        "partOfSpeech": "adjective",
+        "example": "День её рождения стал уникальным событием.",
+        "pronunciation": ""
+      },
+      {
+        "word": "весила",
+        "lemma": "весить",
+        "translation": "pesava",
+        "partOfSpeech": "verb",
+        "example": "Панда сначала была маленькая и весила всего 150 граммов.",
+        "pronunciation": ""
+      },
+      {
+        "word": "голосования",
+        "lemma": "голосование",
+        "translation": "votação",
+        "partOfSpeech": "noun",
+        "example": "Имя для неё выбирали москвичи во время специального голосования.",
+        "pronunciation": ""
+      },
+      {
+        "word": "посетителям",
+        "lemma": "посетитель",
+        "translation": "visitantes",
+        "partOfSpeech": "noun",
+        "example": "Посетителям нравится эта дружная семья.",
+        "pronunciation": ""
+      },
+      {
+        "word": "наблюдать",
+        "lemma": "наблюдать",
+        "translation": "observar",
+        "partOfSpeech": "verb",
+        "example": "Учёные говорят, что наблюдать за пандами полезно: у детей и взрослых поднимается настроение.",
+        "pronunciation": ""
+      },
+      {
+        "word": "онлайн-трансляцию",
+        "lemma": "онлайн-трансляция",
+        "translation": "transmissão online",
+        "partOfSpeech": "noun",
+        "example": "Панду можно увидеть лично или посмотреть онлайн-трансляцию.",
+        "pronunciation": ""
+      },
+      {
+        "word": "распорядок",
+        "lemma": "распорядок",
+        "translation": "rotina",
+        "partOfSpeech": "noun",
+        "example": "Её обычный распорядок дня простой: проснуться, поесть, немного поспать и снова поесть.",
+        "pronunciation": ""
+      }
+    ]
+  },
+  {
+    "id": "ru-b1-grumpy-sofa",
+    "language": "ru",
+    "level": "B1",
+    "theme": "Cotidiano",
+    "title": "Диван-ворчун",
+    "sourceUrl": "https://www.catalogue.irlc.msu.ru/media-texts-catalogue/all/texts/b1/divan-vorchun",
+    "sourceSite": "MSU IRLC",
+    "content": "Жил-был диван-ворчун. На самом деле это был обычный зелёный диван, который молодая семья купила в мебельном магазине двадцать лет назад. Тогда он был новый и красивый, и семья заботилась о нём как о члене семьи. Но время шло, росли дети, и отношение к дивану становилось всё хуже. Его реже чистили, на него бросали разные вещи, а под диваном лежали бумажки, игрушки, очки и старый носок. Однажды Галя пролила на диван кофе, и на нём осталось большое пятно. Дивану было обидно, и когда он оставался один, он начинал ворчать. На вечеринке маленький мальчик решил попрыгать на диване, и тот громко затрещал: у него сломалась ножка. После вечеринки родители поняли, что плохо обращались с вещью. Они почистили диван, убрали мусор и вызвали мастера. Позже бабушка и дедушка забрали его на дачу, где он снова почувствовал, что нужен и любим.",
+    "words": [
+      "ворчун",
+      "отношение",
+      "обидно",
+      "пятно",
+      "сломалась",
+      "затрещал",
+      "дачу"
+    ],
+    "vocab": [
+      {
+        "word": "ворчун",
+        "lemma": "ворчун",
+        "translation": "resmungão",
+        "partOfSpeech": "noun",
+        "example": "Жил-был диван-ворчун.",
+        "pronunciation": "vor-choon"
+      },
+      {
+        "word": "отношение",
+        "lemma": "отношение",
+        "translation": "trato; atitude",
+        "partOfSpeech": "noun",
+        "example": "Но время шло, росли дети, и отношение к дивану становилось всё хуже.",
+        "pronunciation": "oht-no-SHE-nie"
+      },
+      {
+        "word": "обидно",
+        "lemma": "обидно",
+        "translation": "magoadamente; é doloroso",
+        "partOfSpeech": "adverb",
+        "example": "Дивану было обидно, и когда он оставался один, он начинал ворчать.",
+        "pronunciation": "a-BEED-na"
+      },
+      {
+        "word": "пятно",
+        "lemma": "пятно",
+        "translation": "mancha",
+        "partOfSpeech": "noun",
+        "example": "Однажды Галя пролила на диван кофе, и на нём осталось большое пятно.",
+        "pronunciation": "pyaht-no"
+      },
+      {
+        "word": "сломалась",
+        "lemma": "сломаться",
+        "translation": "quebrou; partiu-se",
+        "partOfSpeech": "verb",
+        "example": "На вечеринке маленький мальчик решил попрыгать на диване, и тот громко затрещал: у него сломалась ножка.",
+        "pronunciation": "sloh-MA-las'"
+      },
+      {
+        "word": "затрещал",
+        "lemma": "затрещать",
+        "translation": "estalou um estalido; crepitou",
+        "partOfSpeech": "verb",
+        "example": "На вечеринке маленький мальчик решил попрыгать на диване, и тот громко затрещал: у него сломалась ножка.",
+        "pronunciation": "za-tre-SHCHAL"
+      },
+      {
+        "word": "дачу",
+        "lemma": "дача",
+        "translation": "chácara; casa de veraneio",
+        "partOfSpeech": "noun",
+        "example": "Позже бабушка и дедушка забрали его на дачу, где он снова почувствовал, что нужен и любим.",
+        "pronunciation": "DA-cha"
+      }
+    ]
+  },
+  {
+    "id": "ru-b2-football-data-science",
+    "language": "ru",
+    "level": "B2",
+    "theme": "Futebol",
+    "title": "Инструменты футбольного Data Scientist-а",
+    "sourceUrl": "https://www.sports.ru/football/blogs/2985326.html",
+    "sourceSite": "Sports.ru",
+    "content": "Любая аналитика начинается с данных. На основе данных о футболистах считаются различные футбольные метрики, которые затем отображаются в форме, удобной для восприятия и анализа. Поиском закономерностей, расчётом статистик и визуализацией занимаются специалисты, которых называют футбольными Data Scientist-ами. Одним из основных инструментов сегодня является язык программирования Python. В статье показан пример использования Python для получения бесплатных футбольных данных, на основе которых строятся радары футболистов. Радар — это способ визуализации футбольных метрик, который позволяет оценивать игроков и команды. В интернете есть источники событийных и трекинговых данных, но бесплатные данные часто бывают неполными или не самыми свежими. Альтернативой могут быть сайты с уже рассчитанными показателями. Например, статистика позволяет вычислять средние, максимальные, минимальные и процентильные значения. Чтобы получить таблицу из HTML-кода сайта, аналитик может использовать парсинг данных. Многие программы для этой работы уже опубликованы в формате open source.",
+    "words": [
+      "закономерностей",
+      "метрик",
+      "восприятия",
+      "визуализацией",
+      "событийных",
+      "процентиль",
+      "парсинг"
+    ],
+    "vocab": [
+      {
+        "word": "закономерностей",
+        "lemma": "закономерность",
+        "translation": "padronizações/padrões; regularidades",
+        "partOfSpeech": "noun",
+        "example": "Поиском закономерностей, расчётом статистик и визуализацией занимаются специалисты, которых называют футбольными Data Scientist-ами.",
+        "pronunciation": "zakonomyer-nostey"
+      },
+      {
+        "word": "метрик",
+        "lemma": "метрика",
+        "translation": "métricas",
+        "partOfSpeech": "noun",
+        "example": "Радар — это способ визуализации футбольных метрик, который позволяет оценивать игроков и команды.",
+        "pronunciation": "metrík"
+      },
+      {
+        "word": "восприятия",
+        "lemma": "восприятие",
+        "translation": "percepção",
+        "partOfSpeech": "noun",
+        "example": "На основе данных о футболистах считаются различные футбольные метрики, которые затем отображаются в форме, удобной для восприятия и анализа.",
+        "pronunciation": "vospriyátie"
+      },
+      {
+        "word": "визуализацией",
+        "lemma": "визуализация",
+        "translation": "visualização",
+        "partOfSpeech": "noun",
+        "example": "Поиском закономерностей, расчётом статистик и визуализацией занимаются специалисты, которых называют футбольными Data Scientist-ами.",
+        "pronunciation": "vizualizátsiya"
+      },
+      {
+        "word": "событийных",
+        "lemma": "событийный",
+        "translation": "de eventos (event-driven/eventos)",
+        "partOfSpeech": "adjective",
+        "example": "В интернете есть источники событийных и трекинговых данных, но бесплатные данные часто бывают неполными или не самыми свежими.",
+        "pronunciation": "sobýtiy-nye"
+      },
+      {
+        "word": "процентиль",
+        "lemma": "процентиль",
+        "translation": "percentil",
+        "partOfSpeech": "noun",
+        "example": "Например, статистика позволяет вычислять средние, максимальные, минимальные и процентильные значения.",
+        "pronunciation": "protséntil"
+      },
+      {
+        "word": "парсинг",
+        "lemma": "парсинг",
+        "translation": "parsing (extração/raspagem de dados)",
+        "partOfSpeech": "noun",
+        "example": "Чтобы получить таблицу из HTML-кода сайта, аналитик может использовать парсинг данных.",
+        "pronunciation": "parsíng"
+      }
+    ]
+  },
+  {
+    "id": "ru-c1-ai-basics",
+    "language": "ru",
+    "level": "C1",
+    "theme": "AI Engineering",
+    "title": "Это нейробаза",
+    "sourceUrl": "https://nplus1.ru/material/2023/04/20/AI-basics",
+    "sourceSite": "N+1",
+    "content": "Любую технологию, связанную с искусственным интеллектом, сегодня принято называть нейросетью, хотя это далеко не всегда корректно. GPT-4 — языковая модель на базе нейросети. Искусственный интеллект — это область компьютерных наук, занимающаяся созданием интеллектуальных систем, способных выполнять задачи, обычно требующие интеллектуальных усилий человека. Большинство современных разработок предназначено для конкретных задач, поэтому их называют узким искусственным интеллектом. Машинное обучение и глубокое обучение позволяют системе учиться на больших объёмах данных и опыта. Глубокое обучение использует сложные нейронные сети для распознавания речи и обработки естественного языка. Нейронная сеть состоит из узлов, которые обрабатывают информацию и передают её друг другу. Датасет — это набор данных, используемый для обучения модели и проверки её работы. Разметка подготавливает данные для обучения, а обучение с учителем использует правильные ответы. Модели машинного обучения применяются для классификации, регрессии и создания новых данных.",
+    "words": [
+      "корректно",
+      "интеллектуальных",
+      "узким",
+      "объём",
+      "нейронная сеть",
+      "разметка",
+      "регрессии"
+    ],
+    "vocab": [
+      {
+        "word": "корректно",
+        "lemma": "корректно",
+        "translation": "corretamente",
+        "partOfSpeech": "adverb",
+        "example": "Любую технологию, связанную с искусственным интеллектом, сегодня принято называть нейросетью, хотя это далеко не всегда корректно.",
+        "pronunciation": "корректно"
+      },
+      {
+        "word": "интеллектуальных",
+        "lemma": "интеллектуальный",
+        "translation": "intelectual (relacionado a inteligência)",
+        "partOfSpeech": "adjective",
+        "example": "Искусственный интеллект — это область компьютерных наук, занимающаяся созданием интеллектуальных систем, способных выполнять задачи, обычно требующие интеллектуальных усилий человека.",
+        "pronunciation": "интеллектуальных"
+      },
+      {
+        "word": "узким",
+        "lemma": "узкий",
+        "translation": "estreito (no sentido de especializado)",
+        "partOfSpeech": "adjective",
+        "example": "Большинство современных разработок предназначено для конкретных задач, поэтому их называют узким искусственным интеллектом.",
+        "pronunciation": "узким"
+      },
+      {
+        "word": "объём",
+        "lemma": "объём",
+        "translation": "volume, quantidade",
+        "partOfSpeech": "noun",
+        "example": "Машинное обучение и глубокое обучение позволяют системе учиться на больших объёмах данных и опыта.",
+        "pronunciation": "объём"
+      },
+      {
+        "word": "нейронная сеть",
+        "lemma": "нейронная сеть",
+        "translation": "rede neural",
+        "partOfSpeech": "noun",
+        "example": "Нейронная сеть состоит из узлов, которые обрабатывают информацию и передают её друг другу.",
+        "pronunciation": "нейронная сеть"
+      },
+      {
+        "word": "разметка",
+        "lemma": "разметка",
+        "translation": "anotação, marcação de dados",
+        "partOfSpeech": "noun",
+        "example": "Разметка подготавливает данные для обучения, а обучение с учителем использует правильные ответы.",
+        "pronunciation": "разметка"
+      },
+      {
+        "word": "регрессии",
+        "lemma": "регрессия",
+        "translation": "regressão (análise estatística de saída contínua)",
+        "partOfSpeech": "noun",
+        "example": "Модели машинного обучения применяются для классификации, регрессии и создания новых данных.",
+        "pronunciation": "регрессии"
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-raton",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Un ratón con un cerebro parcialmente humano",
+  "content": "En el mundo real, los biólogos hablamos de quimeras para referirnos a seres vivos que, sin llegar a las dimensiones de esa criatura mitológica imposible, contienen células de origen genético diferente. El ejemplo más reciente lo encontramos en el ratón que acaba de crear Sergiu Pasca, de la Universidad de Stanford (EE. UU.) , en cuyo cerebro ha implantado neuronas humanas que rellenaron su hipocampo (sede de la memoria) y su corteza cerebral. El experimento, dado a conocer en la revista Nature , valida la creación de quimeras interespecíficas (es decir, que combinan varias especies) para investigar, in vivo , cómo funcionan las neuronas humanas. Pero la historia viene de largo. Tradicionalmente, las quimeras han sido una herramienta muy útil para avanzar en nuestro conocimiento sobre el desarrollo embrionario. En mamíferos, las primeras quimeras de ratón intraespecíficas –creadas mezclando células embrionarias de dos cepas genéticamente distintas de ratón, es decir, dentro de la misma especie– se obtuvieron en los años sesenta de forma independiente, por la estadounidense Beatriz Mintzy y por el polaco Andrzej Tarkowski . Años más tarde, en 1984 para ser exactos, Allan Bradley obtuvo quimeras a partir de embriones de ratón inyectados con células pluripotentes embrionarias de otro ratón. Pero tuvimos que esperar casi cuarenta años para que, en 2023, el laboratorio de Zhen Liu , en China, reportara la creación de las primeras quimeras en un primate no humano, un macaco cangrejero. Desde hace algunos años también sabemos que es posible desarrollar quimeras interespecíficas, es decir, obtenidas mezclando células embrionarias de dos especies distintas, algo a todas luces asombroso. Los experimentos pioneros mezclando embriones de rata y células embrionarias de ratón (y viceversa), ambos roedores, los publicó el laboratorio de Hiromitsu Nakauchi, de la Universidad del Tsukuba (Japón) , en un artículo publicado en la revista científica Cell en 2010. Este laboratorio fue capaz de crear un ratón cuyo páncreas tenía origen en las células embrionarias pluripotentes de rata inyectadas en un blastocisto de ratón. La propuesta abría la posibilidad de desarrollar quizá órganos humanos “a la carta” dentro de otros animales, algo que siete años más tarde exploró el laboratorio de Juan Carlos Izpisúa-Belmonte. El investigador y su equipo crearon fetos de cerdo que incorporaban un número limitado de células humanas en su cuerpo , en varios órganos.",
+  "translation": "",
+  "wordCount": 383,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:08:26.077Z",
+  "vocab": {
+    "embrionarias": {
+      "word": "embrionarias",
+      "lemma": "embrionarias",
+      "translation": "embrionário",
+      "partOfSpeech": "other",
+      "example": "En mamíferos, las primeras quimeras de ratón intraespecíficas –creadas mezclando células embrionarias de dos cepas genéticamente distintas de ratón, es decir, dentro de la misma especie– se obtuvieron en los años sesenta de forma independiente, por la estadounidense Beatriz Mintzy y por el polaco Andrzej Tarkowski .",
+      "pronunciation": ""
+    },
+    "quimeras": {
+      "word": "quimeras",
+      "lemma": "quimeras",
+      "translation": "peixes-elefantes",
+      "partOfSpeech": "other",
+      "example": "En el mundo real, los biólogos hablamos de quimeras para referirnos a seres vivos que, sin llegar a las dimensiones de esa criatura mitológica imposible, contienen células de origen genético diferente.",
+      "pronunciation": ""
+    },
+    "células": {
+      "word": "células",
+      "lemma": "células",
+      "translation": "células",
+      "partOfSpeech": "other",
+      "example": "En el mundo real, los biólogos hablamos de quimeras para referirnos a seres vivos que, sin llegar a las dimensiones de esa criatura mitológica imposible, contienen células de origen genético diferente.",
+      "pronunciation": ""
+    },
+    "laboratorio": {
+      "word": "laboratorio",
+      "lemma": "laboratorio",
+      "translation": "laboratório",
+      "partOfSpeech": "other",
+      "example": "Pero tuvimos que esperar casi cuarenta años para que, en 2023, el laboratorio de Zhen Liu , en China, reportara la creación de las primeras quimeras en un primate no humano, un macaco cangrejero.",
+      "pronunciation": ""
+    },
+    "ratón": {
+      "word": "ratón",
+      "lemma": "ratón",
+      "translation": "rato",
+      "partOfSpeech": "other",
+      "example": "El ejemplo más reciente lo encontramos en el ratón que acaba de crear Sergiu Pasca, de la Universidad de Stanford (EE.",
+      "pronunciation": ""
+    },
+    "interespecíficas": {
+      "word": "interespecíficas",
+      "lemma": "interespecíficas",
+      "translation": "interespecífico",
+      "partOfSpeech": "other",
+      "example": "El experimento, dado a conocer en la revista Nature , valida la creación de quimeras interespecíficas (es decir, que combinan varias especies) para investigar, in vivo , cómo funcionan las neuronas humanas.",
+      "pronunciation": ""
+    },
+    "mezclando": {
+      "word": "mezclando",
+      "lemma": "mezclando",
+      "translation": "mistura",
+      "partOfSpeech": "other",
+      "example": "En mamíferos, las primeras quimeras de ratón intraespecíficas –creadas mezclando células embrionarias de dos cepas genéticamente distintas de ratón, es decir, dentro de la misma especie– se obtuvieron en los años sesenta de forma independiente, por la estadounidense Beatriz Mintzy y por el polaco Andrzej Tarkowski .",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/un-raton-con-un-cerebro-parcialmente-humano-292922",
+  "sourceSite": "The Conversation"
+}

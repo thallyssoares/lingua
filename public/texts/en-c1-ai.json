@@ -1,0 +1,73 @@
+{
+  "id": "en-c1-ai",
+  "language": "en",
+  "level": "C1",
+  "theme": "AI Engineering",
+  "title": "Artificial Intelligence",
+  "content": "By Edouard Mathieu , Charlie Giattino , Veronika Samborska , and Max Roser Cite this work Reuse this work Artificial intelligence (AI) systems already greatly impact our lives — they increasingly shape what we see, believe, and do. Based on the steady advances in AI technology and the significant recent increases in investment, we should expect AI technology to become even more powerful and impactful in the following years and decades. It is easy to underestimate how much the world can change within a lifetime, so it is worth taking seriously what those who work on AI expect for the future. Many AI experts believe there is a real chance that human-level artificial intelligence will be developed within the following decades, and some think it will exist much sooner. How such powerful AI systems are built and used will be very important for the future of our world and our own lives. All technologies have positive and negative consequences, but with AI, the range of these consequences is extraordinarily large: the technology has immense potential for good. Still, it comes with significant downsides and high risks. A technology with such an enormous impact needs to be of central interest to people across our entire society. However, currently, the question of how this technology will be developed and used is left to a small group of entrepreneurs and engineers. With our publications on artificial intelligence, we want to help change this status quo and support a broader societal engagement. On this page, you will find charts of AI-related metrics, articles, and key insights to help you better understand what is happening and where we might be heading. We hope that this work will be helpful for the growing and necessary public conversation on AI. The path to recent advanced AI systems has been more about building larger systems than making scientific breakthroughs. How AI gets built is currently decided by a small group of technologists. It should be in all of our interest to become informed and engaged. Many believe there is a real chance that human-level AI will be developed within the next decades, and some believe that it will exist much sooner. Our articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:",
+  "translation": "",
+  "wordCount": 396,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T16:34:27.729Z",
+  "vocab": {
+    "technology": {
+      "word": "technology",
+      "lemma": "technology",
+      "translation": "tecnologia.",
+      "partOfSpeech": "other",
+      "example": "Based on the steady advances in AI technology and the significant recent increases in investment, we should expect AI technology to become even more powerful and impactful in the following years and decades.",
+      "pronunciation": ""
+    },
+    "intelligence": {
+      "word": "intelligence",
+      "lemma": "intelligence",
+      "translation": "congénita inferior",
+      "partOfSpeech": "other",
+      "example": "By Edouard Mathieu , Charlie Giattino , Veronika Samborska , and Max Roser Cite this work Reuse this work Artificial intelligence (AI) systems already greatly impact our lives — they increasingly shape what we see, believe, and do.",
+      "pronunciation": ""
+    },
+    "Artificial": {
+      "word": "Artificial",
+      "lemma": "artificial",
+      "translation": "artificial",
+      "partOfSpeech": "other",
+      "example": "By Edouard Mathieu , Charlie Giattino , Veronika Samborska , and Max Roser Cite this work Reuse this work Artificial intelligence (AI) systems already greatly impact our lives — they increasingly shape what we see, believe, and do.",
+      "pronunciation": ""
+    },
+    "systems": {
+      "word": "systems",
+      "lemma": "systems",
+      "translation": "sistemas",
+      "partOfSpeech": "other",
+      "example": "By Edouard Mathieu , Charlie Giattino , Veronika Samborska , and Max Roser Cite this work Reuse this work Artificial intelligence (AI) systems already greatly impact our lives — they increasingly shape what we see, believe, and do.",
+      "pronunciation": ""
+    },
+    "believe": {
+      "word": "believe",
+      "lemma": "believe",
+      "translation": "acreditar",
+      "partOfSpeech": "other",
+      "example": "By Edouard Mathieu , Charlie Giattino , Veronika Samborska , and Max Roser Cite this work Reuse this work Artificial intelligence (AI) systems already greatly impact our lives — they increasingly shape what we see, believe, and do.",
+      "pronunciation": ""
+    },
+    "developed": {
+      "word": "developed",
+      "lemma": "developed",
+      "translation": "desenvolvidas",
+      "partOfSpeech": "other",
+      "example": "Many AI experts believe there is a real chance that human-level artificial intelligence will be developed within the following decades, and some think it will exist much sooner.",
+      "pronunciation": ""
+    },
+    "consequences": {
+      "word": "consequences",
+      "lemma": "consequences",
+      "translation": "indesejadas.",
+      "partOfSpeech": "other",
+      "example": "All technologies have positive and negative consequences, but with AI, the range of these consequences is extraordinarily large: the technology has immense potential for good.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://ourworldindata.org/artificial-intelligence",
+  "sourceSite": "Our World in Data"
+}

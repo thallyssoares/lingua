@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-lluvias",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Cómo las lluvias intensas pueden provocar que las aguas urbanas contaminadas lleguen a río",
+  "content": "Una vez en el alcantarillado, el agua de lluvia se encuentra con las aguas residuales procedentes de nuestros hogares. Allí se mezcla con el agua de la ducha, de los grifos de la cocina y del lavabo, así como con la procedente de los inodoros. Esta agua transporta materia fecal y sus bacterias, y todo aquello que se haya arrojado al desagüe: toallitas, productos de limpieza, etc. Si todo funciona correctamente, las aguas residuales circulan por la red de saneamiento hasta llegar a las estaciones depuradoras de aguas residuales (EDAR). Normalmente, de ellas sale un agua mucho más limpia que se vierte a los ríos o al mar a través de unas tuberías conocidas como “emisarios”. El agua llega al alcantarillado y de allí a las EDAR. Pero las depuradoras se han diseñado para asumir un caudal dependiente del número de habitantes. No pueden asumir caudales muy superiores sin riesgo de desbordamiento o de que el sistema de tratamiento deje de funcionar correctamente. Para evitar que colapsen, las redes de saneamiento disponen de puntos de alivio conocidos como descargas de sistemas unitarios (DSU), que pueden situarse en ríos, arroyos o en el mar. En Barcelona, por ejemplo, la mayoría descargan al mar, pero también al río Besós. El agua de lluvia mezclada con agua residual sin tratar se vierte al medio a través de estos puntos. Esta agua arrastra la materia orgánica, bacterias fecales y residuos que se arrojan al inodoro. Pero también desplaza contaminantes urbanos como metales pesados, aceites e hidrocarburos de los vehículos. De este modo, estos contaminantes terminan llegando a los torrentes y al océano . Estos vertidos no suelen representar un grave problema para la salud pública, pero sí degradan la calidad del agua y obligan al cierre de playas o a restringir usos recreativos tras episodios de lluvia intensa.",
+  "translation": "",
+  "wordCount": 304,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.867Z",
+  "vocab": {
+    "residuales": {
+      "word": "residuales",
+      "lemma": "residuales",
+      "translation": "residuais",
+      "partOfSpeech": "other",
+      "example": "Una vez en el alcantarillado, el agua de lluvia se encuentra con las aguas residuales procedentes de nuestros hogares.",
+      "pronunciation": ""
+    },
+    "alcantarillado": {
+      "word": "alcantarillado",
+      "lemma": "alcantarillado",
+      "translation": "coletor de esgotos",
+      "partOfSpeech": "other",
+      "example": "Una vez en el alcantarillado, el agua de lluvia se encuentra con las aguas residuales procedentes de nuestros hogares.",
+      "pronunciation": ""
+    },
+    "correctamente": {
+      "word": "correctamente",
+      "lemma": "correctamente",
+      "translation": "corretamente",
+      "partOfSpeech": "other",
+      "example": "Si todo funciona correctamente, las aguas residuales circulan por la red de saneamiento hasta llegar a las estaciones depuradoras de aguas residuales (EDAR).",
+      "pronunciation": ""
+    },
+    "contaminantes": {
+      "word": "contaminantes",
+      "lemma": "contaminantes",
+      "translation": "poluentes",
+      "partOfSpeech": "other",
+      "example": "Pero también desplaza contaminantes urbanos como metales pesados, aceites e hidrocarburos de los vehículos.",
+      "pronunciation": ""
+    },
+    "saneamiento": {
+      "word": "saneamiento",
+      "lemma": "saneamiento",
+      "translation": "reabilitação",
+      "partOfSpeech": "other",
+      "example": "Si todo funciona correctamente, las aguas residuales circulan por la red de saneamiento hasta llegar a las estaciones depuradoras de aguas residuales (EDAR).",
+      "pronunciation": ""
+    },
+    "depuradoras": {
+      "word": "depuradoras",
+      "lemma": "depuradoras",
+      "translation": "estações de tratamento de esgoto",
+      "partOfSpeech": "other",
+      "example": "Si todo funciona correctamente, las aguas residuales circulan por la red de saneamiento hasta llegar a las estaciones depuradoras de aguas residuales (EDAR).",
+      "pronunciation": ""
+    },
+    "lluvia": {
+      "word": "lluvia",
+      "lemma": "lluvia",
+      "translation": "chuva",
+      "partOfSpeech": "other",
+      "example": "Una vez en el alcantarillado, el agua de lluvia se encuentra con las aguas residuales procedentes de nuestros hogares.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/como-las-lluvias-intensas-pueden-provocar-que-las-aguas-urbanas-contaminadas-lleguen-a-rios-y-playas-293122",
+  "sourceSite": "The Conversation"
+}

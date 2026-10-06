@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-kriegsdienst",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
+  "content": "Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe. Die Zahl der Anträge auf Kriegsdienstverweigerung ist in diesem Jahr stark angestiegen. Von Januar bis August seien insgesamt 12.102 entsprechende Gesuche eingegangen, sagte eine Sprecherin des Bundesamts für Familie und zivilgesellschaftliche Aufgaben (BAFzA) den Zeitungen des Redaktionsnetzwerks Deutschland (RND). Damit liegt die Zahl der Anträge schon jetzt dreimal höher als im gesamten vergangenen Jahr. In 2025 gab es demnach lediglich 3879 Anträge, 2024 waren es 2249. Bis Ende Juni 2026 hatte das Bundesamt den Eingang von 5.862 Anträgen gemeldet. Innerhalb von nur zwei Monaten hat sich seitdem die Zahl also verdoppelt. Das Gesetz über den neuen Wehrdienst ist Anfang des Jahres in Kraft getreten. Nun gab es in vielen Städten Proteste. mehr Anträge auf Kriegsdienstverweigerung reichen nicht nur Reservisten und aktive Soldaten ein, sondern trotz ausgesetzter Wehrpflicht auch Ungediente. Die entsprechenden Beratungsstellen melden einen wachsenden Zulauf. Die BAFzA-Sprecherin betonte: \"Unabhängig von der Aussetzung der allgemeinen Wehrpflicht bleibt das Recht, den Kriegsdienst mit der Waffe aus Gewissensgründen gemäß Artikel 4 Absatz 3 des Grundgesetzes zu verweigern, bestehen.\" Der Antrag auf Kriegsdienstverweigerung sei schriftlich beim Bundesamt für das Personalmanagement der Bundeswehr einzureichen - inklusive einer persönlich verfassten, ausführlichen Begründung. Hintergrund für den Anstieg dürften die angespannte Sicherheitslage und das Gesetz über den neuen Wehrdienst sein, das zum 1. Januar in Kraft trat. Kern ist die verpflichtende Musterung für junge Männer ab dem Jahrgang 2008. So sollen Freiwillige für einen Ausbau der Truppe rekrutiert werden. Sollten die Zielkorridore verfehlt werden, kann der Bundestag über eine sogenannte Bedarfswehrpflicht entscheiden. Ein Grund für den Anstieg der Anträge dürfte das Inkrafttreten des neuen Wehrdienstgesetzes sein. mehr Die Behörde sprach gegenüber der Funke-Mediengruppe zufolge von Problemen bei den Anträgen. Derzeit werde eine \"hohe Zahl an fehlgeleiteten Anträgen beobachtet, die mit nicht anerkennungsfähigem Inhalt eingehen und unbearbeitet zurückgesandt werden müssen\", sagte eine Sprecherin. Es kursierten Falschinformationen zum Weg und Inhalt einer Antragstellung auf Kriegsdienstverweigerung, unter anderem in den sozialen Medien. Dieses Thema im Programm: NDR Info | Nachrichten | 06.10.2026 | 04:05 Uhr",
+  "translation": "",
+  "wordCount": 348,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:31.659Z",
+  "vocab": {
+    "Kriegsdienstverweigerung": {
+      "word": "Kriegsdienstverweigerung",
+      "lemma": "kriegsdienstverweigerung",
+      "translation": "Objetor de consciência",
+      "partOfSpeech": "other",
+      "example": "Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an.",
+      "pronunciation": ""
+    },
+    "Anträge": {
+      "word": "Anträge",
+      "lemma": "anträge",
+      "translation": "Seleccionar e submeter candidaturas",
+      "partOfSpeech": "other",
+      "example": "Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an.",
+      "pronunciation": ""
+    },
+    "Wehrpflicht": {
+      "word": "Wehrpflicht",
+      "lemma": "wehrpflicht",
+      "translation": "Conscrição",
+      "partOfSpeech": "other",
+      "example": "Die Wehrpflicht ist immer noch ausgesetzt in Deutschland.",
+      "pronunciation": ""
+    },
+    "Anträgen": {
+      "word": "Anträgen",
+      "lemma": "anträgen",
+      "translation": "aplicações",
+      "partOfSpeech": "other",
+      "example": "Bis Ende Juni 2026 hatte das Bundesamt den Eingang von 5.862 Anträgen gemeldet.",
+      "pronunciation": ""
+    },
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Die Wehrpflicht ist immer noch ausgesetzt in Deutschland.",
+      "pronunciation": ""
+    },
+    "zivilgesellschaftliche": {
+      "word": "zivilgesellschaftliche",
+      "lemma": "zivilgesellschaftliche",
+      "translation": "sociedade civil",
+      "partOfSpeech": "other",
+      "example": "Von Januar bis August seien insgesamt 12.102 entsprechende Gesuche eingegangen, sagte eine Sprecherin des Bundesamts für Familie und zivilgesellschaftliche Aufgaben (BAFzA) den Zeitungen des Redaktionsnetzwerks Deutschland (RND).",
+      "pronunciation": ""
+    },
+    "Sprecherin": {
+      "word": "Sprecherin",
+      "lemma": "sprecherin",
+      "translation": "porta-voz",
+      "partOfSpeech": "other",
+      "example": "Von Januar bis August seien insgesamt 12.102 entsprechende Gesuche eingegangen, sagte eine Sprecherin des Bundesamts für Familie und zivilgesellschaftliche Aufgaben (BAFzA) den Zeitungen des Redaktionsnetzwerks Deutschland (RND).",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
+  "sourceSite": "tagesschau.de"
+}

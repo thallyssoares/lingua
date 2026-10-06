@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-susan-kare",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Susan Kare, la diseñadora que convirtió los iconos del Mac en obras de arte",
+  "content": "Ese primer Mac contribuyó decisivamente a popularizar una forma de relacionarse con los ordenadores, más amigable, alejada de las pantallas de fósforo verde llenas de líneas interminables de código. El reto se consiguió, en buena medida, gracias a su interfaz gráfica de usuario , en la que la diseñadora gráfica y artista Susan Kare (Estados Unidos, 1954) asumió un papel fundamental. Para empezar, el Macintosh se presentó a la humanidad mostrando en su pantalla un pixelado “ hello ” escrito a mano alzada, con la promesa de que cualquiera que pudiese apuntar con un dedo podría manejarlo. Kare explicaba en una demostración del producto que se requerían tan solo unos minutos para aprender a utilizar el sistema, gracias a que el usuario recibía constantemente pistas visuales que proporcionaban toda la información y ayuda necesarias: pequeños iconos que representaban documentos, carpetas y todo tipo de objetos presentes en un entorno clásico de oficina, desde la papelera hasta el archivador. No había que saber cómo funcionaba internamente el ordenador. Bastaba con reconocer un objeto, seleccionar una acción y comprobar visualmente el resultado. Esto, realmente no era del todo nuevo. Los investigadores de Xerox habían dedicado años a estudiar cómo representar un sistema informático de manera que resultara familiar y sencillo de aprender. Fueron los creadores originales de esa “ metáfora del escritorio ” que presenta al monitor de un ordenador como si fuera el escritorio físico del usuario –y que ya utilizaban el Xerox Alto de 1973 , y el Xerox Star , presentado en 1981–. Los desarrollos de Xerox influyeron profundamente en el diseño del LISA, el ordenador de Apple que precedió al Macintosh y del cual heredó su interfaz de usuario, por lo que Susan Kare no partió de cero. La popularidad de la diseñadora y esa aura que rodea a todo lo relacionado con el Mac del 84 han dado lugar a algunos relatos que atribuyen a Kare la creación del icono de la papelera y hasta la acción de arrastrar un archivo a ese contenedor de desechos, para eliminarlo.",
+  "translation": "",
+  "wordCount": 341,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:09:23.953Z",
+  "vocab": {
+    "usuario": {
+      "word": "usuario",
+      "lemma": "usuario",
+      "translation": "utilizador",
+      "partOfSpeech": "other",
+      "example": "El reto se consiguió, en buena medida, gracias a su interfaz gráfica de usuario , en la que la diseñadora gráfica y artista Susan Kare (Estados Unidos, 1954) asumió un papel fundamental.",
+      "pronunciation": ""
+    },
+    "ordenadores": {
+      "word": "ordenadores",
+      "lemma": "ordenador",
+      "translation": "computador",
+      "partOfSpeech": "other",
+      "example": "Ese primer Mac contribuyó decisivamente a popularizar una forma de relacionarse con los ordenadores, más amigable, alejada de las pantallas de fósforo verde llenas de líneas interminables de código.",
+      "pronunciation": ""
+    },
+    "diseñadora": {
+      "word": "diseñadora",
+      "lemma": "diseñadora",
+      "translation": "Designer",
+      "partOfSpeech": "other",
+      "example": "El reto se consiguió, en buena medida, gracias a su interfaz gráfica de usuario , en la que la diseñadora gráfica y artista Susan Kare (Estados Unidos, 1954) asumió un papel fundamental.",
+      "pronunciation": ""
+    },
+    "Xerox": {
+      "word": "Xerox",
+      "lemma": "xerox",
+      "translation": "xerox",
+      "partOfSpeech": "other",
+      "example": "Los investigadores de Xerox habían dedicado años a estudiar cómo representar un sistema informático de manera que resultara familiar y sencillo de aprender.",
+      "pronunciation": ""
+    },
+    "escritorio": {
+      "word": "escritorio",
+      "lemma": "escritorio",
+      "translation": "Área de trabalho",
+      "partOfSpeech": "other",
+      "example": "Fueron los creadores originales de esa “ metáfora del escritorio ” que presenta al monitor de un ordenador como si fuera el escritorio físico del usuario –y que ya utilizaban el Xerox Alto de 1973 , y el Xerox Star , presentado en 1981–.",
+      "pronunciation": ""
+    },
+    "Macintosh": {
+      "word": "Macintosh",
+      "lemma": "macintosh",
+      "translation": "macintosh",
+      "partOfSpeech": "other",
+      "example": "Para empezar, el Macintosh se presentó a la humanidad mostrando en su pantalla un pixelado “ hello ” escrito a mano alzada, con la promesa de que cualquiera que pudiese apuntar con un dedo podría manejarlo.",
+      "pronunciation": ""
+    },
+    "interfaz": {
+      "word": "interfaz",
+      "lemma": "interfaz",
+      "translation": "interface",
+      "partOfSpeech": "other",
+      "example": "El reto se consiguió, en buena medida, gracias a su interfaz gráfica de usuario , en la que la diseñadora gráfica y artista Susan Kare (Estados Unidos, 1954) asumió un papel fundamental.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/susan-kare-la-disenadora-que-convirtio-los-iconos-del-mac-en-obras-de-arte-289418",
+  "sourceSite": "The Conversation"
+}

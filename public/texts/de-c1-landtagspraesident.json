@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-landtagspraesident",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt",
+  "content": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt. Damit stellt die AfD erstmals in Deutschland einen Landtagspräsidenten. Zum ersten Mal in Deutschland ist mit dem Abgeordneten Tobias Rausch in Sachsen-Anhalt ein AfD-Politiker zum Landtagspräsidenten gewählt worden. Der 35-Jährige erhielt im Magdeburger Landtag 48 der 82 abgegebenen Stimmen. Für Rausch, der derzeit parlamentarischer Geschäftsführer der AfD-Fraktion und Generalsekretär der Landespartei ist, stimmten neun Abgeordnete außerhalb seiner eigenen Fraktion. Das mit fünf Mandaten im Landtag vertretene BSW hatte im Vorfeld offiziell seine Unterstützung für den AfD-Bewerber erklärt. Damit müssen mindestens vier Stimmen entweder von CDU, SPD, Grünen oder Linken gekommen sein. Die Wahl war geheim, daher ist nicht bekannt, aus welchem Lager Rausch die weiteren Stimmen erhalten hat. Der CDU-Fraktionsvorstand hatte seinen 15 Abgeordneten empfohlen, sich bei der Abstimmung zu enthalten. Allerdings wurden letztlich nur fünf Enthaltungen abgegeben. SPD, Grüne und Linke, die jeweils acht Abgeordnete haben, hatten ihre Ablehnung erklärt. In seiner Antrittsrede bemühte sich Rausch, Bedenken hinsichtlich seiner Amtsführung auszuräumen: \"Ich werde dieses Amt nicht als Präsident einer Fraktion führen, sondern ich werde es als Präsident des gesamten Landtags von Sachsen-Anhalt führen\", so der 35-Jährige, \"und diesem Anspruch möchte ich gerecht werden.\" Die AfD in Sachsen-Anhalt hat alle Parteien zu Sondierungsgesprächen eingeladen. Das BSW will die Einladung annehmen. mehr Die Befugnisse eines Landtagspräsidenten sind sehr weitreichend: Er leitet die Sitzungen, kann Ordnungsrufe verteilen, Staatsgäste einladen und hat als Hausherr zudem \"das Hausrecht und die Polizeigewalt in allen Gebäuden\". Außerdem hat ein Landtagspräsident auch die Personalhoheit über die Landtagsverwaltung, kann also auch Leute entlassen und versetzen. Rausch gilt als langjähriger Wegbegleiter von Spitzenkandidat Ulrich Siegmund. Anfang des Jahres war er einer der AfD-Politiker, denen Vetternwirtschaft vorgeworfen wurden. Mehrere von Rauschs Geschwistern waren zeitweise bei einer Bundestagsabgeordneten beschäftigt. Rausch erklärte, bei der Anstellung nicht involviert gewesen zu sein. Sabine Falk-Bartz, MDR, zur Wahl des ersten Landtagspräsidenten aus Reihen der AfD in Sachsen-Anhalt tagesschau24, 06.10.2026 • 14:00 Uhr Wahl des Ministerpräsidenten erst im Dezember Die Wahl eines neuen Ministerpräsidenten stand in der konstituierenden Sitzung des Landtags noch nicht auf der Tagesordnung. AfD-Wahlsieger Siegmund hatte angekündigt, sich im Dezember zur Wahl zu stellen. Er zeigte sich überzeugt, die nötige Mehrheit zu erhalten, obwohl die anderen Parteien keine Koalition mit der AfD eingehen wollen. Bis zu einer erfolgreichen Wahl eines neuen Regierungschefs bleibt Ministerpräsident Sven Schulze von der CDU geschäftsführend im Amt.",
+  "translation": "",
+  "wordCount": 399,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:27.508Z",
+  "vocab": {
+    "Landtagspräsidenten": {
+      "word": "Landtagspräsidenten",
+      "lemma": "landtagspräsidenten",
+      "translation": "presidente do Landtag",
+      "partOfSpeech": "other",
+      "example": "Damit stellt die AfD erstmals in Deutschland einen Landtagspräsidenten.",
+      "pronunciation": ""
+    },
+    "Sachsen-Anhalt": {
+      "word": "Sachsen-Anhalt",
+      "lemma": "sachsen-anhalt",
+      "translation": "Sachsen- Anhalt",
+      "partOfSpeech": "other",
+      "example": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt.",
+      "pronunciation": ""
+    },
+    "Rausch": {
+      "word": "Rausch",
+      "lemma": "rausch",
+      "translation": "escalada de violência.",
+      "partOfSpeech": "other",
+      "example": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt.",
+      "pronunciation": ""
+    },
+    "Ministerpräsidenten": {
+      "word": "Ministerpräsidenten",
+      "lemma": "ministerpräsidenten",
+      "translation": "Vice‑primeiros‑ministros:",
+      "partOfSpeech": "other",
+      "example": "Sabine Falk-Bartz, MDR, zur Wahl des ersten Landtagspräsidenten aus Reihen der AfD in Sachsen-Anhalt tagesschau24, 06.10.2026 • 14:00 Uhr Wahl des Ministerpräsidenten erst im Dezember Die Wahl eines neuen Ministerpräsidenten stand in der konstituierenden Sitzung des Landtags noch nicht auf der Tagesordnung.",
+      "pronunciation": ""
+    },
+    "Landtagspräsident": {
+      "word": "Landtagspräsident",
+      "lemma": "landtagspräsident",
+      "translation": "presidente do Landtag",
+      "partOfSpeech": "other",
+      "example": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt.",
+      "pronunciation": ""
+    },
+    "35-Jährige": {
+      "word": "35-Jährige",
+      "lemma": "35-jährige",
+      "translation": "35-Year-Old",
+      "partOfSpeech": "other",
+      "example": "Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt.",
+      "pronunciation": ""
+    },
+    "AfD-Politiker": {
+      "word": "AfD-Politiker",
+      "lemma": "afd-politiker",
+      "translation": "político da AFD",
+      "partOfSpeech": "other",
+      "example": "Zum ersten Mal in Deutschland ist mit dem Abgeordneten Tobias Rausch in Sachsen-Anhalt ein AfD-Politiker zum Landtagspräsidenten gewählt worden.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
+  "sourceSite": "tagesschau.de"
+}

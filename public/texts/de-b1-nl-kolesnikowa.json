@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-nl-kolesnikowa",
+  "language": "de",
+  "level": "B1",
+  "theme": "Investigação",
+  "title": "Maria Kolesnikowa nimmt Karls-Preis entgegen",
+  "content": "Der Karls-Preis wird einmal im Jahr in Aachen verliehen. Es ist ein Preis für Menschen, die etwas wichtiges für Europa geleistet haben. Den Karls-Preis bekommen oft Politiker. Der Name Karls-Preis kommt von Karl dem Großen. Das war ein Kaiser im Mittelalter. Er hat vor über 1.000 Jahren über weite Teile Europas geherrscht. Aachen war damals eine sehr wichtige Stadt in seinem Reich. Opposition nennt man die Parteien in einem Land, die nicht regieren. Aufgabe der Opposition ist es, zu überwachen, ob die Regierung gute Arbeit leistet. In manchen Ländern wird die Opposition aber unterdrückt und daran gehindert, ihre Arbeit zu machen. In der Europäischen Union arbeiten 27 Länder zusammen. Die Abkürzung für Europäische Union ist EU. Auch Deutschland gehört zur EU. Nach dem 2. Welt-Krieg haben sich einige Länder in Europa zusammengetan. Sie wollten, dass es in Europa nie wieder Krieg gibt. Nach und nach kamen immer mehr Länder dazu. Die EU kann Gesetze machen. Die Gesetze gelten dann in allen EU-Ländern. Die meisten EU-Politiker arbeiten in Brüssel. Das ist die Hauptstadt von Belgien.",
+  "translation": "",
+  "wordCount": 174,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:16.317Z",
+  "vocab": {
+    "Karls-Preis": {
+      "word": "Karls-Preis",
+      "lemma": "karls-preis",
+      "translation": "karls-preis",
+      "partOfSpeech": "other",
+      "example": "Der Karls-Preis wird einmal im Jahr in Aachen verliehen.",
+      "pronunciation": ""
+    },
+    "Opposition": {
+      "word": "Opposition",
+      "lemma": "opposition",
+      "translation": "opposition",
+      "partOfSpeech": "other",
+      "example": "Opposition nennt man die Parteien in einem Land, die nicht regieren.",
+      "pronunciation": ""
+    },
+    "Europa": {
+      "word": "Europa",
+      "lemma": "europa",
+      "translation": "europa",
+      "partOfSpeech": "other",
+      "example": "Es ist ein Preis für Menschen, die etwas wichtiges für Europa geleistet haben.",
+      "pronunciation": ""
+    },
+    "Ländern": {
+      "word": "Ländern",
+      "lemma": "länder",
+      "translation": "PAÍSES",
+      "partOfSpeech": "other",
+      "example": "In manchen Ländern wird die Opposition aber unterdrückt und daran gehindert, ihre Arbeit zu machen.",
+      "pronunciation": ""
+    },
+    "arbeiten": {
+      "word": "arbeiten",
+      "lemma": "arbeiten",
+      "translation": "arbeiten",
+      "partOfSpeech": "other",
+      "example": "In der Europäischen Union arbeiten 27 Länder zusammen.",
+      "pronunciation": ""
+    },
+    "Gesetze": {
+      "word": "Gesetze",
+      "lemma": "gesetze",
+      "translation": "gesetze",
+      "partOfSpeech": "other",
+      "example": "Die EU kann Gesetze machen.",
+      "pronunciation": ""
+    },
+    "zusammengetan": {
+      "word": "zusammengetan",
+      "lemma": "zusammengetan",
+      "translation": "zusammengetan",
+      "partOfSpeech": "other",
+      "example": "Welt-Krieg haben sich einige Länder in Europa zusammengetan.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/kolesnikowa-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

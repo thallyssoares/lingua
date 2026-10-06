@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-tschechien",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Südböhmen in Tschechien: Trockenheit legt deutsche Gräber in Stausee frei",
+  "content": "In den 1950er-Jahren wurde der Ortskern von Dolní Vltavice geflutet und der Lipno-Stausee entstand. Durch die anhaltende Trockenheit wurden nun Relikte des versunkenen deutschen Dorfs sichtbar - wie beispielsweise Grabsteine. Es ist ein skurriles Bild: Wasser umspült Grabsteine am Lipno-Stausee im Süden Tschechiens. \"Wir stehen hier an der Mauer des einstigen Friedhofs, der 1899 in Dolní Vltavice gegründet wurde\", erzählt der Schriftsteller Jan Štifter im Tschechischen Fernsehen. \"Die Trockenheit ist so langanhaltend und intensiv, dass sie Orte offenbart, an die man normalerweise nicht gelangt.\" Die Inschriften auf den Grabmälern, die zu Štifters Füßen im Schlamm stecken, sind deutsch. Denn da, wo sich heute der Lipno-Stausee ausbreitet, befand sich einst das Dorf Dolní Vltavice, auf Deutsch: Untermoldau. Die Geschichte des Ortes reichte bis ins 13. Jahrhundert zurück, die Gemeinde prosperierte durch die Lage an einer Handelsstraße zwischen Passau und Budweis. Der Großteil der Bewohner war deutschsprachig und wurde nach dem Zweiten Weltkrieg vertrieben. In den 1950er Jahren wurde der Ort beim Bau der Lipno-Talsperre geflutet. Dass sich unter der Wasseroberfläche die Überreste eines Dorfes befanden, sei nie ein Geheimnis gewesen, sagt Jan Štifter. Vor einiger Zeit seien auf dem Gebiet von Untermoldau Bagger im Wasser zugange gewesen, erzählt Štifter. \"Plötzlich hörte man unten im Wasser etwas plumpsen und rollen und dann schwammen Kompottgläser an die Oberfläche. Die Keller der Häuser sind noch intakt und in ihnen steht noch immer das Eingemachte der Deutschen.\" In weiten Teilen Brandenburgs sind sinkende Grundwasserstände und Seewasserspiegel ein immer größer werdendes Problem. mehr Stoff für einen Roman - dachte sich Jan Štifter und schrieb ein Buch über die Geschichte von Untermoldau. Es erschien im August dieses Jahres. Eine der Leserinnen stieß bei einer Wanderung nun auf die aus dem Wasser ragenden Grabsteine - und kontaktierte den Autor. \"Wir haben uns gesagt, dass wir die Steine hier nicht liegen lassen können. Daraufhin begann eine recht spontane Rettungsaktion\", sagt Jan Štifter.",
+  "translation": "",
+  "wordCount": 313,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:43:45.242Z",
+  "vocab": {
+    "Lipno-Stausee": {
+      "word": "Lipno-Stausee",
+      "lemma": "lipno-stausee",
+      "translation": "lipno-stausee",
+      "partOfSpeech": "other",
+      "example": "In den 1950er-Jahren wurde der Ortskern von Dolní Vltavice geflutet und der Lipno-Stausee entstand.",
+      "pronunciation": ""
+    },
+    "Štifter": {
+      "word": "Štifter",
+      "lemma": "štifter",
+      "translation": "štifter",
+      "partOfSpeech": "other",
+      "example": "\"Wir stehen hier an der Mauer des einstigen Friedhofs, der 1899 in Dolní Vltavice gegründet wurde\", erzählt der Schriftsteller Jan Štifter im Tschechischen Fernsehen.",
+      "pronunciation": ""
+    },
+    "Untermoldau": {
+      "word": "Untermoldau",
+      "lemma": "untermoldau",
+      "translation": "untermoldau",
+      "partOfSpeech": "other",
+      "example": "Denn da, wo sich heute der Lipno-Stausee ausbreitet, befand sich einst das Dorf Dolní Vltavice, auf Deutsch: Untermoldau.",
+      "pronunciation": ""
+    },
+    "Grabsteine": {
+      "word": "Grabsteine",
+      "lemma": "grabsteine",
+      "translation": "grabsteine",
+      "partOfSpeech": "other",
+      "example": "Durch die anhaltende Trockenheit wurden nun Relikte des versunkenen deutschen Dorfs sichtbar - wie beispielsweise Grabsteine.",
+      "pronunciation": ""
+    },
+    "Vltavice": {
+      "word": "Vltavice",
+      "lemma": "vltavice",
+      "translation": "vltavice",
+      "partOfSpeech": "other",
+      "example": "In den 1950er-Jahren wurde der Ortskern von Dolní Vltavice geflutet und der Lipno-Stausee entstand.",
+      "pronunciation": ""
+    },
+    "Wasser": {
+      "word": "Wasser",
+      "lemma": "wasser",
+      "translation": "água",
+      "partOfSpeech": "other",
+      "example": "Es ist ein skurriles Bild: Wasser umspült Grabsteine am Lipno-Stausee im Süden Tschechiens.",
+      "pronunciation": ""
+    },
+    "Trockenheit": {
+      "word": "Trockenheit",
+      "lemma": "trockenheit",
+      "translation": "trockenheit",
+      "partOfSpeech": "other",
+      "example": "Durch die anhaltende Trockenheit wurden nun Relikte des versunkenen deutschen Dorfs sichtbar - wie beispielsweise Grabsteine.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/tschechien-trockenheit-graeber-100.html",
+  "sourceSite": "tagesschau.de"
+}

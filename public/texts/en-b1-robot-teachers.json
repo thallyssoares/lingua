@@ -1,0 +1,73 @@
+{
+  "id": "en-b1-robot-teachers",
+  "language": "en",
+  "level": "B1",
+  "theme": "Tecnologia",
+  "title": "Robot teachers",
+  "content": "If you think of the jobs robots could never do, you would probably put doctors and teachers at the top of the list. It is easy to imagine robot cleaners and factory workers, but some jobs need human connection and creativity. In some cases, robots already perform better than doctors at diagnosing illness, and some patients might feel more comfortable sharing personal information with a machine. British education expert Anthony Seldon predicts that robots could do the main job of transferring information while teachers become assistants. Intelligent robots might read students' faces, movements and brain signals, then adapt information to each student. It is unlikely that robots will ever have empathy and the ability to connect with humans like another human can. A robot teacher is better than no teacher at all in places where there are not enough teachers. Robots can teach anywhere and will not get stressed or move away for a higher-paid job.",
+  "translation": "",
+  "wordCount": 156,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "perform": {
+      "word": "perform",
+      "lemma": "perform",
+      "translation": "executar, realizar",
+      "partOfSpeech": "verb",
+      "example": "robots already perform better than doctors at diagnosing illness",
+      "pronunciation": ""
+    },
+    "diagnosing": {
+      "word": "diagnosing",
+      "lemma": "diagnose",
+      "translation": "diagnosticar",
+      "partOfSpeech": "verb",
+      "example": "robots already perform better than doctors at diagnosing illness",
+      "pronunciation": ""
+    },
+    "comfortable": {
+      "word": "comfortable",
+      "lemma": "comfortable",
+      "translation": "à vontade, confortável",
+      "partOfSpeech": "adjective",
+      "example": "some patients might feel more comfortable sharing personal information with a machine",
+      "pronunciation": ""
+    },
+    "transferring": {
+      "word": "transferring",
+      "lemma": "transfer",
+      "translation": "transmitir, transferir",
+      "partOfSpeech": "verb",
+      "example": "robots could do the main job of transferring information while teachers become assistants",
+      "pronunciation": ""
+    },
+    "adapt": {
+      "word": "adapt",
+      "lemma": "adapt",
+      "translation": "adaptar",
+      "partOfSpeech": "verb",
+      "example": "then adapt information to each student",
+      "pronunciation": ""
+    },
+    "empathy": {
+      "word": "empathy",
+      "lemma": "empathy",
+      "translation": "empatia",
+      "partOfSpeech": "noun",
+      "example": "It is unlikely that robots will ever have empathy and the ability to connect with humans like another human can",
+      "pronunciation": ""
+    },
+    "stressed": {
+      "word": "stressed",
+      "lemma": "stress",
+      "translation": "estressado",
+      "partOfSpeech": "adjective",
+      "example": "will not get stressed or move away for a higher-paid job",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://learnenglish.britishcouncil.org/free-resources/reading/b1/robot-teachers",
+  "sourceSite": "British Council"
+}

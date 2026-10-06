@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-covid",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Repunte de covid-19 en España: lo que dicen los datos sobre bebés, mayores y vacunación",
+  "content": "¿Hay motivo para preocuparse? Los datos apuntan a un aumento esperable, que conviene seguir con atención pero que, por ahora, no se sale de lo habitual. En la semana 39 , algo más de una de cada cuatro muestras analizadas en atención primaria dio positivo a covid-19 en España, frente a apenas un 4 % de la gripe. La incidencia estimada rondó los 120 casos por cada 100 000 habitantes y la hospitalización, los 1,7. Conviene matizar que es un cálculo del ISCIII a partir de los casos que se atienden en los centros de salud, no el total de contagios reales, muchos de los cuales ni siquiera se diagnostican. Son cifras en aumento, pero del mismo orden que las de la onda del año pasado, que alcanzó su máximo en la semana 38 con 92 casos por 100 000 y 1,6 hospitalizaciones. La palabra “onda” describe bien lo que ocurre: un virus respiratorio no se propaga de manera uniforme, sino que sube durante unas semanas, llega a un máximo y desciende, como una ola. Lo que vemos ahora es el arranque de una de ellas, y todavía no sabemos dónde estará su cima. ¿Por qué ahora? La microbióloga María del Mar Tomás , portavoz de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica ( SEIMC ), señala dos factores: la pérdida progresiva de inmunidad, sobre todo en mayores y personas con enfermedades de base, y el regreso a los espacios cerrados tras el verano. Tampoco cree que el repunte se deba a una variante más agresiva. Hay, eso sí, una variante en el radar, BA.3.2 , con muchas mutaciones en la proteína que el virus usa para entrar en las células. La Organización Mundial de la Salud la vigila desde diciembre de 2025 y no ha encontrado indicios de que cause una enfermedad más grave. Los datos genómicos públicos llegan solo hasta la primavera, de modo que no permiten atribuirle el aumento actual.",
+  "translation": "",
+  "wordCount": 325,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:03.010Z",
+  "vocab": {
+    "Enfermedades": {
+      "word": "Enfermedades",
+      "lemma": "enfermedades",
+      "translation": "Doenças",
+      "partOfSpeech": "other",
+      "example": "La microbióloga María del Mar Tomás , portavoz de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica ( SEIMC ), señala dos factores: la pérdida progresiva de inmunidad, sobre todo en mayores y personas con enfermedades de base, y el regreso a los espacios cerrados tras el verano.",
+      "pronunciation": ""
+    },
+    "aumento": {
+      "word": "aumento",
+      "lemma": "aumento",
+      "translation": "incremento",
+      "partOfSpeech": "other",
+      "example": "Los datos apuntan a un aumento esperable, que conviene seguir con atención pero que, por ahora, no se sale de lo habitual.",
+      "pronunciation": ""
+    },
+    "hospitalizaciones": {
+      "word": "hospitalizaciones",
+      "lemma": "hospitalizaciones",
+      "translation": "hospitalizações",
+      "partOfSpeech": "other",
+      "example": "Son cifras en aumento, pero del mismo orden que las de la onda del año pasado, que alcanzó su máximo en la semana 38 con 92 casos por 100 000 y 1,6 hospitalizaciones.",
+      "pronunciation": ""
+    },
+    "conviene": {
+      "word": "conviene",
+      "lemma": "conviene",
+      "translation": "é conveniente",
+      "partOfSpeech": "other",
+      "example": "Los datos apuntan a un aumento esperable, que conviene seguir con atención pero que, por ahora, no se sale de lo habitual.",
+      "pronunciation": ""
+    },
+    "atención": {
+      "word": "atención",
+      "lemma": "atención",
+      "translation": "atenção",
+      "partOfSpeech": "other",
+      "example": "Los datos apuntan a un aumento esperable, que conviene seguir con atención pero que, por ahora, no se sale de lo habitual.",
+      "pronunciation": ""
+    },
+    "variante": {
+      "word": "variante",
+      "lemma": "variante",
+      "translation": "desvio temporário",
+      "partOfSpeech": "other",
+      "example": "Tampoco cree que el repunte se deba a una variante más agresiva.",
+      "pronunciation": ""
+    },
+    "ahora": {
+      "word": "ahora",
+      "lemma": "ahora",
+      "translation": "agora",
+      "partOfSpeech": "other",
+      "example": "Los datos apuntan a un aumento esperable, que conviene seguir con atención pero que, por ahora, no se sale de lo habitual.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/repunte-de-covid-19-en-espana-lo-que-dicen-los-datos-sobre-bebes-mayores-y-vacunacion-293470",
+  "sourceSite": "The Conversation"
+}

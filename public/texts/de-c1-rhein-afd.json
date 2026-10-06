@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-rhein-afd",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Rhein will AfD Ausschussvorsitze ermöglichen",
+  "content": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne. Aus dem Parlament gibt es für den CDU-Politiker klaren Widerspruch, die AfD begrüßt den Vorstoß. Die CDU sollte nach Ansicht des hessischen CDU-Chefs und Ministerpräsidenten Boris Rhein die Wahl von AfD-Kandidaten zu Vorsitzenden von Bundestagsausschüssen unterstützen. \"Die Partei ist gewählt, und so sollte man mit ihr auch umgehen\", sagte Rhein dem Stern . Seiner Auffassung nach \"sollte zum Beispiel die AfD im Bundestag - so wie im Landtag von Hessen und anderen Ländern üblich - Ausschussvorsitze übernehmen können\", sagte der CDU-Landesvorsitzende. \"Mir ist wichtig: Wir grenzen uns klar von der AfD ab, aber wir grenzen die Partei nicht aus. Das muss auch in der Parlamentsarbeit gelten.\" AfD-Parlamentsgeschäftsführer Bernd Baumann begrüßte die Forderung. Gegenüber der Nachrichtenagentur AFP wertete Baumann die Überlegungen als Anzeichen für ein generelles Umdenken in der CDU. Dass der CDU-Politiker sich nun dafür ausspreche, sei \"nur der erste Schritt - weitere werden folgen\". Er prophezeite, dass die CDU angesichts des Erstarkens der AfD bei den jüngsten Wahlen in absehbarer Zeit ihre Ausgrenzungsstrategie aufgeben werde. Die Fraktion von CDU und CSU im Bundestag wies den Vorstoß dagegen zurück. Die Parlamentsgeschäftsführerin der Unionsfraktion, Catarina dos Santos-Wintz, lehnte einen solchen Kurswechsel ab. \"Es gibt keinen Anspruch auf einen Ausschussvorsitz\", sagte sie der Nachrichtenagentur AFP. \"Die Ausschussmitglieder wählen ihre Vorsitzenden selbst\", betonte dos Santos-Wintz. \"Im Deutschen Bundestag konnten sich Abgeordnete der AfD mit ihrem Angebot ganz offensichtlich nicht durchsetzen. Das kann in Landtagen durchaus anders sein.\" Für den Kanzler ist die CDU \"nur noch in Teilen\" eine Volkspartei. Was das bedeutet und wo die AfD steht. mehr Ähnlich argumentierte der innenpolitische Sprecher der SPD-Bundestagsfraktion, Sebastian Fiedler. \"Ich verstehe nicht, welches Problem Boris Rhein hat\", erklärte Fiedler auf AFP-Anfrage. Die bislang von der AfD vorgeschlagenen Kandidaten hätten in den Ausschüssen nicht die nötige Mehrheit erhalten. \"Der Grund dafür liegt bei den Kandidierenden und nicht etwa bei den Mitgliedern der Ausschüsse\", erklärte Fiedler. \"Anderenfalls würden sie ja eine Mehrheit erhalten.\" Die AfD hat im Bundestag wie andere Fraktionen das Vorschlagsrecht für den Vorsitz mehrerer Fachausschüsse. Die von ihr aufgestellten Kandidaten erhielten jedoch bei den jeweiligen Wahlen nicht die Stimmen der Abgeordneten anderer Parteien. Knapp drei Monate nach der Wahl kommen die Ausschüsse im Bundestag zu konstituierenden Sitzungen zusammen. mehr",
+  "translation": "",
+  "wordCount": 378,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:57:03.333Z",
+  "vocab": {
+    "Bundestag": {
+      "word": "Bundestag",
+      "lemma": "bundestag",
+      "translation": "bundestag",
+      "partOfSpeech": "other",
+      "example": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne.",
+      "pronunciation": ""
+    },
+    "Nachrichtenagentur": {
+      "word": "Nachrichtenagentur",
+      "lemma": "nachrichtenagentur",
+      "translation": "agência noticiosa",
+      "partOfSpeech": "other",
+      "example": "Gegenüber der Nachrichtenagentur AFP wertete Baumann die Überlegungen als Anzeichen für ein generelles Umdenken in der CDU.",
+      "pronunciation": ""
+    },
+    "Ausschussvorsitze": {
+      "word": "Ausschussvorsitze",
+      "lemma": "ausschussvorsitze",
+      "translation": "presidentes das Comissões",
+      "partOfSpeech": "other",
+      "example": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne.",
+      "pronunciation": ""
+    },
+    "AfD-Parlamentsgeschäftsführer": {
+      "word": "AfD-Parlamentsgeschäftsführer",
+      "lemma": "afd-parlamentsgeschäftsführer",
+      "translation": "diretor Parlamentar da AFD",
+      "partOfSpeech": "other",
+      "example": "Das muss auch in der Parlamentsarbeit gelten.\" AfD-Parlamentsgeschäftsführer Bernd Baumann begrüßte die Forderung.",
+      "pronunciation": ""
+    },
+    "Parlamentsgeschäftsführerin": {
+      "word": "Parlamentsgeschäftsführerin",
+      "lemma": "parlamentsgeschäftsführerin",
+      "translation": "diretor Parlamentar",
+      "partOfSpeech": "other",
+      "example": "Die Parlamentsgeschäftsführerin der Unionsfraktion, Catarina dos Santos-Wintz, lehnte einen solchen Kurswechsel ab.",
+      "pronunciation": ""
+    },
+    "CDU-Politiker": {
+      "word": "CDU-Politiker",
+      "lemma": "cdu-politiker",
+      "translation": "político cdu",
+      "partOfSpeech": "other",
+      "example": "Aus dem Parlament gibt es für den CDU-Politiker klaren Widerspruch, die AfD begrüßt den Vorstoß.",
+      "pronunciation": ""
+    },
+    "Vorsitzenden": {
+      "word": "Vorsitzenden",
+      "lemma": "vorsitzenden",
+      "translation": "presidente",
+      "partOfSpeech": "other",
+      "example": "Die CDU sollte nach Ansicht des hessischen CDU-Chefs und Ministerpräsidenten Boris Rhein die Wahl von AfD-Kandidaten zu Vorsitzenden von Bundestagsausschüssen unterstützen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
+  "sourceSite": "tagesschau.de"
+}

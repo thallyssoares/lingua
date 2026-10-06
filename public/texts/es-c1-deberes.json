@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-deberes",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Deberes de prisión (C1, Spanish) - Fabulang",
+  "content": "Enriqueta volvió a girarse hacia el piano. Bostezó, respiró profundamente y trató de pensar en otra melodía que les pudiera gustar. Harriet turned back to the piano. She yawned, took a deep breath, and tried to think of another tune they would like. Empezó a tocar, y los guardias de la prisión la vitorearon. Detrás de ella bailaban alrededor del oscuro comedor. Tiraron los platos al suelo y derramaron cerveza por todas partes. She began to play, and the prison guards cheered. Behind her, they danced around the dim canteen. They knocked the plates onto the floor, and splashed beer everywhere. Cuando tocó la última nota, las luces se encendieron repentinamente. El jefe de la prisión estaba en la puerta. Los guardias dejaron de bailar y saludaron. As she played the final note, suddenly the lights turned on. The Prison Chief was standing in the doorway. The guards stopped dancing and saluted. Uno de los guardias volvió a encerrar a Enriqueta en su celda. Enriqueta era una mujer menuda y frágil, así que incluso un guardia borracho bastaba como seguridad. Además, no era ni lo suficientemente fuerte ni ágil para escaparse. One of the guards locked Harriet back in her cell. Harriet was a small and frail woman, so even a drunk guard was enough security. Besides, she was neither strong nor agile enough to escape. Al día siguiente, Enriqueta estuvo angustiada toda la mañana. Como de costumbre, a las once y media, el jefe de la prisión vino a llevar a Enriqueta a la cantina para que tocara para él mientras tomaba café y fumaba un cigarrillo. The next day, Harriet was anxious all morning. As usual, at half past eleven, the Prison Chief came to take Harriet to the canteen, so she could play for him while he had coffee and a cigarette. La hora de la comida se acercaba, y la cantina se llenó de guardias. El jefe de la prisión estaba ocupado hablando con algunos de ellos. Podía irse en ese mismo momento. ¿Cuánto tardaría él en darse cuenta de que la música había parado? Lunchtime approached, and the canteen filled with guards. The Prison Chief was busy talking to some of them. She could leave right now. How long would it be before he realised the music had stopped? Enriqueta se levantó y caminó lentamente hacia el jefe.",
+  "translation": "",
+  "wordCount": 393,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:53:24.840Z",
+  "vocab": {
+    "Enriqueta": {
+      "word": "Enriqueta",
+      "lemma": "enriqueta",
+      "translation": "enriquecimento",
+      "partOfSpeech": "other",
+      "example": "Enriqueta volvió a girarse hacia el piano.",
+      "pronunciation": ""
+    },
+    "Harriet": {
+      "word": "Harriet",
+      "lemma": "harriet",
+      "translation": "harriet",
+      "partOfSpeech": "other",
+      "example": "Harriet turned back to the piano.",
+      "pronunciation": ""
+    },
+    "guardias": {
+      "word": "guardias",
+      "lemma": "guardias",
+      "translation": "Guardas. xxxProteções",
+      "partOfSpeech": "other",
+      "example": "Empezó a tocar, y los guardias de la prisión la vitorearon.",
+      "pronunciation": ""
+    },
+    "prisión": {
+      "word": "prisión",
+      "lemma": "prisión",
+      "translation": "prisão",
+      "partOfSpeech": "other",
+      "example": "Empezó a tocar, y los guardias de la prisión la vitorearon.",
+      "pronunciation": ""
+    },
+    "prison": {
+      "word": "prison",
+      "lemma": "prison",
+      "translation": "Prison Break",
+      "partOfSpeech": "other",
+      "example": "She began to play, and the prison guards cheered.",
+      "pronunciation": ""
+    },
+    "guards": {
+      "word": "guards",
+      "lemma": "guards",
+      "translation": "guardas",
+      "partOfSpeech": "other",
+      "example": "She began to play, and the prison guards cheered.",
+      "pronunciation": ""
+    },
+    "canteen": {
+      "word": "canteen",
+      "lemma": "canteen",
+      "translation": "cantina",
+      "partOfSpeech": "other",
+      "example": "Behind her, they danced around the dim canteen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.fabulang.com/en/es/stories/c1-deberes-prision",
+  "sourceSite": "Fabulang"
+}

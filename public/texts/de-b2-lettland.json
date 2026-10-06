@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-lettland",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "&quot;Hallo&quot; statt &quot;Privjet&quot;: An Lettlands Schulen ist Russisch verboten",
+  "content": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. \"Hallo! Guten Tag!\" - viel mehr Deutsch können die Fünftklässler an der Schule in Adazi bei Riga noch nicht. Erst seit ein paar Wochen lernen sie Deutsch als zweite Fremdsprache. Heute stehen die Farben auf dem Lehrplan. Deutsch hat in Lettland zwar eine lange Tradition. Lange aber war Russisch als zweite Fremdsprache deutlich verbreiteter - da hieß es im Unterricht zur Begrüßung untereinander noch nicht \"Hallo\", sondern \"Privjet\". Das ändert sich jetzt grundlegend. Seit diesem Schuljahr darf Russisch an lettischen Schulen nicht mehr als Fremdsprache unterrichtet werden. Die Reform ist Teil einer Entwicklung, mit der sich Lettland stärker von Russland entfernen und zugleich stärker an Europa orientieren will. Wer als russischer Staatsbürger dauerhaft in Lettland bleiben möchte, muss eine Sprachprüfung bestehen - sonst droht die Ausweisung. mehr Lettland war bis 1991 Teil der Sowjetunion. Russisch wurde damals zur dominierenden Sprache in vielen Bereichen des öffentlichen Lebens. \"Russisch war eigentlich nie unsere freie Wahl\", sagt Ieva Silina, stellvertretende Bildungsministerin Lettlands. \"Wir waren 50 Jahre lang besetzt, und Russisch wurde uns einfach aufgezwungen.\" Jetzt wolle Lettland einen Schlussstrich ziehen. Das Land sei Teil Europas, und das solle sich auch im Bildungssystem widerspiegeln. Doch bis heute spricht ungefähr ein Drittel der Menschen in Lettland zu Hause Russisch: Auch im Alltag, bei Gesprächen in Cafés und Geschäften, ist die Sprache präsent. Doch spätestens seit Russlands Angriff auf die Ukraine 2022 versucht die lettische Regierung, sich maximal von allem zu distanzieren, was mit dem östlichen Nachbarland zu tun hat. Die Sorge ist groß, dass Russland in einigen Jahren versuchen könnte, auch das Baltikum zu überfallen. Verteidigungsunterricht als Schulfach ist in Lettland seit diesem Schuljahr verpflichtend. mehr Von der Sprachreform profitiert vor allem Deutsch. Rund 57.000 lettische Kinder lernen laut Bildungsministerium inzwischen die Sprache. Knapp 600 Deutschlehrkräfte gibt es an den Schulen - doppelt so viele wie noch vor einigen Jahren. Auch andere europäische Fremdsprachen wie Französisch oder Spanisch werden angeboten. Deutsch aber hat besonders stark zugelegt.",
+  "translation": "",
+  "wordCount": 348,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:00:27.232Z",
+  "vocab": {
+    "Lettland": {
+      "word": "Lettland",
+      "lemma": "lettland",
+      "translation": "Letónia",
+      "partOfSpeech": "other",
+      "example": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden.",
+      "pronunciation": ""
+    },
+    "Russisch": {
+      "word": "Russisch",
+      "lemma": "russisch",
+      "translation": "Russo",
+      "partOfSpeech": "other",
+      "example": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden.",
+      "pronunciation": ""
+    },
+    "Fremdsprache": {
+      "word": "Fremdsprache",
+      "lemma": "fremdsprache",
+      "translation": "língua estrangeira",
+      "partOfSpeech": "other",
+      "example": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden.",
+      "pronunciation": ""
+    },
+    "Deutsch": {
+      "word": "Deutsch",
+      "lemma": "deutsch",
+      "translation": "Português",
+      "partOfSpeech": "other",
+      "example": "Besonders populär wird stattdessen: Deutsch.",
+      "pronunciation": ""
+    },
+    "Schuljahr": {
+      "word": "Schuljahr",
+      "lemma": "schuljahr",
+      "translation": "Ano escolar:",
+      "partOfSpeech": "other",
+      "example": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden.",
+      "pronunciation": ""
+    },
+    "unterrichtet": {
+      "word": "unterrichtet",
+      "lemma": "unterrichtet",
+      "translation": "ensinado",
+      "partOfSpeech": "other",
+      "example": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden.",
+      "pronunciation": ""
+    },
+    "Verteidigungsunterricht": {
+      "word": "Verteidigungsunterricht",
+      "lemma": "verteidigungsunterricht",
+      "translation": "aulas de Defesa",
+      "partOfSpeech": "other",
+      "example": "Verteidigungsunterricht als Schulfach ist in Lettland seit diesem Schuljahr verpflichtend.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
+  "sourceSite": "tagesschau.de"
+}

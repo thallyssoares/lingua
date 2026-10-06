@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-microplasticos",
+  "language": "es",
+  "level": "B2",
+  "theme": "Tecnologia",
+  "title": "Un nuevo estudio revela que los microplásticos pueden hacer que la nieve se derrita más rá",
+  "content": "La criosfera cumple dos funciones principales que posibilitan la vida en la Tierra. La primera es que actúa como reserva hídrica: acumula cerca del 70 % del agua dulce del planeta . La segunda es su papel termorregulador. Dada su clara coloración, la nieve y el hielo reflejan hasta el 90 % de la luz solar de vuelta al espacio. Sin ellos, el planeta absorbería mucho más calor. Sin embargo, cuando la nieve presenta impurezas, su capacidad para reflejar la radiación solar (lo que se conoce como albedo ), disminuye. Y aquí entran en escena los plásticos, cuya producción en las últimas décadas ha aumentado de manera exponencial, tanto que ya supera los 400 millones de toneladas a escala global . Constituyen hoy en día una amenaza ambiental global. Esto se debe, por un lado, a sus propiedades físicas y químicas: al estar diseñados para ser materiales duraderos, no se degradan en condiciones naturales. Por otro lado, se da la ironía de que entre el 40 % y el 50 % de los plásticos generados tienen una vida media menor de un año , como fruto del modelo socioeconómico dominante. Estos factores están dando lugar a que el 80 % acabe acumulado en vertederos o en el medio natural . Una vez expuestos a condiciones ambientales, los plásticos no se eliminan del medio, sino que se van fragmentando. Cuando alcanzan una longitud inferior a 5 milímetros, se llaman microplásticos , y nanoplásticos cuando ésta es inferior a 1 micra (millonésima parte de un metro). Dado su pequeño tamaño, pueden viajar centenares, incluso miles de kilómetros, a través de la atmósfera o corrientes marinas, y llegar a todos los rincones del planeta. Para ello, realizamos seis experimentos de campo en los Pirineos Centrales (España), en el entorno de las estaciones de esquí de Formigal (Huesca, España). En cada uno, se prepararon 4 o 5 parcelas de nieve superficial, a las que añadimos distintos tipos de microplásticos. Se simularon tasas de acumulación creciente a lo largo de la temporada de nieve (incluyendo siempre una muestra “control”, donde no se adicionaron partículas).",
+  "translation": "",
+  "wordCount": 349,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.738Z",
+  "vocab": {
+    "microplásticos": {
+      "word": "microplásticos",
+      "lemma": "microplásticos",
+      "translation": "microplásticos",
+      "partOfSpeech": "other",
+      "example": "Cuando alcanzan una longitud inferior a 5 milímetros, se llaman microplásticos , y nanoplásticos cuando ésta es inferior a 1 micra (millonésima parte de un metro).",
+      "pronunciation": ""
+    },
+    "plásticos": {
+      "word": "plásticos",
+      "lemma": "plásticos",
+      "translation": "plásticos",
+      "partOfSpeech": "other",
+      "example": "Y aquí entran en escena los plásticos, cuya producción en las últimas décadas ha aumentado de manera exponencial, tanto que ya supera los 400 millones de toneladas a escala global .",
+      "pronunciation": ""
+    },
+    "condiciones": {
+      "word": "condiciones",
+      "lemma": "condiciones",
+      "translation": "condições",
+      "partOfSpeech": "other",
+      "example": "Esto se debe, por un lado, a sus propiedades físicas y químicas: al estar diseñados para ser materiales duraderos, no se degradan en condiciones naturales.",
+      "pronunciation": ""
+    },
+    "planeta": {
+      "word": "planeta",
+      "lemma": "planeta",
+      "translation": "planeta",
+      "partOfSpeech": "other",
+      "example": "La primera es que actúa como reserva hídrica: acumula cerca del 70 % del agua dulce del planeta .",
+      "pronunciation": ""
+    },
+    "nieve": {
+      "word": "nieve",
+      "lemma": "nieve",
+      "translation": "neve",
+      "partOfSpeech": "other",
+      "example": "Dada su clara coloración, la nieve y el hielo reflejan hasta el 90 % de la luz solar de vuelta al espacio.",
+      "pronunciation": ""
+    },
+    "inferior": {
+      "word": "inferior",
+      "lemma": "inferior",
+      "translation": "fundo",
+      "partOfSpeech": "other",
+      "example": "Cuando alcanzan una longitud inferior a 5 milímetros, se llaman microplásticos , y nanoplásticos cuando ésta es inferior a 1 micra (millonésima parte de un metro).",
+      "pronunciation": ""
+    },
+    "termorregulador": {
+      "word": "termorregulador",
+      "lemma": "termorregulador",
+      "translation": "regulador de temperatura do ar condicionado",
+      "partOfSpeech": "other",
+      "example": "La segunda es su papel termorregulador.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/un-nuevo-estudio-revela-que-los-microplasticos-pueden-hacer-que-la-nieve-se-derrita-mas-rapido-283600",
+  "sourceSite": "The Conversation"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-hoguera",
+  "language": "es",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Junto a la hoguera",
+  "content": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación. El fin de semana pasado estuve con un par de amigos en el parque, donde hicimos una hoguera y cocinamos algunas cosas a la parrilla. Todos llevamos algo para comer y beber: Cristina y Marcos trajeron varias botellas de limonada, cerveza y vino. Pablo apareció en la hoguera con su hermano pequeño, con quien había estado pescando. Y de hecho pescaron algo: dos peces bien grandes que cocinamos en el fuego. La carne y las salchichas que había traído María las pusimos en unos pinchos y las asamos entre las llamas. Yo, como soy vegetariana, me encargué de llevar lo demás: patatas, aguacates y champiñones. ¡Ah! Y lo que nunca puede faltar en un pícnic: una ensalada de pasta. Pero se me olvidó el pan de ajo en casa… De repente, pasó algo increíble: cuando ya había oscurecido, algo se removió en los arbustos. De la nada aparecieron dos mapaches que nos observaron detenidamente. En cuestión de minutos, comenzaron a acercarse y de pronto sembraron el caos sobre el mantel. Derramaron las botellas de vino y cerveza y corretearon por encima de la carne. La ensalada de pasta ni la tocaron… ¡eso no les había gustado! En un abrir y cerrar de ojos, los mapaches desaparecieron. Nos quedamos absolutamente perplejos sin decir ni una palabra. Al cabo de un rato nos dimos cuenta de que nos habían robado uno de los peces.",
+  "translation": "",
+  "wordCount": 248,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:52:04.216Z",
+  "vocab": {
+    "había": {
+      "word": "había",
+      "lemma": "había",
+      "translation": "Havia.",
+      "partOfSpeech": "other",
+      "example": "Pablo apareció en la hoguera con su hermano pequeño, con quien había estado pescando.",
+      "pronunciation": ""
+    },
+    "cocinamos": {
+      "word": "cocinamos",
+      "lemma": "cocinamos",
+      "translation": "nós cozinhamos",
+      "partOfSpeech": "other",
+      "example": "El fin de semana pasado estuve con un par de amigos en el parque, donde hicimos una hoguera y cocinamos algunas cosas a la parrilla.",
+      "pronunciation": ""
+    },
+    "botellas": {
+      "word": "botellas",
+      "lemma": "botellas",
+      "translation": "garrafas",
+      "partOfSpeech": "other",
+      "example": "Todos llevamos algo para comer y beber: Cristina y Marcos trajeron varias botellas de limonada, cerveza y vino.",
+      "pronunciation": ""
+    },
+    "ensalada": {
+      "word": "ensalada",
+      "lemma": "ensalada",
+      "translation": "salada",
+      "partOfSpeech": "other",
+      "example": "Y lo que nunca puede faltar en un pícnic: una ensalada de pasta.",
+      "pronunciation": ""
+    },
+    "mapaches": {
+      "word": "mapaches",
+      "lemma": "mapaches",
+      "translation": "Guaxinins",
+      "partOfSpeech": "other",
+      "example": "De la nada aparecieron dos mapaches que nos observaron detenidamente.",
+      "pronunciation": ""
+    },
+    "hoguera": {
+      "word": "hoguera",
+      "lemma": "hoguera",
+      "translation": "Fogueira",
+      "partOfSpeech": "other",
+      "example": "El fin de semana pasado estuve con un par de amigos en el parque, donde hicimos una hoguera y cocinamos algunas cosas a la parrilla.",
+      "pronunciation": ""
+    },
+    "cerveza": {
+      "word": "cerveza",
+      "lemma": "cerveza",
+      "translation": "cerveja",
+      "partOfSpeech": "other",
+      "example": "Todos llevamos algo para comer y beber: Cristina y Marcos trajeron varias botellas de limonada, cerveza y vino.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/junto-a-la-hoguera-34655",
+  "sourceSite": "Lingolia"
+}

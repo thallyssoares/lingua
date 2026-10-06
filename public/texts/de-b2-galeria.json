@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-galeria",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+  "content": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für die Galeria angeordnet. Das geht aus einer Mitteilung des Gerichts auf dem Portal Insolvenzbekanntmachungen.de hervor. Zum vorläufigen Insolvenzverwalter bestellt wurde der Rechtsanwalt Frank Kebekus. Laut Gerichtsbeschluss übernimmt er jetzt die Kontrolle über das Unternehmen , die Geschäfte können vorerst weitergeführt werden. Kebekus begleitete als Sachwalter bereits die Insolvenzverfahren für den Konzern in den Jahren 2020 und 2022. Erneutes Insolvenzverfahren für Galeria | WDR Aktuell Das Erste Lost Place Warenhaus – Das verlorene Konsumparadies Pfeil rechts Die Sorge um die Zukunft der Warenhauskette waren bei Mitarbeitenden groß. Hätte das Gericht die Zulassung abgelehnt, hätte das für das Unternehmen die sofortige Zahlungsunfähigkeit bedeutet. Heißt: Die Warenhäuser hätten sofort schließen müssen, 12.000 Mitarbeiter wären sofort arbeitslos gewesen. Völlig ausgeschlossen war so eine fatale Entwicklung nicht. Das Amtsgericht Essen hatte die Planüberwachung für Galeria nach der bislang letzten Insolvenz nicht aufgehoben. Eigentlich war ein neues Insolvenzverfahren nur dann möglich, wenn die Zahlungsunfähigkeit des ursprünglichen Insolvenzfalles behoben werden konnte. Bei einer Ablehnung hätten die Mitarbeiter auch kein Insolvenzgeld erhalten. Sie wären unmittelbar auf Mittel der Arbeitsagentur angewiesen gewesen. Bereits die vierte Galeria-Insolvenz seit 2020 Galeria hat seit der Fusion von Kaufhof und Karstadt bereits mehrere Sanierungsrunden hinter sich. Nach 2020, 2022 und 2024 handelt es sich nun um den bereits vierten Insolvenzantrag. In jedem Verfahren wurden Filialen geschlossen und Arbeitsplätze abgebaut, die Gläubiger verzichteten auf Forderungen in Milliardenhöhe. Den bislang letzten Antrag stellte das Unternehmen Anfang 2024 nach der Pleite des damaligen Mutterkonzerns Signa. Neun der damals 92 Warenhäuser mussten schließen. Handelsexperte sieht noch Chancen für Galeria \"Ein vollständiges Aus ist möglich, aber keineswegs zwangsläufig\", sagte der Handelsexperte Carsten Kortum von der Dualen Hochschule Baden-Württemberg Heilbronn vor der Gerichtsentscheidung. Er halte eine Fortführung mit deutlich weniger Standorten gerade für die Mitarbeiter für eine mögliche Lösung, \"nicht jedoch eine dauerhafte Rettung des gesamten bisherigen Filialnetzes\".",
+  "translation": "",
+  "wordCount": 307,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:44:08.523Z",
+  "vocab": {
+    "Insolvenzverfahren": {
+      "word": "Insolvenzverfahren",
+      "lemma": "insolvenzverfahren",
+      "translation": "insolvenzverfahren",
+      "partOfSpeech": "other",
+      "example": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für die Galeria angeordnet.",
+      "pronunciation": ""
+    },
+    "Zahlungsunfähigkeit": {
+      "word": "Zahlungsunfähigkeit",
+      "lemma": "zahlungsunfähigkeit",
+      "translation": "zahlungsunfähigkeit",
+      "partOfSpeech": "other",
+      "example": "Hätte das Gericht die Zulassung abgelehnt, hätte das für das Unternehmen die sofortige Zahlungsunfähigkeit bedeutet.",
+      "pronunciation": ""
+    },
+    "Galeria": {
+      "word": "Galeria",
+      "lemma": "galeria",
+      "translation": "galeria",
+      "partOfSpeech": "other",
+      "example": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für die Galeria angeordnet.",
+      "pronunciation": ""
+    },
+    "Unternehmen": {
+      "word": "Unternehmen",
+      "lemma": "unternehmen",
+      "translation": "EMPRESA",
+      "partOfSpeech": "other",
+      "example": "Laut Gerichtsbeschluss übernimmt er jetzt die Kontrolle über das Unternehmen , die Geschäfte können vorerst weitergeführt werden.",
+      "pronunciation": ""
+    },
+    "Mitarbeiter": {
+      "word": "Mitarbeiter",
+      "lemma": "mitarbeiter",
+      "translation": "mitarbeiter",
+      "partOfSpeech": "other",
+      "example": "Heißt: Die Warenhäuser hätten sofort schließen müssen, 12.000 Mitarbeiter wären sofort arbeitslos gewesen.",
+      "pronunciation": ""
+    },
+    "bereits": {
+      "word": "bereits",
+      "lemma": "bereits",
+      "translation": "já",
+      "partOfSpeech": "other",
+      "example": "Kebekus begleitete als Sachwalter bereits die Insolvenzverfahren für den Konzern in den Jahren 2020 und 2022.",
+      "pronunciation": ""
+    },
+    "Handelsexperte": {
+      "word": "Handelsexperte",
+      "lemma": "handelsexperte",
+      "translation": "handelsexperte",
+      "partOfSpeech": "other",
+      "example": "Handelsexperte sieht noch Chancen für Galeria \"Ein vollständiges Aus ist möglich, aber keineswegs zwangsläufig\", sagte der Handelsexperte Carsten Kortum von der Dualen Hochschule Baden-Württemberg Heilbronn vor der Gerichtsentscheidung.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+  "sourceSite": "tagesschau.de"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-fregatten",
+  "language": "de",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
+  "content": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma. Das hat ein Nachspiel. \"Schöner Anlass, schönes Projekt\" - auf diese kurze Formel bringt Verteidigungsminister Boris Pistorius (SPD) sichtbar zufrieden seinen Kurzbesuch in Emden am Montag. Ein neuer Hafen für die Marine soll hier entstehen , für bis zu 2.000 Soldaten und zivile Mitarbeiter, Einsatzbereitschaft ab Anfang der 2030er Jahre. Aus der kleinsten Marine in der Geschichte der Bundeswehr wieder eine größere und vor allem schlagkräftigere machen - das Ziel wiederholt Pistorius immer wieder, auch an diesem sonnigen Tag an der Küste. Dazu gehört ein zweiter Stützpunkt an der Nordsee neben Wilhelmshaven. Und dazu gehören viele neue Schiffe. Doch wie so oft bei Rüstungsprojekten gab es zuletzt Ärger - der jetzt ein juristisches Nachspiel hat. Die Opposition im Bundestag fordert Aufklärung vom Minister. Der hatte im Sommer das Projekt F126 beendet - Fregatten, die das Verteidigungsministerium bei Damen Schelde Naval Shipbuilding (DSNS) in den Niederlanden bestellt hatte. \"Die Damen-Werft hat nicht geleistet, was vereinbart war und konnte nicht leisten in der Zeit, die verabredet war\", verteidigt Pistorius auch in Emden seine Entscheidung. Verteidigungsminister Pistorius hat den Standort am Montag bekannt gegeben. Die Marine braucht dringend neue Liegeplätze. ndr Vorwürfe, die das Unternehmen nicht gelten lassen will. Von einer \"Verzögerungsverantwortung\" der Firma könne keine Rede sein, heißt es in einem Schreiben der vom Unternehmen beauftragten Kanzlei, das dem ARD-Hauptstadtstudio vorliegt. Tenor: Der Ausstieg sei politisch motiviert - und in der Sache nicht gerechtfertigt. Eigentlich sollten sechs Fregatten vom Typ F126 gebaut werden. Kostenpunkt: insgesamt rund zehn Milliarden Euro. So wollte die Bundeswehr ihren Bündnis-Verpflichtungen im Nordatlantik nachkommen - falls im Ernstfall gegnerische U-Boote bekämpft werden müssten. \"Hier ging es um sicherheitspolitische Anforderungen und eben nicht um eine - wie der Anwalt des Unternehmens glauben machen will - politische Entscheidung. Und das werden wir sehr klar machen.\" Bundeskanzler Scholz hat der Bundeswehr dauerhaft höhere Verteidigungsausgaben zugesichert. mehr In dem Schreiben der Kanzlei wird Geld vom Bund gefordert - und zwar in beträchtlicher Höhe: Auf fast 4,7 Milliarden Euro beliefen sich die \"Zahlungs- und Freistellungsansprüche\", heißt es in dem Brief der Kanzlei. Aus Sicht der Anwälte war die Beendigung des Projekts rechtswidrig - was Pistorius wiederum zurückweist.",
+  "translation": "",
+  "wordCount": 377,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:29.421Z",
+  "vocab": {
+    "Verteidigungsministerium": {
+      "word": "Verteidigungsministerium",
+      "lemma": "verteidigungsminister",
+      "translation": "MINISTROS DA DEFESA",
+      "partOfSpeech": "other",
+      "example": "Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma.",
+      "pronunciation": ""
+    },
+    "Pistorius": {
+      "word": "Pistorius",
+      "lemma": "pistorius",
+      "translation": "pistorius",
+      "partOfSpeech": "other",
+      "example": "\"Schöner Anlass, schönes Projekt\" - auf diese kurze Formel bringt Verteidigungsminister Boris Pistorius (SPD) sichtbar zufrieden seinen Kurzbesuch in Emden am Montag.",
+      "pronunciation": ""
+    },
+    "Bundeswehr": {
+      "word": "Bundeswehr",
+      "lemma": "bundeswehr",
+      "translation": "bundeswehr",
+      "partOfSpeech": "other",
+      "example": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern.",
+      "pronunciation": ""
+    },
+    "Unternehmen": {
+      "word": "Unternehmen",
+      "lemma": "unternehmen",
+      "translation": "EMPRESA",
+      "partOfSpeech": "other",
+      "example": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern.",
+      "pronunciation": ""
+    },
+    "Fregatten": {
+      "word": "Fregatten",
+      "lemma": "fregatten",
+      "translation": "fragatas",
+      "partOfSpeech": "other",
+      "example": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern.",
+      "pronunciation": ""
+    },
+    "Verzögerungsverantwortung": {
+      "word": "Verzögerungsverantwortung",
+      "lemma": "verzögerungsverantwortung",
+      "translation": "responsabilidade pelo atraso",
+      "partOfSpeech": "other",
+      "example": "Von einer \"Verzögerungsverantwortung\" der Firma könne keine Rede sein, heißt es in einem Schreiben der vom Unternehmen beauftragten Kanzlei, das dem ARD-Hauptstadtstudio vorliegt.",
+      "pronunciation": ""
+    },
+    "Entscheidung": {
+      "word": "Entscheidung",
+      "lemma": "entscheidung",
+      "translation": "Decisão",
+      "partOfSpeech": "other",
+      "example": "\"Die Damen-Werft hat nicht geleistet, was vereinbart war und konnte nicht leisten in der Zeit, die verabredet war\", verteidigt Pistorius auch in Emden seine Entscheidung.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
+  "sourceSite": "tagesschau.de"
+}

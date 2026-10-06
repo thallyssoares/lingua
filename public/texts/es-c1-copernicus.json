@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-copernicus",
+  "language": "es",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Una década de informes Copernicus sobre el estado de los océanos: del conocimiento a la ac",
+  "content": "Tanto los datos en los que se apoyan los informes como sus resultados son completamente abiertos y accesibles, lo que favorece su comunicación y proporciona, mediante la solidez que aporta la evidencia científica, herramientas para la protección y sostenibilidad de los océanos. Desde su inicio en el año 2016, los informes anuales han descrito, investigado y cuantificado los cambios observados durante las últimas décadas, prestando especial atención a los eventos más recientes. Su décima edición, que se hará pública el 30 de este mes , corrobora las tendencias de calentamiento y acidificación y el aumento paulatino del nivel del mar. Las observaciones indican que la temperatura superficial ha aumentado a un ritmo de 0.12 ºC por década entre 1982 y 2025, mientras que el calor del océano ha alcanzado su máximo en 2025. En este contexto, el nivel del mar suma ya más de 4 milímetros al año de subida global desde 2012, a un ritmo que se ha ido acelerando en las últimas décadas. Por otro lado, en promedio, los océanos son un 17 % más ácidos que en el periodo 1985-2025. El documento recoge también cambios significativos en las regiones polares, reflejados en la pérdida acelerada de hielo marino y en un incremento de la salinidad en aguas del Ártico en la última década. Asimismo, como es habitual, incide en algunos de los eventos extremos recientes más dañinos para los ecosistemas y las regiones costeras, como las olas de calor marinas y los efectos de los temporales. Todo ello, con el propósito de transformar el conocimiento en acción, de desarrollar infraestructuras resilientes y estrategias adecuadas de conservación. Después de varios veranos en los que se han superado récords históricos de temperatura en Europa, las olas de calor marinas cobran especial relevancia. En las regiones costeras, influyen en la sensación térmica , principalmente, a través de la humedad. Un mar con una temperatura anormalmente cálida evapora más agua e incrementa la humedad de la atmósfera, que es transportada hacia tierra por las brisas. El resultado es un calor más húmedo, una sensación térmica más alta y un impacto mayor sobre la salud.",
+  "translation": "",
+  "wordCount": 353,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:04.328Z",
+  "vocab": {
+    "temperatura": {
+      "word": "temperatura",
+      "lemma": "temperatura",
+      "translation": "temperatura",
+      "partOfSpeech": "other",
+      "example": "Las observaciones indican que la temperatura superficial ha aumentado a un ritmo de 0.12 ºC por década entre 1982 y 2025, mientras que el calor del océano ha alcanzado su máximo en 2025.",
+      "pronunciation": ""
+    },
+    "regiones": {
+      "word": "regiones",
+      "lemma": "regiones",
+      "translation": "regiões",
+      "partOfSpeech": "other",
+      "example": "El documento recoge también cambios significativos en las regiones polares, reflejados en la pérdida acelerada de hielo marino y en un incremento de la salinidad en aguas del Ártico en la última década.",
+      "pronunciation": ""
+    },
+    "calor": {
+      "word": "calor",
+      "lemma": "calor",
+      "translation": "aquecer",
+      "partOfSpeech": "other",
+      "example": "Las observaciones indican que la temperatura superficial ha aumentado a un ritmo de 0.12 ºC por década entre 1982 y 2025, mientras que el calor del océano ha alcanzado su máximo en 2025.",
+      "pronunciation": ""
+    },
+    "recientes": {
+      "word": "recientes",
+      "lemma": "recientes",
+      "translation": "Recentes",
+      "partOfSpeech": "other",
+      "example": "Desde su inicio en el año 2016, los informes anuales han descrito, investigado y cuantificado los cambios observados durante las últimas décadas, prestando especial atención a los eventos más recientes.",
+      "pronunciation": ""
+    },
+    "sensación": {
+      "word": "sensación",
+      "lemma": "sensación",
+      "translation": "sensação",
+      "partOfSpeech": "other",
+      "example": "En las regiones costeras, influyen en la sensación térmica , principalmente, a través de la humedad.",
+      "pronunciation": ""
+    },
+    "informes": {
+      "word": "informes",
+      "lemma": "informes",
+      "translation": "Relatório",
+      "partOfSpeech": "other",
+      "example": "Tanto los datos en los que se apoyan los informes como sus resultados son completamente abiertos y accesibles, lo que favorece su comunicación y proporciona, mediante la solidez que aporta la evidencia científica, herramientas para la protección y sostenibilidad de los océanos.",
+      "pronunciation": ""
+    },
+    "especial": {
+      "word": "especial",
+      "lemma": "especial",
+      "translation": "especial",
+      "partOfSpeech": "other",
+      "example": "Desde su inicio en el año 2016, los informes anuales han descrito, investigado y cuantificado los cambios observados durante las últimas décadas, prestando especial atención a los eventos más recientes.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/una-decada-de-informes-copernicus-sobre-el-estado-de-los-oceanos-del-conocimiento-a-la-accion-291177",
+  "sourceSite": "The Conversation"
+}

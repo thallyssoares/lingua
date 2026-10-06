@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-park",
+  "language": "de",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "Erholung im Park",
+  "content": "Frau Meyer ist Rentnerin und lebt in einer großen Stadt. Sie wohnt in einem Hochhaus an einer Hauptstraße. Das gefällt ihr nicht so besonders, weil das Leben hier sehr anonym ist. Aber es befindet sich ein Park in der Nähe. Dorthin geht Frau Meyer immer, wenn das Wetter schön ist. So wie heute. Im Park ist immer etwas los. Hier trifft man Jogger, Hundebesitzer, Radfahrer und Familien mit Kindern. Diese machen oft ein kleines Picknick auf der Wiese am Teich. Da Frau Meyer sehr kontaktfreudig ist, lernt sie immer wieder neue Leute kennen und trifft alte Bekannte, mit denen sie sich unterhalten kann. An den Wegen stehen Parkbänke. Einige Bänke stehen in der Sonne zwischen Sträuchern, andere im Schatten von Bäumen. Da es nicht zu heiß ist, setzt sich Frau Meyer heute auf eine Bank in der Sonne. Von hier aus kann sie die Enten und Fische im Teich beobachten. Außerdem liebt sie das Plätschern des Springbrunnens. Sie hat sich gerade hingesetzt, als ein paar Tauben angeflogen kommen. Ja, auch sie kennen Frau Meyer schon und wissen, dass sie ihnen immer etwas mitbringt. „Da seid ihr ja!“ sagt Frau Meyer lachend und stellt eine Tüte neben sich auf die Parkbank. Natürlich hat sie auch heute wieder an ihre gefiederten Freunde gedacht.",
+  "translation": "",
+  "wordCount": 211,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:48:23.606Z",
+  "vocab": {
+    "Meyer": {
+      "word": "Meyer",
+      "lemma": "meyer",
+      "translation": "HOFMAN",
+      "partOfSpeech": "other",
+      "example": "Frau Meyer ist Rentnerin und lebt in einer großen Stadt.",
+      "pronunciation": ""
+    },
+    "immer": {
+      "word": "immer",
+      "lemma": "immer",
+      "translation": "Sempre",
+      "partOfSpeech": "other",
+      "example": "Dorthin geht Frau Meyer immer, wenn das Wetter schön ist.",
+      "pronunciation": ""
+    },
+    "heute": {
+      "word": "heute",
+      "lemma": "heute",
+      "translation": "hoje",
+      "partOfSpeech": "other",
+      "example": "So wie heute.",
+      "pronunciation": ""
+    },
+    "kontaktfreudig": {
+      "word": "kontaktfreudig",
+      "lemma": "kontaktfreudig",
+      "translation": "sociável",
+      "partOfSpeech": "other",
+      "example": "Da Frau Meyer sehr kontaktfreudig ist, lernt sie immer wieder neue Leute kennen und trifft alte Bekannte, mit denen sie sich unterhalten kann.",
+      "pronunciation": ""
+    },
+    "Springbrunnens": {
+      "word": "Springbrunnens",
+      "lemma": "springbrunnens",
+      "translation": "fonte",
+      "partOfSpeech": "other",
+      "example": "Außerdem liebt sie das Plätschern des Springbrunnens.",
+      "pronunciation": ""
+    },
+    "Hundebesitzer": {
+      "word": "Hundebesitzer",
+      "lemma": "hundebesitzer",
+      "translation": "dono de cão",
+      "partOfSpeech": "other",
+      "example": "Hier trifft man Jogger, Hundebesitzer, Radfahrer und Familien mit Kindern.",
+      "pronunciation": ""
+    },
+    "trifft": {
+      "word": "trifft",
+      "lemma": "trifft",
+      "translation": "Concordo",
+      "partOfSpeech": "other",
+      "example": "Hier trifft man Jogger, Hundebesitzer, Radfahrer und Familien mit Kindern.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://deutsch.lingolia.com/de/leseverstehen/b1/articles/park-24094",
+  "sourceSite": "Lingolia"
+}

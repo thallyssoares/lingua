@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-julieta",
+  "language": "es",
+  "level": "A2",
+  "theme": "Investigação",
+  "title": "¿Quién será Julieta?",
+  "content": "Ramiro está a punto de estrenar su primera obra de teatro como director. Se trata de un clásico: Romeo y Julieta. El papel de Romeo ya está cubierto, pero le falta la actriz para la protagonista femenina. No conoce a muchas actrices, así que quiere hacer un casting por toda su ciudad. Para ello, está colgando carteles por todas partes con un retrato de la Julieta que busca para el papel: pelirroja, con los ojos azules y grandes y, lo más importante, una sonrisa cálida y unos bonitos hoyuelos en las mejillas. Quedan apenas dos meses para el estreno de la obra y todavía falta mucho que preparar. No solo necesita una actriz protagonista, sino también una sala de ensayo. Su compañía de teatro está haciendo reformas en su local y no puede usar sus instalaciones. Esta obra es muy importante para Ramiro. Es un director muy detallista y quiere que todo salga a pedir de boca. El paseo por la ciudad colgando carteles le viene bien porque toma el aire mientras trata de organizar todo el trabajo que tiene que resolver. Pero lo que más le trae de cabeza es… ¿Quién será Julieta?",
+  "translation": "",
+  "wordCount": 194,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:11:52.505Z",
+  "vocab": {
+    "protagonista": {
+      "word": "protagonista",
+      "lemma": "protagonista",
+      "translation": "protagonista\\",
+      "partOfSpeech": "other",
+      "example": "El papel de Romeo ya está cubierto, pero le falta la actriz para la protagonista femenina.",
+      "pronunciation": ""
+    },
+    "Julieta": {
+      "word": "Julieta",
+      "lemma": "julieta",
+      "translation": "julieta",
+      "partOfSpeech": "other",
+      "example": "Se trata de un clásico: Romeo y Julieta.",
+      "pronunciation": ""
+    },
+    "importante": {
+      "word": "importante",
+      "lemma": "importante",
+      "translation": "importante",
+      "partOfSpeech": "other",
+      "example": "Para ello, está colgando carteles por todas partes con un retrato de la Julieta que busca para el papel: pelirroja, con los ojos azules y grandes y, lo más importante, una sonrisa cálida y unos bonitos hoyuelos en las mejillas.",
+      "pronunciation": ""
+    },
+    "director": {
+      "word": "director",
+      "lemma": "director",
+      "translation": "diretor",
+      "partOfSpeech": "other",
+      "example": "Ramiro está a punto de estrenar su primera obra de teatro como director.",
+      "pronunciation": ""
+    },
+    "colgando": {
+      "word": "colgando",
+      "lemma": "colgando",
+      "translation": "Desligar",
+      "partOfSpeech": "other",
+      "example": "Para ello, está colgando carteles por todas partes con un retrato de la Julieta que busca para el papel: pelirroja, con los ojos azules y grandes y, lo más importante, una sonrisa cálida y unos bonitos hoyuelos en las mejillas.",
+      "pronunciation": ""
+    },
+    "carteles": {
+      "word": "carteles",
+      "lemma": "carteles",
+      "translation": "cartazes",
+      "partOfSpeech": "other",
+      "example": "Para ello, está colgando carteles por todas partes con un retrato de la Julieta que busca para el papel: pelirroja, con los ojos azules y grandes y, lo más importante, una sonrisa cálida y unos bonitos hoyuelos en las mejillas.",
+      "pronunciation": ""
+    },
+    "instalaciones": {
+      "word": "instalaciones",
+      "lemma": "instalaciones",
+      "translation": "instalações",
+      "partOfSpeech": "other",
+      "example": "Su compañía de teatro está haciendo reformas en su local y no puede usar sus instalaciones.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/a2/articles/quien-sera-julieta",
+  "sourceSite": "Lingolia"
+}

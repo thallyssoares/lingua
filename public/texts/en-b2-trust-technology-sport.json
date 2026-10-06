@@ -1,0 +1,73 @@
+{
+  "id": "en-b2-trust-technology-sport",
+  "language": "en",
+  "level": "B2",
+  "theme": "Futebol",
+  "title": "Can we trust technology in sport?",
+  "content": "The use of technology in sport is supposed to provide accurate and instant feedback, with better decision-making and fewer errors than human intervention. But is that always the case? Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage. The system should be faster and more accurate, yet the electronic line calling system failed a week into the championship because a person accidentally turned the ball-tracking technology off. In football, referees often come under fire for their decisions, and VAR is used when a referee is unsure and wants to double-check a judgement. However, VAR oversights have angered managers, players and fans. Professor Gina Neff says people have a strong sense of fairness: machines make decisions according to programmed rules, while humans understand context much better. Whether people trust it or not, technology is here to stay in sport.",
+  "translation": "",
+  "wordCount": 154,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "intervention": {
+      "word": "intervention",
+      "lemma": "intervention",
+      "translation": "intervenção",
+      "partOfSpeech": "noun",
+      "example": "The use of technology in sport is supposed to provide accurate and instant feedback, with better decision-making and fewer errors than human intervention.",
+      "pronunciation": ""
+    },
+    "line judge": {
+      "word": "line judge",
+      "lemma": "line judge",
+      "translation": "árbitro de linha",
+      "partOfSpeech": "noun",
+      "example": "Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage.",
+      "pronunciation": ""
+    },
+    "out of bounds": {
+      "word": "out of bounds",
+      "lemma": "out of bounds",
+      "translation": "fora dos limites",
+      "partOfSpeech": "phrase",
+      "example": "Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage.",
+      "pronunciation": ""
+    },
+    "replace": {
+      "word": "replace",
+      "lemma": "replace",
+      "translation": "substituir",
+      "partOfSpeech": "verb",
+      "example": "Wimbledon decided to replace line judges, who traditionally judge whether a ball is in or out of bounds, with artificial intelligence that analyses camera footage.",
+      "pronunciation": ""
+    },
+    "oversight": {
+      "word": "oversight",
+      "lemma": "oversight",
+      "translation": "falha",
+      "partOfSpeech": "noun",
+      "example": "However, VAR oversights have angered managers, players and fans.",
+      "pronunciation": ""
+    },
+    "fairness": {
+      "word": "fairness",
+      "lemma": "fairness",
+      "translation": "justiça",
+      "partOfSpeech": "noun",
+      "example": "Professor Gina Neff says people have a strong sense of fairness: machines make decisions according to programmed rules, while humans understand context much better.",
+      "pronunciation": ""
+    },
+    "decisions": {
+      "word": "decisions",
+      "lemma": "decision",
+      "translation": "decisões",
+      "partOfSpeech": "noun",
+      "example": "In football, referees often come under fire for their decisions, and VAR is used when a referee is unsure and wants to double-check a judgement.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.bbc.co.uk/learningenglish/features/the_reading_room/ep-251107",
+  "sourceSite": "BBC Learning English"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-downsyndrom",
+  "language": "de",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Weltweiter Aktions-Tag - Welt-Aktions-Tag für Menschen mit Down-Syndrom",
+  "content": "Die Vereinten Nationen heißen auch UNO. Die Vereinten Nationen sind 193 Länder aus aller Welt. Sie haben sich zusammengeschlossen. Sie haben ein Ziel. Sie wollen den Frieden auf der Welt sichern. Sie wollen die Rechte der Menschen schützen. Sie wollen die Zusammen-Arbeit auf der Erde besser machen. Wenn es in einem Land Krieg gibt, kann die UNO helfen. Sie kann vermitteln und einen Waffen-Stillstand erreichen. Sie kann Soldaten in das Land schicken. Die Soldaten sollen aufpassen, dass der Waffen-Stillstand eingehalten wird. Wenn ein Mensch eine Behinderung hat, ist etwas an ihm anders als bei den meisten anderen Menschen. Durch eine Behinderung wird manches im Leben schwieriger. Es gibt ganz unterschiedliche Behinderungen. Sie können alle Körper-Teile betreffen. Oder das Denken oder Fühlen.",
+  "translation": "",
+  "wordCount": 121,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:01.862Z",
+  "vocab": {
+    "Waffen-Stillstand": {
+      "word": "Waffen-Stillstand",
+      "lemma": "waffen-stillstand",
+      "translation": "waffen-stillstand",
+      "partOfSpeech": "other",
+      "example": "Sie kann vermitteln und einen Waffen-Stillstand erreichen.",
+      "pronunciation": ""
+    },
+    "Behinderung": {
+      "word": "Behinderung",
+      "lemma": "behinderung",
+      "translation": "behinderung",
+      "partOfSpeech": "other",
+      "example": "Wenn ein Mensch eine Behinderung hat, ist etwas an ihm anders als bei den meisten anderen Menschen.",
+      "pronunciation": ""
+    },
+    "zusammengeschlossen": {
+      "word": "zusammengeschlossen",
+      "lemma": "zusammengeschlossen",
+      "translation": "zusammengeschlossen",
+      "partOfSpeech": "other",
+      "example": "Sie haben sich zusammengeschlossen.",
+      "pronunciation": ""
+    },
+    "Vereinten": {
+      "word": "Vereinten",
+      "lemma": "vereinten",
+      "translation": "vereinten",
+      "partOfSpeech": "other",
+      "example": "Die Vereinten Nationen heißen auch UNO.",
+      "pronunciation": ""
+    },
+    "wollen": {
+      "word": "wollen",
+      "lemma": "wollen",
+      "translation": "wollen",
+      "partOfSpeech": "other",
+      "example": "Sie wollen den Frieden auf der Welt sichern.",
+      "pronunciation": ""
+    },
+    "Nationen": {
+      "word": "Nationen",
+      "lemma": "nationen",
+      "translation": "nationen",
+      "partOfSpeech": "other",
+      "example": "Die Vereinten Nationen heißen auch UNO.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Sie wollen die Rechte der Menschen schützen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/welt-down-syndrom-tag-108.html",
+  "sourceSite": "Nachrichtenleicht"
+}

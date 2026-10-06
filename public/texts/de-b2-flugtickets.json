@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-flugtickets",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Preise für Flugtickets aus Deutschland seit 2010 etwa verdoppelt",
+  "content": "Die Kosten für Flugreisen sind in Deutschland zuletzt stark angestiegen. Doch die Tendenz ist nicht neu. Ein Bericht sieht Nachteile am Standort und einen Bedeutungsverlust deutscher Drehkreuze. Flüge in und ab Deutschland sind in den vergangenen Jahren erheblich teurer geworden. Das geht aus einem gemeinsamen Bericht des Bundesverbands der Deutschen Luftverkehrswirtschaft (BDL) und des Deutschen Zentrums für Luft- und Raumfahrt (DLR) hervor. Demnach entwickelte sich der durchschnittliche Ticketpreis zwischen 2010 und 2024 von knapp unter 150 Euro auf rund 300 Euro - er verdoppelte sich also ungefähr. Als Gründe führte der Bericht etwa gestiegene staatliche Abgaben wie die Luftverkehrsteuer, Luftsicherheitsabgaben und Flugsicherungsgebühren, aber auch höhere Personal- und Betriebskosten am Standort an. Flugtickets mit gesammelten \"Meilen\" günstig kaufen - viele Verbraucherinnen und Verbraucher versuchen dies. mehr Der internationale Luftverkehr von Deutschland aus geht dem Bericht nach immer häufiger über Drehkreuze außerhalb Europas - insbesondere über die Golfregion und die Türkei. Die deutschen Drehkreuze München und Frankfurt am Main verloren demnach an Bedeutung. Ihr Anteil an Flügen in Richtung Fernost und Südostasien von Deutschland aus fiel von rund 56 Prozent im Jahr 2010 auf rund 36 Prozent im Jahr 2024. Auch Flüge in Richtung Afrika landen demnach immer häufiger an Drehkreuzen außerhalb Europas. Den Prognosen des Zentrums für Luft- und Raumfahrt zufolge wird die Zahl der Flugreisenden weltweit bis 2034 auf 154 Prozent des Niveaus vor der Corona-Pandemie von 2019 ansteigen. Bei den Verbindungen zwischen Deutschland und Europa sei der Stand aus der Zeit vor der Pandemie noch nicht wieder erreicht, hieß es. Dieses Thema im Programm: tagesschau24 | Nachrichten | 05.10.2026 | 14:00 Uhr",
+  "translation": "",
+  "wordCount": 263,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:01:37.214Z",
+  "vocab": {
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Die Kosten für Flugreisen sind in Deutschland zuletzt stark angestiegen.",
+      "pronunciation": ""
+    },
+    "Drehkreuze": {
+      "word": "Drehkreuze",
+      "lemma": "drehkreuze",
+      "translation": "torniquetes",
+      "partOfSpeech": "other",
+      "example": "Ein Bericht sieht Nachteile am Standort und einen Bedeutungsverlust deutscher Drehkreuze.",
+      "pronunciation": ""
+    },
+    "Bericht": {
+      "word": "Bericht",
+      "lemma": "bericht",
+      "translation": "Relatório",
+      "partOfSpeech": "other",
+      "example": "Ein Bericht sieht Nachteile am Standort und einen Bedeutungsverlust deutscher Drehkreuze.",
+      "pronunciation": ""
+    },
+    "Deutschen": {
+      "word": "Deutschen",
+      "lemma": "deutschen",
+      "translation": "alemão",
+      "partOfSpeech": "other",
+      "example": "Das geht aus einem gemeinsamen Bericht des Bundesverbands der Deutschen Luftverkehrswirtschaft (BDL) und des Deutschen Zentrums für Luft- und Raumfahrt (DLR) hervor.",
+      "pronunciation": ""
+    },
+    "Luftverkehrswirtschaft": {
+      "word": "Luftverkehrswirtschaft",
+      "lemma": "luftverkehrswirtschaft",
+      "translation": "gestão do transporte aéreo",
+      "partOfSpeech": "other",
+      "example": "Das geht aus einem gemeinsamen Bericht des Bundesverbands der Deutschen Luftverkehrswirtschaft (BDL) und des Deutschen Zentrums für Luft- und Raumfahrt (DLR) hervor.",
+      "pronunciation": ""
+    },
+    "Luftsicherheitsabgaben": {
+      "word": "Luftsicherheitsabgaben",
+      "lemma": "luftsicherheitsabgaben",
+      "translation": "taxas de segurança aérea",
+      "partOfSpeech": "other",
+      "example": "Als Gründe führte der Bericht etwa gestiegene staatliche Abgaben wie die Luftverkehrsteuer, Luftsicherheitsabgaben und Flugsicherungsgebühren, aber auch höhere Personal- und Betriebskosten am Standort an.",
+      "pronunciation": ""
+    },
+    "Flugsicherungsgebühren": {
+      "word": "Flugsicherungsgebühren",
+      "lemma": "flugsicherungsgebühren",
+      "translation": "taxas de controlo de tráfego aéreo",
+      "partOfSpeech": "other",
+      "example": "Als Gründe führte der Bericht etwa gestiegene staatliche Abgaben wie die Luftverkehrsteuer, Luftsicherheitsabgaben und Flugsicherungsgebühren, aber auch höhere Personal- und Betriebskosten am Standort an.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/luftfahrt-flugtickets-preise-100.html",
+  "sourceSite": "tagesschau.de"
+}

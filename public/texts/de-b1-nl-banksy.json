@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-nl-banksy",
+  "language": "de",
+  "level": "B1",
+  "theme": "Investigação",
+  "title": "Journalisten enthüllen den echten Namen von dem Künstler Banksy",
+  "content": "England ist der größte Teil von dem Land Groß-Britannien. Die anderen Teile von Groß-Britannien heißen Schottland, Wales und Nord-Irland. Die meisten Menschen dort sprechen Englisch. Die Stadt London ist die Haupt-Stadt von England und auch die Haupt-Stadt von Groß-Britannien. Man sagt auch oft England, wenn man ganz Groß-Britannien meint. Die Ukraine ist ein Land in Ost-Europa. Die Ukraine gehörte früher zu dem Land Sowjet-Union. Die Ukraine ist fast doppelt so groß wie Deutschland, aber es leben viel weniger Menschen dort. Viele von ihnen sprechen Ukrainisch und Russisch. Die Haupt-Stadt heißt Kiew. Ein Nachbar-Land von der Ukraine ist Russland. Russland möchte Teile von der Ukraine haben. Darum gibt es seit 2014 Kämpfe um diese Teile: zum Beispiel um die Halb-Insel Krim oder den Osten von der Ukraine. Im Jahr 2022 hat Russland dann die ganze Ukraine angegriffen. Seitdem ist Krieg in dem Land.",
+  "translation": "",
+  "wordCount": 142,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:11:15.332Z",
+  "vocab": {
+    "Groß-Britannien": {
+      "word": "Groß-Britannien",
+      "lemma": "groß-britannien",
+      "translation": "groß-britannien",
+      "partOfSpeech": "other",
+      "example": "England ist der größte Teil von dem Land Groß-Britannien.",
+      "pronunciation": ""
+    },
+    "Ukraine": {
+      "word": "Ukraine",
+      "lemma": "ukraine",
+      "translation": "Ucrânia",
+      "partOfSpeech": "other",
+      "example": "Die Ukraine ist ein Land in Ost-Europa.",
+      "pronunciation": ""
+    },
+    "Haupt-Stadt": {
+      "word": "Haupt-Stadt",
+      "lemma": "haupt-stadt",
+      "translation": "haupt-stadt",
+      "partOfSpeech": "other",
+      "example": "Die Stadt London ist die Haupt-Stadt von England und auch die Haupt-Stadt von Groß-Britannien.",
+      "pronunciation": ""
+    },
+    "Russland": {
+      "word": "Russland",
+      "lemma": "russland",
+      "translation": "Russia",
+      "partOfSpeech": "other",
+      "example": "Ein Nachbar-Land von der Ukraine ist Russland.",
+      "pronunciation": ""
+    },
+    "England": {
+      "word": "England",
+      "lemma": "england",
+      "translation": "england",
+      "partOfSpeech": "other",
+      "example": "England ist der größte Teil von dem Land Groß-Britannien.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Die meisten Menschen dort sprechen Englisch.",
+      "pronunciation": ""
+    },
+    "sprechen": {
+      "word": "sprechen",
+      "lemma": "sprechen",
+      "translation": "sprechen",
+      "partOfSpeech": "other",
+      "example": "Die meisten Menschen dort sprechen Englisch.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/banksy-identitaet-enthuellt-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-formel",
+  "language": "de",
+  "level": "A2",
+  "theme": "Tecnologia",
+  "title": "Formel 1 sagt Rennen in Bahrain und in Saudi-Arabien ab",
+  "content": "Saudi-Arabien ist ein Land in Asien. Die Hauptstadt heißt Riad. Dort regiert ein König. Saudi-Arabien ist ungefähr 6 Mal so groß wie Deutschland. Aber es leben weniger Menschen dort als in Deutschland. Ein großer Teil von Saudi-Arabien ist Wüste. Trotzdem ist es ein sehr reiches Land, denn es gibt dort viel Erd-Öl. Bahrain ist ein kleines Land in Asien. Es besteht aus Inseln im Meer neben dem Land Saudi-Arabien. Die meisten Menschen in Bahrain sind Muslime. Die wichtigste Sprache ist Arabisch. Bahrain ist ein König-Reich. in Bahrain gibt es keine freien Medien und die Menschen haben nur wenig Rechte.",
+  "translation": "",
+  "wordCount": 99,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:10:56.360Z",
+  "vocab": {
+    "Saudi-Arabien": {
+      "word": "Saudi-Arabien",
+      "lemma": "saudi-arabien",
+      "translation": "saudi-arabien",
+      "partOfSpeech": "other",
+      "example": "Saudi-Arabien ist ein Land in Asien.",
+      "pronunciation": ""
+    },
+    "Bahrain": {
+      "word": "Bahrain",
+      "lemma": "bahrain",
+      "translation": "bahrain",
+      "partOfSpeech": "other",
+      "example": "Bahrain ist ein kleines Land in Asien.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Aber es leben weniger Menschen dort als in Deutschland.",
+      "pronunciation": ""
+    },
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Saudi-Arabien ist ungefähr 6 Mal so groß wie Deutschland.",
+      "pronunciation": ""
+    },
+    "König-Reich": {
+      "word": "König-Reich",
+      "lemma": "könig-reich",
+      "translation": "könig-reich",
+      "partOfSpeech": "other",
+      "example": "Bahrain ist ein König-Reich.",
+      "pronunciation": ""
+    },
+    "Asien": {
+      "word": "Asien",
+      "lemma": "asien",
+      "translation": "asien",
+      "partOfSpeech": "other",
+      "example": "Saudi-Arabien ist ein Land in Asien.",
+      "pronunciation": ""
+    },
+    "Hauptstadt": {
+      "word": "Hauptstadt",
+      "lemma": "hauptstadt",
+      "translation": "Capital",
+      "partOfSpeech": "other",
+      "example": "Die Hauptstadt heißt Riad.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/formel-eins-rennen-absage-100.html",
+  "sourceSite": "Nachrichtenleicht"
+}

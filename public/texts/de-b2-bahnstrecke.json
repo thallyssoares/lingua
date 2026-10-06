@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-bahnstrecke",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
+  "content": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt. Das führt zu Protesten. Es sollte alles so reibungslos gehen. Zehn Monate Sperrung der Schnellfahrstrecke zwischen Lehrte bei Hannover und Berlin. Aber, und das war der Clou dabei, der Verkehr sollte einfach über die parallel verlaufende \"Lehrter Stammbahn\" geleitet werden - was Einschränkungen für Fahrgäste minimiert hätte. Daraus wird nun nichts. Erstens wird die Verbindung Lehrte-Berlin 14 Monate lang bis Ende Dezember 2027 gesperrt, also vier Monate länger als ursprünglich geplant. Und - womöglich noch gravierender: Der Verkehr kann nicht über die \"Lehrter Stammbahn\" geleitet werden, weil die Deutsche Bahn es nicht vermocht hat, diese rechtzeitig zu elektrifizieren. Beginn der Bauarbeiten an der Bahnstrecke zwischen Berlin und Hannover Tino Nowitzki, NDR , tagesschau, Das Erste, 02.10.2026 • 20:00 Uhr \"Zu optimistisch geplant\" Zwei Hauptgründe nennt die Bahn für das Versäumnis. \"Zum einen wurde, das gehört zur Wahrheit dazu, zu optimistisch geplant\", drückt es eine DB-Sprecherin aus. Außerdem seien Planfeststellungsbeschlüsse später als erwartet erteilt worden. Und so führt die Umleitung nun 14 Monate lang über Braunschweig-Helmstedt-Magdeburg-Brandenburg. Aus normalerweise gut anderthalb Stunden Fahrtzeit werden planmäßig fast drei. Die Bahn nennt das \"die verlässlichste Option, die uns zur Verfügung steht\". Die kommenden Monate wird die Strecke Köln, Wuppertal und Hagen saniert. Auch zwischen Regensburg und Nürnberg wird gebaut mehr \"Katastrophale Verhältnisse\" nennt es hingegen der Fahrgastverband Pro Bahn. Und es gibt weitere Kritiker. So hat sich im Brandenburger Landkreis Havelland - etwa auf halber Strecke zwischen Hannover und Berlin gelegen - gar ein Bündnis aus Landrat, Amtsdirektoren und Bürgermeistern zusammengefunden, um gegen die Baumaßnahmen zu protestieren. Eine Sperrung der Trasse \"über einen Zeitraum von 14 Monaten muss unter allen Umständen verhindert werden!\", heißt es in einem Brief, den die Kommunalpolitiker an die Deutsche Bahn, den Bundesverkehrsminister Steffen Bilger und den Verkehrsminister des Landes Brandenburg Robert Crumbach geschickt haben. Im Havelland sollen aufgrund der Bauarbeiten auch Regionalzüge ausfallen. Vier große Sanierungen pro Jahr - wie bislang angestrebt - seien zuviel. mehr",
+  "translation": "",
+  "wordCount": 345,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:01:44.532Z",
+  "vocab": {
+    "Braunschweig-Helmstedt-Magdeburg-Brandenburg": {
+      "word": "Braunschweig-Helmstedt-Magdeburg-Brandenburg",
+      "lemma": "braunschweig-helmstedt-magdeburg-brandenburg",
+      "translation": "brunswick-helmstedt-magdeburgo-brandemburgo",
+      "partOfSpeech": "other",
+      "example": "Und so führt die Umleitung nun 14 Monate lang über Braunschweig-Helmstedt-Magdeburg-Brandenburg.",
+      "pronunciation": ""
+    },
+    "Hannover": {
+      "word": "Hannover",
+      "lemma": "hannover",
+      "translation": "hannover",
+      "partOfSpeech": "other",
+      "example": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin.",
+      "pronunciation": ""
+    },
+    "Monate": {
+      "word": "Monate",
+      "lemma": "monate",
+      "translation": "Meses",
+      "partOfSpeech": "other",
+      "example": "Zehn Monate Sperrung der Schnellfahrstrecke zwischen Lehrte bei Hannover und Berlin.",
+      "pronunciation": ""
+    },
+    "Planfeststellungsbeschlüsse": {
+      "word": "Planfeststellungsbeschlüsse",
+      "lemma": "planfeststellungsbeschlüsse",
+      "translation": "deliberações de aprovação de planeamento",
+      "partOfSpeech": "other",
+      "example": "Außerdem seien Planfeststellungsbeschlüsse später als erwartet erteilt worden.",
+      "pronunciation": ""
+    },
+    "Berlin": {
+      "word": "Berlin",
+      "lemma": "berlin",
+      "translation": "BERLIM",
+      "partOfSpeech": "other",
+      "example": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin.",
+      "pronunciation": ""
+    },
+    "optimistisch": {
+      "word": "optimistisch",
+      "lemma": "optimistisch",
+      "translation": "otimista",
+      "partOfSpeech": "other",
+      "example": "Beginn der Bauarbeiten an der Bahnstrecke zwischen Berlin und Hannover Tino Nowitzki, NDR , tagesschau, Das Erste, 02.10.2026 • 20:00 Uhr \"Zu optimistisch geplant\" Zwei Hauptgründe nennt die Bahn für das Versäumnis.",
+      "pronunciation": ""
+    },
+    "Bauarbeiten": {
+      "word": "Bauarbeiten",
+      "lemma": "bauarbeiten",
+      "translation": "CONSTRUÇÃO",
+      "partOfSpeech": "other",
+      "example": "Beginn der Bauarbeiten an der Bahnstrecke zwischen Berlin und Hannover Tino Nowitzki, NDR , tagesschau, Das Erste, 02.10.2026 • 20:00 Uhr \"Zu optimistisch geplant\" Zwei Hauptgründe nennt die Bahn für das Versäumnis.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
+  "sourceSite": "tagesschau.de"
+}

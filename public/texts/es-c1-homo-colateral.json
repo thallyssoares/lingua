@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-homo-colateral",
+  "language": "es",
+  "level": "C1",
+  "theme": "AI Engineering",
+  "title": "¿Y si para Silicon Valley la extinción del ‘Homo sapiens’ fuera un ‘daño colateral’ acepta",
+  "content": "Rigor acadêmico, estilo jornalístico Lightspring/Shutterstock ¿Y si para Silicon Valley la extinción del ‘Homo sapiens’ fuera un ‘daño colateral’ aceptable? Publicado: 6 outubro 2026 14:08 -03 El transhumanismo es una corriente filosófica y cultural que sostiene que la tecnología debería permitir superar las limitaciones biológicas del ser humano. Sus defensores plantean utilizar los avances en inteligencia artificial, biotecnología, ingeniería genética, neurotecnología y otras tecnologías para ampliar radicalmente nuestras capacidades físicas y cognitivas. De igual manera, prevén retrasar o eliminar el envejecimiento y transformar profundamente la naturaleza humana. En sus versiones más extremas, el transhumanismo contempla incluso la posibilidad de sustituir progresivamente al ser humano biológico por formas de existencia posthumanas, incluidas eventuales superinteligencias artificiales . Por su parte, el altruismo eficaz es una corriente filosófica que propone utilizar la evidencia, el razonamiento y el análisis coste-beneficio para determinar qué actuaciones pueden generar mayor valor. Una de sus derivaciones es el “largoplacismo” , que lleva la perspectiva del altruismo efectivo mucho más allá del presente y concede una importancia extraordinaria al bienestar de las generaciones posthumanas futuras –tanto biológicas como digitales – y a la cantidad de “valor” que estas podrían aportar en un futuro lejano. Llevada a posiciones extremas, esta forma de pensar puede conducir a aceptar costes y riesgos importantes en el presente , si se considera que con ello aumenta significativamente el valor de lo que está por venir. Y aquí aparece una cuestión fundamental: ¿hasta qué punto es legítimo aceptar daños reales hoy en nombre de un futuro hipotético al que se atribuye un valor incalculable ? Desde esta perspectiva, evitar cualquier impedimento para que posibles seres posthumanos desarrollen todo su potencial puede convertirse en una de las máximas prioridades morales. “Hay que preservar la humanidad”, sostienen los largoplacistas. Pero la pregunta que rara vez se formula con suficiente claridad es: ¿qué entienden exactamente por esto? Para la inmensa mayoría de nosotros, significa impedir que el Homo sapiens desaparezca como especie. Sin embargo, cuando determinados líderes tecno-autoritarios como Sam Altman , Dario Amodei –que sacudió la opinión pública con un comunicado reciente sobre el desarrollo de la IA –, Nick Bostrom , Ben Goertzel , Ray Kurzweil , Elon Musk , Larry Page , Peter Thiel o Eliezer Yudkowsky , vinculados al transhumanismo y al largoplacismo, hablan de preservar la humanidad, no necesariamente están hablando de preservar la especie humana.",
+  "translation": "",
+  "wordCount": 393,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:08:17.416Z",
+  "vocab": {
+    "transhumanismo": {
+      "word": "transhumanismo",
+      "lemma": "transhumanismo",
+      "translation": "Transumano",
+      "partOfSpeech": "other",
+      "example": "Publicado: 6 outubro 2026 14:08 -03 El transhumanismo es una corriente filosófica y cultural que sostiene que la tecnología debería permitir superar las limitaciones biológicas del ser humano.",
+      "pronunciation": ""
+    },
+    "preservar": {
+      "word": "preservar",
+      "lemma": "preservar",
+      "translation": "preservar",
+      "partOfSpeech": "other",
+      "example": "“Hay que preservar la humanidad”, sostienen los largoplacistas.",
+      "pronunciation": ""
+    },
+    "largoplacismo": {
+      "word": "largoplacismo",
+      "lemma": "largoplacismo",
+      "translation": "longo prazo",
+      "partOfSpeech": "other",
+      "example": "Una de sus derivaciones es el “largoplacismo” , que lleva la perspectiva del altruismo efectivo mucho más allá del presente y concede una importancia extraordinaria al bienestar de las generaciones posthumanas futuras –tanto biológicas como digitales – y a la cantidad de “valor” que estas podrían aportar en un futuro lejano.",
+      "pronunciation": ""
+    },
+    "posthumanas": {
+      "word": "posthumanas",
+      "lemma": "posthumanas",
+      "translation": "pós-humanos",
+      "partOfSpeech": "other",
+      "example": "En sus versiones más extremas, el transhumanismo contempla incluso la posibilidad de sustituir progresivamente al ser humano biológico por formas de existencia posthumanas, incluidas eventuales superinteligencias artificiales .",
+      "pronunciation": ""
+    },
+    "perspectiva": {
+      "word": "perspectiva",
+      "lemma": "perspectiva",
+      "translation": "perspetiva",
+      "partOfSpeech": "other",
+      "example": "Una de sus derivaciones es el “largoplacismo” , que lleva la perspectiva del altruismo efectivo mucho más allá del presente y concede una importancia extraordinaria al bienestar de las generaciones posthumanas futuras –tanto biológicas como digitales – y a la cantidad de “valor” que estas podrían aportar en un futuro lejano.",
+      "pronunciation": ""
+    },
+    "filosófica": {
+      "word": "filosófica",
+      "lemma": "filosófica",
+      "translation": "filosófico",
+      "partOfSpeech": "other",
+      "example": "Publicado: 6 outubro 2026 14:08 -03 El transhumanismo es una corriente filosófica y cultural que sostiene que la tecnología debería permitir superar las limitaciones biológicas del ser humano.",
+      "pronunciation": ""
+    },
+    "biológicas": {
+      "word": "biológicas",
+      "lemma": "biológicas",
+      "translation": "biológico",
+      "partOfSpeech": "other",
+      "example": "Publicado: 6 outubro 2026 14:08 -03 El transhumanismo es una corriente filosófica y cultural que sostiene que la tecnología debería permitir superar las limitaciones biológicas del ser humano.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/y-si-para-silicon-valley-la-extincion-del-homo-sapiens-fuera-un-dano-colateral-aceptable-293524",
+  "sourceSite": "The Conversation"
+}

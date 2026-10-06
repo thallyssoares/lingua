@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-dtrend",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "ARD-DeutschlandTrend: Drei Viertel der Deutschen spüren vor allem Belastungen",
+  "content": "Inmitten weltweiter Krisen und innenpolitischer Herausforderungen erreicht die Bewertung der Bundesregierung Tiefstwerte, zeigt der ARD-DeutschlandTrend . Versprochene Entlastungen werden vermisst. Die Stimmung hellt sich nicht auf - im Gegenteil. Jeweils nur zehn Prozent sind mit der Arbeit der Bundesregierung und den Leistungen des Kanzlers zufrieden - beides historische Tiefstände im ARD-DeutschlandTrend . In der Sonntagsfrage erreicht die CDU/CSU 20 Prozent (-1 zu September). Auch für die Union bedeutet das einen Tiefstand: So gering lag sie im DeutschlandTrend erst einmal - im September 2021. Die SPD käme wie im Vormonat auf 13 Prozent. Stärkste Partei wäre die AfD mit unverändert 27 Prozent. Die Grünen legen um 1 Punkt zu auf 16 Prozent, der Rückhalt der Linken sinkt im selben Umfang auf 11 Prozent (-1). Alle anderen Parteien würden an der Mandatsschwelle scheitern, darunter die FDP mit 4 Prozent (+/-0). Das ergab eine repräsentative Umfrage von infratest dimap unter 1.303 Wahlberechtigten für den ARD-DeutschlandTrend , die von Montag bis Mittwoch dieser Woche durchgeführt wurde. Der deutsche Sozialstaat und das Gesundheitssystem gelten als Errungenschaften - aber die Deutschen attestieren ihnen Reformbedürftigkeit. Gleichzeitig trauen nur 17 Prozent der Bundesregierung zu, die sozialen Sicherungssysteme zukunftssicher zu machen. Wie das gelingen soll, darüber gehen die Meinungen auseinander: Jeder Zweite (50 Prozent) signalisiert, auch persönlich Einschnitte hinzunehmen, wenn deren Notwendigkeit verständlich erklärt wird. Aber wo sollten diese Einschnitte erfolgen? Immerhin äußern mehr als drei Viertel (77 Prozent), immer mehr Belastungen zu spüren, obwohl die Bundesregierung Entlastungen versprochen habe. Und rund jeder Zweite fürchtet, seinen Lebensstandard künftig nicht halten zu können. Es gibt nun ein Pflegegesetz - doch die große Strukturreform soll erst 2027 folgen. mehr Was wäre in dieser Lage der bessere Weg? Trotzdem eher höhere Beiträge für die Sozialkassen und damit steigende Belastungen für die Bürger - oder Kürzungen der Leistungen, was wiederum die Sozialsysteme beschneidet, auf die die Deutschen positiv blicken?",
+  "translation": "",
+  "wordCount": 306,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:57:44.908Z",
+  "vocab": {
+    "Prozent": {
+      "word": "Prozent",
+      "lemma": "prozent",
+      "translation": "porcento",
+      "partOfSpeech": "other",
+      "example": "Jeweils nur zehn Prozent sind mit der Arbeit der Bundesregierung und den Leistungen des Kanzlers zufrieden - beides historische Tiefstände im ARD-DeutschlandTrend .",
+      "pronunciation": ""
+    },
+    "Bundesregierung": {
+      "word": "Bundesregierung",
+      "lemma": "bundesregierung",
+      "translation": "governo federal",
+      "partOfSpeech": "other",
+      "example": "Inmitten weltweiter Krisen und innenpolitischer Herausforderungen erreicht die Bewertung der Bundesregierung Tiefstwerte, zeigt der ARD-DeutschlandTrend .",
+      "pronunciation": ""
+    },
+    "ARD-DeutschlandTrend": {
+      "word": "ARD-DeutschlandTrend",
+      "lemma": "ard-deutschlandtrend",
+      "translation": "ard-germany-trend",
+      "partOfSpeech": "other",
+      "example": "Inmitten weltweiter Krisen und innenpolitischer Herausforderungen erreicht die Bewertung der Bundesregierung Tiefstwerte, zeigt der ARD-DeutschlandTrend .",
+      "pronunciation": ""
+    },
+    "Entlastungen": {
+      "word": "Entlastungen",
+      "lemma": "entlastungen",
+      "translation": "Quitação",
+      "partOfSpeech": "other",
+      "example": "Versprochene Entlastungen werden vermisst.",
+      "pronunciation": ""
+    },
+    "Einschnitte": {
+      "word": "Einschnitte",
+      "lemma": "einschnitte",
+      "translation": "incisões",
+      "partOfSpeech": "other",
+      "example": "Wie das gelingen soll, darüber gehen die Meinungen auseinander: Jeder Zweite (50 Prozent) signalisiert, auch persönlich Einschnitte hinzunehmen, wenn deren Notwendigkeit verständlich erklärt wird.",
+      "pronunciation": ""
+    },
+    "Belastungen": {
+      "word": "Belastungen",
+      "lemma": "belastungen",
+      "translation": "Ónus:",
+      "partOfSpeech": "other",
+      "example": "Immerhin äußern mehr als drei Viertel (77 Prozent), immer mehr Belastungen zu spüren, obwohl die Bundesregierung Entlastungen versprochen habe.",
+      "pronunciation": ""
+    },
+    "Leistungen": {
+      "word": "Leistungen",
+      "lemma": "leistungen",
+      "translation": "Atos",
+      "partOfSpeech": "other",
+      "example": "Jeweils nur zehn Prozent sind mit der Arbeit der Bundesregierung und den Leistungen des Kanzlers zufrieden - beides historische Tiefstände im ARD-DeutschlandTrend .",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-oktober-110.html",
+  "sourceSite": "tagesschau.de"
+}

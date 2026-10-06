@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-palma",
+  "language": "es",
+  "level": "C1",
+  "theme": "Cotidiano",
+  "title": "La Palma: un patrón magmático escrito en los cristales del volcán",
+  "content": "Cumbre Vieja es el volcán más activo de Canarias, con nueve erupciones en los últimos 1 100 años. En un trabajo publicado hoy en la revista Nature Communications mostramos que esas erupciones siguen un mismo patrón. El patrón puede resumirse de la siguiente forma. A lo largo del tiempo el magma se acumula a grandes profundidades bajo la superficie, hasta que la llegada de magma nuevo, más caliente, rompe el reservorio de magma profundo. Esto favorece su ascenso hacia la superficie y, finalmente, su erupción. La erupción de 2021 pudo observarse con un detalle sin precedentes, pero nosotros quisimos ir más allá para responder esta pregunta: ¿ha cambiado el sistema magmático bajo la isla con el tiempo, o las erupciones históricas comparten una misma historia? Para averiguarlo estudiamos rocas de tres erupciones en La Palma: El Charco (1712), Teneguía (1971) y Tajogaite (2021). Las tres siguieron un patrón parecido: empezaron emitiendo un magma cuya composición cambiaba a medida que se enfriaba y cristalizaba en profundidad. Con el avance de la erupción, las lavas se volvieron cada vez más calientes y fluidas. Una dificultad a la que nos enfrentamos los investigadores que estudiamos las erupciones volcánicas es que no podemos observar directamente el magma moviéndose bajo un volcán. En su lugar, reconstruimos su recorrido a partir de las rocas y los minerales que el propio volcán trae hasta la superficie durante una erupción. En nuestro estudio nos centramos principalmente en un mineral llamado “clinopiroxeno” , muy común en las lavas de La Palma. Este mineral crece dentro del magma añadiendo una capa tras otra, de forma parecida a los anillos de un árbol. Cuando cambia la temperatura, la presión o la composición del magma que los rodea, pueden crecer nuevas capas con una composición ligeramente distinta. Así, cada cristal funciona como una especie de archivo natural: conserva un registro de los diferentes magmas y de las condiciones a las que estuvo expuesto antes de la erupción. Son datos que los investigadores podemos utilizar para reconstruir la vida de los volcanes. Para ello, medimos la composición química de esas capas y elaboramos mapas microscópicos de la distribución de distintos elementos dentro de cada cristal. Después calculamos las profundidades y temperaturas a las que se habían formado. Combinando toda esta información reconstruimos la historia del magma: desde su almacenamiento en profundidad hasta su ascenso y erupción.",
+  "translation": "",
+  "wordCount": 393,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:10:03.859Z",
+  "vocab": {
+    "erupciones": {
+      "word": "erupciones",
+      "lemma": "erupciones",
+      "translation": "erupções cutâneas",
+      "partOfSpeech": "other",
+      "example": "Cumbre Vieja es el volcán más activo de Canarias, con nueve erupciones en los últimos 1 100 años.",
+      "pronunciation": ""
+    },
+    "erupción": {
+      "word": "erupción",
+      "lemma": "erupción",
+      "translation": "erupção",
+      "partOfSpeech": "other",
+      "example": "Esto favorece su ascenso hacia la superficie y, finalmente, su erupción.",
+      "pronunciation": ""
+    },
+    "composición": {
+      "word": "composición",
+      "lemma": "composición",
+      "translation": "composição",
+      "partOfSpeech": "other",
+      "example": "Las tres siguieron un patrón parecido: empezaron emitiendo un magma cuya composición cambiaba a medida que se enfriaba y cristalizaba en profundidad.",
+      "pronunciation": ""
+    },
+    "magma": {
+      "word": "magma",
+      "lemma": "magma",
+      "translation": "Magmatismo",
+      "partOfSpeech": "other",
+      "example": "A lo largo del tiempo el magma se acumula a grandes profundidades bajo la superficie, hasta que la llegada de magma nuevo, más caliente, rompe el reservorio de magma profundo.",
+      "pronunciation": ""
+    },
+    "superficie": {
+      "word": "superficie",
+      "lemma": "superficie",
+      "translation": "superfície",
+      "partOfSpeech": "other",
+      "example": "A lo largo del tiempo el magma se acumula a grandes profundidades bajo la superficie, hasta que la llegada de magma nuevo, más caliente, rompe el reservorio de magma profundo.",
+      "pronunciation": ""
+    },
+    "investigadores": {
+      "word": "investigadores",
+      "lemma": "investigadores",
+      "translation": "pesquisadores",
+      "partOfSpeech": "other",
+      "example": "Una dificultad a la que nos enfrentamos los investigadores que estudiamos las erupciones volcánicas es que no podemos observar directamente el magma moviéndose bajo un volcán.",
+      "pronunciation": ""
+    },
+    "profundidades": {
+      "word": "profundidades",
+      "lemma": "profundidades",
+      "translation": "profundidades",
+      "partOfSpeech": "other",
+      "example": "A lo largo del tiempo el magma se acumula a grandes profundidades bajo la superficie, hasta que la llegada de magma nuevo, más caliente, rompe el reservorio de magma profundo.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/la-palma-un-patron-magmatico-escrito-en-los-cristales-del-volcan-289929",
+  "sourceSite": "The Conversation"
+}

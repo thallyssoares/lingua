@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-iranfussball",
+  "language": "de",
+  "level": "A2",
+  "theme": "Futebol",
+  "title": "Angst um Familien - Doch kein Asyl in Australien: Fußball-Spielerinnen sind zurück im Iran",
+  "content": "Australien ist ein großes Land. Es liegt sehr weit von Deutschland entfernt, auf der anderen Seite der Erde. Die meisten Menschen in Australien sprechen Englisch. Die Hauptstadt heißt Canberra. Länder können Menschen Asyl geben. Dass heißt: die Menschen dürfen in diesem Land leben. Sie bekommen dort Schutz. Flüchtlinge suchen oft Asyl, weil sie in ihrem Land verfolgt werden, oder weil dort Krieg ist. Wenn Flüchtlinge in Deutschland Asyl beantragen, müssen sie oft lange auf eine Entscheidung warten. In dieser Zeit nennt man die Flüchtlinge Asyl-Bewerber oder Asyl-Suchende.",
+  "translation": "",
+  "wordCount": 87,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:10:57.064Z",
+  "vocab": {
+    "Flüchtlinge": {
+      "word": "Flüchtlinge",
+      "lemma": "flüchtlinge",
+      "translation": "flüchtlinge",
+      "partOfSpeech": "other",
+      "example": "Flüchtlinge suchen oft Asyl, weil sie in ihrem Land verfolgt werden, oder weil dort Krieg ist.",
+      "pronunciation": ""
+    },
+    "Menschen": {
+      "word": "Menschen",
+      "lemma": "menschen",
+      "translation": "Pessoas",
+      "partOfSpeech": "other",
+      "example": "Die meisten Menschen in Australien sprechen Englisch.",
+      "pronunciation": ""
+    },
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Es liegt sehr weit von Deutschland entfernt, auf der anderen Seite der Erde.",
+      "pronunciation": ""
+    },
+    "Australien": {
+      "word": "Australien",
+      "lemma": "australien",
+      "translation": "australien",
+      "partOfSpeech": "other",
+      "example": "Australien ist ein großes Land.",
+      "pronunciation": ""
+    },
+    "Asyl-Bewerber": {
+      "word": "Asyl-Bewerber",
+      "lemma": "asyl-bewerber",
+      "translation": "asyl-bewerber",
+      "partOfSpeech": "other",
+      "example": "In dieser Zeit nennt man die Flüchtlinge Asyl-Bewerber oder Asyl-Suchende.",
+      "pronunciation": ""
+    },
+    "Asyl-Suchende": {
+      "word": "Asyl-Suchende",
+      "lemma": "asyl-suchende",
+      "translation": "asyl-suchende",
+      "partOfSpeech": "other",
+      "example": "In dieser Zeit nennt man die Flüchtlinge Asyl-Bewerber oder Asyl-Suchende.",
+      "pronunciation": ""
+    },
+    "Entscheidung": {
+      "word": "Entscheidung",
+      "lemma": "entscheidung",
+      "translation": "Decisão",
+      "partOfSpeech": "other",
+      "example": "Wenn Flüchtlinge in Deutschland Asyl beantragen, müssen sie oft lange auf eine Entscheidung warten.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/fussball-iran-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

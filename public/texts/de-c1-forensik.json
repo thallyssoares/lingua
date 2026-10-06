@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-forensik",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Polizei sichert mit Archäologie Spuren unter der Erde",
+  "content": "Vergrabene Tatorte stellen Ermittler vor besondere Herausforderungen. Deshalb lernen Kriminaltechniker Methoden der forensischen Archäologie, um selbst jahrzehntealte und verborgene Spuren zu sichern. Polizeieinsatz nahe der österreichischen Grenze. Die Beamten suchen im oberbayerischen Ainring zwei Mordopfer, die hier vergraben sein sollen. Doch heute suchen sie anders als sonst. Die Kriminaltechniker arbeiten wie Archäologen: Kellen kratzen über den Erdboden, Pinsel legen die Knochen zweier Skelette frei. Penibel dokumentieren sie jedes Detail, das der Erdboden freigibt: Vom vergrabenen Revolver bis zum rostigen Kronkorken. Das Szenario dient der Übung. Im Fortbildungsinstitut der Bayerischen Polizei trainieren die Beamten den Ernstfall: Ein möglicher Tatort, der schon Jahrzehnte unter der Erde liegt, sei zwar selten, schildert Kriminaltechniker Patrick Baumgartner von der Kripo Landshut - er und viele seiner Kollegen haben in ihrer Laufbahn noch keinen erlebt. Doch letztlich geht es dabei um Kapitalverbrechen wie Mord. Die Kriminaltechniker wollen bei derartiger Arbeit keine Spuren übersehen, und erst recht nicht versehentlich falsche Spuren, sogenannte Trugspuren, erzeugen. Aber was tun, wenn Spuren zum Beispiel vergraben und vielleicht Jahrzehnte alt sind? \"Wie gehe ich an die Stelle ran? Was brauche ich als Equipment? Wie dokumentiere ich das, damit es dann auch vor Gericht verwertbar ist?\", erklärt Patrick Baumgartner. Die Pyramide des Pharaos Mykerinos im ägyptischen Gizeh hat offenbar einen weiteren, bisher unbekannten Eingang. mehr Ein Negativbeispiel, das Kriminalbeamte bis heute umtreibt, ist der Fall der 2001 verschwundenen Peggy aus Lichtenberg. Als die Leiche des Mädchens 2016 in Thüringen gefunden wurde, sicherten Beamte dort Spuren, die laut DNA zum NSU-Terroristen Uwe Böhnhardt gehörten. Eine schwere Ermittlungspanne, wie sich später zeigte. Wie die Trugspur zustande kam, ist bis heute unklar. Doch fest steht: Wiederholen soll sich derartiges nicht. Helfen sollen dabei Methoden aus der Archäologie, um so selbst jahrzehntealte Tatorte bestmöglich auf Indizien zu untersuchen. Aktuelle Nachrichten aus der Welt der Wissenschaft. Neue Studien und Hintergründe zu den Themen Klima, Gesundheit, Technik und Forschung. mehr Was für manche nach verstaubter Wissenschaft und längst vergangenen Kulturen klingt, wird dabei zum wichtigen Werkzeug: Seit zwei Jahren schult das Bayerische Landeskriminalamt seine Kriminaltechnikerinnen und -techniker in sogenannter forensischer Archäologie, also Skelettreste und Spuren zu sichern wie bei einer archäologischen Ausgrabung.",
+  "translation": "",
+  "wordCount": 354,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:44:29.044Z",
+  "vocab": {
+    "Kriminaltechniker": {
+      "word": "Kriminaltechniker",
+      "lemma": "kriminaltechniker",
+      "translation": "kriminaltechniker",
+      "partOfSpeech": "other",
+      "example": "Deshalb lernen Kriminaltechniker Methoden der forensischen Archäologie, um selbst jahrzehntealte und verborgene Spuren zu sichern.",
+      "pronunciation": ""
+    },
+    "Spuren": {
+      "word": "Spuren",
+      "lemma": "spuren",
+      "translation": "spuren",
+      "partOfSpeech": "other",
+      "example": "Deshalb lernen Kriminaltechniker Methoden der forensischen Archäologie, um selbst jahrzehntealte und verborgene Spuren zu sichern.",
+      "pronunciation": ""
+    },
+    "Archäologie": {
+      "word": "Archäologie",
+      "lemma": "archäologie",
+      "translation": "archäologie",
+      "partOfSpeech": "other",
+      "example": "Deshalb lernen Kriminaltechniker Methoden der forensischen Archäologie, um selbst jahrzehntealte und verborgene Spuren zu sichern.",
+      "pronunciation": ""
+    },
+    "jahrzehntealte": {
+      "word": "jahrzehntealte",
+      "lemma": "jahrzehntealte",
+      "translation": "décadas",
+      "partOfSpeech": "other",
+      "example": "Deshalb lernen Kriminaltechniker Methoden der forensischen Archäologie, um selbst jahrzehntealte und verborgene Spuren zu sichern.",
+      "pronunciation": ""
+    },
+    "Wissenschaft": {
+      "word": "Wissenschaft",
+      "lemma": "wissenschaft",
+      "translation": "wissenschaft",
+      "partOfSpeech": "other",
+      "example": "Aktuelle Nachrichten aus der Welt der Wissenschaft.",
+      "pronunciation": ""
+    },
+    "Baumgartner": {
+      "word": "Baumgartner",
+      "lemma": "baumgartner",
+      "translation": "baumgartner",
+      "partOfSpeech": "other",
+      "example": "Im Fortbildungsinstitut der Bayerischen Polizei trainieren die Beamten den Ernstfall: Ein möglicher Tatort, der schon Jahrzehnte unter der Erde liegt, sei zwar selten, schildert Kriminaltechniker Patrick Baumgartner von der Kripo Landshut - er und viele seiner Kollegen haben in ihrer Laufbahn noch keinen erlebt.",
+      "pronunciation": ""
+    },
+    "Kriminaltechnikerinnen": {
+      "word": "Kriminaltechnikerinnen",
+      "lemma": "kriminaltechnikerinnen",
+      "translation": "kriminaltechnikerinnen",
+      "partOfSpeech": "other",
+      "example": "mehr Was für manche nach verstaubter Wissenschaft und längst vergangenen Kulturen klingt, wird dabei zum wichtigen Werkzeug: Seit zwei Jahren schult das Bayerische Landeskriminalamt seine Kriminaltechnikerinnen und -techniker in sogenannter forensischer Archäologie, also Skelettreste und Spuren zu sichern wie bei einer archäologischen Ausgrabung.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/forschung/polizei-forensik-archaeologie-spurensicherung-100.html",
+  "sourceSite": "tagesschau.de"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "es-c1-peste",
+  "language": "es",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Posible muerte por peste neumónica en Rusia: por qué puede fallar la bioseguridad en un la",
+  "content": "Las primeras informaciones apuntaban a una posible infección por peste neumónica tras un accidente de laboratorio. Sin embargo, las autoridades aún no han confirmado exactamente el patógeno responsable de la muerte. A pesar de ello, los trabajadores del centro han sido aislados y los contactos están sometidos a vigilancia. El caso plantea una pregunta interesante: ¿cómo se protege a quienes trabajan diariamente con microorganismos capaces de causar enfermedades graves o incluso mortales? La respuesta empieza por los llamados niveles de bioseguridad, más conocidos por sus siglas inglesas BSL ( Biosafety Level ) . El BSL-3 –el aplicado cuando se manipula Yersinia pestis – rige para agentes de alto riesgo para el trabajador, pero de baja transmisión a la comunidad, como virus transmitidos por contacto con sangre. Este nivel incorpora estrictos controles de esterilización, acceso y contención. El BSL-4 está reservado para algunos de los microorganismos más peligrosos y exige las máximas barreras de aislamiento respiratorio y protección hacia el exterior, ya que pueden transmitirse por el aire. Pero por más precauciones que se apliquen, conviene recordar que, para muchos patógenos, no existen barreras infranqueables. Tampoco existe tecnología capaz de convertir un laboratorio en una cámara acorazada. Encontramos un buen ejemplo en la propia Yersinia pestis . En 2009, el biólogo Malcolm Casadaban, científico de la Universidad de Chicago, murió tras infectarse con una cepa de laboratorio de esta bacteria. Lo sorprendente era que trabajaba con una cepa atenuada que no se consideraba peligrosa porque necesitaba un medio especial muy rico en hierro. Desafortunadamente, Casadaban padecía una enfermedad genética en la que el organismo acumulaba cantidades altísimas de hierro ( hemocromatosis ) y fue, probablemente, esa abundancia de hierro en su organismo lo que compensó la debilidad que hacía a la bacteria de la peste menos virulenta. La vía exacta por la que se infectó nunca pudo determinarse . El caso demuestra una característica fundamental de la bioseguridad: el riesgo no reside únicamente en el microorganismo. Surge de la interacción entre el microorganismo, el tipo de experimento, las instalaciones y la persona que lo manipula.",
+  "translation": "",
+  "wordCount": 344,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.150Z",
+  "vocab": {
+    "laboratorio": {
+      "word": "laboratorio",
+      "lemma": "laboratorio",
+      "translation": "laboratório",
+      "partOfSpeech": "other",
+      "example": "Las primeras informaciones apuntaban a una posible infección por peste neumónica tras un accidente de laboratorio.",
+      "pronunciation": ""
+    },
+    "microorganismos": {
+      "word": "microorganismos",
+      "lemma": "microorganismo",
+      "translation": "MICRORGANISMO",
+      "partOfSpeech": "other",
+      "example": "El caso plantea una pregunta interesante: ¿cómo se protege a quienes trabajan diariamente con microorganismos capaces de causar enfermedades graves o incluso mortales?",
+      "pronunciation": ""
+    },
+    "bioseguridad": {
+      "word": "bioseguridad",
+      "lemma": "bioseguridad",
+      "translation": "- Biossegurança<g id=\"1\">,</g>",
+      "partOfSpeech": "other",
+      "example": "La respuesta empieza por los llamados niveles de bioseguridad, más conocidos por sus siglas inglesas BSL ( Biosafety Level ) .",
+      "pronunciation": ""
+    },
+    "Casadaban": {
+      "word": "Casadaban",
+      "lemma": "casadaban",
+      "translation": "casado",
+      "partOfSpeech": "other",
+      "example": "En 2009, el biólogo Malcolm Casadaban, científico de la Universidad de Chicago, murió tras infectarse con una cepa de laboratorio de esta bacteria.",
+      "pronunciation": ""
+    },
+    "hierro": {
+      "word": "hierro",
+      "lemma": "hierro",
+      "translation": "ferro",
+      "partOfSpeech": "other",
+      "example": "Lo sorprendente era que trabajaba con una cepa atenuada que no se consideraba peligrosa porque necesitaba un medio especial muy rico en hierro.",
+      "pronunciation": ""
+    },
+    "Desafortunadamente": {
+      "word": "Desafortunadamente",
+      "lemma": "desafortunadamente",
+      "translation": "Infelizmente",
+      "partOfSpeech": "other",
+      "example": "Desafortunadamente, Casadaban padecía una enfermedad genética en la que el organismo acumulaba cantidades altísimas de hierro ( hemocromatosis ) y fue, probablemente, esa abundancia de hierro en su organismo lo que compensó la debilidad que hacía a la bacteria de la peste menos virulenta.",
+      "pronunciation": ""
+    },
+    "manipula": {
+      "word": "manipula",
+      "lemma": "manipula",
+      "translation": "manipular",
+      "partOfSpeech": "other",
+      "example": "El BSL-3 –el aplicado cuando se manipula Yersinia pestis – rige para agentes de alto riesgo para el trabajador, pero de baja transmisión a la comunidad, como virus transmitidos por contacto con sangre.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/posible-muerte-por-peste-neumonica-en-rusia-por-que-puede-fallar-la-bioseguridad-en-un-laboratorio-293571",
+  "sourceSite": "The Conversation"
+}

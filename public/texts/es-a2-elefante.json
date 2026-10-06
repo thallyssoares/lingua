@@ -1,0 +1,73 @@
+{
+  "id": "es-a2-elefante",
+  "language": "es",
+  "level": "A2",
+  "theme": "Cotidiano",
+  "title": "Cuento para superar las adversidades",
+  "content": "Había una vez un elefante que quería ser fotógrafo. Sus amigos se reían cada vez que le oían decir aquello: - Qué tontería - decían unos- ¡no hay cámaras de fotos para elefantes! - Qué pérdida de tiempo -decían los otros- si aquí no hay nada que fotografíar ... Pero el elefante seguía con su ilusión, y poco a poco fue reuniendo trastos y aparatos con los que fabricar una gran cámara de fotos. Tuvo que hacerlo prácticamente todo: desde un botón que se pulsara con la trompa, hasta un objetivo del tamaño del ojo de un elefante , y finalmente un montón de hierros para poder colgarse la cámara sobre la cabeza. Así que una vez acabada, pudo hacer sus primeras fotos, pero su cámara para elefantes era tan grandota y extraña que paracecía una gran y ridícula máscara , y muchos se reían tanto al verle aparecer, que el elefante comenzó a pensar en abandonar su sueño.. Para más desgracia, parecían tener razón los que decían que no había nada que fotografiar en aquel lugar...",
+  "translation": "",
+  "wordCount": 177,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:24:33.715Z",
+  "vocab": {
+    "elefante": {
+      "word": "elefante",
+      "lemma": "elefante",
+      "translation": "elefante",
+      "partOfSpeech": "other",
+      "example": "Había una vez un elefante que quería ser fotógrafo.",
+      "pronunciation": ""
+    },
+    "decían": {
+      "word": "decían",
+      "lemma": "decían",
+      "translation": "decían",
+      "partOfSpeech": "other",
+      "example": "Sus amigos se reían cada vez que le oían decir aquello: - Qué tontería - decían unos- ¡no hay cámaras de fotos para elefantes!",
+      "pronunciation": ""
+    },
+    "elefantes": {
+      "word": "elefantes",
+      "lemma": "elefantes",
+      "translation": "elefantes",
+      "partOfSpeech": "other",
+      "example": "Sus amigos se reían cada vez que le oían decir aquello: - Qué tontería - decían unos- ¡no hay cámaras de fotos para elefantes!",
+      "pronunciation": ""
+    },
+    "cámaras": {
+      "word": "cámaras",
+      "lemma": "cámara",
+      "translation": "cámara",
+      "partOfSpeech": "other",
+      "example": "Sus amigos se reían cada vez que le oían decir aquello: - Qué tontería - decían unos- ¡no hay cámaras de fotos para elefantes!",
+      "pronunciation": ""
+    },
+    "fotos": {
+      "word": "fotos",
+      "lemma": "fotos",
+      "translation": "fotos",
+      "partOfSpeech": "other",
+      "example": "Sus amigos se reían cada vez que le oían decir aquello: - Qué tontería - decían unos- ¡no hay cámaras de fotos para elefantes!",
+      "pronunciation": ""
+    },
+    "prácticamente": {
+      "word": "prácticamente",
+      "lemma": "prácticamente",
+      "translation": "prácticamente",
+      "partOfSpeech": "other",
+      "example": "Tuvo que hacerlo prácticamente todo: desde un botón que se pulsara con la trompa, hasta un objetivo del tamaño del ojo de un elefante , y finalmente un montón de hierros para poder colgarse la cámara sobre la cabeza.",
+      "pronunciation": ""
+    },
+    "fotografíar": {
+      "word": "fotografíar",
+      "lemma": "fotografíar",
+      "translation": "fotografíar",
+      "partOfSpeech": "other",
+      "example": "- Qué pérdida de tiempo -decían los otros- si aquí no hay nada que fotografíar ...",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://cuentosparadormir.com/infantiles/cuento/el-elefante-fotografo",
+  "sourceSite": "CuentosparaDormir"
+}

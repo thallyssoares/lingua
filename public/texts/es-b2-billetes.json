@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-billetes",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Las aves que podrían aparecer en los próximos billetes de euro",
+  "content": "Desde la introducción del euro en 2002, el anverso de nuestros billetes solo ha cambiado en dos ocasiones, pero el Banco Central Europeo (BCE), única autoridad emisora de euros, desea ahora poner en circulación nuevos billetes. Para ilustrarlos, tras un largo proceso de selección ciudadano, ha identificado dos posibles temas : “cultura europea” y “ríos y aves”. Esta elección no tiene nada de sorprendente, ya que el dualismo naturaleza/cultura estructura el pensamiento occidental desde Platón hasta los trabajos contemporáneos de antropólogos como el francés Philippe Descola . Para afinar la selección de las ilustraciones de las seis series de billetes, de 5 a 200 euros, el BCE convocó un concurso al que respondieron 1 241 diseñadores gráficos de toda la Unión Europea (UE). Tras varias fases de selección –para determinar, en particular, las personalidades europeas y las especies de aves que debían representarse–, la institución eligió finalmente cinco propuestas para cada uno de los dos temas. Estas diez iniciativas para las seis series de billetes están abiertas a la votación en línea hasta el 21 de septiembre. Partiendo de ahí, ¿qué especies de aves elegir? Esto es lo que nos explica la institución financiera sobre los criterios de selección . Las especies de aves seleccionadas debían ilustrar la diversidad de los ecosistemas fluviales, desde el manantial hasta el océano. También era necesario que fueran bellas, migratorias, que tuvieran una amplia distribución en Europa y que se hubieran beneficiado de las medidas de protección adoptadas por la UE. Por último, estas especies no debían tener una percepción negativa en ninguno de los países de la zona del euro. Pero ¿responden adecuadamente a este pliego de condiciones las propuestas sometidas a votación? Eso es lo que nos proponemos analizar. Desde el billete de 5 euros hasta el de 200 euros, aparecen sucesivamente el treparriscos ( Tichodroma muraria ), el martín pescador ( Alcedo atthis ), el avispón común ( Merops apiaster ), la cigüeña blanca ( Ciconia ciconia ), la avoceta común ( Recurvirostra avosetta ) y el alcatrán común ( Morus bassanus ).",
+  "translation": "",
+  "wordCount": 342,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:05.170Z",
+  "vocab": {
+    "selección": {
+      "word": "selección",
+      "lemma": "selección",
+      "translation": "seleção",
+      "partOfSpeech": "other",
+      "example": "Para ilustrarlos, tras un largo proceso de selección ciudadano, ha identificado dos posibles temas : “cultura europea” y “ríos y aves”.",
+      "pronunciation": ""
+    },
+    "billetes": {
+      "word": "billetes",
+      "lemma": "billetes",
+      "translation": "notas",
+      "partOfSpeech": "other",
+      "example": "Desde la introducción del euro en 2002, el anverso de nuestros billetes solo ha cambiado en dos ocasiones, pero el Banco Central Europeo (BCE), única autoridad emisora de euros, desea ahora poner en circulación nuevos billetes.",
+      "pronunciation": ""
+    },
+    "especies": {
+      "word": "especies",
+      "lemma": "especies",
+      "translation": "Espécies",
+      "partOfSpeech": "other",
+      "example": "Tras varias fases de selección –para determinar, en particular, las personalidades europeas y las especies de aves que debían representarse–, la institución eligió finalmente cinco propuestas para cada uno de los dos temas.",
+      "pronunciation": ""
+    },
+    "institución": {
+      "word": "institución",
+      "lemma": "institución",
+      "translation": "instituição",
+      "partOfSpeech": "other",
+      "example": "Tras varias fases de selección –para determinar, en particular, las personalidades europeas y las especies de aves que debían representarse–, la institución eligió finalmente cinco propuestas para cada uno de los dos temas.",
+      "pronunciation": ""
+    },
+    "Desde": {
+      "word": "Desde",
+      "lemma": "desde",
+      "translation": "desde",
+      "partOfSpeech": "other",
+      "example": "Desde la introducción del euro en 2002, el anverso de nuestros billetes solo ha cambiado en dos ocasiones, pero el Banco Central Europeo (BCE), única autoridad emisora de euros, desea ahora poner en circulación nuevos billetes.",
+      "pronunciation": ""
+    },
+    "euros": {
+      "word": "euros",
+      "lemma": "euros",
+      "translation": "euros",
+      "partOfSpeech": "other",
+      "example": "Desde la introducción del euro en 2002, el anverso de nuestros billetes solo ha cambiado en dos ocasiones, pero el Banco Central Europeo (BCE), única autoridad emisora de euros, desea ahora poner en circulación nuevos billetes.",
+      "pronunciation": ""
+    },
+    "hasta": {
+      "word": "hasta",
+      "lemma": "hasta",
+      "translation": "até",
+      "partOfSpeech": "other",
+      "example": "Esta elección no tiene nada de sorprendente, ya que el dualismo naturaleza/cultura estructura el pensamiento occidental desde Platón hasta los trabajos contemporáneos de antropólogos como el francés Philippe Descola .",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/las-aves-que-podrian-aparecer-en-los-proximos-billetes-de-euro-292252",
+  "sourceSite": "The Conversation"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-b2-ignobel",
+  "language": "de",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
+  "content": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben. Der Ig-Nobelpreis wirkt auf den ersten Blick vielleicht wie Satire oder sogar Spott. Selbst der Name hört sich danach an: Ein Wortspiel mit dem wohl bekanntesten Wissenschaftspreis, dem Nobelpreis, und dem englischen Wort \"ignoble\", etwa schändlich oder unehrenhaft. Doch er ist das genaue Gegenteil: Er soll das Interesse an Forschung wecken, Menschen anregen, sich mit Wissenschaft zu beschäftigen, und gleichzeitig Forschende dafür belohnen, auch über den Tellerrand zu blicken. Wie der Preis das schafft? Mit Humor. Ausgezeichnet werden Forschende, die sich mit lustigen oder absurd klingenden Themen beschäftigen, etwa einem wissenschaftlich perfekten Rezept für den Pasta-Klassiker Cacio e Pepe oder der Entwicklung einer Technik, um nüchterne und betrunkene Würmer voneinander zu trennen. Der diesjährige Preis für \"olfaktorische Wahrnehmung\", also den Geruchssinn, geht unter anderem an Ilona Croy, die mit ihrer Arbeitsgruppe der Klinischen Psychologie an der Universität Jena den Einfluss des Geruchssinns auf zwischenmenschliche Beziehungen untersucht. Ausgezeichnet wird eine Studie, die zeigt, dass Eltern mit zunehmendem Alter ihrer Kinder immer weniger Gefallen an deren Körpergeruch finden. Kurz: Babys riechen gut, Teenager weniger. Italienische Forscher haben eine narrensichere Zubereitungsmethode für das römische Gericht Cacio e Pepe entwickelt. mehr Dieses Ergebnis hat - gewollt oder ungewollt - Humor. Eltern mit pubertierenden Kindern denken sich vielleicht \"Endlich gibt es den wissenschaftlichen Beweis!\" Damit ist die erste Bedingung für einen Ig-Nobelpreis gegeben: Erst lachen… Dass ihre Forschung als lustig aufgefasst werden kann - damit hat Ilona Croy gerechnet. Seit Jahren kämen regelmäßig Menschen in ihr Labor, um an Schweißproben aus dem Tiefkühlschrank zu schnüffeln. \"Ich habe vermutet, dass das absurd wirkt\", sagt sie.",
+  "translation": "",
+  "wordCount": 290,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:44:24.359Z",
+  "vocab": {
+    "Ig-Nobelpreis": {
+      "word": "Ig-Nobelpreis",
+      "lemma": "ig-nobelpreis",
+      "translation": "ig-nobelpreis",
+      "partOfSpeech": "other",
+      "example": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken.",
+      "pronunciation": ""
+    },
+    "Ausgezeichnet": {
+      "word": "Ausgezeichnet",
+      "lemma": "ausgezeichnet",
+      "translation": "Excelente",
+      "partOfSpeech": "other",
+      "example": "Ausgezeichnet werden Forschende, die sich mit lustigen oder absurd klingenden Themen beschäftigen, etwa einem wissenschaftlich perfekten Rezept für den Pasta-Klassiker Cacio e Pepe oder der Entwicklung einer Technik, um nüchterne und betrunkene Würmer voneinander zu trennen.",
+      "pronunciation": ""
+    },
+    "beschäftigen": {
+      "word": "beschäftigen",
+      "lemma": "beschäftigen",
+      "translation": "ocupar",
+      "partOfSpeech": "other",
+      "example": "Doch er ist das genaue Gegenteil: Er soll das Interesse an Forschung wecken, Menschen anregen, sich mit Wissenschaft zu beschäftigen, und gleichzeitig Forschende dafür belohnen, auch über den Tellerrand zu blicken.",
+      "pronunciation": ""
+    },
+    "vielleicht": {
+      "word": "vielleicht",
+      "lemma": "vielleicht",
+      "translation": "talvez",
+      "partOfSpeech": "other",
+      "example": "Der Ig-Nobelpreis wirkt auf den ersten Blick vielleicht wie Satire oder sogar Spott.",
+      "pronunciation": ""
+    },
+    "Forschende": {
+      "word": "Forschende",
+      "lemma": "forschende",
+      "translation": "forschende",
+      "partOfSpeech": "other",
+      "example": "Doch er ist das genaue Gegenteil: Er soll das Interesse an Forschung wecken, Menschen anregen, sich mit Wissenschaft zu beschäftigen, und gleichzeitig Forschende dafür belohnen, auch über den Tellerrand zu blicken.",
+      "pronunciation": ""
+    },
+    "zwischenmenschliche": {
+      "word": "zwischenmenschliche",
+      "lemma": "zwischenmenschliche",
+      "translation": "interpessoal",
+      "partOfSpeech": "other",
+      "example": "Der diesjährige Preis für \"olfaktorische Wahrnehmung\", also den Geruchssinn, geht unter anderem an Ilona Croy, die mit ihrer Arbeitsgruppe der Klinischen Psychologie an der Universität Jena den Einfluss des Geruchssinns auf zwischenmenschliche Beziehungen untersucht.",
+      "pronunciation": ""
+    },
+    "Zubereitungsmethode": {
+      "word": "Zubereitungsmethode",
+      "lemma": "zubereitungsmethode",
+      "translation": "zubereitungsmethode",
+      "partOfSpeech": "other",
+      "example": "Italienische Forscher haben eine narrensichere Zubereitungsmethode für das römische Gericht Cacio e Pepe entwickelt.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
+  "sourceSite": "tagesschau.de"
+}

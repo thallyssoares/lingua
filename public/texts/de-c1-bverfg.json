@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-bverfg",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
+  "content": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben. Nun will die Partei das höchste deutsche Gericht entscheiden lassen. Die Linke zieht im Streit um eine Äußerung von Bundeswirtschaftsministerin Katherina Reiche (CDU) vor das Bundesverfassungsgericht. Grund für den Eilantrag, der mehreren Medien vorliegt, ist ein Instagram-Video des Ministeriums nach dem Wahlsieg der Linken in Berlin. In den Ausschnitten einer Rede vom 23. September warnt Reiche, es sei gefährlich für die Hauptstadt und den Investitionsstandort Deutschland, dass eine Partei über Enteignung spreche und dies in ihr Programm schreibe sowie \"Antisemitismus offen lebt, die den Juden in dieser Stadt Angst macht\". Auch die möglichen Partner äußern Bedenken - wegen antisemitischer Tendenzen in der Partei. mehr Die Linke hatte Reiche über einen Anwalt aufgefordert, das Video bis zum 29. September zu entfernen - jedoch stand es Sonntagabend weiter online. Nun verfolgt die Partei dasselbe Ziel mit dem Gang nach Karlsruhe. Konkret argumentiert die Linke in dem Antrag, Reiche habe das Neutralitätsgebot für Staatsorgane missachtet und die Linke in ihrem Recht auf gleichberechtigte Teilnahme am politischen Wettbewerb verletzt. Reiche habe sich rechtswidrig in ihrer Position als Bundeswirtschaftsministerin „einseitig und parteipolitisch“ geäußert und sei „Teil einer systematischen Kampagne“ der CDU gegen die Linke, wie es in dem Antrag auf Erlass einer einstweiligen Anordnung heißt. Nach ihrem Wahlsieg in Berlin geht Die Linke mit anwaltlichen Schreiben auch gegen andere Politiker vor, die der Partei über Social Media Antisemitismus und Nähe zu kriminellen Clans vorgeworfen haben. Einige haben danach ihre Beiträge gelöscht, andere nicht. Bundesinnenminister Dobrindt wurde angezeigt - von der Berliner Linken und deren Spitzenkandidatin Eralp. mehr Dieses Thema im Programm: Das Erste | tagesschau | 05.10.2026 | 04:41 Uhr",
+  "translation": "",
+  "wordCount": 284,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:56:52.538Z",
+  "vocab": {
+    "Bundeswirtschaftsministerin": {
+      "word": "Bundeswirtschaftsministerin",
+      "lemma": "bundeswirtschaftsministerin",
+      "translation": "ministro Federal da Economia",
+      "partOfSpeech": "other",
+      "example": "Die Linke zieht im Streit um eine Äußerung von Bundeswirtschaftsministerin Katherina Reiche (CDU) vor das Bundesverfassungsgericht.",
+      "pronunciation": ""
+    },
+    "Reiche": {
+      "word": "Reiche",
+      "lemma": "reiche",
+      "translation": "rico",
+      "partOfSpeech": "other",
+      "example": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben.",
+      "pronunciation": ""
+    },
+    "Linke": {
+      "word": "Linke",
+      "lemma": "linke",
+      "translation": "esquerda",
+      "partOfSpeech": "other",
+      "example": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben.",
+      "pronunciation": ""
+    },
+    "Neutralitätsgebot": {
+      "word": "Neutralitätsgebot",
+      "lemma": "neutralitätsgebot",
+      "translation": "requisito de neutralidade",
+      "partOfSpeech": "other",
+      "example": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben.",
+      "pronunciation": ""
+    },
+    "Partei": {
+      "word": "Partei",
+      "lemma": "partei",
+      "translation": "PCC",
+      "partOfSpeech": "other",
+      "example": "Nun will die Partei das höchste deutsche Gericht entscheiden lassen.",
+      "pronunciation": ""
+    },
+    "Bundeswirtschaftsministeriums": {
+      "word": "Bundeswirtschaftsministeriums",
+      "lemma": "bundeswirtschaftsministeriums",
+      "translation": "ministério Federal da Economia",
+      "partOfSpeech": "other",
+      "example": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben.",
+      "pronunciation": ""
+    },
+    "Antisemitismus": {
+      "word": "Antisemitismus",
+      "lemma": "antisemitismus",
+      "translation": "antissemitismo",
+      "partOfSpeech": "other",
+      "example": "September warnt Reiche, es sei gefährlich für die Hauptstadt und den Investitionsstandort Deutschland, dass eine Partei über Enteignung spreche und dies in ihr Programm schreibe sowie \"Antisemitismus offen lebt, die den Juden in dieser Stadt Angst macht\".",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+  "sourceSite": "tagesschau.de"
+}

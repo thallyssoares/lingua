@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-bluttest",
+  "language": "de",
+  "level": "C1",
+  "theme": "Tecnologia",
+  "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
+  "content": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff. Ein neuer Bluttest macht Hoffnung für die Früherkennung von Bauchspeicheldrüsenkrebs. Ein internationales Forschungsteam hat ihn kürzlich im Fachmagazin Nature Medicine vorgestellt. Bis er tatsächlich zum Einsatz kommt, dürften allerdings noch Jahre vergehen. So lange könnte es dauern, bis weitere Studien zeigen, ob der Test tatsächlich hält, was er verspricht. Das schreiben die Autoren selbst. Patienten mit Bauchspeicheldrüsenkrebs haben die schlechteste Prognose aller Krebspatienten. Etwa 85 Prozent sterben innerhalb von fünf Jahren nach Entdeckung der bösartigen Veränderungen. Das liegt daran, dass dieser Krebs meist erst in einem fortgeschrittenen Stadium entdeckt wird, oft also, wenn er bereits in andere Bereiche des Körpers gestreut hat. Dann kommen Operationen meist zu spät. Lange galten Tumore der Pankreas als nicht behandelbar. Der neue Test sucht im Blut nach drei sogenannten Markern - nach zwei sogenannten Mikro-RNAs und einem Protein. Die kurzen RNA-Moleküle steuern Vorgänge in Zellen und können sich bei Krebs verändern. Die Forschenden messen frei zirkulierende Mikro-RNA und solche in winzigen Zellbläschen, sogenannten Exosomen. Zusätzlich schauen sie sich das Protein CA19-9 an. Diesen Marker kennt die Medizin schon länger, er ist aber für sich allein genommen zu unzuverlässig. Ein Computerprogramm errechnet aus den Biomarkern einen Risikowert. Studien wird es etwa zu Herzkrankheiten, Long Covid und zu Immuntherapien gegen Krebs geben. mehr Geeignete Biomarker zu finden und zu untersuchen, ist beim Pankreaskarzinom anspruchsvoll. Die Tumore geben nur wenig Material ins Blut ab, erklärt Thomas Seufferlein, Ärztlicher Direktor der Klinik für Innere Medizin I am Universitätsklinikum Ulm. Er war nicht an der Arbeit beteiligt. Forschende haben nach Biomarkern im Blut von Menschen gesucht, bei denen ein Bauchspeicheldrüsenkarzinom diagnostiziert worden war. In einem zweiten Schritt haben sie diese Marker bei Menschen mit Karzinom und mit erhöhtem Risiko von Pankreaskrebs getestet. Bei letzteren schlug der Bluttest zu häufig an, obwohl die Patienten gar keinen Krebs hatten. Diese Rate sogenannter falsch positiver Befunde lag bei dieser Gruppe bei fast 16 Prozent. Das Stuttgarter Fraunhofer-Institut meldet einen Erfolg in der Krebsdiagnostik. mehr Darum sieht Seufferlein bei der Zuverlässigkeit eine Begrenzung der Studie. Bei so einer hohen Falsch-Positiv-Quote bleiben herkömmliche Untersuchungen im MRT oder mit endoskopischem Ultraschall weiterhin notwendig. Es wäre also nichts gewonnen.",
+  "translation": "",
+  "wordCount": 381,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:02:38.966Z",
+  "vocab": {
+    "Bauchspeicheldrüsenkrebs": {
+      "word": "Bauchspeicheldrüsenkrebs",
+      "lemma": "bauchspeicheldrüsenkrebs",
+      "translation": "Cancro do pâncreas",
+      "partOfSpeech": "other",
+      "example": "Ein neuer Bluttest macht Hoffnung für die Früherkennung von Bauchspeicheldrüsenkrebs.",
+      "pronunciation": ""
+    },
+    "sogenannten": {
+      "word": "sogenannten",
+      "lemma": "sogenannten",
+      "translation": "chamado",
+      "partOfSpeech": "other",
+      "example": "Der neue Test sucht im Blut nach drei sogenannten Markern - nach zwei sogenannten Mikro-RNAs und einem Protein.",
+      "pronunciation": ""
+    },
+    "Bauchspeicheldrüsenkarzinom": {
+      "word": "Bauchspeicheldrüsenkarzinom",
+      "lemma": "bauchspeicheldrüsenkarzinom",
+      "translation": "carcinoma pancreático",
+      "partOfSpeech": "other",
+      "example": "Forschende haben nach Biomarkern im Blut von Menschen gesucht, bei denen ein Bauchspeicheldrüsenkarzinom diagnostiziert worden war.",
+      "pronunciation": ""
+    },
+    "Früherkennung": {
+      "word": "Früherkennung",
+      "lemma": "früherkennung",
+      "translation": "Diagnóstico precoce",
+      "partOfSpeech": "other",
+      "example": "Ein neuer Bluttest kann bei der Früherkennung helfen.",
+      "pronunciation": ""
+    },
+    "Bluttest": {
+      "word": "Bluttest",
+      "lemma": "bluttest",
+      "translation": "Análise de sangue",
+      "partOfSpeech": "other",
+      "example": "Ein neuer Bluttest kann bei der Früherkennung helfen.",
+      "pronunciation": ""
+    },
+    "tatsächlich": {
+      "word": "tatsächlich",
+      "lemma": "tatsächlich",
+      "translation": "realmente",
+      "partOfSpeech": "other",
+      "example": "Bis er tatsächlich zum Einsatz kommt, dürften allerdings noch Jahre vergehen.",
+      "pronunciation": ""
+    },
+    "Seufferlein": {
+      "word": "Seufferlein",
+      "lemma": "seufferlein",
+      "translation": "seufferlein",
+      "partOfSpeech": "other",
+      "example": "Die Tumore geben nur wenig Material ins Blut ab, erklärt Thomas Seufferlein, Ärztlicher Direktor der Klinik für Innere Medizin I am Universitätsklinikum Ulm.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
+  "sourceSite": "tagesschau.de"
+}

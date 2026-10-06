@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-desahucios",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "¿Por qué se producen desahucios?",
+  "content": "Rigor acadêmico, estilo jornalístico BalkansCat/Shutterstock ¿Por qué se producen desahucios? Publicado: 28 setembro 2026 07:22 -03 Desde la Gran Recesión que afectó a la economía mundial a partir de 2007, los desahucios entraron de lleno en las preocupaciones de la sociedad española. El estallido de la burbuja inmobiliaria en España se unió a la subida de tipos y el aumento del paro provocado por la crisis global, e hizo que muchas familias se vieran imposibilitadas de pagar –bien sus hipotecas, bien sus alquileres–, y perdieran sus viviendas. Han pasado casi 20 años desde entonces y la preocupación se mantiene . Desde mediados de 2024, las ejecuciones hipotecarias, a diferencia de los desahucios arrendaticios, han sufrido un repunte en algunas comunidades autónomas, especialmente en Andalucía y Cataluña según datos del INE . Los desahucios pueden ser de tres tipos: a los propietarios –como consecuencia de la ejecución de la hipoteca por impago–, a los arrendatarios –si dejan de pagar la renta, si maltratan la vivienda, si tienen un mal comportamiento o si, a la terminación del plazo contratado o legal, no abandonan la vivienda voluntariamente– y a los okupas. El fundamento de estos tres desahucios es distinto, aunque el resultado sea el mismo (el abandono forzoso de la vivienda o lanzamiento ): El primero, porque se incumplieron los pagos prometidos del préstamo concedido –generalmente cientos de miles de euros a pagar en varias décadas– sin el cual no se podría haber realizado la compra de la vivienda, que se puso como garantía de la devolución del dinero prestado. El segundo, porque el arrendatario, que vive en una casa ajena y debe compensar al propietario por ello mediante el pago de la renta, debe cumplir con los pagos y con el plazo de duración de su derecho a usar la vivienda. El tercero, porque el okupa entra y se mantiene en un inmueble ajeno sin título alguno. Estas reglas se amparan en los principios del Derecho civil, que nos acompañan desde hace miles de años, y se fundamentan en la obligación de cumplir lo acordado ( pacta sunt servanda ).",
+  "translation": "",
+  "wordCount": 348,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:03.665Z",
+  "vocab": {
+    "desahucios": {
+      "word": "desahucios",
+      "lemma": "desahucios",
+      "translation": "despejos",
+      "partOfSpeech": "other",
+      "example": "Rigor acadêmico, estilo jornalístico BalkansCat/Shutterstock ¿Por qué se producen desahucios?",
+      "pronunciation": ""
+    },
+    "viviendas": {
+      "word": "viviendas",
+      "lemma": "vivienda",
+      "translation": "alojamento",
+      "partOfSpeech": "other",
+      "example": "El estallido de la burbuja inmobiliaria en España se unió a la subida de tipos y el aumento del paro provocado por la crisis global, e hizo que muchas familias se vieran imposibilitadas de pagar –bien sus hipotecas, bien sus alquileres–, y perdieran sus viviendas.",
+      "pronunciation": ""
+    },
+    "Desde": {
+      "word": "Desde",
+      "lemma": "desde",
+      "translation": "desde",
+      "partOfSpeech": "other",
+      "example": "Publicado: 28 setembro 2026 07:22 -03 Desde la Gran Recesión que afectó a la economía mundial a partir de 2007, los desahucios entraron de lleno en las preocupaciones de la sociedad española.",
+      "pronunciation": ""
+    },
+    "mantiene": {
+      "word": "mantiene",
+      "lemma": "mantiene",
+      "translation": "Mantém",
+      "partOfSpeech": "other",
+      "example": "Han pasado casi 20 años desde entonces y la preocupación se mantiene .",
+      "pronunciation": ""
+    },
+    "imposibilitadas": {
+      "word": "imposibilitadas",
+      "lemma": "imposibilitadas",
+      "translation": "impossível",
+      "partOfSpeech": "other",
+      "example": "El estallido de la burbuja inmobiliaria en España se unió a la subida de tipos y el aumento del paro provocado por la crisis global, e hizo que muchas familias se vieran imposibilitadas de pagar –bien sus hipotecas, bien sus alquileres–, y perdieran sus viviendas.",
+      "pronunciation": ""
+    },
+    "pagar": {
+      "word": "pagar",
+      "lemma": "pagar",
+      "translation": "pagar",
+      "partOfSpeech": "other",
+      "example": "El estallido de la burbuja inmobiliaria en España se unió a la subida de tipos y el aumento del paro provocado por la crisis global, e hizo que muchas familias se vieran imposibilitadas de pagar –bien sus hipotecas, bien sus alquileres–, y perdieran sus viviendas.",
+      "pronunciation": ""
+    },
+    "voluntariamente": {
+      "word": "voluntariamente",
+      "lemma": "voluntariamente",
+      "translation": "voluntariamente",
+      "partOfSpeech": "other",
+      "example": "Los desahucios pueden ser de tres tipos: a los propietarios –como consecuencia de la ejecución de la hipoteca por impago–, a los arrendatarios –si dejan de pagar la renta, si maltratan la vivienda, si tienen un mal comportamiento o si, a la terminación del plazo contratado o legal, no abandonan la vivienda voluntariamente– y a los okupas.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/por-que-se-producen-desahucios-292812",
+  "sourceSite": "The Conversation"
+}

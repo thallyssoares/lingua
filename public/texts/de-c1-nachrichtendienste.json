@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-nachrichtendienste",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
+  "content": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger. Ein offener Krieg sei das nicht, doch die Grenze verschwimme. Was bedeutet das? Martin Jäger fällt quasi mit der Tür ins Haus. Der Präsident des deutschen Auslandsnachrichtendienstes soll bei diesem Termin im Bundestag als Erster Bericht erstatten, er soll die aktuelle Sicherheitslage aus Sicht des Bundesnachrichtendienstes (BND) darlegen. Einmal im Jahr müssen die Chefs der drei deutschen Nachrichtendienste öffentlich vor dem Parlamentarischen Kontrollgremium auftreten. Nach wenigen Minuten schon fallen Begriffe wie \"Lageverschärfung\", \"gefährliche Konfrontation\" und \"Verteidigungsfall\". Und Jäger spricht von einem drohenden \"gewaltsamen Konflikt mit Russland\". Es klingt wie eine außergewöhnliche Warnung. Aber die Wortwahl muss präzise gelesen werden. Der BND-Chef sagt nicht, dass ein Krieg mit Russland bevorstünde. Er beschreibt ein Risiko und stellt es in einen größeren Zusammenhang. Nach Jägers Worten führt Russland bereits einen \"Schattenkrieg\" gegen Deutschland und andere Staaten Europas. Dazu gehören Einschüchterungen, Cyberattacken und Vorbereitungen für Anschläge. All das sorge schon für Schäden in Deutschland. Die Botschaft des Chefs des Nachrichtendienstes könnte in etwa lauten: Ein Krieg beginnt nicht erst, wenn Panzer rollen. Bei ihrer jährlichen Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko durch Russland. mehr Diese Einschätzung ist nicht neu. Schon bei der öffentlichen Anhörung im Oktober 2025 hatte BND-Präsident Jäger von einem \"eisigen Frieden\" gesprochen, in dem die Grenze zwischen Krieg und Frieden zunehmend verschwimme. Russland könne, wenn nötig, auch eine direkte militärische Auseinandersetzung mit der NATO nicht scheuen. Zusammengefasst heißt das: Während Jägers Warnung vor einem Jahr lautete, Russland könnte die NATO und Europa herausfordern, lautet sie nun: Deutschland selbst könnte in eine gewaltsame Konfrontation hineingezogen werden. Denn Deutschland gehört, nach Jägers Worten, zu einem Hauptziel Russlands. Hintergrund ist der Krieg gegen die Ukraine: Die Bundesregierung unterstützt das von Russland überfallene Land so stark mit militärischem Material wie keine Regierung eines anderen EU-Staates. Der Präsident des Bundesamtes für Verfassungsschutz (BfV), Sinan Selen, sprach von russischer Bereitschaft zu Sabotage und Tötungsdelikten. Er verwies auf den Vorfall am Flughafen Halle/Leipzig Anfang August mit einer mit Sprengstoff präparierten Drohne. BND und Verfassungsschutz verschärfen ihre Sicherheitsmaßnahmen, da russische Ausspähversuche zunehmen. mehr Neben den Warnungen vor weiteren hybriden Angriffen von russischer Seite lohnt auch ein Blick darauf, was die Nachrichtendienst-Chefs nicht gesagt haben. Sie haben keinen bevorstehenden russischen Angriff auf Deutschland oder die NATO ins Spiel gebracht. Wahrscheinlicher seien weitere militärische Provokationen, insbesondere in den baltischen Staaten, die an russisches Staatsgebiet grenzen.",
+  "translation": "",
+  "wordCount": 399,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:30.073Z",
+  "vocab": {
+    "Deutschland": {
+      "word": "Deutschland",
+      "lemma": "deutschland",
+      "translation": "Alemanha",
+      "partOfSpeech": "other",
+      "example": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger.",
+      "pronunciation": ""
+    },
+    "Russland": {
+      "word": "Russland",
+      "lemma": "russland",
+      "translation": "Russia",
+      "partOfSpeech": "other",
+      "example": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger.",
+      "pronunciation": ""
+    },
+    "Auslandsnachrichtendienstes": {
+      "word": "Auslandsnachrichtendienstes",
+      "lemma": "auslandsnachrichtendienstes",
+      "translation": "serviço de informações estrangeiras",
+      "partOfSpeech": "other",
+      "example": "Der Präsident des deutschen Auslandsnachrichtendienstes soll bei diesem Termin im Bundestag als Erster Bericht erstatten, er soll die aktuelle Sicherheitslage aus Sicht des Bundesnachrichtendienstes (BND) darlegen.",
+      "pronunciation": ""
+    },
+    "Verfassungsschutz": {
+      "word": "Verfassungsschutz",
+      "lemma": "verfassungsschutz",
+      "translation": "tutela constitucional",
+      "partOfSpeech": "other",
+      "example": "Der Präsident des Bundesamtes für Verfassungsschutz (BfV), Sinan Selen, sprach von russischer Bereitschaft zu Sabotage und Tötungsdelikten.",
+      "pronunciation": ""
+    },
+    "Schattenkrieg": {
+      "word": "Schattenkrieg",
+      "lemma": "schattenkrieg",
+      "translation": "guerra das sombras",
+      "partOfSpeech": "other",
+      "example": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger.",
+      "pronunciation": ""
+    },
+    "Konfrontation": {
+      "word": "Konfrontation",
+      "lemma": "konfrontation",
+      "translation": "Acareação",
+      "partOfSpeech": "other",
+      "example": "Nach wenigen Minuten schon fallen Begriffe wie \"Lageverschärfung\", \"gefährliche Konfrontation\" und \"Verteidigungsfall\".",
+      "pronunciation": ""
+    },
+    "Bundesnachrichtendienstes": {
+      "word": "Bundesnachrichtendienstes",
+      "lemma": "bundesnachrichtendienstes",
+      "translation": "serviço Federal de Inteligência",
+      "partOfSpeech": "other",
+      "example": "Der Präsident des deutschen Auslandsnachrichtendienstes soll bei diesem Termin im Bundestag als Erster Bericht erstatten, er soll die aktuelle Sicherheitslage aus Sicht des Bundesnachrichtendienstes (BND) darlegen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+  "sourceSite": "tagesschau.de"
+}

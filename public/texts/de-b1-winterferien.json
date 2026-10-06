@@ -1,0 +1,73 @@
+{
+  "id": "de-b1-winterferien",
+  "language": "de",
+  "level": "B1",
+  "theme": "Cotidiano",
+  "title": "In den Winterferien",
+  "content": "Schnell weckte Jonas seine Freunde, und auch sie trauten ihren Augen kaum. „Endlich!“ riefen sie und obwohl sie eigentlich Langschläfer waren, hielt sie heute nichts mehr in ihren warmen Betten. Sie wollten so schnell wie möglich hinaus in den Schnee. Auch die Kälte störte sie nicht, denn es gab ja viel zu tun. Zuerst bauten die Freunde einen Schneemann. Dann formten sie ein paar Schneebälle und machten eine Schneeballschlacht. Mit dem Schlitten und dem Snowboard fuhren sie den Berg hinunter, und Sophie hatte sogar ihre Schlittschuhe mitgebracht. Die Kinder waren nicht die einzigen, die sich am Schnee erfreuten. Im Hintergrund konnte man Skifahrer sehen, die mit dem Sessellift den Berg hinauffuhren, um dann im Abfahrtslauf wieder herunterzurasen. Auch ein Eisbär war auf Skiern unterwegs. Nur der Schneemann zitterte vor Kälte und wünschte sich den Sommer herbei. Er hatte einen Schnupfen, fror ganz fürchterlich und von seiner Nase hingen riesige Eiszapfen. Häh? Ein Schneemann mit Schnupfen und ein Eisbär auf Skiern? Irritiert drehte sich Jonas um. Oh nein! Er lag noch in seinem Bett und hatte alles nur geträumt! Enttäuscht blickte er zum Fenster, durch das er auf die Straße sah. Aber Moment mal! Dort war ja alles weiß! „Es hat geschneit!“ rief Jonas erfreut und weckte schnell seine Freunde.",
+  "translation": "",
+  "wordCount": 209,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:48:08.187Z",
+  "vocab": {
+    "Schneemann": {
+      "word": "Schneemann",
+      "lemma": "schneemann",
+      "translation": "Boneco de neve",
+      "partOfSpeech": "other",
+      "example": "Zuerst bauten die Freunde einen Schneemann.",
+      "pronunciation": ""
+    },
+    "Schnell": {
+      "word": "Schnell",
+      "lemma": "schnell",
+      "translation": "rápido",
+      "partOfSpeech": "other",
+      "example": "Schnell weckte Jonas seine Freunde, und auch sie trauten ihren Augen kaum.",
+      "pronunciation": ""
+    },
+    "Freunde": {
+      "word": "Freunde",
+      "lemma": "freunde",
+      "translation": "Amigos",
+      "partOfSpeech": "other",
+      "example": "Schnell weckte Jonas seine Freunde, und auch sie trauten ihren Augen kaum.",
+      "pronunciation": ""
+    },
+    "Schneeballschlacht": {
+      "word": "Schneeballschlacht",
+      "lemma": "schneeballschlacht",
+      "translation": "batalha de bolas de neve",
+      "partOfSpeech": "other",
+      "example": "Dann formten sie ein paar Schneebälle und machten eine Schneeballschlacht.",
+      "pronunciation": ""
+    },
+    "Schnupfen": {
+      "word": "Schnupfen",
+      "lemma": "schnupfen",
+      "translation": "corrimento nasal",
+      "partOfSpeech": "other",
+      "example": "Er hatte einen Schnupfen, fror ganz fürchterlich und von seiner Nase hingen riesige Eiszapfen.",
+      "pronunciation": ""
+    },
+    "Jonas": {
+      "word": "Jonas",
+      "lemma": "jonas",
+      "translation": "jonas",
+      "partOfSpeech": "other",
+      "example": "Schnell weckte Jonas seine Freunde, und auch sie trauten ihren Augen kaum.",
+      "pronunciation": ""
+    },
+    "hatte": {
+      "word": "hatte",
+      "lemma": "hatte",
+      "translation": "tinha",
+      "partOfSpeech": "other",
+      "example": "Mit dem Schlitten und dem Snowboard fuhren sie den Berg hinunter, und Sophie hatte sogar ihre Schlittschuhe mitgebracht.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://deutsch.lingolia.com/de/leseverstehen/b1/articles/winterferien",
+  "sourceSite": "Lingolia"
+}

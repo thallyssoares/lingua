@@ -1,0 +1,73 @@
+{
+  "id": "es-b2-pisa",
+  "language": "es",
+  "level": "B2",
+  "theme": "Cotidiano",
+  "title": "Resultados PISA: qué se puede comparar entre países y qué no",
+  "content": "PISA consiste en una serie de pruebas en lengua, matemáticas y ciencias a una muestra de estudiantes de 15 años . Pero los resultados de esta evaluación tienen un “margen de error”, de tal modo que dos países pueden obtener puntuaciones distintas sin poder afirmar que una sea realmente superior a la otra. La OCDE, organización detrás de PISA, solo considera que existen diferencias estadísticamente significativas cuando la distancia entre ambas puntuaciones supera ese margen (aunque este margen no es una cantidad fija, sino que varía en cada comparación en función de diversos factores estadísticos). También es útil observar la evolución de un mismo país en distintas remesas del informe. Por ejemplo, al comparar las puntuaciones de España entre PISA-2022 y PISA-2025 encontramos una caída de casi 16 puntos en matemáticas y de 23 en lectura: estos descensos son lo suficientemente grandes como para considerarse un dato relevante. En cambio, en ciencias, el descenso de 7 puntos no puede considerarse estadísticamente claro. Reino Unido, por ejemplo, ha mejorado en ciencias (cerca de 12 puntos), pero no en matemáticas ni en lectura. La subida se concentra en Inglaterra y se limita a la edición 2022, por lo que no se considera una tendencia ascendente ya consolidada. Sí es ilustrativo que, entre ambas ediciones, ha habido una mejora del clima disciplinario, más perseverancia y menos distracción digital en el alumnado inglés que la media internacional. Leia mais: ¿Cómo compatibilizar un bachillerato que busca habilidades críticas con una PAU que todavía prima la memorización? Turquía ha mejorado en las tres áreas (cerca de 8 puntos en matemáticas, 16 en lectura y 18 en ciencias). A diferencia del caso británico, presenta una tendencia de mejora desde hace años con el origen en importantes reformas curriculares a partir de 2015 y una mayor inversión en centros, recursos y en formación del profesorado. Pese a estos ejemplos, es muy difícil analizar únicamente con PISA el posible impacto de determinadas políticas educativas en los resultados. Los datos permiten identificar factores que coinciden con los cambios, pero no aislar qué política o forma de enseñar los ha provocado.",
+  "translation": "",
+  "wordCount": 350,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T19:16:02.611Z",
+  "vocab": {
+    "matemáticas": {
+      "word": "matemáticas",
+      "lemma": "matemáticas",
+      "translation": "matemática",
+      "partOfSpeech": "other",
+      "example": "PISA consiste en una serie de pruebas en lengua, matemáticas y ciencias a una muestra de estudiantes de 15 años .",
+      "pronunciation": ""
+    },
+    "puntuaciones": {
+      "word": "puntuaciones",
+      "lemma": "puntuaciones",
+      "translation": "Pontuações",
+      "partOfSpeech": "other",
+      "example": "Pero los resultados de esta evaluación tienen un “margen de error”, de tal modo que dos países pueden obtener puntuaciones distintas sin poder afirmar que una sea realmente superior a la otra.",
+      "pronunciation": ""
+    },
+    "ciencias": {
+      "word": "ciencias",
+      "lemma": "ciencias",
+      "translation": "ciências",
+      "partOfSpeech": "other",
+      "example": "PISA consiste en una serie de pruebas en lengua, matemáticas y ciencias a una muestra de estudiantes de 15 años .",
+      "pronunciation": ""
+    },
+    "estadísticamente": {
+      "word": "estadísticamente",
+      "lemma": "estadísticamente",
+      "translation": "estatisticamente",
+      "partOfSpeech": "other",
+      "example": "La OCDE, organización detrás de PISA, solo considera que existen diferencias estadísticamente significativas cuando la distancia entre ambas puntuaciones supera ese margen (aunque este margen no es una cantidad fija, sino que varía en cada comparación en función de diversos factores estadísticos).",
+      "pronunciation": ""
+    },
+    "puntos": {
+      "word": "puntos",
+      "lemma": "puntos",
+      "translation": "pontos",
+      "partOfSpeech": "other",
+      "example": "Por ejemplo, al comparar las puntuaciones de España entre PISA-2022 y PISA-2025 encontramos una caída de casi 16 puntos en matemáticas y de 23 en lectura: estos descensos son lo suficientemente grandes como para considerarse un dato relevante.",
+      "pronunciation": ""
+    },
+    "considerarse": {
+      "word": "considerarse",
+      "lemma": "considerarse",
+      "translation": "ser considerado",
+      "partOfSpeech": "other",
+      "example": "Por ejemplo, al comparar las puntuaciones de España entre PISA-2022 y PISA-2025 encontramos una caída de casi 16 puntos en matemáticas y de 23 en lectura: estos descensos son lo suficientemente grandes como para considerarse un dato relevante.",
+      "pronunciation": ""
+    },
+    "lectura": {
+      "word": "lectura",
+      "lemma": "lectura",
+      "translation": "leitura",
+      "partOfSpeech": "other",
+      "example": "Por ejemplo, al comparar las puntuaciones de España entre PISA-2022 y PISA-2025 encontramos una caída de casi 16 puntos en matemáticas y de 23 en lectura: estos descensos son lo suficientemente grandes como para considerarse un dato relevante.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://theconversation.com/resultados-pisa-que-se-puede-comparar-entre-paises-y-que-no-292244",
+  "sourceSite": "The Conversation"
+}

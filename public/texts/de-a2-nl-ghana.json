@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-nl-ghana",
+  "language": "de",
+  "level": "A2",
+  "theme": "Futebol",
+  "title": "Deutsche Fußballer gewinnen Test-Spiel gegen Ghana",
+  "content": "Ghana ist ein Land in Afrika. Es liegt im Westen von Afrika, am Atlantischen Ozean. Die Haupt-Stadt von Ghana heißt Accra. Die meisten Menschen in Ghana sprechen Englisch. Als Bundes-Trainer oder Bundes-Trainerin bezeichnet der Deutsche Fußball-Bund (DFB) die verantwortlichen Trainer für die Männer- beziehungsweise Frauen-Fußball-National-Mannschaft. Bei einer Welt-Meisterschaft treffen sich die besten Sportlerinnen und Sportler aus verschiedenen Ländern. Die Abkürzung für Welt-Meisterschaft ist WM. Eine WM ist immer für eine bestimmte Sport-Art: Es gibt zum Beispiel eine Fußball-WM, eine Handball-WM oder eine Ski-WM.",
+  "translation": "",
+  "wordCount": 83,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T20:10:51.765Z",
+  "vocab": {
+    "Welt-Meisterschaft": {
+      "word": "Welt-Meisterschaft",
+      "lemma": "welt-meisterschaft",
+      "translation": "welt-meisterschaft",
+      "partOfSpeech": "other",
+      "example": "Bei einer Welt-Meisterschaft treffen sich die besten Sportlerinnen und Sportler aus verschiedenen Ländern.",
+      "pronunciation": ""
+    },
+    "Frauen-Fußball-National-Mannschaft": {
+      "word": "Frauen-Fußball-National-Mannschaft",
+      "lemma": "frauen-fußball-national-mannschaft",
+      "translation": "frauen-fußball-national-mannschaft",
+      "partOfSpeech": "other",
+      "example": "Als Bundes-Trainer oder Bundes-Trainerin bezeichnet der Deutsche Fußball-Bund (DFB) die verantwortlichen Trainer für die Männer- beziehungsweise Frauen-Fußball-National-Mannschaft.",
+      "pronunciation": ""
+    },
+    "Bundes-Trainerin": {
+      "word": "Bundes-Trainerin",
+      "lemma": "bundes-trainerin",
+      "translation": "bundes-trainerin",
+      "partOfSpeech": "other",
+      "example": "Als Bundes-Trainer oder Bundes-Trainerin bezeichnet der Deutsche Fußball-Bund (DFB) die verantwortlichen Trainer für die Männer- beziehungsweise Frauen-Fußball-National-Mannschaft.",
+      "pronunciation": ""
+    },
+    "verantwortlichen": {
+      "word": "verantwortlichen",
+      "lemma": "verantwortlichen",
+      "translation": "verantwortlichen",
+      "partOfSpeech": "other",
+      "example": "Als Bundes-Trainer oder Bundes-Trainerin bezeichnet der Deutsche Fußball-Bund (DFB) die verantwortlichen Trainer für die Männer- beziehungsweise Frauen-Fußball-National-Mannschaft.",
+      "pronunciation": ""
+    },
+    "Ghana": {
+      "word": "Ghana",
+      "lemma": "ghana",
+      "translation": "ghana",
+      "partOfSpeech": "other",
+      "example": "Ghana ist ein Land in Afrika.",
+      "pronunciation": ""
+    },
+    "beziehungsweise": {
+      "word": "beziehungsweise",
+      "lemma": "beziehungsweise",
+      "translation": "beziehungsweise",
+      "partOfSpeech": "other",
+      "example": "Als Bundes-Trainer oder Bundes-Trainerin bezeichnet der Deutsche Fußball-Bund (DFB) die verantwortlichen Trainer für die Männer- beziehungsweise Frauen-Fußball-National-Mannschaft.",
+      "pronunciation": ""
+    },
+    "Bundes-Trainer": {
+      "word": "Bundes-Trainer",
+      "lemma": "bundes-trainer",
+      "translation": "bundes-trainer",
+      "partOfSpeech": "other",
+      "example": "Als Bundes-Trainer oder Bundes-Trainerin bezeichnet der Deutsche Fußball-Bund (DFB) die verantwortlichen Trainer für die Männer- beziehungsweise Frauen-Fußball-National-Mannschaft.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html",
+  "sourceSite": "Nachrichtenleicht"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "de-c1-moskau-drohne",
+  "language": "de",
+  "level": "C1",
+  "theme": "Investigação",
+  "title": "Abwehrkampf der Ukraine: Massiver Drohnenangriff auf Moskau",
+  "content": "Als Teil ihres Abwehrkampfs nimmt die Ukraine immer wieder Ziele tief im russischen Hinterland ins Visier. Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen. Die Ukraine hat offenbar einen großangelegten Luftangriff auf die Region der russischen Hauptstadt Moskau gestartet. Moskaus Bürgermeister Sergej Sobjanin berichtete von insgesamt rund 650 Drohnen, von denen die Flugabwehr die meisten bereits aus großer Entfernung unschädlich gemacht habe. 105 Drohnen seien bei ihrem Anflug auf die Hauptstadt zerstört worden. Nach Angaben des Gouverneurs der Region wurden zwei Menschen getötet und neun Personen verletzt. Die Angaben aus Moskau konnten zunächst nicht unabhängig überprüft werden. Sollten die russischen Angaben zur Zahl der abgeschossenen Drohnen zutreffen, würden sie auf einen großen Angriff der Ukraine hindeuten. Gelingt es der Ukraine, den russischen Vorsprung bei Hochgeschwindigkeitsdrohnen aufzuholen? mehr Das ukrainische Portal Kyjiv Independent berichtete unter Berufung auf Augenzeugen, bei dem Angriff sei eine Ölförderanlage rund 40 Kilometer entfernt von Moskau ins Visier genommen worden. Die Ukraine zielt auf Anlagen der russischen Ölindustrie, um als Teil ihres Abwehrkampfes den für Moskaus Kriegskasse wichtigen Energieexport zu treffen. Auch Russland beschießt das Hinterland des Nachbarn systematisch und setzt dazu Drohnen und Raketen ein. Bei den Attacken kommen in der Ukraine fast täglich Zivilisten zu Tode, Wohnhäuser und für die Bewohner lebenswichtige Infrastruktur werden zerstört. Dieses Thema im Programm: NDR Info | Nachrichten | 06.10.206 | 10:00 Uhr",
+  "translation": "",
+  "wordCount": 230,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T18:59:53.590Z",
+  "vocab": {
+    "russischen": {
+      "word": "russischen",
+      "lemma": "russischen",
+      "translation": "russo",
+      "partOfSpeech": "other",
+      "example": "Als Teil ihres Abwehrkampfs nimmt die Ukraine immer wieder Ziele tief im russischen Hinterland ins Visier.",
+      "pronunciation": ""
+    },
+    "Ukraine": {
+      "word": "Ukraine",
+      "lemma": "ukraine",
+      "translation": "Ucrânia",
+      "partOfSpeech": "other",
+      "example": "Als Teil ihres Abwehrkampfs nimmt die Ukraine immer wieder Ziele tief im russischen Hinterland ins Visier.",
+      "pronunciation": ""
+    },
+    "Drohnen": {
+      "word": "Drohnen",
+      "lemma": "drohnen",
+      "translation": "drones",
+      "partOfSpeech": "other",
+      "example": "Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen.",
+      "pronunciation": ""
+    },
+    "Hauptstadt": {
+      "word": "Hauptstadt",
+      "lemma": "hauptstadt",
+      "translation": "Capital",
+      "partOfSpeech": "other",
+      "example": "Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen.",
+      "pronunciation": ""
+    },
+    "großangelegten": {
+      "word": "großangelegten",
+      "lemma": "großangelegten",
+      "translation": "em grande escala",
+      "partOfSpeech": "other",
+      "example": "Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen.",
+      "pronunciation": ""
+    },
+    "Hochgeschwindigkeitsdrohnen": {
+      "word": "Hochgeschwindigkeitsdrohnen",
+      "lemma": "hochgeschwindigkeitsdrohnen",
+      "translation": "drones de alta velocidade",
+      "partOfSpeech": "other",
+      "example": "Gelingt es der Ukraine, den russischen Vorsprung bei Hochgeschwindigkeitsdrohnen aufzuholen?",
+      "pronunciation": ""
+    },
+    "Moskau": {
+      "word": "Moskau",
+      "lemma": "moskau",
+      "translation": "Moscovo",
+      "partOfSpeech": "other",
+      "example": "Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/drohnenangriff-moskau-104.html",
+  "sourceSite": "tagesschau.de"
+}

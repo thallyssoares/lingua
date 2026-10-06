@@ -1,0 +1,73 @@
+{
+  "id": "de-a1-problem-schule",
+  "language": "de",
+  "level": "A1",
+  "theme": "Cotidiano",
+  "title": "Ein Problem in der Schule (A1, German) - Fabulang",
+  "content": "Es ist dunkel. Es ist kein Mond am Himmel. Zwei Personen laufen schnell auf die Schule zu. Es ist ein altes Gebäude aus Stein. Es sieht fast aus wie eine Burg. It is dark. There is no moon in the sky. Two people walk quickly towards the school. It is an old building made of stone. It looks almost like a castle. Der Mann atmet. „Gehen Sie durch die Haupthalle. Dann ist es die dritte Tür links.“ Der Mann hält ihr eine Taschenlampe hin. „Nehmen Sie das.“ Sie schiebt sie weg. „Schicken Sie einfach die zweite Zahlung pünktlich“, sagt Frau Stahl. Dann geht sie in die Schule hinein. Die Tür schlägt hinter ihr zu. Es gibt überhaupt kein Licht. Sie kann nichts sehen. Sie berührt die Wände mit ihren Händen. Der Stein ist kalt. Sie geht nach vorne. Ihre Schritte sind laut. Sie sind das einzige Geräusch. Sie hält ihre Tasche dicht an ihrer Brust. She walks forward. Her footsteps are loud. They are the only sound. She holds her bag close to her chest. Auf der anderen Seite der Haupthalle befindet sich ein langer, schmaler Flur. Es gibt viele Türen zu ihrer Linken und Rechten. Sie zählt die Türen. Eins, zwei, drei. Sie bleibt stehen. Sie hält den Atem an.",
+  "translation": "",
+  "wordCount": 211,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:49:16.717Z",
+  "vocab": {
+    "Haupthalle": {
+      "word": "Haupthalle",
+      "lemma": "haupthalle",
+      "translation": "salão principal",
+      "partOfSpeech": "other",
+      "example": "„Gehen Sie durch die Haupthalle.",
+      "pronunciation": ""
+    },
+    "Schule": {
+      "word": "Schule",
+      "lemma": "schule",
+      "translation": "escola",
+      "partOfSpeech": "other",
+      "example": "Zwei Personen laufen schnell auf die Schule zu.",
+      "pronunciation": ""
+    },
+    "Taschenlampe": {
+      "word": "Taschenlampe",
+      "lemma": "taschenlampe",
+      "translation": "Luz-relâmpago",
+      "partOfSpeech": "other",
+      "example": "Dann ist es die dritte Tür links.“ Der Mann hält ihr eine Taschenlampe hin.",
+      "pronunciation": ""
+    },
+    "Stein": {
+      "word": "Stein",
+      "lemma": "stein",
+      "translation": "pedra",
+      "partOfSpeech": "other",
+      "example": "Es ist ein altes Gebäude aus Stein.",
+      "pronunciation": ""
+    },
+    "ihrer": {
+      "word": "ihrer",
+      "lemma": "ihrer",
+      "translation": "o seu",
+      "partOfSpeech": "other",
+      "example": "Sie hält ihre Tasche dicht an ihrer Brust.",
+      "pronunciation": ""
+    },
+    "Türen": {
+      "word": "Türen",
+      "lemma": "türen",
+      "translation": "Portas",
+      "partOfSpeech": "other",
+      "example": "Es gibt viele Türen zu ihrer Linken und Rechten.",
+      "pronunciation": ""
+    },
+    "pünktlich": {
+      "word": "pünktlich",
+      "lemma": "pünktlich",
+      "translation": "pontual",
+      "partOfSpeech": "other",
+      "example": "„Schicken Sie einfach die zweite Zahlung pünktlich“, sagt Frau Stahl.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.fabulang.com/en/de/stories/a1-problem-schule",
+  "sourceSite": "Fabulang"
+}

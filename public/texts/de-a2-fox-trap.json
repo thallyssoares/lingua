@@ -1,0 +1,73 @@
+{
+  "id": "de-a2-fox-trap",
+  "language": "de",
+  "level": "A2",
+  "theme": "Investigação",
+  "title": "Die Falle des Fuchses",
+  "content": "Frau Maus war in ihrem Schlafzimmer, in ihrem Haus im Wald. Ihr Haus war in einem kleinen Baumstamm am Boden. Frau Maus sah in ihren Spiegel. Ihre Ohren waren sehr groß, und sie dachte, dass die anderen Tiere über sie lachten. Draußen ging Herr Fuchs vorbei. Er hörte, was Frau Maus sagte, und ging leise näher heran. Seine Stimme war ruhig und freundlich. Er erzählte ihr von einem Zaubersee, in dem Mäuse beim Schwimmen zu Schmetterlingen werden. Frau Maus dachte sorgfältig nach, wollte aber zuerst zu Hause auf ihre Nichten und Neffen warten. Dann stieg sie auf Herrn Fuchs' Kopf, und er begann zu rennen. Als Frau Maus seine Zunge sah, verstand sie die Gefahr. Kurz danach gab es einen lauten Knall: Herr Fuchs' Fuß steckte in einer Falle. Frau Maus sprang von seinem Kopf und ging nach Hause. Sie fragte: Glaubst du, ich bin dumm?",
+  "translation": "",
+  "wordCount": 146,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T00:00:00.000Z",
+  "vocab": {
+    "Schlafzimmer": {
+      "word": "Schlafzimmer",
+      "lemma": "Schlafzimmer",
+      "translation": "quarto",
+      "partOfSpeech": "noun",
+      "example": "Frau Maus war in ihrem Schlafzimmer, in ihrem Haus im Wald.",
+      "pronunciation": ""
+    },
+    "Baumstamm": {
+      "word": "Baumstamm",
+      "lemma": "Baumstamm",
+      "translation": "tronco de árvore",
+      "partOfSpeech": "noun",
+      "example": "Ihr Haus war in einem kleinen Baumstamm am Boden.",
+      "pronunciation": ""
+    },
+    "Spiegel": {
+      "word": "Spiegel",
+      "lemma": "Spiegel",
+      "translation": "espelho",
+      "partOfSpeech": "noun",
+      "example": "Frau Maus sah in ihren Spiegel.",
+      "pronunciation": ""
+    },
+    "Zaubersee": {
+      "word": "Zaubersee",
+      "lemma": "Zaubersee",
+      "translation": "lago mágico",
+      "partOfSpeech": "noun",
+      "example": "Er erzählte ihr von einem Zaubersee, in dem Mäuse beim Schwimmen zu Schmetterlingen werden.",
+      "pronunciation": ""
+    },
+    "sorgfältig": {
+      "word": "sorgfältig",
+      "lemma": "sorgfältig",
+      "translation": "cuidadosamente",
+      "partOfSpeech": "adverb",
+      "example": "Frau Maus dachte sorgfältig nach, wollte aber zuerst zu Hause auf ihre Nichten und Neffen warten.",
+      "pronunciation": ""
+    },
+    "Gefahr": {
+      "word": "Gefahr",
+      "lemma": "Gefahr",
+      "translation": "perigo",
+      "partOfSpeech": "noun",
+      "example": "Als Frau Maus seine Zunge sah, verstand sie die Gefahr.",
+      "pronunciation": ""
+    },
+    "Falle": {
+      "word": "Falle",
+      "lemma": "Falle",
+      "translation": "armadilha",
+      "partOfSpeech": "noun",
+      "example": "Kurz danach gab es einen lauten Knall: Herr Fuchs' Fuß steckte in einer Falle.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://www.fabulang.com/en/de/stories/a2-falle-fuchses",
+  "sourceSite": "Fabulang"
+}

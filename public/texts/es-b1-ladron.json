@@ -1,0 +1,73 @@
+{
+  "id": "es-b1-ladron",
+  "language": "es",
+  "level": "B1",
+  "theme": "Investigação",
+  "title": "Un ladrón con corazón",
+  "content": "Si te echas la siesta… ¡cierra la puerta de casa con llave! Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación. Hugo ha tenido un día terrible. Después de dar un paseo fantástico por el parque, su novia, Catarina, ha roto con él sin darle ninguna explicación. Triste, entra en su salón y enciende la lámpara. Pero... ¡como una puñalada en el pecho! Todo le recuerda a su amada Catarina: sus libros, sus galletas de limón favoritas, su colección de jarrones chinos, la vela de vainilla y, por supuesto, la foto de Catarina en la pared. Es demasiado para él. Solo quiere olvidarse de todo, así que se deja caer sobre el sofá, alcanza el mando a distancia y enciende la televisión. Después, se sirve una copa de vino y empieza a beber. Agotado, se queda dormido en un santiamén.",
+  "translation": "",
+  "wordCount": 147,
+  "chapter": 1,
+  "audioAvailable": true,
+  "createdAt": "2026-10-06T14:51:28.006Z",
+  "vocab": {
+    "Catarina": {
+      "word": "Catarina",
+      "lemma": "catarina",
+      "translation": "Caterina",
+      "partOfSpeech": "other",
+      "example": "Después de dar un paseo fantástico por el parque, su novia, Catarina, ha roto con él sin darle ninguna explicación.",
+      "pronunciation": ""
+    },
+    "enciende": {
+      "word": "enciende",
+      "lemma": "enciende",
+      "translation": "Liga",
+      "partOfSpeech": "other",
+      "example": "Triste, entra en su salón y enciende la lámpara.",
+      "pronunciation": ""
+    },
+    "Después": {
+      "word": "Después",
+      "lemma": "después",
+      "translation": "depois",
+      "partOfSpeech": "other",
+      "example": "Después de dar un paseo fantástico por el parque, su novia, Catarina, ha roto con él sin darle ninguna explicación.",
+      "pronunciation": ""
+    },
+    "correctamente": {
+      "word": "correctamente",
+      "lemma": "correctamente",
+      "translation": "corretamente",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "continuación": {
+      "word": "continuación",
+      "lemma": "continuación",
+      "translation": "2.",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "comprensión": {
+      "word": "comprensión",
+      "lemma": "comprensión",
+      "translation": "compreensão",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    },
+    "resolviendo": {
+      "word": "resolviendo",
+      "lemma": "resolviendo",
+      "translation": "resolver",
+      "partOfSpeech": "other",
+      "example": "Mejora tu comprensión lectora en español leyendo este texto y resolviendo correctamente el ejercicio a continuación.",
+      "pronunciation": ""
+    }
+  },
+  "sourceUrl": "https://espanol.lingolia.com/es/comprension-lectora/b1/articles/un-ladron-con-corazon",
+  "sourceSite": "Lingolia"
+}
