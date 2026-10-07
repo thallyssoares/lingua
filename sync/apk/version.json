@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.3",
-  "file": "lingua-3.apk",
-  "size": 5315037,
-  "notes": "Build corrigido com todas as features",
+  "versionCode": 4,
+  "versionName": "1.4",
+  "file": "lingua-4.apk",
+  "size": 5315369,
+  "notes": "Diagnóstico de tela branca + blindagem IndexedDB",
   "date": "2026-10-07"
 }

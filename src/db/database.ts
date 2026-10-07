@@ -2,15 +2,15 @@ import {Card,TextItem,UserSettings} from '../types';
 const DB='lingua-db'; const VERSION=2; const req=(r:IDBRequest)=>new Promise<any>((resolve,reject)=>{r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error)});
 export const defaultSettings:UserSettings={activeLanguage:'en',levelsByLanguage:{en:'B1',de:'A2',es:'A2',ru:'A1'},dailyTextGoal:1,dailyNewCardsGoal:10,showTransliteration:true,theme:'light'};
 export function openDb():Promise<IDBDatabase>{return new Promise((resolve,reject)=>{const r=indexedDB.open(DB,VERSION);r.onupgradeneeded=()=>{const db=r.result; if(!db.objectStoreNames.contains('cards'))db.createObjectStore('cards',{keyPath:'id'}); if(!db.objectStoreNames.contains('settings'))db.createObjectStore('settings',{keyPath:'key'}); if(!db.objectStoreNames.contains('texts'))db.createObjectStore('texts',{keyPath:'id'})};r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error)})}
-export async function getCards():Promise<Card[]>{const db=await openDb(); return req(db.transaction('cards').objectStore('cards').getAll())}
-export async function saveCard(card:Card){const db=await openDb(); return req(db.transaction('cards','readwrite').objectStore('cards').put(card))}
+export async function getCards():Promise<Card[]>{try{const db=await openDb();return await req(db.transaction('cards').objectStore('cards').getAll())}catch{return []}}
+export async function saveCard(card:Card){try{const db=await openDb();return await req(db.transaction('cards','readwrite').objectStore('cards').put(card))}catch(e){console.warn('saveCard falhou',e);return null}}
 export async function getSettings():Promise<UserSettings>{try{const db=await openDb();const row=await req(db.transaction('settings').objectStore('settings').get('user'));return row?.value||defaultSettings}catch{return defaultSettings}}
-export async function saveSettings(value:UserSettings){const db=await openDb();return req(db.transaction('settings','readwrite').objectStore('settings').put({key:'user',value}))}
+export async function saveSettings(value:UserSettings){try{const db=await openDb();return await req(db.transaction('settings','readwrite').objectStore('settings').put({key:'user',value}))}catch(e){console.warn('saveSettings falhou',e);return null}}
 export async function clearAll(){const db=await openDb();return req(db.transaction(['cards','settings'],'readwrite').objectStore('cards').clear())}
 // Textos sincronizados via OTA (sem rebuild): ficam no IndexedDB e têm prioridade sobre o bundle.
-export async function saveSyncedText(text:TextItem){const db=await openDb();return req(db.transaction('texts','readwrite').objectStore('texts').put(text))}
+export async function saveSyncedText(text:TextItem){try{const db=await openDb();return await req(db.transaction('texts','readwrite').objectStore('texts').put(text))}catch(e){console.warn('saveSyncedText falhou',e);return null}}
 export async function getSyncedText(id:string):Promise<TextItem|null>{try{const db=await openDb();return (await req(db.transaction('texts').objectStore('texts').get(id)))||null}catch{return null}}
 export async function getSyncedTextIds():Promise<string[]>{try{const db=await openDb();const all:TextItem[]=await req(db.transaction('texts').objectStore('texts').getAll());return all.map(t=>t.id)}catch{return []}}
 export interface SyncManifest{version:string;count:number;checkedAt:number;metas:import('../data/manifest').TextMeta[]}
-export async function saveSyncManifest(m:SyncManifest){const db=await openDb();return req(db.transaction('settings','readwrite').objectStore('settings').put({key:'sync-manifest',value:m}))}
+export async function saveSyncManifest(m:SyncManifest){try{const db=await openDb();return await req(db.transaction('settings','readwrite').objectStore('settings').put({key:'sync-manifest',value:m}))}catch(e){console.warn('saveSyncManifest falhou',e);return null}}
 export async function getSyncManifest():Promise<SyncManifest|null>{try{const db=await openDb();const row=await req(db.transaction('settings').objectStore('settings').get('sync-manifest'));return row?.value||null}catch{return null}}
