@@ -7,6 +7,9 @@ import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+console.log('buildando web + sync Capacitor...');
+execSync('cmd /c "npm run build && npx cap sync android"', { cwd: root, stdio: 'inherit' });
+
 const gradlePath = join(root, 'android/app/build.gradle');
 let gradle = readFileSync(gradlePath, 'utf8');
 const code = Number(gradle.match(/versionCode\s+(\d+)/)?.[1] ?? 1) + 1;
