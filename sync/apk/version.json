@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "file": "lingua-4.apk",
-  "size": 5315369,
-  "notes": "Diagnostico de tela branca + blindagem IndexedDB",
+  "versionCode": 5,
+  "versionName": "1.5",
+  "file": "lingua-5.apk",
+  "size": 5315437,
+  "notes": "Corrige tela branca (service worker expurgado no nativo)",
   "date": "2026-10-07"
 }
