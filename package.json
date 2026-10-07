@@ -11,12 +11,14 @@
     "android:sync": "capacitor sync android",
     "android:build:debug": "npm run build && npx cap sync android",
     "sync:publicar": "node scripts/publish-content.mjs && node scripts/pack-content.mjs",
-    "sync:deploy": "netlify deploy --dir=sync --prod"
+    "sync:deploy": "netlify deploy --dir=sync --prod",
+    "apk:release": "node scripts/release-apk.mjs"
   },
   "dependencies": {
     "@capacitor-community/text-to-speech": "^8.0.0",
     "@capacitor/android": "^8.5.2",
     "@capacitor/app": "^8.0.0",
+    "@capacitor/browser": "^8.0.5",
     "@capacitor/core": "^8.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

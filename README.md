@@ -50,6 +50,21 @@ Depois, no celular em **Ajustes → Atualização de conteúdo**, uma das opçõ
 
 Textos sincronizados ficam no IndexedDB e têm prioridade sobre o bundle embutido.
 
+## Atualizar o app sem WhatsApp (self-update)
+
+```bash
+npm run apk:release -- "notas da versão"
+git add -A
+git commit -m "release"
+git push
+```
+
+Isso sobe a versão (`versionCode` auto-incrementado), builda o APK e publica
+`sync/apk/version.json` + `sync/apk/lingua-N.apk` na Netlify. No celular, o app
+avisa sozinho quando abre (ou em **Ajustes → Atualização do app**) e o botão
+**Baixar e instalar** abre o instalador do Android. Último envio manual: a
+versão que estreia o updater (depois ela se atualiza sozinha).
+
 ## APK Android offline
 
 O projeto também possui uma camada Capacitor Android. O APK inclui o bundle web local e não precisa de servidor, domínio ou backend para funcionar depois de instalado.

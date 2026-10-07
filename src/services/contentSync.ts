@@ -76,8 +76,7 @@ export async function importPack(data: unknown): Promise<SyncResult> {
   return { version: data.version, added, updated: 0, total: data.count };
 }
 
-export function getSyncUrl(): string {
-  try {
+export function getSyncUrl(): string {  try {
     return localStorage.getItem('lingua-sync-url') || '';
   } catch {
     return '';
@@ -89,5 +88,19 @@ export function setSyncUrl(url: string): void {
     localStorage.setItem('lingua-sync-url', url);
   } catch {
     /* armazenamento indisponível */
+  }
+}
+
+// Origem do sync (ex.: https://x.netlify.app/) derivada da URL do manifest.
+export function syncBaseUrl(): string {
+  const u = getSyncUrl().trim();
+  if (!u) return '';
+  try {
+    const url = new URL(u);
+    url.pathname = url.pathname.replace(/\/manifest\.json\/?$/, '/');
+    const s = url.toString();
+    return s.endsWith('/') ? s : `${s}/`;
+  } catch {
+    return '';
   }
 }
