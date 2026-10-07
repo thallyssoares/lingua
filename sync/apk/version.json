@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
-  "file": "lingua-5.apk",
-  "size": 5315437,
-  "notes": "Corrige tela branca (service worker expurgado no nativo)",
+  "versionCode": 6,
+  "versionName": "1.6",
+  "file": "lingua-6.apk",
+  "size": 5316073,
+  "notes": "Diagnostico visivel de boot + alvo es2019",
   "date": "2026-10-07"
 }
